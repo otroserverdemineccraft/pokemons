@@ -3190,6 +3190,18 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/misc/coordinate_tracker_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-30 21:47:56 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/rs_engineering": {
+    "criteria": {
+      "has_redstone": "2024-12-30 21:52:12 +0000"
+    },
+    "done": true
+  },
   "cobblefordays:recipes/misc/tier_3": {
     "criteria": {
       "has_lava": "2024-12-30 21:13:25 +0000"
@@ -3232,9 +3244,45 @@
     },
     "done": true
   },
+  "sfm:recipes/redstone/disk": {
+    "criteria": {
+      "has_redstone": "2024-12-30 21:52:12 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/ores/lead_tag": {
     "criteria": {
       "has_item": "2024-12-30 21:27:10 +0000"
+    },
+    "done": true
+  },
+  "modularrouters:recipes/misc/blank_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-30 21:47:56 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/redstone_root": {
+    "criteria": {
+      "has_item": "2024-12-30 21:52:12 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_fluix": {
+    "criteria": {
+      "has_dusts/glowstone": "2024-12-30 21:52:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-30 21:52:10 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/flippers_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-30 21:47:56 +0000"
     },
     "done": true
   },
@@ -3262,6 +3310,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/misc/speed_upgrade_from_glycerol": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-30 21:47:56 +0000"
+    },
+    "done": true
+  },
   "antiblocksrechiseled:recipes/building_blocks/wool_green": {
     "criteria": {
       "has_wool": "2024-12-30 21:33:27 +0000"
@@ -3280,9 +3334,39 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/misc/ender_visor_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-30 21:47:56 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/range_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-30 21:47:56 +0000"
+    },
+    "done": true
+  },
+  "appmek:recipes/misc/chemical_cell_housing": {
+    "criteria": {
+      "has_dusts/redstone": "2024-12-30 21:52:12 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/lantern": {
+    "criteria": {
+      "has_glowstone": "2024-12-30 21:52:10 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/diorite_bridge_stair": {
     "criteria": {
       "has_planks": "2024-12-30 21:14:48 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/philosophers_stone_alt": {
+    "criteria": {
+      "has_glowstone": "2024-12-30 21:52:10 +0000"
     },
     "done": true
   },
@@ -3310,6 +3394,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2024-12-30 21:52:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2024-12-30 21:52:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2024-12-30 21:13:18 +0000"
@@ -3322,6 +3418,12 @@
     },
     "done": true
   },
+  "megacells:recipes/misc/cells/mega_item_cell_housing": {
+    "criteria": {
+      "has_dusts/sky_stone": "2024-12-30 21:52:10 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/dye_magenta": {
     "criteria": {
       "has_item": "2024-12-30 21:28:05 +0000"
@@ -3331,6 +3433,12 @@
   "antiblocksrechiseled:recipes/building_blocks/wool_gray": {
     "criteria": {
       "has_wool": "2024-12-30 21:33:27 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/speed_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-30 21:47:56 +0000"
     },
     "done": true
   },
@@ -3358,6 +3466,12 @@
     },
     "done": true
   },
+  "utilitix:recipes/misc/linked_crystal": {
+    "criteria": {
+      "criterion0": "2024-12-30 21:52:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-30 21:14:48 +0000"
@@ -3373,6 +3487,12 @@
   "create:recipes/building_blocks/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-30 21:14:48 +0000"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/redstone_information": {
+    "criteria": {
+      "redstone": "2024-12-30 21:52:12 +0000"
     },
     "done": true
   },
@@ -3394,11 +3514,23 @@
     },
     "done": true
   },
+  "trashcans:recipes/misc/energy_trash_can": {
+    "criteria": {
+      "recipe_condition": "2024-12-30 21:52:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2024-12-30 21:29:58 +0000"
     },
     "done": false
+  },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2024-12-30 21:52:12 +0000"
+    },
+    "done": true
   },
   "exdeorum:recipes/misc/ores/tin_tag": {
     "criteria": {
@@ -3409,6 +3541,12 @@
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2024-12-30 21:18:07 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/blasting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2024-12-30 21:52:17 +0000"
     },
     "done": true
   },
@@ -3424,9 +3562,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2024-12-30 21:52:12 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_andesite_bridge": {
     "criteria": {
       "has_planks": "2024-12-30 21:16:01 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/sand_1x": {
+    "criteria": {
+      "has_sand": "2024-12-30 21:49:50 +0000"
     },
     "done": true
   },
@@ -3460,6 +3610,18 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cells/fluid_cell_housing": {
+    "criteria": {
+      "has_dusts/redstone": "2024-12-30 21:52:12 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/dimmable_redstone_lamp": {
+    "criteria": {
+      "criterion1": "2024-12-30 21:52:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-30 21:16:01 +0000"
@@ -3475,6 +3637,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-30 21:16:01 +0000"
+    },
+    "done": true
+  },
+  "antiblocksrechiseled:recipes/building_blocks/bright_white": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-30 21:52:10 +0000"
     },
     "done": true
   },
@@ -3520,15 +3688,51 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/misc/dispenser_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-30 21:47:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-30 21:52:10 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/deepslate": {
     "criteria": {
       "has_wood": "2024-12-30 21:13:40 +0000"
     },
     "done": true
   },
+  "ae2:recipes/misc/blasting/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_dust": "2024-12-30 21:52:10 +0000"
+    },
+    "done": true
+  },
+  "solargeneration:recipes/misc/lapis_shard": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-30 21:47:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-30 21:47:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
     "criteria": {
       "has_wool": "2024-12-30 21:33:27 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/stomp_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-30 21:47:56 +0000"
     },
     "done": true
   },
@@ -3562,6 +3766,12 @@
     },
     "done": true
   },
+  "projecte:recipes/misc/medium_covalence_dust": {
+    "criteria": {
+      "has_redstone": "2024-12-30 21:52:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-30 21:16:01 +0000"
@@ -3577,6 +3787,12 @@
   "antiblocksrechiseled:recipes/building_blocks/wool_light_gray": {
     "criteria": {
       "has_wool": "2024-12-30 21:33:27 +0000"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/screen_link": {
+    "criteria": {
+      "redstone": "2024-12-30 21:52:12 +0000"
     },
     "done": true
   },
@@ -3610,6 +3826,12 @@
     },
     "done": true
   },
+  "rftoolsstorage:recipes/rftoolsstorage/storage_module0": {
+    "criteria": {
+      "redstone": "2024-12-30 21:52:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-30 21:14:48 +0000"
@@ -3619,6 +3841,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-30 21:16:01 +0000"
+    },
+    "done": true
+  },
+  "megacells:recipes/misc/cells/mega_fluid_cell_housing": {
+    "criteria": {
+      "has_dusts/sky_stone": "2024-12-30 21:52:10 +0000"
     },
     "done": true
   },
@@ -3637,6 +3865,12 @@
   "create:recipes/building_blocks/crafting/kinetics/black_seat": {
     "criteria": {
       "has_wool": "2024-12-30 21:33:27 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/charging_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-30 21:47:56 +0000"
     },
     "done": true
   },
@@ -3661,6 +3895,12 @@
   "comforts:hammock_white": {
     "criteria": {
       "has_white_wool": "2024-12-30 21:33:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-30 21:52:10 +0000"
     },
     "done": true
   },
@@ -3712,6 +3952,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/building_blocks/compressed_dust": {
+    "criteria": {
+      "has_item": "2024-12-30 21:49:55 +0000"
+    },
+    "done": true
+  },
   "antiblocksrechiseled:recipes/building_blocks/wool_brown": {
     "criteria": {
       "has_wool": "2024-12-30 21:33:27 +0000"
@@ -3727,6 +3973,24 @@
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2024-12-30 21:38:59 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/magnet_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-30 21:47:56 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/quartz_fiber_part": {
+    "criteria": {
+      "has_dusts/quartz": "2024-12-30 21:52:17 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_fluix": {
+    "criteria": {
+      "has_dusts/glowstone": "2024-12-30 21:52:10 +0000"
     },
     "done": true
   },
@@ -3760,6 +4024,18 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/misc/volume_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-30 21:47:56 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/item_cell_housing": {
+    "criteria": {
+      "has_dusts/redstone": "2024-12-30 21:52:12 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/crafting/brush": {
     "criteria": {
       "has_wool": "2024-12-30 21:33:27 +0000"
@@ -3778,6 +4054,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/misc/item_life_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-30 21:47:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-30 21:16:01 +0000"
@@ -3787,6 +4069,12 @@
   "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-30 21:16:01 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/standby_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-30 21:47:56 +0000"
     },
     "done": true
   },
@@ -3817,6 +4105,12 @@
   "antiblocksrechiseled:recipes/building_blocks/wool_cyan": {
     "criteria": {
       "has_wool": "2024-12-30 21:33:27 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/philosophers_stone": {
+    "criteria": {
+      "has_glowstone": "2024-12-30 21:52:10 +0000"
     },
     "done": true
   },
@@ -3886,6 +4180,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/misc/gilded_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-30 21:47:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-12-30 21:38:59 +0000"
@@ -3895,6 +4195,12 @@
   "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
     "criteria": {
       "has_wool": "2024-12-30 21:33:27 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shapeless/glass_viewer_glowing_dust": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-30 21:52:10 +0000"
     },
     "done": true
   },
@@ -3910,9 +4216,27 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/decorative/quartz_glass": {
+    "criteria": {
+      "has_quartz_dust": "2024-12-30 21:52:17 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/armor_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-30 21:47:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2024-12-30 21:38:59 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/snad/snad": {
+    "criteria": {
+      "has_sand": "2024-12-30 21:49:50 +0000"
     },
     "done": true
   },
@@ -3952,6 +4276,24 @@
     },
     "done": true
   },
+  "supplementaries:recipes/altimeter": {
+    "criteria": {
+      "has_redstone": "2024-12-30 21:52:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_lever": {
+    "criteria": {
+      "has_redstone": "2024-12-30 21:52:12 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/security_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-30 21:47:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2024-12-30 21:18:07 +0000"
@@ -3970,9 +4312,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-12-30 21:52:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-30 21:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-30 21:49:50 +0000"
     },
     "done": true
   },
@@ -4006,9 +4360,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-12-30 21:52:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-30 21:13:40 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/search_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-30 21:47:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/spring_launcher": {
+    "criteria": {
+      "has_gunpowder": "2024-12-30 21:52:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-30 21:47:56 +0000"
     },
     "done": true
   },
@@ -4021,6 +4399,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2024-12-30 21:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-12-30 21:52:12 +0000"
     },
     "done": true
   },
@@ -4042,6 +4426,30 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/redstone_acid": {
+    "criteria": {
+      "has_redstone_dust": "2024-12-30 21:52:12 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/tiny_tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-30 21:52:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2024-12-30 21:52:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2024-12-30 21:52:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-30 21:14:48 +0000"
@@ -4057,6 +4465,12 @@
   "mcwbridges:recipes/diorite_bridge_pier": {
     "criteria": {
       "has_planks": "2024-12-30 21:14:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-12-30 21:52:12 +0000"
     },
     "done": true
   },
@@ -4090,6 +4504,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/redstone_illuminator": {
+    "criteria": {
+      "has_redstone": "2024-12-30 21:52:12 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/spirit_fire/spirit_fire/otherstone": {
     "criteria": {
       "has_andesite": "2024-12-30 21:16:01 +0000"
@@ -4102,9 +4522,21 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/ores/zinc_tag": {
+    "criteria": {
+      "has_item": "2024-12-30 21:47:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2024-12-30 21:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2024-12-30 21:52:12 +0000"
     },
     "done": true
   },
@@ -4156,6 +4588,18 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/misc/inventory_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-30 21:47:56 +0000"
+    },
+    "done": true
+  },
+  "modularrouters:recipes/misc/blank_module": {
+    "criteria": {
+      "has_redstone": "2024-12-30 21:52:12 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/misc/force_belt": {
     "criteria": {
       "has_wool": "2024-12-30 21:33:27 +0000"
@@ -4180,6 +4624,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-12-30 21:49:50 +0000"
+    },
+    "done": true
+  },
   "antiblocksrechiseled:recipes/building_blocks/wool_blue": {
     "criteria": {
       "has_wool": "2024-12-30 21:33:27 +0000"
@@ -4192,9 +4642,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-12-30 21:52:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2024-12-30 21:18:07 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/smelting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2024-12-30 21:52:17 +0000"
     },
     "done": true
   },
@@ -4207,6 +4669,12 @@
   "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-30 21:16:01 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/block_tracker_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-30 21:47:56 +0000"
     },
     "done": true
   },
@@ -4264,6 +4732,24 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/redstone_clock": {
+    "criteria": {
+      "has_redstone": "2024-12-30 21:52:12 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/computer_normal": {
+    "criteria": {
+      "has_redstone": "2024-12-30 21:52:12 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/lapis_dust_from_gem": {
+    "criteria": {
+      "has_lapis_gem": "2024-12-30 21:47:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-30 21:13:40 +0000"
@@ -4282,9 +4768,27 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/misc/minigun_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-30 21:47:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2024-12-30 21:52:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2024-12-30 21:16:01 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/entity_tracker_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-30 21:47:56 +0000"
     },
     "done": true
   },
@@ -4306,6 +4810,18 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/misc/elytra_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-30 21:47:56 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/concrete": {
+    "criteria": {
+      "has_planks": "2024-12-30 21:49:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
     "criteria": {
       "has_wool": "2024-12-30 21:33:27 +0000"
@@ -4315,6 +4831,18 @@
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2024-12-30 21:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-30 21:52:10 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-30 21:47:56 +0000"
     },
     "done": true
   },

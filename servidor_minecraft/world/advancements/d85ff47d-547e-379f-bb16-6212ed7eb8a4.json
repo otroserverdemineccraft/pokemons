@@ -899,6 +899,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/osmium_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2024-12-30 21:46:23 +0000"
+    },
+    "done": true
+  },
   "projecte:recipes/tools/philosophers_stone_alt": {
     "criteria": {
       "has_glowstone": "2024-12-30 21:31:09 +0000"
@@ -1487,6 +1493,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/osmium_dust": {
+    "criteria": {
+      "has_osmium": "2024-12-30 21:46:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2024-12-30 20:51:11 +0000"
@@ -1979,6 +1991,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/misc/compacting/xychorium_gem_green": {
+    "criteria": {
+      "has_xychorium_gem_green": "2024-12-30 21:54:38 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/bridge_lantern": {
     "criteria": {
       "has_planks": "2024-12-30 20:51:10 +0000"
@@ -2111,6 +2129,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/osmium_ingot_from_ore_blasting": {
+    "criteria": {
+      "has_item": "2024-12-30 21:46:23 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2024-12-30 20:09:07 +0000"
@@ -2186,6 +2210,12 @@
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-30 20:56:20 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2024-12-30 21:47:22 +0000"
     },
     "done": true
   },
@@ -2891,6 +2921,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/osmium_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2024-12-30 21:47:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2024-12-30 20:17:56 +0000"
@@ -3425,6 +3461,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/osmium_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2024-12-30 21:47:22 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_purple": {
     "criteria": {
       "has_stick": "2024-12-30 20:17:56 +0000"
@@ -3482,6 +3524,12 @@
   "exdeorum:recipes/misc/string_mesh": {
     "criteria": {
       "has_item": "2024-12-30 20:49:13 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2024-12-30 21:47:22 +0000"
     },
     "done": true
   },
@@ -4253,6 +4301,18 @@
     },
     "done": true
   },
+  "xycraft_machines:recipes/misc/shaped/planter": {
+    "criteria": {
+      "has_green_xychorium": "2024-12-30 21:54:38 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/osmium_dust_from_ingot": {
+    "criteria": {
+      "has_osmium_ingot": "2024-12-30 21:47:22 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/granite_bridge": {
     "criteria": {
       "has_planks": "2024-12-30 21:34:16 +0000"
@@ -4709,6 +4769,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/building_blocks/shaped/inverted_bricks_cloud_green": {
+    "criteria": {
+      "has_xychorium_gem_green": "2024-12-30 21:54:38 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_purple": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 21:22:38 +0000"
@@ -4877,6 +4943,12 @@
   "immersiveengineering:recipes/misc/crafting/screwdriver": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 21:22:38 +0000"
+    },
+    "done": true
+  },
+  "mekanism:metallurgic_infuser": {
+    "criteria": {
+      "metallurgic_infuser": "2024-12-30 21:51:41 +0000"
     },
     "done": true
   },
@@ -5389,6 +5461,12 @@
   "immersiveengineering:recipes/misc/crafting/radiator": {
     "criteria": {
       "has_water_bucket": "2024-12-30 21:36:46 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2024-12-30 21:47:22 +0000"
     },
     "done": true
   },
