@@ -3100,6 +3100,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-30 22:06:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2024-12-30 21:14:48 +0000"
@@ -3109,6 +3115,12 @@
   "mcwwindows:recipes/curtains": {
     "criteria": {
       "has_wood": "2024-12-30 21:33:27 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/void_chassis": {
+    "criteria": {
+      "has_ingredient": "2024-12-30 22:02:57 +0000"
     },
     "done": true
   },
@@ -3139,6 +3151,12 @@
   "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-30 21:14:48 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/redstoneproxy_update": {
+    "criteria": {
+      "torch": "2024-12-30 22:06:48 +0000"
     },
     "done": true
   },
@@ -3199,6 +3217,12 @@
   "immersiveengineering:recipes/misc/crafting/rs_engineering": {
     "criteria": {
       "has_redstone": "2024-12-30 21:52:12 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/blaze_gold_ingot": {
+    "criteria": {
+      "has_item": "2024-12-30 22:06:32 +0000"
     },
     "done": true
   },
@@ -3304,6 +3328,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/iron_to_gold_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-30 22:06:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-30 21:14:48 +0000"
@@ -3406,6 +3436,12 @@
     },
     "done": true
   },
+  "enderio:recipes/building_blocks/reinforced_obsidian_block": {
+    "criteria": {
+      "has_ingredient": "2024-12-30 22:02:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2024-12-30 21:13:18 +0000"
@@ -3439,6 +3475,18 @@
   "pneumaticcraft:recipes/misc/speed_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-30 21:47:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2024-12-30 22:03:20 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-30 22:06:48 +0000"
     },
     "done": true
   },
@@ -3514,9 +3562,21 @@
     },
     "done": true
   },
+  "alchemistry:recipes/misc/reactor_casing": {
+    "criteria": {
+      "has_item": "2024-12-30 22:06:32 +0000"
+    },
+    "done": true
+  },
   "trashcans:recipes/misc/energy_trash_can": {
     "criteria": {
       "recipe_condition": "2024-12-30 21:52:12 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/diamond_to_netherite_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-30 22:06:48 +0000"
     },
     "done": true
   },
@@ -3616,9 +3676,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-30 22:06:48 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/misc/dimmable_redstone_lamp": {
     "criteria": {
       "criterion1": "2024-12-30 21:52:12 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_input": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2024-12-30 22:07:35 +0000"
     },
     "done": true
   },
@@ -3637,6 +3709,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-30 21:16:01 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/iron_gear": {
+    "criteria": {
+      "has_ingredient": "2024-12-30 22:02:57 +0000"
     },
     "done": true
   },
@@ -3661,6 +3739,12 @@
   "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-30 21:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-30 22:06:32 +0000"
     },
     "done": true
   },
@@ -3709,6 +3793,12 @@
   "ae2:recipes/misc/blasting/sky_stone_block": {
     "criteria": {
       "has_sky_stone_dust": "2024-12-30 21:52:10 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/basic_capacitor": {
+    "criteria": {
+      "has_ingredient": "2024-12-30 22:02:57 +0000"
     },
     "done": true
   },
@@ -3772,6 +3862,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/copper_chest": {
+    "criteria": {
+      "has_chest": "2024-12-30 22:07:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-30 21:16:01 +0000"
@@ -3829,6 +3925,12 @@
   "rftoolsstorage:recipes/rftoolsstorage/storage_module0": {
     "criteria": {
       "redstone": "2024-12-30 21:52:12 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_tool": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-30 22:06:48 +0000"
     },
     "done": true
   },
@@ -3976,6 +4078,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/storage_output": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2024-12-30 22:07:35 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/magnet_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-30 21:47:56 +0000"
@@ -4057,6 +4165,12 @@
   "pneumaticcraft:recipes/misc/item_life_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-30 21:47:56 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_chest": {
+    "criteria": {
+      "has_chest": "2024-12-30 22:07:35 +0000"
     },
     "done": true
   },
@@ -4180,9 +4294,21 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/spark": {
+    "criteria": {
+      "has_item": "2024-12-30 22:06:32 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/gilded_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-30 21:47:56 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/gold_to_diamond_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-30 22:06:48 +0000"
     },
     "done": true
   },
@@ -4414,6 +4540,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/copper_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-30 22:06:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-30 21:14:48 +0000"
@@ -4441,6 +4573,24 @@
   "create:recipes/misc/crafting/logistics/pulse_repeater": {
     "criteria": {
       "has_item": "2024-12-30 21:52:12 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_copper_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-30 22:06:48 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_from_basic_to_copper_tier": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-30 22:06:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-30 22:06:32 +0000"
     },
     "done": true
   },
@@ -4477,6 +4627,12 @@
   "antiblocksrechiseled:recipes/building_blocks/wool_purple": {
     "criteria": {
       "has_wool": "2024-12-30 21:33:27 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/controller": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2024-12-30 22:07:35 +0000"
     },
     "done": true
   },
@@ -4534,6 +4690,12 @@
     },
     "done": true
   },
+  "enderio:recipes/misc/primitive_alloy_smelter": {
+    "criteria": {
+      "has_ingredient": "2024-12-30 22:02:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2024-12-30 21:52:12 +0000"
@@ -4549,6 +4711,12 @@
   "create:recipes/building_blocks/crafting/kinetics/green_seat": {
     "criteria": {
       "has_wool": "2024-12-30 21:33:27 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/animated_torch": {
+    "criteria": {
+      "has_item": "2024-12-30 22:06:48 +0000"
     },
     "done": true
   },
@@ -4606,6 +4774,18 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/shulker_from_chest": {
+    "criteria": {
+      "has_chest": "2024-12-30 22:07:35 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-30 22:06:48 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/diorite_1x": {
     "criteria": {
       "has_diorite": "2024-12-30 21:14:48 +0000"
@@ -4621,6 +4801,12 @@
   "antiblocksrechiseled:recipes/building_blocks/wool_lime": {
     "criteria": {
       "has_wool": "2024-12-30 21:33:27 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/infinity_rod": {
+    "criteria": {
+      "has_ingredient": "2024-12-30 22:02:57 +0000"
     },
     "done": true
   },
@@ -4669,6 +4855,12 @@
   "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-30 21:16:01 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_io": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2024-12-30 22:07:35 +0000"
     },
     "done": true
   },

@@ -1895,6 +1895,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2024-12-30 22:09:28 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_encoding": {
     "criteria": {
       "has_wpt": "2024-12-30 20:09:06 +0000"
@@ -2048,6 +2054,12 @@
   "utilitix:recipes/misc/hand_bell": {
     "criteria": {
       "criterion0": "2024-12-30 20:17:56 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/gold_ingot_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2024-12-30 22:09:28 +0000"
     },
     "done": true
   },
@@ -2459,6 +2471,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/gold_dust": {
+    "criteria": {
+      "has_gold": "2024-12-30 22:09:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-30 21:15:22 +0000"
@@ -2810,6 +2828,12 @@
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-12-30 20:17:56 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/grass": {
+    "criteria": {
+      "has_planks": "2024-12-30 22:05:44 +0000"
     },
     "done": true
   },
@@ -4457,6 +4481,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2024-12-30 22:09:28 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/blinds": {
     "criteria": {
       "has_wood": "2024-12-30 20:19:32 +0000"
@@ -4700,6 +4730,12 @@
   "mcwbridges:recipes/diorite_bridge_pier": {
     "criteria": {
       "has_planks": "2024-12-30 21:15:28 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/dirt_1x": {
+    "criteria": {
+      "has_dirt": "2024-12-30 22:05:44 +0000"
     },
     "done": true
   },
