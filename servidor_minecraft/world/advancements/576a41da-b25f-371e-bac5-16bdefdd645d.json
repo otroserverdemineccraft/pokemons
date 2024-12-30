@@ -1618,6 +1618,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/cooked_silk_worm": {
+    "criteria": {
+      "has_item": "2024-12-30 21:25:23 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/tools/stone_hammer": {
     "criteria": {
       "has_item": "2024-12-30 21:14:08 +0000"
@@ -1651,6 +1657,12 @@
   "croptopia:recipes/misc/apple_sapling": {
     "criteria": {
       "has_apple": "2024-12-30 21:13:37 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:core/silk_worm": {
+    "criteria": {
+      "has_silk_worm": "2024-12-30 21:25:23 +0000"
     },
     "done": true
   },
@@ -1816,6 +1828,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/cooked_silk_worm_from_campfire_cooking": {
+    "criteria": {
+      "has_item": "2024-12-30 21:25:23 +0000"
+    },
+    "done": true
+  },
   "productivetrees:recipes/misc/crates/red_delicious_apple_crate": {
     "criteria": {
       "has_apple": "2024-12-30 21:13:37 +0000"
@@ -1831,6 +1849,12 @@
   "croptopia:recipes/fruit_salad": {
     "criteria": {
       "has_apple": "2024-12-30 21:13:37 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/cooked_silk_worm_from_smoking": {
+    "criteria": {
+      "has_item": "2024-12-30 21:25:23 +0000"
     },
     "done": true
   },

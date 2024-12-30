@@ -3088,6 +3088,12 @@
     },
     "done": true
   },
+  "antiblocksrechiseled:recipes/building_blocks/wool_orange": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:33:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-30 21:16:01 +0000"
@@ -3097,6 +3103,30 @@
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2024-12-30 21:14:48 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/curtains": {
+    "criteria": {
+      "has_wood": "2024-12-30 21:33:27 +0000"
+    },
+    "done": true
+  },
+  "antiblocksrechiseled:recipes/building_blocks/wool_pink": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:33:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-30 21:34:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:33:27 +0000"
     },
     "done": true
   },
@@ -3118,9 +3148,21 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/ores/aluminum_tag": {
+    "criteria": {
+      "has_item": "2024-12-30 21:26:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-30 21:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-30 21:27:09 +0000"
     },
     "done": true
   },
@@ -3190,9 +3232,21 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/ores/lead_tag": {
+    "criteria": {
+      "has_item": "2024-12-30 21:27:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-30 21:14:48 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/awning": {
+    "criteria": {
+      "has_planks": "2024-12-30 21:33:27 +0000"
     },
     "done": true
   },
@@ -3205,6 +3259,12 @@
   "create:recipes/building_blocks/cut_diorite_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-30 21:14:48 +0000"
+    },
+    "done": true
+  },
+  "antiblocksrechiseled:recipes/building_blocks/wool_green": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:33:27 +0000"
     },
     "done": true
   },
@@ -3250,6 +3310,24 @@
     },
     "done": true
   },
+  "antiblocksrechiseled:recipes/building_blocks/wool_white": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:33:27 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_magenta": {
+    "criteria": {
+      "has_item": "2024-12-30 21:28:05 +0000"
+    },
+    "done": true
+  },
+  "antiblocksrechiseled:recipes/building_blocks/wool_gray": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:33:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-30 21:16:01 +0000"
@@ -3280,6 +3358,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/conversions/magenta_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2024-12-30 21:28:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-30 21:14:48 +0000"
@@ -3303,6 +3387,12 @@
       "has_planks": "2024-12-30 21:14:48 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2024-12-30 21:29:58 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
@@ -3328,9 +3418,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:33:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-30 21:13:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-30 21:27:09 +0000"
     },
     "done": true
   },
@@ -3382,9 +3484,45 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:33:27 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_magenta": {
+    "criteria": {
+      "has_alt_item": "2024-12-30 21:28:05 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/deepslate": {
     "criteria": {
       "has_wood": "2024-12-30 21:13:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:33:27 +0000"
+    },
+    "done": true
+  },
+  "antiblocksrechiseled:recipes/building_blocks/wool_magenta": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:33:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:33:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:33:27 +0000"
     },
     "done": true
   },
@@ -3412,9 +3550,27 @@
     },
     "done": true
   },
+  "antiblocksrechiseled:recipes/building_blocks/wool_light_gray": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:33:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2024-12-30 21:28:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-30 21:13:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-12-30 21:33:27 +0000"
     },
     "done": true
   },
@@ -3442,9 +3598,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:33:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-30 21:16:01 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/tinted_glass_lead_wire": {
+    "criteria": {
+      "has_amethyst": "2024-12-30 21:27:09 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_white_wool": "2024-12-30 21:33:27 +0000"
     },
     "done": true
   },
@@ -3463,6 +3637,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-30 21:13:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:33:27 +0000"
     },
     "done": true
   },
@@ -3490,6 +3670,36 @@
     },
     "done": true
   },
+  "antiblocksrechiseled:recipes/building_blocks/wool_brown": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:33:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:33:27 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/magenta_petal_block": {
+    "criteria": {
+      "has_item": "2024-12-30 21:28:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-30 21:27:09 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_white_wool": "2024-12-30 21:33:27 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/andesite_bridge": {
     "criteria": {
       "has_planks": "2024-12-30 21:16:01 +0000"
@@ -3499,6 +3709,12 @@
   "enderio:recipes/misc/basic_fluid_filter": {
     "criteria": {
       "has_ingredient": "2024-12-30 21:14:25 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/brush": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:33:27 +0000"
     },
     "done": true
   },
@@ -3538,9 +3754,63 @@
     },
     "done": true
   },
+  "antiblocksrechiseled:recipes/building_blocks/wool_cyan": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:33:27 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/iron_dust": {
+    "criteria": {
+      "has_iron": "2024-12-30 21:27:30 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_magenta_double": {
+    "criteria": {
+      "has_alt_item": "2024-12-30 21:28:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-12-30 21:27:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-30 21:14:48 +0000"
+    },
+    "done": true
+  },
+  "antiblocksrechiseled:recipes/building_blocks/wool_yellow": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:33:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:33:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:33:27 +0000"
+    },
+    "done": true
+  },
+  "antiblocksrechiseled:recipes/building_blocks/wool_red": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:33:27 +0000"
+    },
+    "done": true
+  },
+  "appflux:recipes/misc/insulating_resin": {
+    "criteria": {
+      "has_item": "2024-12-30 21:28:40 +0000"
     },
     "done": true
   },
@@ -3553,6 +3823,12 @@
   "create:recipes/building_blocks/diorite_pillar_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-30 21:14:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:33:27 +0000"
     },
     "done": true
   },
@@ -3580,9 +3856,27 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/ores/silver_tag": {
+    "criteria": {
+      "has_item": "2024-12-30 21:27:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-30 21:13:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:33:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-30 21:27:09 +0000"
     },
     "done": true
   },
@@ -3610,6 +3904,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-30 21:27:09 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/gold_ore": {
+    "criteria": {
+      "has_item": "2024-12-30 21:26:53 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/copper_ore": {
+    "criteria": {
+      "has_item": "2024-12-30 21:26:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2024-12-30 21:14:48 +0000"
@@ -3631,6 +3943,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2024-12-30 21:16:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "has_water_bucket": "2024-12-30 21:27:57 +0000"
     },
     "done": true
   },
@@ -3664,6 +3982,12 @@
     },
     "done": true
   },
+  "antiblocksrechiseled:recipes/building_blocks/wool_purple": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:33:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-30 21:13:40 +0000"
@@ -3673,6 +3997,12 @@
   "create:recipes/building_blocks/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-30 21:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-12-30 21:27:30 +0000"
     },
     "done": true
   },
@@ -3694,15 +4024,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-30 21:27:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-30 21:16:01 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:33:27 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/cobbled_deepslate_1x": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-30 21:13:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-12-30 21:33:27 +0000"
     },
     "done": true
   },
@@ -3724,6 +4072,18 @@
     },
     "done": true
   },
+  "antiblocksrechiseled:recipes/building_blocks/wool_light_blue": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:33:27 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/force_belt": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:33:27 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/diorite_1x": {
     "criteria": {
       "has_diorite": "2024-12-30 21:14:48 +0000"
@@ -3733,6 +4093,24 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-30 21:13:40 +0000"
+    },
+    "done": true
+  },
+  "antiblocksrechiseled:recipes/building_blocks/wool_lime": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:33:27 +0000"
+    },
+    "done": true
+  },
+  "antiblocksrechiseled:recipes/building_blocks/wool_blue": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:33:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:33:27 +0000"
     },
     "done": true
   },
@@ -3754,9 +4132,27 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/radiator": {
+    "criteria": {
+      "has_water_bucket": "2024-12-30 21:27:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
       "has_ice": "2024-12-30 21:13:23 +0000"
+    },
+    "done": true
+  },
+  "sfm:recipes/redstone/water_tank": {
+    "criteria": {
+      "has_water": "2024-12-30 21:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-30 21:29:58 +0000"
     },
     "done": true
   },
@@ -3790,9 +4186,45 @@
     },
     "done": true
   },
+  "forcecraft:recipes/misc/force_pack_upgrade": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:33:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-12-30 21:33:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2024-12-30 21:16:01 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_water_bottle": {
+    "criteria": {
+      "has_water": "2024-12-30 21:27:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/white_seat": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:33:27 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/iron_ingot_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2024-12-30 21:27:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:33:27 +0000"
     },
     "done": true
   },

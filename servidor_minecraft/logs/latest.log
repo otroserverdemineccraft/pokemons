@@ -8050,3 +8050,15 @@ Refer to the recipe's ResourceLocation to find the mod responsible and let them 
 [30Dec2024 21:28:03.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Successfully left your teammates alone.]
 [30Dec2024 21:28:12.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LIGS_458> ./skyblock gui
 [30Dec2024 21:28:52.961] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Created team Guerreros (3023550c-e9b2-40a8-8fef-8a45a7900c1f) at BlockPos{x=-4096, y=64, z=0} with template Anarchy
+[30Dec2024 21:30:44.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 has made the advancement [Knowledge of Death]
+[30Dec2024 21:30:44.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 has made the advancement [Ambush]
+[30Dec2024 21:30:44.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 has made the advancement [Monster Hunter]
+[30Dec2024 21:33:43.858] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warrior_Legend lost connection: Timed out
+[30Dec2024 21:33:43.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend left the game
+[30Dec2024 21:34:02.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap has made the advancement [Sweet Dreams]
+[30Dec2024 21:34:06.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bascap> duerme
+[30Dec2024 21:34:07.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bascap> mrd
+[30Dec2024 21:34:09.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bascap> duerme
+[30Dec2024 21:34:52.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bascap> :eggplant::peach:
+[30Dec2024 21:34:56.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bascap> por ese culito
+[30Dec2024 21:35:40.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 has made the advancement [Sweet Dreams]
