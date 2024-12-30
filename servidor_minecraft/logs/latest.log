@@ -8043,3 +8043,10 @@ Refer to the recipe's ResourceLocation to find the mod responsible and let them 
 [30Dec2024 21:13:45.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend has made the advancement [A Realistical Logical Ideologist]
 [30Dec2024 21:14:08.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend has made the advancement [Stone Age]
 [30Dec2024 21:18:48.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 has made the advancement [Getting an Upgrade]
+[30Dec2024 21:20:26.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend has made the advancement [Give Him The Hook]
+[30Dec2024 21:22:38.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 has made the advancement [Acquire Hardware]
+[30Dec2024 21:25:23.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend has made the advancement [This Looks Edible]
+[30Dec2024 21:27:55.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LIGS_458> ./skyblock leave
+[30Dec2024 21:28:03.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Successfully left your teammates alone.]
+[30Dec2024 21:28:12.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LIGS_458> ./skyblock gui
+[30Dec2024 21:28:52.961] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Created team Guerreros (3023550c-e9b2-40a8-8fef-8a45a7900c1f) at BlockPos{x=-4096, y=64, z=0} with template Anarchy

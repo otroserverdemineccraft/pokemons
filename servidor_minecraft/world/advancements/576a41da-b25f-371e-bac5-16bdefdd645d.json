@@ -1576,9 +1576,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-30 21:24:07 +0000"
+    },
+    "done": true
+  },
   "productivetrees:recipes/misc/crates/red_delicious_apple_crate_unpack": {
     "criteria": {
       "has_apple": "2024-12-30 21:13:37 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:core/crook": {
+    "criteria": {
+      "craft_crook": "2024-12-30 21:20:26 +0000"
     },
     "done": true
   },
@@ -1591,6 +1603,18 @@
   "forbidden_arcanus:recipes/tools/stone_blacksmith_gavel": {
     "criteria": {
       "has_stone_tool_materials": "2024-12-30 21:14:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2024-12-30 21:21:05 +0000"
+    },
+    "done": false
+  },
+  "exdeorum:recipes/tools/compressed_stone_hammer": {
+    "criteria": {
+      "has_item": "2024-12-30 21:15:34 +0000"
     },
     "done": true
   },
@@ -1618,6 +1642,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bomb": {
+    "criteria": {
+      "has_string": "2024-12-30 21:24:07 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/apple_sapling": {
     "criteria": {
       "has_apple": "2024-12-30 21:13:37 +0000"
@@ -1627,6 +1657,12 @@
   "utilitix:recipes/misc/comparator_redirector_up": {
     "criteria": {
       "criterion1": "2024-12-30 21:14:08 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2024-12-30 21:24:07 +0000"
     },
     "done": true
   },
@@ -1642,6 +1678,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-30 21:24:07 +0000"
+    },
+    "done": true
+  },
   "projecte:recipes/misc/low_covalence_dust": {
     "criteria": {
       "has_cobble": "2024-12-30 21:14:08 +0000"
@@ -1651,6 +1693,12 @@
   "mcwbridges:recipes/cobblestone_bridge": {
     "criteria": {
       "has_planks": "2024-12-30 21:14:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-30 21:24:07 +0000"
     },
     "done": true
   },
@@ -1666,9 +1714,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-30 21:24:07 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/apple_juice": {
     "criteria": {
       "has_apple": "2024-12-30 21:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-30 21:24:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-30 21:24:07 +0000"
     },
     "done": true
   },
@@ -1681,6 +1747,12 @@
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2024-12-30 21:14:08 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/string_mesh": {
+    "criteria": {
+      "has_item": "2024-12-30 21:24:07 +0000"
     },
     "done": true
   },
@@ -1714,6 +1786,12 @@
     },
     "done": true
   },
+  "utilitix:recipes/misc/backpack": {
+    "criteria": {
+      "criterion1": "2024-12-30 21:24:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2024-12-30 21:14:08 +0000"
@@ -1732,9 +1810,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2024-12-30 21:24:07 +0000"
+    },
+    "done": true
+  },
   "productivetrees:recipes/misc/crates/red_delicious_apple_crate": {
     "criteria": {
       "has_apple": "2024-12-30 21:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-30 21:21:05 +0000"
     },
     "done": true
   },
