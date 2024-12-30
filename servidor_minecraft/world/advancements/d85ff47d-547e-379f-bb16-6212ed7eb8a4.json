@@ -29,9 +29,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/chute": {
+    "criteria": {
+      "has_item": "2024-12-30 23:03:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-30 21:36:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gantry_shaft": {
+    "criteria": {
+      "has_item": "2024-12-30 23:03:44 +0000"
     },
     "done": true
   },
@@ -155,6 +167,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/portable_storage_interface": {
+    "criteria": {
+      "has_item": "2024-12-30 23:04:47 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/transmutation/transmutation/cooked_beef_to_porkchop": {
     "criteria": {
       "has_beef": "2024-12-30 20:14:23 +0000"
@@ -215,6 +233,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2024-12-30 23:05:37 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flint_block": {
     "criteria": {
       "has_flint": "2024-12-30 20:51:11 +0000"
@@ -224,6 +248,12 @@
   "mcwfences:recipes/warped": {
     "criteria": {
       "has_warped": "2024-12-30 20:09:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/wooden_bracket": {
+    "criteria": {
+      "has_item": "2024-12-30 23:03:44 +0000"
     },
     "done": true
   },
@@ -269,6 +299,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/mechanical_plough": {
+    "criteria": {
+      "has_item": "2024-12-30 23:04:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/belt_connector": {
+    "criteria": {
+      "has_item": "2024-12-30 23:03:44 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/inverted_bricks_cloud_light": {
     "criteria": {
       "has_xychorium_gem_light": "2024-12-30 21:23:30 +0000"
@@ -302,6 +344,12 @@
   "framedblocks:recipes/building_blocks/framed_cube": {
     "criteria": {
       "hasPlanks": "2024-12-30 20:19:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_harvester": {
+    "criteria": {
+      "has_item": "2024-12-30 23:04:47 +0000"
     },
     "done": true
   },
@@ -443,6 +491,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/metal_girder": {
+    "criteria": {
+      "has_item": "2024-12-30 23:03:44 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/rs_engineering": {
     "criteria": {
       "has_redstone": "2024-12-30 21:23:18 +0000"
@@ -539,6 +593,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/encased_chain_drive": {
+    "criteria": {
+      "has_item": "2024-12-30 23:04:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2024-12-30 22:19:01 +0000"
@@ -578,6 +638,12 @@
   "croptopia:recipes/misc/knife": {
     "criteria": {
       "has_iron": "2024-12-30 21:22:38 +0000"
+    },
+    "done": true
+  },
+  "create:millstone": {
+    "criteria": {
+      "0": "2024-12-30 23:09:05 +0000"
     },
     "done": true
   },
@@ -647,6 +713,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/mechanical_piston": {
+    "criteria": {
+      "has_item": "2024-12-30 23:04:47 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_barred_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-30 20:18:07 +0000"
@@ -695,6 +767,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-30 23:03:42 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_white": {
     "criteria": {
       "has_stick": "2024-12-30 20:17:56 +0000"
@@ -713,9 +791,21 @@
     },
     "done": true
   },
+  "create:recipes/decorations/andesite_scaffolding_from_andesite_alloy_stonecutting": {
+    "criteria": {
+      "has_andesite_alloy": "2024-12-30 23:03:44 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/stone": {
     "criteria": {
       "has_stone": "2024-12-30 20:09:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/speedometer": {
+    "criteria": {
+      "has_item": "2024-12-30 23:03:44 +0000"
     },
     "done": true
   },
@@ -845,6 +935,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/mechanical_roller": {
+    "criteria": {
+      "has_item": "2024-12-30 23:04:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2024-12-30 20:49:13 +0000"
@@ -860,6 +956,12 @@
   "pneumaticcraft:recipes/misc/ender_visor_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-30 20:56:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/white_sail": {
+    "criteria": {
+      "has_item": "2024-12-30 23:03:44 +0000"
     },
     "done": true
   },
@@ -995,6 +1097,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/linear_chassis": {
+    "criteria": {
+      "has_item": "2024-12-30 23:03:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gantry_carriage": {
+    "criteria": {
+      "has_item": "2024-12-30 23:04:47 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/conveyor_basic": {
     "criteria": {
       "has_leather": "2024-12-30 21:40:11 +0000"
@@ -1046,6 +1160,12 @@
   "create:recipes/misc/crafting/logistics/powered_latch": {
     "criteria": {
       "has_item": "2024-12-30 21:23:18 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/reinforced_filter_rail": {
+    "criteria": {
+      "criterion1": "2024-12-30 23:03:42 +0000"
     },
     "done": true
   },
@@ -1130,6 +1250,12 @@
   "rftoolsbuilder:recipes/misc/space_chamber_card": {
     "criteria": {
       "glass": "2024-12-30 21:36:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/large_cogwheel": {
+    "criteria": {
+      "has_item": "2024-12-30 23:03:44 +0000"
     },
     "done": true
   },
@@ -1769,6 +1895,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/water_wheel": {
+    "criteria": {
+      "has_item": "2024-12-30 23:03:44 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/connector_hv": {
     "criteria": {
       "has_aluminum_ingot": "2024-12-30 21:22:38 +0000"
@@ -1826,6 +1958,12 @@
   "exdeorum:recipes/tools/wooden_hammer": {
     "criteria": {
       "has_item": "2024-12-30 20:19:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_block": {
+    "criteria": {
+      "has_item": "2024-12-30 23:03:44 +0000"
     },
     "done": true
   },
@@ -2051,6 +2189,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/clutch": {
+    "criteria": {
+      "has_item": "2024-12-30 23:04:47 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_encoding": {
     "criteria": {
       "has_wpt": "2024-12-30 20:09:06 +0000"
@@ -2060,6 +2204,12 @@
   "utilitix:recipes/misc/diamond_shears": {
     "criteria": {
       "criterion0": "2024-12-30 22:51:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/depot": {
+    "criteria": {
+      "has_item": "2024-12-30 23:04:47 +0000"
     },
     "done": true
   },
@@ -2078,6 +2228,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 21:22:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-30 23:03:42 +0000"
     },
     "done": true
   },
@@ -2120,6 +2276,12 @@
   "enderio:recipes/misc/iron_gear": {
     "criteria": {
       "has_ingredient": "2024-12-30 21:23:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/shaft": {
+    "criteria": {
+      "has_item": "2024-12-30 23:03:44 +0000"
     },
     "done": true
   },
@@ -2213,6 +2375,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/sticker": {
+    "criteria": {
+      "has_item": "2024-12-30 23:03:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2024-12-30 21:23:16 +0000"
@@ -2279,6 +2447,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/radial_chassis": {
+    "criteria": {
+      "has_item": "2024-12-30 23:03:44 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/connector_hv_relay": {
     "criteria": {
       "has_aluminum_ingot": "2024-12-30 21:22:38 +0000"
@@ -2315,6 +2489,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/goggles": {
+    "criteria": {
+      "has_item": "2024-12-30 23:03:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_block": {
+    "criteria": {
+      "has_item": "2024-12-30 23:03:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-12-30 20:28:41 +0000"
@@ -2339,6 +2525,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/display_board": {
+    "criteria": {
+      "has_item": "2024-12-30 23:03:44 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/blasting/sky_stone_block": {
     "criteria": {
       "has_sky_stone_dust": "2024-12-30 21:23:16 +0000"
@@ -2348,6 +2540,12 @@
   "xycraft_world:recipes/misc/compacting/xychorium_gem_blue": {
     "criteria": {
       "has_xychorium_gem_blue": "2024-12-30 21:25:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/piston_extension_pole": {
+    "criteria": {
+      "has_item": "2024-12-30 23:03:44 +0000"
     },
     "done": true
   },
@@ -2408,6 +2606,12 @@
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-30 20:56:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/cart_assembler": {
+    "criteria": {
+      "has_item": "2024-12-30 23:03:44 +0000"
     },
     "done": true
   },
@@ -2711,6 +2915,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/basin": {
+    "criteria": {
+      "has_item": "2024-12-30 23:03:44 +0000"
+    },
+    "done": true
+  },
   "simplemagnets:recipes/misc/basic_demagnetization_coil": {
     "criteria": {
       "recipe_condition": "2024-12-30 21:22:38 +0000"
@@ -2789,6 +2999,12 @@
     },
     "done": true
   },
+  "create:recipes/decorations/andesite_ladder_from_andesite_alloy_stonecutting": {
+    "criteria": {
+      "has_andesite_alloy": "2024-12-30 23:03:44 +0000"
+    },
+    "done": true
+  },
   "translocators:recipes/redstone/item_translocator": {
     "criteria": {
       "has_piston": "2024-12-30 20:09:06 +0000"
@@ -2864,6 +3080,12 @@
   "supplementaries:recipes/flags/flag_light_gray": {
     "criteria": {
       "has_stick": "2024-12-30 20:17:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/contraption_controls": {
+    "criteria": {
+      "has_item": "2024-12-30 23:03:44 +0000"
     },
     "done": true
   },
@@ -3011,6 +3233,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/gearshift": {
+    "criteria": {
+      "has_item": "2024-12-30 23:04:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-30 20:40:22 +0000"
@@ -3113,6 +3341,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/mechanical_press": {
+    "criteria": {
+      "has_item": "2024-12-30 23:04:47 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/misc/advanced_brewery": {
     "criteria": {
       "criterion2": "2024-12-30 21:22:38 +0000"
@@ -3128,6 +3362,12 @@
   "croptopia:recipes/food/molasses_from_smoking_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2024-12-30 20:36:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rope_pulley": {
+    "criteria": {
+      "has_item": "2024-12-30 23:03:44 +0000"
     },
     "done": true
   },
@@ -3188,6 +3428,12 @@
   "create:root": {
     "criteria": {
       "0": "2024-12-30 20:09:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/andesite_door": {
+    "criteria": {
+      "has_item": "2024-12-30 23:04:47 +0000"
     },
     "done": true
   },
@@ -3326,6 +3572,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-12-30 20:49:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/weighted_ejector": {
+    "criteria": {
+      "has_item": "2024-12-30 23:04:47 +0000"
     },
     "done": true
   },
@@ -3503,6 +3755,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/curiosities/minecart_coupling": {
+    "criteria": {
+      "has_item": "2024-12-30 23:03:44 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_white_wool": "2024-12-30 21:35:26 +0000"
@@ -3656,6 +3914,12 @@
   "mcwbridges:recipes/iron_bridge": {
     "criteria": {
       "has_planks": "2024-12-30 21:22:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_drill": {
+    "criteria": {
+      "has_item": "2024-12-30 23:04:47 +0000"
     },
     "done": true
   },
@@ -3869,6 +4133,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/cuckoo_clock": {
+    "criteria": {
+      "has_item": "2024-12-30 23:03:44 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/fluid_hopper": {
     "criteria": {
       "has_iron": "2024-12-30 21:22:38 +0000"
@@ -3878,6 +4148,12 @@
   "sfm:recipes/redstone/manager": {
     "criteria": {
       "has_chest": "2024-12-30 20:40:49 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2024-12-30 23:03:44 +0000"
     },
     "done": true
   },
@@ -4031,6 +4307,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/filter": {
+    "criteria": {
+      "has_item": "2024-12-30 23:03:44 +0000"
+    },
+    "done": true
+  },
   "antiblocksrechiseled:recipes/building_blocks/wool_yellow": {
     "criteria": {
       "has_wool": "2024-12-30 21:35:26 +0000"
@@ -4175,6 +4457,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/clipboard": {
+    "criteria": {
+      "has_item": "2024-12-30 23:03:44 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/flint_mesh": {
     "criteria": {
       "has_item": "2024-12-30 20:51:11 +0000"
@@ -4217,6 +4505,12 @@
     },
     "done": true
   },
+  "bloodmagic:recipes/misc/synthetic_point": {
+    "criteria": {
+      "has_nugget": "2024-12-30 23:03:42 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_light_blue": {
     "criteria": {
       "has_stick": "2024-12-30 20:17:56 +0000"
@@ -4250,6 +4544,12 @@
   "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
     "criteria": {
       "has_wool": "2024-12-30 21:35:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/millstone": {
+    "criteria": {
+      "has_item": "2024-12-30 23:04:47 +0000"
     },
     "done": true
   },
@@ -4475,6 +4775,12 @@
     },
     "done": true
   },
+  "utilitix:recipes/misc/filter_rail": {
+    "criteria": {
+      "criterion1": "2024-12-30 23:03:42 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/security_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-30 20:56:20 +0000"
@@ -4673,6 +4979,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/mechanical_saw": {
+    "criteria": {
+      "has_item": "2024-12-30 23:04:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-30 21:15:22 +0000"
@@ -4700,6 +5012,12 @@
   "xycraft_world:recipes/misc/compacting/xychorium_gem_dark": {
     "criteria": {
       "has_xychorium_gem_dark": "2024-12-30 21:25:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/wrench": {
+    "criteria": {
+      "has_item": "2024-12-30 23:03:44 +0000"
     },
     "done": true
   },
@@ -4928,6 +5246,12 @@
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-30 21:36:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/large_cogwheel_from_little": {
+    "criteria": {
+      "has_item": "2024-12-30 23:03:44 +0000"
     },
     "done": true
   },
@@ -5348,6 +5672,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/hand_crank": {
+    "criteria": {
+      "has_item": "2024-12-30 23:03:44 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/slingshot": {
     "criteria": {
       "forge:rods/wooden": "2024-12-30 20:17:56 +0000"
@@ -5390,6 +5720,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/turntable": {
+    "criteria": {
+      "has_item": "2024-12-30 23:03:44 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_bucket": {
     "criteria": {
       "has_bucket": "2024-12-30 21:36:45 +0000"
@@ -5417,6 +5753,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2024-12-30 21:36:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/andesite_bars_from_andesite_alloy_stonecutting": {
+    "criteria": {
+      "has_andesite_alloy": "2024-12-30 23:03:44 +0000"
     },
     "done": true
   },
@@ -5570,6 +5912,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/sticky_mechanical_piston": {
+    "criteria": {
+      "has_item": "2024-12-30 23:03:44 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/advanced_connector_green": {
     "criteria": {
       "chest": "2024-12-30 20:40:49 +0000"
@@ -5704,6 +6052,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/analog_lever": {
+    "criteria": {
+      "has_item": "2024-12-30 23:03:44 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/diorite_1x": {
     "criteria": {
       "has_diorite": "2024-12-30 21:15:28 +0000"
@@ -5782,6 +6136,12 @@
     },
     "done": true
   },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2024-12-30 23:04:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
     "criteria": {
       "has_wool": "2024-12-30 21:35:26 +0000"
@@ -5827,6 +6187,12 @@
   "exdeorum:recipes/misc/cooked_silk_worm_from_campfire_cooking": {
     "criteria": {
       "has_item": "2024-12-30 20:42:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_bearing": {
+    "criteria": {
+      "has_item": "2024-12-30 23:04:47 +0000"
     },
     "done": true
   },
@@ -5950,6 +6316,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/andesite_tunnel": {
+    "criteria": {
+      "has_item": "2024-12-30 23:03:44 +0000"
+    },
+    "done": true
+  },
   "rftoolsstorage:recipes/rftoolsstorage/dump_module": {
     "criteria": {
       "ingot": "2024-12-30 21:22:38 +0000"
@@ -6034,6 +6406,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/windmill_bearing": {
+    "criteria": {
+      "has_item": "2024-12-30 23:03:44 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/goblet": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 21:22:38 +0000"
@@ -6055,6 +6433,12 @@
   "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-30 21:15:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/andesite_funnel": {
+    "criteria": {
+      "has_item": "2024-12-30 23:03:44 +0000"
     },
     "done": true
   },
@@ -6091,6 +6475,12 @@
   "supplementaries:recipes/daub_frame": {
     "criteria": {
       "forge:rods/wooden": "2024-12-30 20:17:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_mixer": {
+    "criteria": {
+      "has_item": "2024-12-30 23:03:44 +0000"
     },
     "done": true
   },
@@ -6202,6 +6592,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/cogwheel": {
+    "criteria": {
+      "has_item": "2024-12-30 23:03:44 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/entity_tracker_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-30 20:56:20 +0000"
@@ -6250,6 +6646,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
+    "criteria": {
+      "has_item": "2024-12-30 23:05:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-30 20:46:30 +0000"
@@ -6292,6 +6694,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/metal_bracket": {
+    "criteria": {
+      "has_item": "2024-12-30 23:03:44 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/iron_dust_from_ingot": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 21:22:38 +0000"
@@ -6301,6 +6709,12 @@
   "enderio:recipes/misc/pressurized_fluid_tank": {
     "criteria": {
       "has_ingredient": "2024-12-30 21:22:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-30 23:03:42 +0000"
     },
     "done": true
   },

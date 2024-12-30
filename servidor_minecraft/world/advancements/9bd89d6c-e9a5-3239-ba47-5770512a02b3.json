@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flint_block": {
+    "criteria": {
+      "has_flint": "2024-12-30 23:06:18 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/warped": {
     "criteria": {
       "has_warped": "2024-12-30 21:44:54 +0000"
@@ -545,6 +551,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-30 23:03:38 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/alchemical_sourcelink": {
     "criteria": {
       "has_journal": "2024-12-30 22:09:11 +0000"
@@ -749,6 +761,12 @@
     },
     "done": true
   },
+  "exdeorum:core/crook": {
+    "criteria": {
+      "craft_crook": "2024-12-30 22:59:54 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/greater_experience_gem": {
     "criteria": {
       "has_journal": "2024-12-30 22:09:11 +0000"
@@ -818,6 +836,12 @@
   "supplementaries:recipes/notice_board": {
     "criteria": {
       "minecraft:planks": "2024-12-30 21:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2024-12-30 23:07:12 +0000"
     },
     "done": true
   },
@@ -1039,7 +1063,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_beef": "2024-12-30 22:50:12 +0000"
+      "cooked_beef": "2024-12-30 22:50:12 +0000",
+      "bread": "2024-12-30 23:08:57 +0000"
     },
     "done": false
   },
@@ -1085,6 +1110,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/cooked_silk_worm": {
+    "criteria": {
+      "has_item": "2024-12-30 23:00:14 +0000"
+    },
+    "done": true
+  },
   "ars_caelum:recipes/misc/ritual_conjure_island_geode": {
     "criteria": {
       "has_journal": "2024-12-30 22:09:11 +0000"
@@ -1094,6 +1125,12 @@
   "ars_nouveau:recipes/misc/spike_to_dye": {
     "criteria": {
       "has_journal": "2024-12-30 22:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-30 23:06:18 +0000"
     },
     "done": true
   },
@@ -1295,6 +1332,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bomb": {
+    "criteria": {
+      "has_string": "2024-12-30 23:03:38 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/connector_green": {
     "criteria": {
       "chest": "2024-12-30 21:52:35 +0000"
@@ -1352,6 +1395,12 @@
   "mcwbridges:recipes/oak_log_bridge_middle": {
     "criteria": {
       "has_planks": "2024-12-30 21:48:54 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:core/silk_worm": {
+    "criteria": {
+      "has_silk_worm": "2024-12-30 23:00:14 +0000"
     },
     "done": true
   },
@@ -1547,6 +1596,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2024-12-30 23:03:38 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_large_bricks_slab": {
     "criteria": {
       "has_journal": "2024-12-30 22:09:11 +0000"
@@ -1718,6 +1773,12 @@
   "oreberriesreplanted:recipes/misc/oak_vat": {
     "criteria": {
       "has_planks": "2024-12-30 21:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-30 23:03:38 +0000"
     },
     "done": true
   },
@@ -1961,6 +2022,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-30 23:03:38 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/sourcestone_alternating_slab": {
     "criteria": {
       "has_journal": "2024-12-30 22:09:11 +0000"
@@ -2045,6 +2112,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-30 23:03:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-30 21:51:04 +0000"
@@ -2120,6 +2193,12 @@
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_mosaic_stone_cutterslab": {
     "criteria": {
       "has_journal": "2024-12-30 22:09:11 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/iron_ore": {
+    "criteria": {
+      "has_item": "2024-12-30 23:06:20 +0000"
     },
     "done": true
   },
@@ -2303,9 +2382,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-30 23:03:38 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/curtain_rods": {
     "criteria": {
       "has_wood": "2024-12-30 21:48:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-30 23:03:38 +0000"
     },
     "done": true
   },
@@ -2657,6 +2748,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/string_mesh": {
+    "criteria": {
+      "has_item": "2024-12-30 23:03:38 +0000"
+    },
+    "done": true
+  },
   "sfm:recipes/redstone/manager": {
     "criteria": {
       "has_chest": "2024-12-30 21:52:35 +0000"
@@ -2915,6 +3012,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/flint_mesh": {
+    "criteria": {
+      "has_item": "2024-12-30 23:06:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2024-12-30 22:22:54 +0000"
@@ -3062,6 +3165,12 @@
   "ars_nouveau:recipes/misc/mycelial_sourcelink": {
     "criteria": {
       "has_journal": "2024-12-30 22:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2024-12-30 23:06:18 +0000"
     },
     "done": true
   },
@@ -3266,6 +3375,12 @@
   "ae2wtlib:recipes/magnet_card": {
     "criteria": {
       "has_wct": "2024-12-30 21:44:54 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:core/string_mesh": {
+    "criteria": {
+      "has_string_mesh": "2024-12-30 23:04:23 +0000"
     },
     "done": true
   },
@@ -3788,6 +3903,12 @@
     },
     "done": true
   },
+  "exmachinis:recipes/misc/flux_sieve": {
+    "criteria": {
+      "has_sieve": "2024-12-30 23:04:30 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_alternating_stonecutter_stair": {
     "criteria": {
       "has_journal": "2024-12-30 22:09:11 +0000"
@@ -3845,6 +3966,12 @@
   "supplementaries:recipes/item_shelf": {
     "criteria": {
       "minecraft:wooden_slabs": "2024-12-30 22:26:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2024-12-30 23:03:38 +0000"
     },
     "done": true
   },
@@ -3917,6 +4044,12 @@
   "xnet:recipes/xnet/advanced_connector_green_dye": {
     "criteria": {
       "chest": "2024-12-30 21:52:35 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/flint_mesh_from_string_mesh": {
+    "criteria": {
+      "has_item": "2024-12-30 23:06:18 +0000"
     },
     "done": true
   },
@@ -4054,6 +4187,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2024-12-30 23:06:18 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/clear_allow": {
     "criteria": {
       "has_journal": "2024-12-30 22:09:11 +0000"
@@ -4075,6 +4214,12 @@
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_small_bricks_slab": {
     "criteria": {
       "has_journal": "2024-12-30 22:09:11 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/cooked_silk_worm_from_campfire_cooking": {
+    "criteria": {
+      "has_item": "2024-12-30 23:00:14 +0000"
     },
     "done": true
   },
@@ -4369,6 +4514,12 @@
   "botania:recipes/misc/dye_gray": {
     "criteria": {
       "has_item": "2024-12-30 21:54:32 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/cooked_silk_worm_from_smoking": {
+    "criteria": {
+      "has_item": "2024-12-30 23:00:14 +0000"
     },
     "done": true
   },
