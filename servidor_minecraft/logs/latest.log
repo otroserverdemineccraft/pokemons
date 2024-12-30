@@ -7976,3 +7976,19 @@ Refer to the recipe's ResourceLocation to find the mod responsible and let them 
 [30Dec2024 20:15:15.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Successfully created team Solnimwen.]
 [30Dec2024 20:15:23.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Successfully left your teammates alone.]
 [30Dec2024 20:17:47.999] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Created team las ratas (f1d04188-ecec-4cc6-82a1-fa117d7a3c63) at BlockPos{x=0, y=64, z=4096} with template Anarchy
+[30Dec2024 20:27:07.080] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Warrior_Legend[/[::1]:60912] logged in with entity id 626 at (10.5, 68.0, 4.5)
+[30Dec2024 20:27:07.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend joined the game
+[30Dec2024 20:27:07.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend has made the advancement [Don't Look Down...]
+[30Dec2024 20:27:07.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend has made the advancement [Christmas]
+[30Dec2024 20:27:07.484] [Server thread/INFO] [Jade/]: Syncing config to Warrior_Legend (576a41da-b25f-371e-bac5-16bdefdd645d)
+[30Dec2024 20:27:07.488] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 1 (-1 unused), uncached profiles: 0, total profiles: 2
+[30Dec2024 20:27:07.488] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: First time literal{}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Warrior_Legend '},hoverEvent=HoverEvent{action=<action show_entity>, value='net.minecraft.network.chat.HoverEvent$EntityTooltipInfo@62c7a48c'},insertion=Warrior_Legend}, siblings=[literal{Warrior_Legend}]] joined. Putting into spawn team.
+[30Dec2024 20:27:23.738] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bascap[/[::1]:39870] logged in with entity id 632 at (8.5, 68.0, 2.5)
+[30Dec2024 20:27:23.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap joined the game
+[30Dec2024 20:27:23.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap has made the advancement [Don't Look Down...]
+[30Dec2024 20:27:23.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap has made the advancement [Christmas]
+[30Dec2024 20:27:23.988] [Server thread/INFO] [Jade/]: Syncing config to Bascap (d84d2f8b-4bbd-329e-953b-3960c4e6634a)
+[30Dec2024 20:27:23.991] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 2 (-1 unused), uncached profiles: 0, total profiles: 3
+[30Dec2024 20:27:23.991] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: First time literal{}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Bascap '},hoverEvent=HoverEvent{action=<action show_entity>, value='net.minecraft.network.chat.HoverEvent$EntityTooltipInfo@bdd11545'},insertion=Bascap}, siblings=[literal{Bascap}]] joined. Putting into spawn team.
+[30Dec2024 20:27:48.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LIGS_458> ./skyblock gui
+[30Dec2024 20:28:41.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 has made the advancement [Stone Age]
