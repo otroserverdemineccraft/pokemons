@@ -7992,3 +7992,16 @@ Refer to the recipe's ResourceLocation to find the mod responsible and let them 
 [30Dec2024 20:27:23.991] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: First time literal{}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Bascap '},hoverEvent=HoverEvent{action=<action show_entity>, value='net.minecraft.network.chat.HoverEvent$EntityTooltipInfo@bdd11545'},insertion=Bascap}, siblings=[literal{Bascap}]] joined. Putting into spawn team.
 [30Dec2024 20:27:48.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LIGS_458> ./skyblock gui
 [30Dec2024 20:28:41.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 has made the advancement [Stone Age]
+[30Dec2024 20:30:47.253] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Created team Homero (a8c76d19-be76-4c02-a078-6b5c643151f7) at BlockPos{x=-4096, y=64, z=4096} with template Anarchy
+[30Dec2024 20:32:56.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Warrior_Legend> me escuchan
+[30Dec2024 20:32:58.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Warrior_Legend> ?
+[30Dec2024 20:32:59.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bascap> si
+[30Dec2024 20:33:02.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bascap> unete a homero
+[30Dec2024 20:33:59.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Successfully sent a request to join team Homero.]
+[30Dec2024 20:34:04.439] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
+[30Dec2024 20:36:27.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 has made the advancement [Hot Stuff]
+[30Dec2024 20:37:32.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made LIGS_458 a server operator
+[30Dec2024 20:37:40.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Spectator Mode]
+[30Dec2024 20:37:44.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to Bascap]
+[30Dec2024 20:38:11.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Survival Mode]
+[30Dec2024 20:39:05.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend has made the advancement [Hot Stuff]

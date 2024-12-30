@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "d85ff47d-547e-379f-bb16-6212ed7eb8a4",
+    "name": "LIGS_458",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
