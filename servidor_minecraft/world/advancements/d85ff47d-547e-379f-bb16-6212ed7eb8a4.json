@@ -1,4 +1,10 @@
 {
+  "xnet:recipes/xnet/advanced_connector_blue_dye": {
+    "criteria": {
+      "chest": "2024-12-30 20:40:49 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/building_blocks/shaped/chiseled_wood_pillar_light": {
     "criteria": {
       "has_TagKey[minecraft:item / minecraft:planks]": "2024-12-30 20:19:31 +0000"
@@ -32,6 +38,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-30 20:19:41 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_blue_dye": {
+    "criteria": {
+      "chest": "2024-12-30 20:40:49 +0000"
     },
     "done": true
   },
@@ -89,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-30 20:36:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2024-12-30 20:19:32 +0000"
@@ -137,6 +155,36 @@
     },
     "done": true
   },
+  "cobblefordays:recipes/misc/tier_3": {
+    "criteria": {
+      "has_lava": "2024-12-30 20:36:27 +0000"
+    },
+    "done": true
+  },
+  "cobblefordays:recipes/misc/tier_4": {
+    "criteria": {
+      "has_lava": "2024-12-30 20:36:27 +0000"
+    },
+    "done": true
+  },
+  "cobblefordays:recipes/misc/tier_5": {
+    "criteria": {
+      "has_lava": "2024-12-30 20:36:27 +0000"
+    },
+    "done": true
+  },
+  "cobblefordays:recipes/misc/tier_1": {
+    "criteria": {
+      "has_lava": "2024-12-30 20:36:27 +0000"
+    },
+    "done": true
+  },
+  "cobblefordays:recipes/misc/tier_2": {
+    "criteria": {
+      "has_lava": "2024-12-30 20:36:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2024-12-30 20:28:41 +0000"
@@ -152,6 +200,12 @@
   "supplementaries:recipes/flags/flag_green": {
     "criteria": {
       "has_stick": "2024-12-30 20:17:56 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/stick_from_stone_axe": {
+    "criteria": {
+      "has_tool": "2024-12-30 20:35:54 +0000"
     },
     "done": true
   },
@@ -239,6 +293,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/connector_routing": {
+    "criteria": {
+      "chest": "2024-12-30 20:40:49 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/building_blocks/shaped/chiseled_deepslate_dark_r": {
     "criteria": {
       "has_TagKey[minecraft:item / minecraft:planks]": "2024-12-30 20:19:32 +0000"
@@ -257,6 +317,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/netcable_yellow_dye": {
+    "criteria": {
+      "chest": "2024-12-30 20:40:49 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bamboo_spikes": {
     "criteria": {
       "minecraft:wooden_slabs": "2024-12-30 20:19:49 +0000"
@@ -266,6 +332,18 @@
   "enderio:recipes/misc/wood_gear": {
     "criteria": {
       "has_ingredient": "2024-12-30 20:17:56 +0000"
+    },
+    "done": true
+  },
+  "silentgear:root": {
+    "criteria": {
+      "get_item": "2024-12-30 20:40:22 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_molasses": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-30 20:36:28 +0000"
     },
     "done": true
   },
@@ -296,6 +374,18 @@
   "supplementaries:recipes/blackboard": {
     "criteria": {
       "minecraft:wooden_slabs": "2024-12-30 20:19:49 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:core/crook": {
+    "criteria": {
+      "craft_crook": "2024-12-30 20:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-30 20:36:28 +0000"
     },
     "done": true
   },
@@ -332,6 +422,12 @@
   "mcwtrpdoors:recipes/oak/oak_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-30 20:18:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-30 20:36:28 +0000"
     },
     "done": true
   },
@@ -407,6 +503,12 @@
     },
     "done": false
   },
+  "exdeorum:recipes/misc/cooked_silk_worm": {
+    "criteria": {
+      "has_item": "2024-12-30 20:42:40 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/tools/stone_hammer": {
     "criteria": {
       "has_item": "2024-12-30 20:28:41 +0000"
@@ -473,6 +575,12 @@
     },
     "done": true
   },
+  "botania:recipes/redstone/red_string_container": {
+    "criteria": {
+      "has_base_block": "2024-12-30 20:40:49 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/mangrove": {
     "criteria": {
       "has_mangrove": "2024-12-30 20:09:06 +0000"
@@ -482,6 +590,24 @@
   "mcwwindows:recipes/components": {
     "criteria": {
       "has_wood": "2024-12-30 20:18:07 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_green": {
+    "criteria": {
+      "chest": "2024-12-30 20:40:49 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/iron_band": {
+    "criteria": {
+      "has_lava": "2024-12-30 20:36:27 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_red_dye": {
+    "criteria": {
+      "chest": "2024-12-30 20:40:49 +0000"
     },
     "done": true
   },
@@ -497,6 +623,12 @@
     },
     "done": true
   },
+  "exdeorum:core/silk_worm": {
+    "criteria": {
+      "has_silk_worm": "2024-12-30 20:42:40 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_glass_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-30 20:18:07 +0000"
@@ -506,6 +638,12 @@
   "exdeorum:recipes/misc/oak_barrel": {
     "criteria": {
       "has_item": "2024-12-30 20:19:49 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/netcable_blue_dye": {
+    "criteria": {
+      "chest": "2024-12-30 20:40:49 +0000"
     },
     "done": true
   },
@@ -593,6 +731,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/advanced_connector_yellow_dye": {
+    "criteria": {
+      "chest": "2024-12-30 20:40:49 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/decorations/deorum_lantern": {
     "criteria": {
       "has_torch": "2024-12-30 20:09:06 +0000"
@@ -602,6 +746,12 @@
   "supplementaries:recipes/flower_box": {
     "criteria": {
       "minecraft:wooden_slabs": "2024-12-30 20:19:49 +0000"
+    },
+    "done": true
+  },
+  "xycraft_machines:recipes/misc/shaped/fabricator": {
+    "criteria": {
+      "has_crafting_table": "2024-12-30 20:40:22 +0000"
     },
     "done": true
   },
@@ -665,6 +815,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2024-12-30 20:36:28 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/building_blocks/silent_oak_pressure_plate": {
     "criteria": {
       "has_ingredient": "2024-12-30 20:21:58 +0000"
@@ -692,6 +848,12 @@
   "mcwfences:recipes/deepslate": {
     "criteria": {
       "has_deepslate": "2024-12-30 20:09:06 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/molasses_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-30 20:36:28 +0000"
     },
     "done": true
   },
@@ -749,6 +911,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/connector_red": {
+    "criteria": {
+      "chest": "2024-12-30 20:40:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cutting_board": {
     "criteria": {
       "has_stick": "2024-12-30 20:17:56 +0000"
@@ -764,6 +932,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2024-12-30 20:28:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-30 20:40:22 +0000"
     },
     "done": true
   },
@@ -788,6 +962,12 @@
   "mcwfences:recipes/dark_oak": {
     "criteria": {
       "has_dark_oak": "2024-12-30 20:09:06 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/molasses_from_smoking_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-30 20:36:28 +0000"
     },
     "done": true
   },
@@ -827,15 +1007,39 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/netcable_red_dye": {
+    "criteria": {
+      "chest": "2024-12-30 20:40:49 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/cobblestone": {
     "criteria": {
       "has_item": "2024-12-30 20:28:10 +0000"
     },
     "done": true
   },
+  "xnet:recipes/xnet/netcable_green_dye": {
+    "criteria": {
+      "chest": "2024-12-30 20:40:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2024-12-30 20:19:31 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_red_dye": {
+    "criteria": {
+      "chest": "2024-12-30 20:40:49 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_blue": {
+    "criteria": {
+      "chest": "2024-12-30 20:40:49 +0000"
     },
     "done": true
   },
@@ -884,6 +1088,12 @@
   "utilitarian:recipes/misc/no_soliciting/no_soliciting_banner": {
     "criteria": {
       "has_stick": "2024-12-30 20:17:56 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/crafting_card": {
+    "criteria": {
+      "crafter": "2024-12-30 20:40:22 +0000"
     },
     "done": true
   },
@@ -983,6 +1193,18 @@
     },
     "done": true
   },
+  "sfm:recipes/redstone/manager": {
+    "criteria": {
+      "has_chest": "2024-12-30 20:40:49 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_yellow": {
+    "criteria": {
+      "chest": "2024-12-30 20:40:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-30 20:19:32 +0000"
@@ -1043,6 +1265,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/connector_blue": {
+    "criteria": {
+      "chest": "2024-12-30 20:40:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2024-12-30 20:19:49 +0000"
@@ -1058,6 +1286,12 @@
   "forcecraft:recipes/tools/force_pack": {
     "criteria": {
       "has_planks": "2024-12-30 20:19:31 +0000"
+    },
+    "done": true
+  },
+  "appflux:recipes/misc/insulating_resin": {
+    "criteria": {
+      "has_item": "2024-12-30 20:36:28 +0000"
     },
     "done": true
   },
@@ -1223,6 +1457,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2024-12-30 20:40:22 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_paper_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-30 20:18:07 +0000"
@@ -1241,9 +1481,27 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/connector_yellow_dye": {
+    "criteria": {
+      "chest": "2024-12-30 20:40:49 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/backpack": {
+    "criteria": {
+      "criterion2": "2024-12-30 20:40:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2024-12-30 20:28:41 +0000"
+    },
+    "done": true
+  },
+  "xycraft_machines:recipes/misc/shaped/port_item": {
+    "criteria": {
+      "has_chest": "2024-12-30 20:40:49 +0000"
     },
     "done": true
   },
@@ -1256,6 +1514,12 @@
   "exdeorum:recipes/misc/diorite": {
     "criteria": {
       "has_item": "2024-12-30 20:28:10 +0000"
+    },
+    "done": true
+  },
+  "xycraft_machines:recipes/misc/shaped/soaryn_box": {
+    "criteria": {
+      "has_chest": "2024-12-30 20:40:49 +0000"
     },
     "done": true
   },
@@ -1382,6 +1646,18 @@
     },
     "done": true
   },
+  "sfm:recipes/redstone/cable": {
+    "criteria": {
+      "has_chest": "2024-12-30 20:40:49 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_chest_from_vanilla_chest": {
+    "criteria": {
+      "has_vanilla_chest": "2024-12-30 20:40:49 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/oak_log_1x": {
     "criteria": {
       "has_oak_log": "2024-12-30 20:18:07 +0000"
@@ -1403,6 +1679,18 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2024-12-30 20:19:31 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_green_dye": {
+    "criteria": {
+      "chest": "2024-12-30 20:40:49 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_green": {
+    "criteria": {
+      "chest": "2024-12-30 20:40:49 +0000"
     },
     "done": true
   },
@@ -1429,6 +1717,12 @@
   "ae2:recipes/misc/network/blocks/crank": {
     "criteria": {
       "has_stick": "2024-12-30 20:17:56 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_green_dye": {
+    "criteria": {
+      "chest": "2024-12-30 20:40:49 +0000"
     },
     "done": true
   },
@@ -1480,6 +1774,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/cooked_silk_worm_from_campfire_cooking": {
+    "criteria": {
+      "has_item": "2024-12-30 20:42:40 +0000"
+    },
+    "done": true
+  },
   "translocators:recipes/redstone/fluid_translocator": {
     "criteria": {
       "has_piston": "2024-12-30 20:09:06 +0000"
@@ -1489,6 +1789,12 @@
   "mcwfences:recipes/mud_brick": {
     "criteria": {
       "has_qq": "2024-12-30 20:09:06 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_routing": {
+    "criteria": {
+      "chest": "2024-12-30 20:40:49 +0000"
     },
     "done": true
   },
@@ -1528,6 +1834,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2024-12-30 20:36:27 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/print_classic": {
     "criteria": {
       "has_logs": "2024-12-30 20:18:07 +0000"
@@ -1564,6 +1876,18 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/advanced_connector_red": {
+    "criteria": {
+      "chest": "2024-12-30 20:40:49 +0000"
+    },
+    "done": true
+  },
+  "trashcans:recipes/misc/item_trash_can": {
+    "criteria": {
+      "recipe_condition": "2024-12-30 20:40:49 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/oak": {
     "criteria": {
       "has_planks": "2024-12-30 20:18:07 +0000"
@@ -1594,6 +1918,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/cooked_silk_worm_from_smoking": {
+    "criteria": {
+      "has_item": "2024-12-30 20:42:40 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/cobblestone_bridge_stair": {
     "criteria": {
       "has_planks": "2024-12-30 20:28:41 +0000"
@@ -1615,6 +1945,12 @@
   "occultism:occultism/root": {
     "criteria": {
       "occultism_present": "2024-12-30 20:09:06 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_yellow": {
+    "criteria": {
+      "chest": "2024-12-30 20:40:49 +0000"
     },
     "done": true
   },
