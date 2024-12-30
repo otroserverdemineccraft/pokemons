@@ -8035,3 +8035,11 @@ Refer to the recipe's ResourceLocation to find the mod responsible and let them 
 [30Dec2024 21:06:24.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 has made the advancement [That Goes in the GreenWaste]
 [30Dec2024 21:06:55.064] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bascap lost connection: Timed out
 [30Dec2024 21:06:55.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap left the game
+[30Dec2024 21:10:12.610] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bascap[/[::1]:34816] logged in with entity id 2764 at (-4092.4872752588367, 68.0, 4100.083932448088)
+[30Dec2024 21:10:12.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap joined the game
+[30Dec2024 21:10:12.838] [Server thread/INFO] [Jade/]: Syncing config to Bascap (d84d2f8b-4bbd-329e-953b-3960c4e6634a)
+[30Dec2024 21:10:12.839] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 2 (-2 unused), uncached profiles: 0, total profiles: 4
+[30Dec2024 21:13:25.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap has made the advancement [Hot Stuff]
+[30Dec2024 21:13:45.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend has made the advancement [A Realistical Logical Ideologist]
+[30Dec2024 21:14:08.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend has made the advancement [Stone Age]
+[30Dec2024 21:18:48.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 has made the advancement [Getting an Upgrade]

@@ -1,4 +1,16 @@
 {
+  "mcwbridges:recipes/andesite_bridge_stair": {
+    "criteria": {
+      "has_planks": "2024-12-30 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-30 21:13:22 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/advanced_connector_blue_dye": {
     "criteria": {
       "chest": "2024-12-30 20:40:49 +0000"
@@ -71,6 +83,12 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/andesite_1x": {
+    "criteria": {
+      "has_andesite": "2024-12-30 21:13:22 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2024-12-30 20:17:57 +0000"
@@ -104,6 +122,18 @@
   "framedblocks:recipes/building_blocks/framed_cube": {
     "criteria": {
       "hasPlanks": "2024-12-30 20:19:32 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_trade/spirit_trade/stone_to_otherstone": {
+    "criteria": {
+      "has_stone": "2024-12-30 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-30 21:13:22 +0000"
     },
     "done": true
   },
@@ -527,6 +557,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-30 21:13:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2024-12-30 20:36:28 +0000"
@@ -566,6 +602,12 @@
   "ironfurnaces:coal": {
     "criteria": {
       "rainbowcoal": "2024-12-30 20:09:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2024-12-30 21:11:56 +0000"
     },
     "done": true
   },
@@ -653,6 +695,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-30 21:13:22 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_orange": {
     "criteria": {
       "has_stick": "2024-12-30 20:17:56 +0000"
@@ -698,6 +746,12 @@
   "allthecompressed:recipes/building_blocks/compress/cobblestone_1x": {
     "criteria": {
       "has_cobblestone": "2024-12-30 20:28:41 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_andesite_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-30 21:13:22 +0000"
     },
     "done": true
   },
@@ -827,6 +881,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-30 21:13:22 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/decompress/cobblestone_1x": {
     "criteria": {
       "has_cobblestone_1x": "2024-12-30 20:52:11 +0000"
@@ -842,6 +902,12 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2024-12-30 20:18:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-30 21:13:22 +0000"
     },
     "done": true
   },
@@ -866,6 +932,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2024-12-30 20:17:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-30 21:13:22 +0000"
     },
     "done": true
   },
@@ -1001,6 +1073,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-30 21:13:22 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/building_blocks/edelwood_ladder": {
     "criteria": {
       "has_rods/wooden": "2024-12-30 20:17:57 +0000"
@@ -1031,9 +1109,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-30 21:13:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2024-12-30 20:19:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-30 21:13:22 +0000"
     },
     "done": true
   },
@@ -1052,6 +1142,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2024-12-30 20:19:31 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:core/barrel": {
+    "criteria": {
+      "has_barrel": "2024-12-30 21:06:24 +0000"
     },
     "done": true
   },
@@ -1097,9 +1193,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-30 21:13:22 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/deepslate": {
     "criteria": {
       "has_deepslate": "2024-12-30 20:09:06 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/andesite": {
+    "criteria": {
+      "has_wood": "2024-12-30 21:13:22 +0000"
     },
     "done": true
   },
@@ -1130,6 +1238,12 @@
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2024-12-30 20:09:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-30 21:13:22 +0000"
     },
     "done": true
   },
@@ -1187,6 +1301,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2024-12-30 21:13:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-30 20:28:41 +0000"
@@ -1226,6 +1346,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-30 20:40:22 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/andesite_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-12-30 21:13:22 +0000"
     },
     "done": true
   },
@@ -1421,6 +1547,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/andesite_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-30 21:13:22 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/no_soliciting/no_soliciting_banner": {
     "criteria": {
       "has_stick": "2024-12-30 20:17:56 +0000"
@@ -1460,6 +1592,12 @@
   "mcwtrpdoors:recipes/oak/oak_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2024-12-30 20:19:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-30 21:13:22 +0000"
     },
     "done": true
   },
@@ -1523,6 +1661,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-30 21:13:22 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_purple": {
     "criteria": {
       "has_stick": "2024-12-30 20:17:56 +0000"
@@ -1544,6 +1688,12 @@
   "xycraft_override:recipes/building_blocks/shaped/chiseled_wood_pillar_blue": {
     "criteria": {
       "has_TagKey[minecraft:item / minecraft:planks]": "2024-12-30 20:19:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-30 21:13:22 +0000"
     },
     "done": true
   },
@@ -1607,6 +1757,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/iron_dust": {
+    "criteria": {
+      "has_iron": "2024-12-30 21:05:28 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/oak": {
     "criteria": {
       "has_wood": "2024-12-30 20:18:07 +0000"
@@ -1616,6 +1772,12 @@
   "supplementaries:recipes/flags/flag_gray": {
     "criteria": {
       "has_stick": "2024-12-30 20:17:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-12-30 21:05:28 +0000"
     },
     "done": true
   },
@@ -1727,9 +1889,21 @@
     },
     "done": true
   },
+  "exdeorum:recipes/tools/compressed_wooden_hammer": {
+    "criteria": {
+      "has_item": "2024-12-30 21:13:49 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_four_panel_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-30 20:18:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-30 21:13:22 +0000"
     },
     "done": true
   },
@@ -1769,6 +1943,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-30 21:13:22 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/ores/silver_tag": {
     "criteria": {
       "has_item": "2024-12-30 20:50:51 +0000"
@@ -1778,6 +1958,12 @@
   "supplementaries:recipes/crystal_display": {
     "criteria": {
       "has_amethyst_shard": "2024-12-30 20:56:12 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_trade/spirit_trade/test": {
+    "criteria": {
+      "has_stone": "2024-12-30 21:13:22 +0000"
     },
     "done": true
   },
@@ -1793,15 +1979,33 @@
     },
     "done": true
   },
+  "utilitix:recipes/misc/linked_repeater": {
+    "criteria": {
+      "criterion2": "2024-12-30 21:13:22 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/misc/comparator_redirector_down": {
     "criteria": {
       "criterion1": "2024-12-30 20:28:41 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-30 21:13:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-30 20:19:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-30 21:13:22 +0000"
     },
     "done": true
   },
@@ -1844,6 +2048,12 @@
   "supplementaries:recipes/flags/flag_red": {
     "criteria": {
       "has_stick": "2024-12-30 20:17:56 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/gold_ore": {
+    "criteria": {
+      "has_item": "2024-12-30 21:05:13 +0000"
     },
     "done": true
   },
@@ -1895,9 +2105,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-30 21:13:22 +0000"
+    },
+    "done": true
+  },
   "exdeorum:core/string_mesh": {
     "criteria": {
       "has_string_mesh": "2024-12-30 20:49:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2024-12-30 21:13:22 +0000"
     },
     "done": true
   },
@@ -1940,6 +2162,12 @@
   "create:recipes/misc/crafting/appliances/crafting_blueprint": {
     "criteria": {
       "has_item": "2024-12-30 20:40:22 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/andesite": {
+    "criteria": {
+      "has_planks": "2024-12-30 21:13:22 +0000"
     },
     "done": true
   },
@@ -2009,6 +2237,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/ores/nickel_tag": {
+    "criteria": {
+      "has_item": "2024-12-30 21:04:51 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/misc/stone_rod": {
     "criteria": {
       "has_item": "2024-12-30 20:28:41 +0000"
@@ -2018,6 +2252,12 @@
   "mcwfences:recipes/bamboo": {
     "criteria": {
       "has_bamboo": "2024-12-30 20:09:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-30 21:13:22 +0000"
     },
     "done": true
   },
@@ -2056,6 +2296,12 @@
     "criteria": {
       "has_wit": "2024-12-30 20:09:06 +0000",
       "has_wct": "2024-12-30 20:09:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-12-30 21:05:28 +0000"
     },
     "done": true
   },
@@ -2132,6 +2378,12 @@
     },
     "done": true
   },
+  "occultism:recipes/spirit_fire/spirit_fire/otherstone": {
+    "criteria": {
+      "has_andesite": "2024-12-30 21:13:22 +0000"
+    },
+    "done": true
+  },
   "exmachinis:recipes/misc/flux_sieve": {
     "criteria": {
       "has_sieve": "2024-12-30 20:49:41 +0000"
@@ -2162,6 +2414,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-30 21:13:22 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/oak": {
     "criteria": {
       "has_wood": "2024-12-30 20:18:07 +0000"
@@ -2183,6 +2441,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2024-12-30 20:19:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-30 21:13:22 +0000"
     },
     "done": true
   },
@@ -2326,6 +2590,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-30 21:13:22 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/block_tracker_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-30 20:56:20 +0000"
@@ -2422,6 +2692,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-30 21:13:22 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/daub_frame": {
     "criteria": {
       "forge:rods/wooden": "2024-12-30 20:17:56 +0000"
@@ -2470,6 +2746,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2024-12-30 21:13:22 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_yellow": {
     "criteria": {
       "has_stick": "2024-12-30 20:17:56 +0000"
@@ -2485,6 +2767,12 @@
   "croptopia:recipes/fruit_salad": {
     "criteria": {
       "has_apple": "2024-12-30 20:17:57 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/iron_ingot_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2024-12-30 21:05:28 +0000"
     },
     "done": true
   },
@@ -2521,6 +2809,12 @@
   "mcwroofs:recipes/concrete": {
     "criteria": {
       "has_planks": "2024-12-30 20:52:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2024-12-30 21:13:22 +0000"
     },
     "done": true
   },
