@@ -8017,3 +8017,21 @@ Refer to the recipe's ResourceLocation to find the mod responsible and let them 
 [30Dec2024 20:58:31.409] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warrior_Legend lost connection: Timed out
 [30Dec2024 20:58:31.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend left the game
 [30Dec2024 20:58:31.461] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30Dec2024 21:00:42.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap has made the advancement [All the Little Cogs]
+[30Dec2024 21:00:52.783] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[30Dec2024 21:00:52.790] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 0
+}
+[30Dec2024 21:00:52.791] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 33 extra bytes: 
+[30Dec2024 21:00:52.792] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "Cookie: mstshash=test"
+]
+[30Dec2024 21:03:28.212] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Warrior_Legend[/[::1]:56836] logged in with entity id 2314 at (-4094.39438781973, 67.5, 4098.56773758644)
+[30Dec2024 21:03:28.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend joined the game
+[30Dec2024 21:03:28.509] [Server thread/INFO] [Jade/]: Syncing config to Warrior_Legend (576a41da-b25f-371e-bac5-16bdefdd645d)
+[30Dec2024 21:03:28.512] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 2 (-2 unused), uncached profiles: 0, total profiles: 4
+[30Dec2024 21:06:24.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 has made the advancement [That Goes in the GreenWaste]
+[30Dec2024 21:06:55.064] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bascap lost connection: Timed out
+[30Dec2024 21:06:55.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap left the game
