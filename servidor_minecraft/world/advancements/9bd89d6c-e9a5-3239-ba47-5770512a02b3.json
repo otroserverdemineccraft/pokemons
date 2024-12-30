@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-30 22:55:44 +0000"
+    },
+    "done": true
+  },
   "mekanism:root": {
     "criteria": {
       "automatic": "2024-12-30 21:44:54 +0000"
@@ -200,6 +206,12 @@
   "framedblocks:recipes/building_blocks/framed_cube": {
     "criteria": {
       "hasPlanks": "2024-12-30 21:48:54 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_trade/spirit_trade/stone_to_otherstone": {
+    "criteria": {
+      "has_stone": "2024-12-30 22:55:44 +0000"
     },
     "done": true
   },
@@ -455,6 +467,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-12-30 22:55:44 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_small_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-12-30 22:09:11 +0000"
@@ -665,6 +683,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2024-12-30 22:55:44 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/rotating_spell_turret": {
     "criteria": {
       "has_journal": "2024-12-30 22:09:11 +0000"
@@ -785,6 +809,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-30 22:55:44 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/notice_board": {
     "criteria": {
       "minecraft:planks": "2024-12-30 21:48:54 +0000"
@@ -806,6 +836,12 @@
   "mcwtrpdoors:recipes/oak/oak_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-30 21:48:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-30 22:55:44 +0000"
     },
     "done": true
   },
@@ -1001,6 +1037,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2024-12-30 22:50:12 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/daub": {
     "criteria": {
       "supplementaries:straw": "2024-12-30 22:21:38 +0000"
@@ -1163,6 +1205,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-12-30 22:55:44 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/sand_1x": {
     "criteria": {
       "has_sand": "2024-12-30 22:20:24 +0000"
@@ -1235,6 +1283,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-12-30 22:55:44 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/gilded_sourcestone_mosaic_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-12-30 22:09:11 +0000"
@@ -1265,9 +1319,21 @@
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/stick_from_stone_sword": {
+    "criteria": {
+      "has_tool": "2024-12-30 22:51:38 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/arcane_platform": {
     "criteria": {
       "has_journal": "2024-12-30 22:09:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-30 22:51:45 +0000"
     },
     "done": true
   },
@@ -1316,6 +1382,12 @@
   "supplementaries:recipes/planter_rich": {
     "criteria": {
       "has_bone_meal": "2024-12-30 22:22:51 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/mob_yoinker": {
+    "criteria": {
+      "criterion2": "2024-12-30 22:50:51 +0000"
     },
     "done": true
   },
@@ -1409,6 +1481,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_phantom_glowing_membrane": {
+    "criteria": {
+      "has_chorus": "2024-12-30 22:51:46 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_large_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2024-12-30 22:09:11 +0000"
@@ -1472,6 +1550,12 @@
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_large_bricks_slab": {
     "criteria": {
       "has_journal": "2024-12-30 22:09:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_lamp": {
+    "criteria": {
+      "has_stone": "2024-12-30 22:55:44 +0000"
     },
     "done": true
   },
@@ -1721,6 +1805,12 @@
     },
     "done": true
   },
+  "utilitix:recipes/building_blocks/stone_wall_stonecutting": {
+    "criteria": {
+      "has_item0": "2024-12-30 22:55:44 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_mosaic_stairs": {
     "criteria": {
       "has_journal": "2024-12-30 22:09:11 +0000"
@@ -1823,6 +1913,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/stone": {
+    "criteria": {
+      "has_planks": "2024-12-30 22:55:44 +0000"
+    },
+    "done": true
+  },
   "ars_elemental:recipes/misc/tablet_ritual_attraction": {
     "criteria": {
       "has_journal": "2024-12-30 22:09:11 +0000"
@@ -1838,6 +1934,12 @@
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2024-12-30 21:44:54 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/stone_bricks": {
+    "criteria": {
+      "has_planks": "2024-12-30 22:55:44 +0000"
     },
     "done": true
   },
@@ -1862,6 +1964,12 @@
   "ars_nouveau:recipes/building_blocks/sourcestone_alternating_slab": {
     "criteria": {
       "has_journal": "2024-12-30 22:09:11 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/restraining_order": {
+    "criteria": {
+      "has_lead": "2024-12-30 22:50:51 +0000"
     },
     "done": true
   },
@@ -1994,6 +2102,12 @@
   "croptopia:recipes/misc/apple_juice": {
     "criteria": {
       "has_apple": "2024-12-30 21:56:57 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/stone_1x": {
+    "criteria": {
+      "has_stone": "2024-12-30 22:55:44 +0000"
     },
     "done": true
   },
@@ -2180,6 +2294,12 @@
   "xnet:recipes/xnet/advanced_connector_blue": {
     "criteria": {
       "chest": "2024-12-30 21:52:35 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_phantom_membrane": {
+    "criteria": {
+      "has_chorus": "2024-12-30 22:51:46 +0000"
     },
     "done": true
   },
@@ -2447,6 +2567,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2024-12-30 22:55:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2024-12-30 21:51:30 +0000"
@@ -2468,6 +2594,12 @@
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_mosaic_slab": {
     "criteria": {
       "has_journal": "2024-12-30 22:09:11 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_phantom_dark_membrane": {
+    "criteria": {
+      "has_chorus": "2024-12-30 22:51:46 +0000"
     },
     "done": true
   },
@@ -2705,6 +2837,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-30 22:52:26 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/tools/force_pack": {
     "criteria": {
       "has_planks": "2024-12-30 21:48:54 +0000"
@@ -2756,6 +2894,12 @@
   "xycraft_override:recipes/building_blocks/shaped/chiseled_deepslate_green": {
     "criteria": {
       "has_TagKey[minecraft:item / minecraft:planks]": "2024-12-30 21:48:54 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/gilding_crystal": {
+    "criteria": {
+      "criterion1": "2024-12-30 22:51:46 +0000"
     },
     "done": true
   },
@@ -2831,9 +2975,21 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/stone_barrel": {
+    "criteria": {
+      "has_item": "2024-12-30 22:55:54 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/oak_rail_bridge": {
     "criteria": {
       "has_planks": "2024-12-30 21:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-30 22:55:44 +0000"
     },
     "done": true
   },
@@ -2846,6 +3002,12 @@
   "supplementaries:recipes/daub_brace": {
     "criteria": {
       "forge:rods/wooden": "2024-12-30 21:48:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-30 22:55:44 +0000"
     },
     "done": true
   },
@@ -2873,6 +3035,12 @@
     },
     "done": true
   },
+  "occultism:recipes/spirit_trade/spirit_trade/test": {
+    "criteria": {
+      "has_stone": "2024-12-30 22:55:44 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/orange_sbed": {
     "criteria": {
       "has_journal": "2024-12-30 22:09:11 +0000"
@@ -2885,9 +3053,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-30 22:51:45 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/mycelial_sourcelink": {
     "criteria": {
       "has_journal": "2024-12-30 22:09:11 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/linked_repeater": {
+    "criteria": {
+      "criterion2": "2024-12-30 22:55:44 +0000"
     },
     "done": true
   },
@@ -2945,6 +3125,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/arrow_slits_gothic": {
+    "criteria": {
+      "has_wood": "2024-12-30 22:55:44 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_red": {
     "criteria": {
       "has_stick": "2024-12-30 21:48:43 +0000"
@@ -2960,6 +3146,12 @@
   "ars_nouveau:recipes/misc/ritual_challenge": {
     "criteria": {
       "has_journal": "2024-12-30 22:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:phantom": "2024-12-30 22:51:45 +0000"
     },
     "done": true
   },
@@ -3014,6 +3206,12 @@
   "ars_nouveau:recipes/misc/dull_trinket": {
     "criteria": {
       "has_journal": "2024-12-30 22:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2024-12-30 22:55:44 +0000"
     },
     "done": true
   },
@@ -3122,6 +3320,12 @@
   "ars_nouveau:recipes/misc/wing_to_leather": {
     "criteria": {
       "has_journal": "2024-12-30 22:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-30 22:55:44 +0000"
     },
     "done": true
   },
@@ -3263,6 +3467,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:phantom": "2024-12-30 22:51:45 +0000"
+    },
+    "done": false
+  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_alternating_stone_cutterslab": {
     "criteria": {
       "has_journal": "2024-12-30 22:09:11 +0000"
@@ -3302,6 +3512,12 @@
   "ars_nouveau:recipes/misc/annotated_codex": {
     "criteria": {
       "has_journal": "2024-12-30 22:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-12-30 22:55:44 +0000"
     },
     "done": true
   },
@@ -3596,6 +3812,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-30 22:50:36 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/oak_log_1x": {
     "criteria": {
       "has_oak_log": "2024-12-30 21:48:38 +0000"
@@ -3659,6 +3881,12 @@
   "ars_nouveau:recipes/misc/manipulation_essence_to_vexing_sapling": {
     "criteria": {
       "has_journal": "2024-12-30 22:09:11 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/stone": {
+    "criteria": {
+      "has_wood": "2024-12-30 22:55:44 +0000"
     },
     "done": true
   },
@@ -3751,6 +3979,12 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2024-12-30 22:22:51 +0000"
+    },
+    "done": true
+  },
+  "xycraft_machines:recipes/misc/shapeless/balloon_on_a_stick": {
+    "criteria": {
+      "has_lead": "2024-12-30 22:50:51 +0000"
     },
     "done": true
   },
@@ -3922,6 +4156,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2024-12-30 22:55:44 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/sourcestone_large_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2024-12-30 22:09:11 +0000"
@@ -3943,6 +4183,12 @@
   "mcwtrpdoors:recipes/print_classic": {
     "criteria": {
       "has_logs": "2024-12-30 21:48:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-30 22:50:12 +0000"
     },
     "done": true
   },
@@ -4114,6 +4360,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-30 22:55:44 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/dye_gray": {
     "criteria": {
       "has_item": "2024-12-30 21:54:32 +0000"
@@ -4165,6 +4417,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2024-12-30 22:21:02 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/stone_wall": {
+    "criteria": {
+      "criterion0": "2024-12-30 22:55:44 +0000"
     },
     "done": true
   },
