@@ -413,6 +413,12 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/gravel_1x": {
+    "criteria": {
+      "has_gravel": "2024-12-30 22:37:23 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/cobblestone": {
     "criteria": {
       "has_planks": "2024-12-30 22:04:44 +0000"
@@ -596,6 +602,12 @@
   "ars_nouveau:recipes/misc/worn_notebook": {
     "criteria": {
       "has_journal": "2024-12-30 22:09:11 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/buttered_toast": {
+    "criteria": {
+      "has_toast": "2024-12-30 22:32:24 +0000"
     },
     "done": true
   },
@@ -1025,6 +1037,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/tools/compressed_stone_hammer": {
+    "criteria": {
+      "has_item": "2024-12-30 22:33:06 +0000"
+    },
+    "done": true
+  },
   "ars_caelum:recipes/misc/ritual_conjure_island_geode": {
     "criteria": {
       "has_journal": "2024-12-30 22:09:11 +0000"
@@ -1307,6 +1325,12 @@
     },
     "done": true
   },
+  "croptopia:gather_food": {
+    "criteria": {
+      "toast": "2024-12-30 22:32:24 +0000"
+    },
+    "done": false
+  },
   "ars_nouveau:recipes/misc/sourcestone_alternating_stairs": {
     "criteria": {
       "has_journal": "2024-12-30 22:09:11 +0000"
@@ -1523,6 +1547,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-30 22:37:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-30 22:20:24 +0000"
@@ -1664,6 +1694,12 @@
   "enderio:recipes/misc/stick": {
     "criteria": {
       "has_ingredient": "2024-12-30 21:48:38 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/toast_with_jam": {
+    "criteria": {
+      "has_toast": "2024-12-30 22:32:24 +0000"
     },
     "done": true
   },
@@ -2579,6 +2615,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/experience_bottle_from_enchanted_book": {
+    "criteria": {
+      "has_enchanted_book": "2024-12-30 22:35:48 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/building_blocks/shaped/chiseled_wood_pillar_light_r": {
     "criteria": {
       "has_TagKey[minecraft:item / minecraft:planks]": "2024-12-30 21:48:54 +0000"
@@ -2675,6 +2717,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-12-30 22:31:33 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bed_from_feather_block": {
     "criteria": {
       "minecraft:planks": "2024-12-30 21:48:54 +0000"
@@ -2732,6 +2780,12 @@
   "supplementaries:recipes/flags/flag_light_blue": {
     "criteria": {
       "has_stick": "2024-12-30 21:48:43 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/redstone/force_furnace": {
+    "criteria": {
+      "has_furnace": "2024-12-30 22:31:33 +0000"
     },
     "done": true
   },
