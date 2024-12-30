@@ -17,9 +17,21 @@
     },
     "done": true
   },
+  "antiblocksrechiseled:recipes/building_blocks/wool_orange": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:35:26 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/iron_mesh": {
     "criteria": {
       "has_item": "2024-12-30 21:22:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-30 21:36:50 +0000"
     },
     "done": true
   },
@@ -83,9 +95,27 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/curtains": {
+    "criteria": {
+      "has_wood": "2024-12-30 21:35:26 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/misc/void_chassis": {
     "criteria": {
       "has_ingredient": "2024-12-30 21:23:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-30 21:40:11 +0000"
+    },
+    "done": true
+  },
+  "antiblocksrechiseled:recipes/building_blocks/wool_pink": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:35:26 +0000"
     },
     "done": true
   },
@@ -131,9 +161,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-30 21:35:40 +0000"
+    },
+    "done": true
+  },
   "mekanism:root": {
     "criteria": {
       "automatic": "2024-12-30 20:09:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:35:26 +0000"
     },
     "done": true
   },
@@ -251,6 +293,12 @@
     },
     "done": true
   },
+  "trashcans:recipes/misc/liquid_trash_can": {
+    "criteria": {
+      "recipe_condition": "2024-12-30 21:36:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2024-12-30 20:36:27 +0000"
@@ -311,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-30 21:36:50 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_beach_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-30 20:18:07 +0000"
@@ -350,6 +404,12 @@
   "supplementaries:recipes/bubble_blower": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 21:22:38 +0000"
+    },
+    "done": true
+  },
+  "bloodmagic:recipes/misc/sacrificial_dagger": {
+    "criteria": {
+      "has_glass": "2024-12-30 21:36:50 +0000"
     },
     "done": true
   },
@@ -437,6 +497,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/glass_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-30 21:36:50 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/misc/mob_bell": {
     "criteria": {
       "criterion6": "2024-12-30 21:23:16 +0000"
@@ -458,6 +524,12 @@
   "croptopia:recipes/misc/knife": {
     "criteria": {
       "has_iron": "2024-12-30 21:22:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-30 21:40:11 +0000"
     },
     "done": true
   },
@@ -569,6 +641,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hourglass": {
+    "criteria": {
+      "has_glass": "2024-12-30 21:36:50 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/awning": {
+    "criteria": {
+      "has_planks": "2024-12-30 21:35:26 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/stone": {
     "criteria": {
       "has_stone": "2024-12-30 20:09:06 +0000"
@@ -593,6 +677,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/porcelain_crucible": {
+    "criteria": {
+      "has_item": "2024-12-30 21:35:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-30 21:15:28 +0000"
@@ -611,9 +701,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/vertical_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2024-12-30 21:36:50 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/speed_upgrade_from_glycerol": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-30 20:56:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-30 21:36:50 +0000"
     },
     "done": true
   },
@@ -632,6 +734,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2024-12-30 20:28:41 +0000"
+    },
+    "done": true
+  },
+  "antiblocksrechiseled:recipes/building_blocks/wool_green": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:35:26 +0000"
     },
     "done": true
   },
@@ -803,6 +911,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/conveyor_basic": {
+    "criteria": {
+      "has_leather": "2024-12-30 21:40:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-30 21:15:22 +0000"
@@ -875,6 +989,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/facade": {
+    "criteria": {
+      "glass": "2024-12-30 21:36:50 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/building_blocks/shaped/chiseled_deepslate_dark": {
     "criteria": {
       "has_TagKey[minecraft:item / minecraft:planks]": "2024-12-30 20:19:32 +0000"
@@ -899,6 +1019,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-30 21:36:50 +0000"
+    },
+    "done": true
+  },
+  "antiblocksrechiseled:recipes/building_blocks/wool_white": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:35:26 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/shutters": {
     "criteria": {
       "has_wood": "2024-12-30 20:19:32 +0000"
@@ -908,6 +1040,12 @@
   "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
       "has_brick": "2024-12-30 21:23:37 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/space_chamber_card": {
+    "criteria": {
+      "glass": "2024-12-30 21:36:50 +0000"
     },
     "done": true
   },
@@ -947,9 +1085,21 @@
     },
     "done": true
   },
+  "antiblocksrechiseled:recipes/building_blocks/wool_gray": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:35:26 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/notice_board": {
     "criteria": {
       "minecraft:planks": "2024-12-30 20:19:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2024-12-30 21:36:50 +0000"
     },
     "done": true
   },
@@ -1115,6 +1265,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-30 21:36:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-30 21:15:28 +0000"
@@ -1142,6 +1298,12 @@
   "xycraft_world:recipes/decorations/shaped/lamp_pole": {
     "criteria": {
       "has_aluminum": "2024-12-30 21:23:30 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/glass_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-12-30 21:36:50 +0000"
     },
     "done": true
   },
@@ -1211,6 +1373,12 @@
     },
     "done": true
   },
+  "rftoolsbuilder:recipes/misc/yellow_shield_template_block": {
+    "criteria": {
+      "glass": "2024-12-30 21:36:50 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/utility/oak_logs_to_slabs": {
     "criteria": {
       "has_log": "2024-12-30 20:18:07 +0000"
@@ -1238,6 +1406,12 @@
   "supplementaries:recipes/daub": {
     "criteria": {
       "has_clay_ball": "2024-12-30 21:22:34 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/green_shield_template_block": {
+    "criteria": {
+      "glass": "2024-12-30 21:36:50 +0000"
     },
     "done": true
   },
@@ -1469,15 +1643,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:35:26 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/sand_2x": {
     "criteria": {
       "has_sand_1x": "2024-12-30 20:52:18 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-30 21:36:50 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/blackstone": {
     "criteria": {
       "has_item": "2024-12-30 20:28:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-30 21:36:50 +0000"
     },
     "done": true
   },
@@ -1565,6 +1757,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/glass_bridge_stair": {
+    "criteria": {
+      "has_planks": "2024-12-30 21:36:50 +0000"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/inventory_module": {
     "criteria": {
       "ingot": "2024-12-30 21:22:38 +0000"
@@ -1649,9 +1847,21 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/building_blocks/stonecutting/glass": {
+    "criteria": {
+      "has_for_glass": "2024-12-30 21:36:50 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/utility/logs_to_bowls": {
     "criteria": {
       "has_log": "2024-12-30 20:18:07 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2024-12-30 21:40:11 +0000"
     },
     "done": true
   },
@@ -1709,6 +1919,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-30 21:40:11 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/building_blocks/compressed_crushed_deepslate": {
     "criteria": {
       "has_item": "2024-12-30 21:15:42 +0000"
@@ -1748,6 +1964,12 @@
   "create:recipes/building_blocks/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-30 21:20:34 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/deorum_glass": {
+    "criteria": {
+      "has_glass": "2024-12-30 21:36:50 +0000"
     },
     "done": true
   },
@@ -1829,6 +2051,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:35:26 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/utility/oak_logs_to_doors": {
     "criteria": {
       "has_log": "2024-12-30 20:18:07 +0000"
@@ -1886,6 +2114,12 @@
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2024-12-30 20:09:07 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/stonecutting/glass_viewer_silicon": {
+    "criteria": {
+      "has_for_glass_viewer_silicon": "2024-12-30 21:36:50 +0000"
     },
     "done": true
   },
@@ -1961,6 +2195,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:35:26 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/stomp_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-30 20:56:20 +0000"
@@ -2003,6 +2243,12 @@
     },
     "done": true
   },
+  "antiblocksrechiseled:recipes/building_blocks/wool_magenta": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:35:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-30 21:34:16 +0000"
@@ -2024,6 +2270,24 @@
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2024-12-30 21:23:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:35:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:35:26 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/runic_glass": {
+    "criteria": {
+      "has_glass": "2024-12-30 21:36:50 +0000"
     },
     "done": true
   },
@@ -2099,6 +2363,12 @@
     },
     "done": true
   },
+  "antiblocksrechiseled:recipes/building_blocks/wool_light_gray": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:35:26 +0000"
+    },
+    "done": true
+  },
   "projecte:recipes/misc/low_covalence_dust": {
     "criteria": {
       "has_cobble": "2024-12-30 20:28:41 +0000"
@@ -2168,6 +2438,18 @@
   "enderio:recipes/building_blocks/silent_oak_pressure_plate": {
     "criteria": {
       "has_ingredient": "2024-12-30 20:21:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-12-30 21:35:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2024-12-30 21:36:50 +0000"
     },
     "done": true
   },
@@ -2249,6 +2531,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:35:26 +0000"
+    },
+    "done": true
+  },
   "translocators:recipes/redstone/item_translocator": {
     "criteria": {
       "has_piston": "2024-12-30 20:09:06 +0000"
@@ -2264,6 +2552,12 @@
   "pneumaticcraft:recipes/misc/charging_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-30 20:56:20 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/powerpack": {
+    "criteria": {
+      "has_leather": "2024-12-30 21:40:11 +0000"
     },
     "done": true
   },
@@ -2303,6 +2597,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/mosaic_glass": {
+    "criteria": {
+      "has_wood": "2024-12-30 21:36:50 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/tinted_glass_lead_wire": {
     "criteria": {
       "has_amethyst": "2024-12-30 20:56:12 +0000"
@@ -2315,9 +2615,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-30 21:36:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2024-12-30 20:49:13 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_white_wool": "2024-12-30 21:35:26 +0000"
     },
     "done": true
   },
@@ -2381,6 +2693,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/decorations/utrem_jar": {
+    "criteria": {
+      "has_glass/colorless": "2024-12-30 21:36:50 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cutting_board": {
     "criteria": {
       "has_stick": "2024-12-30 20:17:56 +0000"
@@ -2423,6 +2741,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:35:26 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/andesite_bridge_pier": {
     "criteria": {
       "has_planks": "2024-12-30 21:13:22 +0000"
@@ -2447,6 +2771,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-30 21:40:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-12-30 20:17:56 +0000"
@@ -2468,6 +2798,12 @@
   "mcwwindows:recipes/diorite": {
     "criteria": {
       "has_wood": "2024-12-30 21:15:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2024-12-30 21:40:14 +0000"
     },
     "done": true
   },
@@ -2543,6 +2879,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-30 21:36:50 +0000"
+    },
+    "done": true
+  },
   "create:root": {
     "criteria": {
       "0": "2024-12-30 20:09:06 +0000"
@@ -2552,6 +2894,12 @@
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2024-12-30 20:17:56 +0000"
+    },
+    "done": true
+  },
+  "antiblocksrechiseled:recipes/building_blocks/wool_brown": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:35:26 +0000"
     },
     "done": true
   },
@@ -2591,6 +2939,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:35:26 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/netcable_red_dye": {
     "criteria": {
       "chest": "2024-12-30 20:40:49 +0000"
@@ -2624,6 +2978,12 @@
   "xnet:recipes/xnet/advanced_connector_red_dye": {
     "criteria": {
       "chest": "2024-12-30 20:40:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/horizontal_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2024-12-30 21:36:50 +0000"
     },
     "done": true
   },
@@ -2690,6 +3050,12 @@
   "pneumaticcraft:recipes/misc/magnet_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-30 20:56:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-30 21:40:11 +0000"
     },
     "done": true
   },
@@ -2789,6 +3155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-30 21:36:50 +0000"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/text_module": {
     "criteria": {
       "ingot": "2024-12-30 21:22:38 +0000"
@@ -2810,6 +3182,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_orange": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 21:22:38 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_white_wool": "2024-12-30 21:35:26 +0000"
     },
     "done": true
   },
@@ -2849,6 +3227,12 @@
     },
     "done": true
   },
+  "enderio:recipes/misc/basic_fluid_filter": {
+    "criteria": {
+      "has_ingredient": "2024-12-30 21:36:45 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/volume_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-30 20:56:20 +0000"
@@ -2870,6 +3254,12 @@
   "immersiveengineering:recipes/misc/crafting/coil_mv": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 21:22:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2024-12-30 21:36:50 +0000"
     },
     "done": true
   },
@@ -2906,6 +3296,12 @@
   "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-30 21:20:34 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/brush": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:35:26 +0000"
     },
     "done": true
   },
@@ -3137,6 +3533,12 @@
     },
     "done": true
   },
+  "antiblocksrechiseled:recipes/building_blocks/wool_cyan": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:35:26 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/certus_quartz_axe": {
     "criteria": {
       "has_certus_quartz": "2024-12-30 21:30:09 +0000"
@@ -3221,6 +3623,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-30 21:36:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2024-12-30 21:05:28 +0000"
@@ -3245,15 +3653,33 @@
     },
     "done": true
   },
+  "antiblocksrechiseled:recipes/building_blocks/wool_yellow": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:35:26 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/sandstone": {
     "criteria": {
       "has_sand": "2024-12-30 20:09:06 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:35:26 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/drillhead_iron": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 21:22:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:35:26 +0000"
     },
     "done": true
   },
@@ -3275,9 +3701,21 @@
     },
     "done": true
   },
+  "antiblocksrechiseled:recipes/building_blocks/wool_red": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:35:26 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/acacia": {
     "criteria": {
       "has_acacia": "2024-12-30 20:09:06 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/red_shield_template_block": {
+    "criteria": {
+      "glass": "2024-12-30 21:36:50 +0000"
     },
     "done": true
   },
@@ -3332,6 +3770,12 @@
   "utilitix:recipes/misc/gilding_crystal": {
     "criteria": {
       "criterion1": "2024-12-30 21:31:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-30 21:36:50 +0000"
     },
     "done": true
   },
@@ -3404,6 +3848,12 @@
   "create:recipes/misc/crafting/kinetics/empty_blaze_burner": {
     "criteria": {
       "has_item": "2024-12-30 21:22:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:35:26 +0000"
     },
     "done": true
   },
@@ -3521,6 +3971,12 @@
     },
     "done": true
   },
+  "xycraft_machines:recipes/misc/shaped/port_fluid": {
+    "criteria": {
+      "has_bucket": "2024-12-30 21:36:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-30 21:13:22 +0000"
@@ -3542,6 +3998,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-30 21:15:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:35:26 +0000"
     },
     "done": true
   },
@@ -3647,6 +4109,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2024-12-30 21:40:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-30 20:19:31 +0000"
@@ -3674,6 +4142,12 @@
   "immersiveengineering:recipes/misc/crafting/grit_sand": {
     "criteria": {
       "has_sand": "2024-12-30 20:46:30 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/redstone/force_engine": {
+    "criteria": {
+      "has_glass": "2024-12-30 21:36:50 +0000"
     },
     "done": true
   },
@@ -3791,6 +4265,12 @@
     },
     "done": true
   },
+  "rftoolsbuilder:recipes/misc/blue_shield_template_block": {
+    "criteria": {
+      "glass": "2024-12-30 21:36:50 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/metal/metal_warning_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-30 21:22:38 +0000"
@@ -3839,6 +4319,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass1": {
+    "criteria": {
+      "recipe_condition": "2024-12-30 21:36:50 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/magnet_card": {
     "criteria": {
       "has_wct": "2024-12-30 20:09:06 +0000"
@@ -3884,6 +4370,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_lime": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 21:22:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "has_water_bucket": "2024-12-30 21:36:46 +0000"
     },
     "done": true
   },
@@ -3965,6 +4457,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-30 21:36:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 21:22:38 +0000"
@@ -3980,6 +4478,12 @@
   "supplementaries:recipes/cage": {
     "criteria": {
       "minecraft:wooden_slabs": "2024-12-30 20:19:49 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/stonecutting/glass_viewer_dire": {
+    "criteria": {
+      "has_for_glass_viewer_dire": "2024-12-30 21:36:50 +0000"
     },
     "done": true
   },
@@ -4040,6 +4544,12 @@
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2024-12-30 20:28:41 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/dark_runic_glass": {
+    "criteria": {
+      "has_glass": "2024-12-30 21:36:50 +0000"
     },
     "done": true
   },
@@ -4115,6 +4625,12 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/glass_1x": {
+    "criteria": {
+      "has_glass": "2024-12-30 21:36:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-30 21:15:22 +0000"
@@ -4130,6 +4646,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2024-12-30 21:23:18 +0000"
+    },
+    "done": true
+  },
+  "antiblocksrechiseled:recipes/building_blocks/wool_purple": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:35:26 +0000"
     },
     "done": true
   },
@@ -4346,6 +4868,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-30 21:36:50 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/screwdriver": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 21:22:38 +0000"
@@ -4370,6 +4898,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_bucket": {
+    "criteria": {
+      "has_bucket": "2024-12-30 21:36:45 +0000"
+    },
+    "done": true
+  },
   "sfm:recipes/redstone/cable": {
     "criteria": {
       "has_chest": "2024-12-30 20:40:49 +0000"
@@ -4385,6 +4919,12 @@
   "exdeorum:recipes/misc/ores/zinc_tag": {
     "criteria": {
       "has_item": "2024-12-30 20:56:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-30 21:36:46 +0000"
     },
     "done": true
   },
@@ -4448,6 +4988,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:35:26 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/glass_viewer_reinforced": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 21:22:38 +0000"
@@ -4469,6 +5015,12 @@
   "allthecompressed:recipes/building_blocks/compress/cobbled_deepslate_1x": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-30 21:15:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-12-30 21:35:26 +0000"
     },
     "done": true
   },
@@ -4526,6 +5078,12 @@
     },
     "done": true
   },
+  "antiblocksrechiseled:recipes/building_blocks/wool_light_blue": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:35:26 +0000"
+    },
+    "done": true
+  },
   "exdeorum:core/root": {
     "criteria": {
       "in_void_world": "2024-12-30 20:09:01 +0000"
@@ -4567,6 +5125,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 21:22:38 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/stonecutting/glass_viewer": {
+    "criteria": {
+      "has_for_glass_viewer": "2024-12-30 21:36:50 +0000"
     },
     "done": true
   },
@@ -4612,6 +5176,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-30 21:40:11 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/misc/rough_rod": {
     "criteria": {
       "has_item": "2024-12-30 20:17:56 +0000"
@@ -4636,9 +5206,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-30 21:36:50 +0000"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/energy_module": {
     "criteria": {
       "ingot": "2024-12-30 21:22:38 +0000"
+    },
+    "done": true
+  },
+  "antiblocksrechiseled:recipes/building_blocks/wool_lime": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:35:26 +0000"
     },
     "done": true
   },
@@ -4672,9 +5254,21 @@
     },
     "done": true
   },
+  "antiblocksrechiseled:recipes/building_blocks/wool_blue": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:35:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 21:22:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:35:26 +0000"
     },
     "done": true
   },
@@ -4756,6 +5350,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/misc/force_flask": {
+    "criteria": {
+      "has_glass": "2024-12-30 21:36:50 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/block_tracker_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-30 20:56:20 +0000"
@@ -4783,6 +5383,12 @@
   "supplementaries:recipes/sconce": {
     "criteria": {
       "has_torch": "2024-12-30 20:09:06 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/radiator": {
+    "criteria": {
+      "has_water_bucket": "2024-12-30 21:36:46 +0000"
     },
     "done": true
   },
@@ -4846,6 +5452,12 @@
     },
     "done": true
   },
+  "sfm:recipes/redstone/water_tank": {
+    "criteria": {
+      "has_water": "2024-12-30 21:36:46 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/print_classic": {
     "criteria": {
       "has_logs": "2024-12-30 20:18:07 +0000"
@@ -4873,6 +5485,12 @@
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-30 21:15:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-30 21:36:50 +0000"
     },
     "done": true
   },
@@ -4990,9 +5608,21 @@
     },
     "done": true
   },
+  "forcecraft:recipes/misc/force_pack_upgrade": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:35:26 +0000"
+    },
+    "done": true
+  },
   "energymeter:recipes/energymeter/meter": {
     "criteria": {
       "has_item": "2024-12-30 20:09:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-12-30 21:35:26 +0000"
     },
     "done": true
   },
@@ -5050,6 +5680,18 @@
     },
     "done": true
   },
+  "croptopia:recipes/shaped_water_bottle": {
+    "criteria": {
+      "has_water": "2024-12-30 21:36:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/white_seat": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:35:26 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/misc/clibano_combustion/iron_ingot_from_clibano_combusting": {
     "criteria": {
       "has_item": "2024-12-30 21:05:28 +0000"
@@ -5095,6 +5737,12 @@
   "rftoolsutility:recipes/rftoolsutility/energyplus_module": {
     "criteria": {
       "ingot": "2024-12-30 21:22:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
+    "criteria": {
+      "has_wool": "2024-12-30 21:35:26 +0000"
     },
     "done": true
   },
@@ -5152,9 +5800,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/jerrycan": {
+    "criteria": {
+      "has_bucket": "2024-12-30 21:36:45 +0000"
+    },
+    "done": true
+  },
   "rechiseled:recipes/misc/chisel": {
     "criteria": {
       "recipe_condition": "2024-12-30 21:22:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2024-12-30 21:36:50 +0000"
     },
     "done": true
   },

@@ -8062,3 +8062,16 @@ Refer to the recipe's ResourceLocation to find the mod responsible and let them 
 [30Dec2024 21:34:52.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bascap> :eggplant::peach:
 [30Dec2024 21:34:56.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bascap> por ese culito
 [30Dec2024 21:35:40.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 has made the advancement [Sweet Dreams]
+[30Dec2024 21:40:14.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 has made the advancement [Neighborhood Brawl]
+[30Dec2024 21:44:53.931] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: warrior123123[/[::1]:51672] logged in with entity id 4587 at (11.5, 68.0, 5.5)
+[30Dec2024 21:44:54.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior123123 joined the game
+[30Dec2024 21:44:54.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior123123 has made the advancement [Don't Look Down...]
+[30Dec2024 21:44:54.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior123123 has made the advancement [Christmas]
+[30Dec2024 21:44:54.188] [Server thread/INFO] [Jade/]: Syncing config to warrior123123 (9bd89d6c-e9a5-3239-ba47-5770512a02b3)
+[30Dec2024 21:44:54.190] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-1 unused), uncached profiles: 0, total profiles: 4
+[30Dec2024 21:44:54.190] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: First time literal{}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell warrior123123 '},hoverEvent=HoverEvent{action=<action show_entity>, value='net.minecraft.network.chat.HoverEvent$EntityTooltipInfo@b8b90ef2'},insertion=warrior123123}, siblings=[literal{warrior123123}]] joined. Putting into spawn team.
+[30Dec2024 21:47:04.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <warrior123123> amiguitos hablare por chat nms
+[30Dec2024 21:47:20.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <warrior123123> :peped::peped:
+[30Dec2024 21:47:40.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bascap> :racehorse: como este la tengo
+[30Dec2024 21:48:21.008] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Created team waza (a0537262-8dd7-4a56-b51c-e75a1d08866e) at BlockPos{x=-4096, y=64, z=-4096} with template Anarchy
+[30Dec2024 21:48:21.015] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2309ms or 46 ticks behind
