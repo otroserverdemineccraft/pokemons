@@ -8128,3 +8128,8 @@ Refer to the recipe's ResourceLocation to find the mod responsible and let them 
 [30Dec2024 23:26:20.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to warrior123123]
 [30Dec2024 23:27:34.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Survival Mode]
 [30Dec2024 23:27:41.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LIGS_458> como vas
+[30Dec2024 23:31:31.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <warrior123123> voy a limpiar ya vyelvo
+[30Dec2024 23:31:35.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LIGS_458> ok
+[30Dec2024 23:32:16.008] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: warrior123123 lost connection: Timed out
+[30Dec2024 23:32:16.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior123123 left the game
+[30Dec2024 23:35:20.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 has made the advancement [Shocking]
