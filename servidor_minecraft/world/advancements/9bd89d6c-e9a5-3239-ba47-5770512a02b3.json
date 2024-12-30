@@ -527,6 +527,12 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2024-12-30 22:10:41 +0000"
+    },
+    "done": false
+  },
   "croptopia:recipes/fruit_smoothie": {
     "criteria": {
       "has_ice": "2024-12-30 21:55:56 +0000"

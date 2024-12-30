@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-30 22:19:01 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/curtains": {
     "criteria": {
       "has_wood": "2024-12-30 21:35:26 +0000"
@@ -104,6 +110,12 @@
   "enderio:recipes/misc/void_chassis": {
     "criteria": {
       "has_ingredient": "2024-12-30 21:23:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-30 22:19:01 +0000"
     },
     "done": true
   },
@@ -215,6 +227,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-30 22:19:01 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/andesite_1x": {
     "criteria": {
       "has_andesite": "2024-12-30 21:13:22 +0000"
@@ -293,6 +311,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/tools/sanity_meter": {
+    "criteria": {
+      "has_ingots/gold": "2024-12-30 22:19:01 +0000"
+    },
+    "done": true
+  },
   "trashcans:recipes/misc/liquid_trash_can": {
     "criteria": {
       "recipe_condition": "2024-12-30 21:36:45 +0000"
@@ -344,6 +368,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 21:22:38 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/gold_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/gold]_ingot": "2024-12-30 22:19:01 +0000"
     },
     "done": true
   },
@@ -491,6 +521,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-30 22:19:01 +0000"
+    },
+    "done": true
+  },
   "sfm:recipes/redstone/disk": {
     "criteria": {
       "has_redstone": "2024-12-30 21:23:18 +0000"
@@ -620,6 +656,12 @@
   "mcwroofs:recipes/cobblestone": {
     "criteria": {
       "has_planks": "2024-12-30 20:28:41 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/angel_block": {
+    "criteria": {
+      "has_gold": "2024-12-30 22:19:01 +0000"
     },
     "done": true
   },
@@ -812,6 +854,12 @@
   "appmek:recipes/misc/chemical_cell_housing": {
     "criteria": {
       "has_dusts/redstone": "2024-12-30 21:23:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-30 22:19:01 +0000"
     },
     "done": true
   },
@@ -1115,6 +1163,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/misc/deorum_ingot": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-30 22:19:01 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/oak_bark_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-30 20:18:07 +0000"
@@ -1136,6 +1190,12 @@
   "immersiveengineering:recipes/misc/crafting/concrete": {
     "criteria": {
       "has_clay": "2024-12-30 21:22:34 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/golden_mesh": {
+    "criteria": {
+      "has_item": "2024-12-30 22:19:01 +0000"
     },
     "done": true
   },
@@ -1409,6 +1469,12 @@
     },
     "done": false
   },
+  "supplementaries:recipes/gold_door": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-30 22:19:01 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/daub": {
     "criteria": {
       "has_clay_ball": "2024-12-30 21:22:34 +0000"
@@ -1436,6 +1502,12 @@
   "mcwwindows:recipes/metal": {
     "criteria": {
       "has_wood": "2024-12-30 21:22:38 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/gold_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/gold]_ingot": "2024-12-30 22:19:01 +0000"
     },
     "done": true
   },
@@ -1520,6 +1592,12 @@
   "ae2:recipes/misc/tools/certus_quartz_pickaxe": {
     "criteria": {
       "has_certus_quartz": "2024-12-30 21:30:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-30 22:19:01 +0000"
     },
     "done": true
   },
@@ -1721,6 +1799,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/tools/golden_blacksmith_gavel": {
+    "criteria": {
+      "has_ingots/gold": "2024-12-30 22:19:01 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/mangrove": {
     "criteria": {
       "has_mangrove": "2024-12-30 20:09:06 +0000"
@@ -1802,6 +1886,12 @@
   "exdeorum:core/silk_worm": {
     "criteria": {
       "has_silk_worm": "2024-12-30 20:42:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-30 22:19:01 +0000"
     },
     "done": true
   },
@@ -1913,6 +2003,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/gold_dust_from_ingot": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-30 22:19:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 21:22:38 +0000"
@@ -2000,6 +2096,12 @@
   "xycraft_world:recipes/misc/compacting/xychorium_gem_green": {
     "criteria": {
       "has_xychorium_gem_green": "2024-12-30 21:54:38 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/angel_block_rot": {
+    "criteria": {
+      "has_gold": "2024-12-30 22:19:01 +0000"
     },
     "done": true
   },
@@ -2579,6 +2681,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/key": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-30 22:19:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/black_seat": {
     "criteria": {
       "has_wool": "2024-12-30 21:35:26 +0000"
@@ -2813,6 +2921,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-30 22:19:01 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/food/soul_wafer": {
     "criteria": {
       "has_gunpowder": "2024-12-30 21:23:18 +0000"
@@ -2915,9 +3029,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-30 22:19:01 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/utility/iron_block_from_smelting": {
     "criteria": {
       "has_raw_iron": "2024-12-30 21:18:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-30 22:19:01 +0000"
     },
     "done": true
   },
@@ -3056,6 +3182,12 @@
   "xnet:recipes/xnet/advanced_connector_blue": {
     "criteria": {
       "chest": "2024-12-30 20:40:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-30 22:19:01 +0000"
     },
     "done": true
   },
@@ -3365,6 +3497,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-30 22:19:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-30 21:13:22 +0000"
@@ -3491,6 +3629,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/plate_gold_hammering": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-30 22:19:01 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_purple": {
     "criteria": {
       "has_stick": "2024-12-30 20:17:56 +0000"
@@ -3590,6 +3734,12 @@
   "rftoolsutility:recipes/rftoolsutility/button_module": {
     "criteria": {
       "ingot": "2024-12-30 21:22:38 +0000"
+    },
+    "done": true
+  },
+  "mythicbotany:recipes/misc/alfsteel_template": {
+    "criteria": {
+      "criterion0": "2024-12-30 22:19:01 +0000"
     },
     "done": true
   },
@@ -3695,6 +3845,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/golden_mesh_from_iron_mesh": {
+    "criteria": {
+      "has_item": "2024-12-30 22:19:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-30 21:36:50 +0000"
@@ -3752,6 +3908,12 @@
   "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
     "criteria": {
       "has_wool": "2024-12-30 21:35:26 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_trapdoor": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-30 22:19:01 +0000"
     },
     "done": true
   },
@@ -3902,6 +4064,12 @@
   "supplementaries:recipes/flags/flag_light_blue": {
     "criteria": {
       "has_stick": "2024-12-30 20:17:56 +0000"
+    },
+    "done": true
+  },
+  "exmachinis:recipes/misc/gold_upgrade": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-30 22:19:01 +0000"
     },
     "done": true
   },
@@ -4259,6 +4427,12 @@
     },
     "done": true
   },
+  "bloodmagic:recipes/misc/blood_altar": {
+    "criteria": {
+      "has_gold": "2024-12-30 22:19:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2024-12-30 20:56:12 +0000"
@@ -4289,6 +4463,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-30 22:19:01 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/oak_compressed_sieve": {
     "criteria": {
       "has_item": "2024-12-30 20:18:07 +0000"
@@ -4298,6 +4478,12 @@
   "exdeorum:recipes/tools/iron_hammer": {
     "criteria": {
       "has_item": "2024-12-30 21:22:38 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/tools/golden_hammer": {
+    "criteria": {
+      "has_item": "2024-12-30 22:19:01 +0000"
     },
     "done": true
   },
@@ -4382,6 +4568,12 @@
   "pneumaticcraft:recipes/misc/search_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-30 20:56:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-30 22:19:01 +0000"
     },
     "done": true
   },
@@ -5326,6 +5518,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/misc/force_ingot_from_gold": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-30 22:19:01 +0000"
+    },
+    "done": true
+  },
   "antiblocksrechiseled:recipes/building_blocks/wool_lime": {
     "criteria": {
       "has_wool": "2024-12-30 21:35:26 +0000"
@@ -5914,6 +6112,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/gold_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/gold]_ingot": "2024-12-30 22:19:01 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/jerrycan": {
     "criteria": {
       "has_bucket": "2024-12-30 21:36:45 +0000"
@@ -5929,6 +6133,12 @@
   "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2024-12-30 21:36:50 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/tools/compressed_iron_hammer": {
+    "criteria": {
+      "has_item": "2024-12-30 22:10:18 +0000"
     },
     "done": true
   },

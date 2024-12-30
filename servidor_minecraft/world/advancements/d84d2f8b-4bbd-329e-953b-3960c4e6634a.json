@@ -3214,6 +3214,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2024-12-30 22:18:35 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/rs_engineering": {
     "criteria": {
       "has_redstone": "2024-12-30 21:52:12 +0000"
@@ -3595,6 +3601,12 @@
   "exdeorum:recipes/misc/ores/tin_tag": {
     "criteria": {
       "has_item": "2024-12-30 21:41:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/statue": {
+    "criteria": {
+      "has_clay": "2024-12-30 22:18:35 +0000"
     },
     "done": true
   },
@@ -4267,6 +4279,12 @@
   "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
     "criteria": {
       "has_wool": "2024-12-30 21:33:27 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/clay_1x": {
+    "criteria": {
+      "has_clay": "2024-12-30 22:18:35 +0000"
     },
     "done": true
   },
