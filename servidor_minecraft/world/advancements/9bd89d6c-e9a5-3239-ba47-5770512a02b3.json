@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-30 23:29:35 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/misc/armed_stand": {
     "criteria": {
       "criterion1": "2024-12-30 21:48:43 +0000"
@@ -1584,6 +1590,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-30 23:29:35 +0000"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/fluidplus_module": {
     "criteria": {
       "ingot": "2024-12-30 23:18:24 +0000"
@@ -2437,6 +2449,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/tinted_glass_lead_wire": {
+    "criteria": {
+      "has_amethyst": "2024-12-30 23:29:35 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/wilden_summon_alt": {
     "criteria": {
       "has_journal": "2024-12-30 22:09:11 +0000"
@@ -2980,6 +2998,12 @@
   "ars_nouveau:recipes/building_blocks/archwood_fence_gate": {
     "criteria": {
       "has_journal": "2024-12-30 22:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-30 23:29:35 +0000"
     },
     "done": true
   },
@@ -3835,6 +3859,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-30 23:29:35 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/spirit_trade/spirit_trade/test": {
     "criteria": {
       "has_stone": "2024-12-30 22:55:44 +0000"
@@ -3946,6 +3976,12 @@
   "mcwwindows:recipes/arrow_slits_gothic": {
     "criteria": {
       "has_wood": "2024-12-30 22:55:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-30 23:29:35 +0000"
     },
     "done": true
   },
@@ -4783,6 +4819,12 @@
   "sophisticatedstorage:recipes/misc/oak_chest_from_vanilla_chest": {
     "criteria": {
       "has_vanilla_chest": "2024-12-30 21:52:35 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/ores/zinc_tag": {
+    "criteria": {
+      "has_item": "2024-12-30 23:20:00 +0000"
     },
     "done": true
   },
