@@ -1103,6 +1103,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/granite": {
+    "criteria": {
+      "has_item": "2024-12-30 20:51:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2024-12-30 20:36:12 +0000"
@@ -1160,6 +1166,12 @@
   "forcecraft:recipes/transmutation/transmutation/stick_from_wooden_axe": {
     "criteria": {
       "has_tool": "2024-12-30 20:34:04 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/diorite": {
+    "criteria": {
+      "has_item": "2024-12-30 20:45:44 +0000"
     },
     "done": true
   },
@@ -1366,6 +1378,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/basalt": {
+    "criteria": {
+      "has_item": "2024-12-30 20:45:40 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/food/utility/charcoal_from_campfire": {
     "criteria": {
       "has_logs": "2024-12-30 20:35:27 +0000"
@@ -1405,6 +1423,12 @@
   "mcwfences:recipes/blackstone": {
     "criteria": {
       "has_blackstone": "2024-12-30 20:27:07 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/cobbled_deepslate": {
+    "criteria": {
+      "has_item": "2024-12-30 20:45:45 +0000"
     },
     "done": true
   },

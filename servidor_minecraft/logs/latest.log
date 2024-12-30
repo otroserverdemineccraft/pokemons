@@ -8010,3 +8010,10 @@ Refer to the recipe's ResourceLocation to find the mod responsible and let them 
 [30Dec2024 20:42:40.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 has made the advancement [This Looks Edible]
 [30Dec2024 20:43:33.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap has made the advancement [A Seedy Place]
 [30Dec2024 20:49:24.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 has made the advancement [All the Little Cogs]
+[30Dec2024 20:49:57.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap has made the advancement [Give Him The Hook]
+[30Dec2024 20:50:32.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap has made the advancement [That Goes in the GreenWaste]
+[30Dec2024 20:52:29.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap has made the advancement [This Looks Edible]
+[30Dec2024 20:57:11.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap has made the advancement [Getting an Upgrade]
+[30Dec2024 20:58:31.409] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warrior_Legend lost connection: Timed out
+[30Dec2024 20:58:31.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend left the game
+[30Dec2024 20:58:31.461] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
