@@ -7463,6 +7463,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/potato_chips": {
+    "criteria": {
+      "has_potato": "2024-12-31 21:21:40 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/nickel_plate": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2024-12-31 18:54:04 +0000"
@@ -7682,6 +7688,12 @@
   "sophisticatedstorage:recipes/misc/iron_to_gold_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2024-12-31 20:44:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-31 21:21:40 +0000"
     },
     "done": true
   },
@@ -7955,6 +7967,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/french_fries": {
+    "criteria": {
+      "has_potato": "2024-12-31 21:21:40 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/nickel_rod": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2024-12-31 18:54:04 +0000"
@@ -7976,6 +7994,12 @@
   "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
     "criteria": {
       "has_item": "2024-12-31 19:27:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-31 21:21:43 +0000"
     },
     "done": true
   },
@@ -8219,6 +8243,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-31 21:21:43 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/steel_rod": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/steel]_ingot": "2024-12-31 19:14:30 +0000"
@@ -8273,6 +8303,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/moss_block": {
+    "criteria": {
+      "has_item": "2024-12-31 21:21:43 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/invar_dust_from_alloy_blending": {
     "criteria": {
       "has_item": "2024-12-31 19:09:20 +0000"
@@ -8294,6 +8330,12 @@
   "utilitix:recipes/building_blocks/stone_wall_stonecutting": {
     "criteria": {
       "has_item0": "2024-12-31 18:56:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-31 21:21:43 +0000"
     },
     "done": true
   },
@@ -8345,6 +8387,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-31 21:21:40 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/stone": {
     "criteria": {
       "has_planks": "2024-12-31 18:56:10 +0000"
@@ -8384,6 +8432,12 @@
   "alltheores:recipes/misc/lead_rod": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/lead]_ingot": "2024-12-31 18:53:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-31 21:21:43 +0000"
     },
     "done": true
   },
@@ -8525,6 +8579,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-31 21:21:43 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/blasting/silver_ingot": {
     "criteria": {
       "has_silver_ore": "2024-12-31 19:08:02 +0000"
@@ -8558,6 +8618,12 @@
   "sophisticatedstorage:recipes/misc/storage_output": {
     "criteria": {
       "has_base_tier_wooden_storage": "2024-12-31 20:44:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-31 21:21:40 +0000"
     },
     "done": true
   },
@@ -8807,6 +8873,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-31 21:21:40 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/tin_ingot_from_ore": {
     "criteria": {
       "has_item": "2024-12-31 18:54:15 +0000"
@@ -8888,6 +8960,12 @@
   "allthecompressed:recipes/building_blocks/compress/basalt_1x": {
     "criteria": {
       "has_basalt": "2024-12-31 20:08:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-31 21:21:43 +0000"
     },
     "done": true
   },
@@ -9176,6 +9254,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-31 20:36:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-31 21:21:40 +0000"
     },
     "done": true
   },
