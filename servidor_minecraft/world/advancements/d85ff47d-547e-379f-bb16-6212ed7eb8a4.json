@@ -1609,6 +1609,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2024-12-30 20:33:16 +0000",
+      "baked_potato": "2024-12-31 21:49:55 +0000",
       "carrot": "2024-12-31 21:27:11 +0000"
     },
     "done": false
@@ -7854,6 +7855,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/stick_from_stone_hoe": {
+    "criteria": {
+      "has_tool": "2024-12-31 21:44:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2024-12-31 18:56:10 +0000"
@@ -8835,6 +8842,12 @@
   "alltheores:recipes/misc/silver_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2024-12-31 19:10:57 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/stick_from_stone_shovel": {
+    "criteria": {
+      "has_tool": "2024-12-31 21:43:32 +0000"
     },
     "done": true
   },
