@@ -7432,5 +7432,11 @@
     },
     "done": true
   },
+  "buildinggadgets2:recipes/misc/gadget_cut_paste": {
+    "criteria": {
+      "has_shear": "2024-12-31 18:36:15 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
