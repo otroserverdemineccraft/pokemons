@@ -1906,3 +1906,33 @@ Refer to the recipe's ResourceLocation to find the mod responsible and let them 
 [31Dec2024 20:23:09.708] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
 [31Dec2024 20:25:07.689] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: warrior123123 lost connection: Timed out
 [31Dec2024 20:25:07.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior123123 left the game
+[31Dec2024 20:27:56.412] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: warrior123123[/[::1]:43720] logged in with entity id 6499 at (-4091.7924375729444, 68.0, -4093.026691395454)
+[31Dec2024 20:27:56.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior123123 joined the game
+[31Dec2024 20:27:56.617] [Server thread/INFO] [Jade/]: Syncing config to warrior123123 (9bd89d6c-e9a5-3239-ba47-5770512a02b3)
+[31Dec2024 20:27:56.618] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
+[31Dec2024 20:31:09.624] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
+[31Dec2024 20:31:09.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: You are now a visitor of team waza.]
+[31Dec2024 20:31:22.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LIGS_458> oe
+[31Dec2024 20:31:26.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LIGS_458> oa
+[31Dec2024 20:31:30.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LIGS_458> estas?
+[31Dec2024 20:31:32.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LIGS_458> :V
+[31Dec2024 20:31:38.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <warrior123123> no puedo ni escribir
+[31Dec2024 20:31:46.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <warrior123123> puro lag
+[31Dec2024 20:31:49.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LIGS_458> xd
+[31Dec2024 20:31:56.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LIGS_458> porque sea si esta aca domas tu solo
+[31Dec2024 20:31:59.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LIGS_458> en la nada
+[31Dec2024 20:32:05.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <warrior123123> estoy destinado a salirme siempre de los mundos
+[31Dec2024 20:32:17.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LIGS_458> con cuanto de ram esas jugando tu mc
+[31Dec2024 20:32:25.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <warrior123123> 7
+[31Dec2024 20:32:34.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LIGS_458> y si lo pones en modo ventana pequeña?
+[31Dec2024 20:32:42.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LIGS_458> osea ai jugas con menos resolusion
+[31Dec2024 20:33:36.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LIGS_458> tan seguro de que has configurado bien todos los graficos?
+[31Dec2024 20:33:37.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <warrior123123> esta horrible
+[31Dec2024 20:33:57.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LIGS_458> te va mejor? xd
+[31Dec2024 20:34:00.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <warrior123123> igual lo mismo de fps
+[31Dec2024 20:34:17.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LIGS_458> quitate el balanceo tambien
+[31Dec2024 20:34:23.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LIGS_458> o tampoco lo tienes?
+[31Dec2024 20:34:33.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <warrior123123> ya me quite todo
+[31Dec2024 20:34:44.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LIGS_458> chunks?
+[31Dec2024 20:36:05.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Home sweet home]
+[31Dec2024 20:36:05.880] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
