@@ -1948,3 +1948,13 @@ Refer to the recipe's ResourceLocation to find the mod responsible and let them 
 [31Dec2024 20:47:14.539] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: warrior123123 was kicked for floating too long!
 [31Dec2024 20:47:14.590] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: warrior123123 lost connection: Flying is not enabled on this server
 [31Dec2024 20:47:14.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior123123 left the game
+[31Dec2024 21:00:46.749] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[31Dec2024 21:00:46.757] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 0
+}
+[31Dec2024 21:00:46.758] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 33 extra bytes: 
+[31Dec2024 21:00:46.759] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "Cookie: mstshash=test"
+]
