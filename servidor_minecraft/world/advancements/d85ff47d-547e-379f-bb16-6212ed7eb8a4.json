@@ -4830,7 +4830,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:phantom": "2024-12-30 21:30:44 +0000"
+      "minecraft:phantom": "2024-12-30 21:30:44 +0000",
+      "minecraft:zombie": "2024-12-31 20:48:00 +0000"
     },
     "done": false
   },
@@ -7510,9 +7511,21 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/computer_advanced": {
+    "criteria": {
+      "has_components": "2024-12-31 20:47:00 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_green": {
     "criteria": {
       "has_ingots/aluminum": "2024-12-31 19:27:39 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/redstoneproxy_update": {
+    "criteria": {
+      "torch": "2024-12-31 20:44:30 +0000"
     },
     "done": true
   },
@@ -7663,6 +7676,12 @@
   "immersiveengineering:recipes/misc/crafting/shovel_steel": {
     "criteria": {
       "has_steel_ingot": "2024-12-31 19:14:30 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_to_gold_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-31 20:44:30 +0000"
     },
     "done": true
   },
@@ -7822,6 +7841,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-31 20:44:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-31 18:56:10 +0000"
@@ -7870,6 +7895,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-31 20:48:01 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/immortal_stone_0_dark": {
     "criteria": {
       "has_aluminum_ingot": "2024-12-31 19:27:39 +0000"
@@ -7897,6 +7928,12 @@
   "alltheores:recipes/misc/iron_ingot_from_dust_blasting": {
     "criteria": {
       "has_item": "2024-12-31 19:09:38 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/diamond_to_netherite_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-31 20:44:30 +0000"
     },
     "done": true
   },
@@ -8044,6 +8081,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-31 20:44:30 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/immortal_stone_0_green": {
     "criteria": {
       "has_aluminum_ingot": "2024-12-31 19:27:39 +0000"
@@ -8073,6 +8116,12 @@
       "scrambled_eggs": "2024-12-31 20:14:12 +0000"
     },
     "done": false
+  },
+  "sophisticatedstorage:recipes/misc/storage_input": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2024-12-31 20:44:49 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
@@ -8182,6 +8231,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/copper_chest": {
+    "criteria": {
+      "has_chest": "2024-12-31 20:44:49 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_0_green": {
     "criteria": {
       "has_aluminum_ingot": "2024-12-31 19:27:39 +0000"
@@ -8203,6 +8258,12 @@
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2024-12-31 20:09:38 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/gold_chest": {
+    "criteria": {
+      "has_iron_chest": "2024-12-31 20:46:23 +0000"
     },
     "done": true
   },
@@ -8248,9 +8309,21 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/storage_tool": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-31 20:44:30 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/blasting/iron_ingot_from_dust": {
     "criteria": {
       "has_iron_dust": "2024-12-31 19:09:38 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/copper_shulker_from_copper_chest": {
+    "criteria": {
+      "has_copper_chest": "2024-12-31 20:45:50 +0000"
     },
     "done": true
   },
@@ -8341,6 +8414,12 @@
   "alltheores:recipes/misc/nickel_nugget_from_ingot": {
     "criteria": {
       "has_item": "2024-12-31 18:54:04 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_shulker_from_iron_chest": {
+    "criteria": {
+      "has_iron_chest": "2024-12-31 20:46:23 +0000"
     },
     "done": true
   },
@@ -8440,6 +8519,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/gold_shulker_from_gold_chest": {
+    "criteria": {
+      "has_gold_chest": "2024-12-31 20:47:09 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/blasting/silver_ingot": {
     "criteria": {
       "has_silver_ore": "2024-12-31 19:08:02 +0000"
@@ -8470,6 +8555,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/storage_output": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2024-12-31 20:44:49 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/lead_dust_from_hammer_ingot_crushing": {
     "criteria": {
       "has_item": "2024-12-31 19:09:20 +0000"
@@ -8497,6 +8588,12 @@
   "immersiveengineering:recipes/misc/crafting/plate_aluminum_hammering": {
     "criteria": {
       "has_aluminum_ingot": "2024-12-31 19:27:39 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/diamond_chest": {
+    "criteria": {
+      "has_gold_chest": "2024-12-31 20:47:09 +0000"
     },
     "done": true
   },
@@ -8545,6 +8642,12 @@
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2024-12-31 18:56:14 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_chest": {
+    "criteria": {
+      "has_chest": "2024-12-31 20:44:49 +0000"
     },
     "done": true
   },
@@ -8629,6 +8732,12 @@
   "alltheores:recipes/misc/platinum_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2024-12-31 19:09:20 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/gold_to_diamond_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-31 20:44:30 +0000"
     },
     "done": true
   },
@@ -8848,6 +8957,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/copper_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-31 20:44:30 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/zinc_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/zinc]_ingot": "2024-12-31 19:27:31 +0000"
@@ -8866,6 +8981,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/basic_to_copper_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-31 20:44:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2024-12-31 18:56:10 +0000"
@@ -8875,6 +8996,12 @@
   "xycraft_world:recipes/building_blocks/shaped/immortal_stone_0_red": {
     "criteria": {
       "has_aluminum_ingot": "2024-12-31 19:27:39 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_from_basic_to_copper_tier": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-31 20:44:30 +0000"
     },
     "done": true
   },
@@ -8905,6 +9032,12 @@
   "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_red": {
     "criteria": {
       "has_ingots/aluminum": "2024-12-31 19:27:39 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/controller": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2024-12-31 20:44:49 +0000"
     },
     "done": true
   },
@@ -8974,6 +9107,12 @@
     },
     "done": true
   },
+  "botania:recipes/redstone/animated_torch": {
+    "criteria": {
+      "has_item": "2024-12-31 20:44:30 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/stone": {
     "criteria": {
       "has_wood": "2024-12-31 18:56:10 +0000"
@@ -9001,6 +9140,18 @@
   "alltheores:recipes/misc/aluminum_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/aluminum]_ingot": "2024-12-31 19:27:39 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/shulker_from_chest": {
+    "criteria": {
+      "has_chest": "2024-12-31 20:44:49 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-31 20:44:30 +0000"
     },
     "done": true
   },
@@ -9043,6 +9194,12 @@
   "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_boots": {
     "criteria": {
       "has_armor": "2024-12-31 18:44:00 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_io": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2024-12-31 20:44:49 +0000"
     },
     "done": true
   },
@@ -9109,6 +9266,12 @@
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-31 20:08:52 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_chest_from_copper_chest": {
+    "criteria": {
+      "has_copper_chest": "2024-12-31 20:45:50 +0000"
     },
     "done": true
   },
