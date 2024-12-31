@@ -9504,6 +9504,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_hoe": {
+    "criteria": {
+      "has_tool": "2024-12-31 21:41:21 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_boots": {
     "criteria": {
       "has_armor": "2024-12-31 18:44:00 +0000"
