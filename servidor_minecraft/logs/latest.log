@@ -1805,3 +1805,7 @@ Refer to the recipe's ResourceLocation to find the mod responsible and let them 
 [31Dec2024 18:52:28.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LIGS_458> lo haces dandole con el martillo a la grava
 [31Dec2024 18:52:36.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LIGS_458> digo arena
 [31Dec2024 18:52:38.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <warrior123123> tenkiu
+[31Dec2024 19:11:56.391] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: warrior123123 lost connection: Disconnected
+[31Dec2024 19:11:56.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior123123 left the game
+[31Dec2024 19:11:56.451] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[31Dec2024 19:15:49.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 has made the advancement [The Perfect Foundation]

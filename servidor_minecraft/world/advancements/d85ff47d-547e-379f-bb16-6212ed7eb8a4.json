@@ -7432,6 +7432,18 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/peridot_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-12-31 19:09:20 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/gold_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-12-31 19:09:20 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/nickel_plate": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2024-12-31 18:54:04 +0000"
@@ -7441,6 +7453,18 @@
   "forcecraft:recipes/building_blocks/force_brick": {
     "criteria": {
       "has_force_gem": "2024-12-31 18:50:15 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/tin_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/tin]_ingot": "2024-12-31 19:08:06 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iron_ingot_from_dust": {
+    "criteria": {
+      "has_item": "2024-12-31 19:09:38 +0000"
     },
     "done": true
   },
@@ -7456,6 +7480,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/copper_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2024-12-31 19:09:20 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/capacitor_lv": {
     "criteria": {
       "has_lead_ingot": "2024-12-31 18:53:56 +0000"
@@ -7468,6 +7498,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/ruby_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-12-31 19:09:20 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/capacitor_hv": {
     "criteria": {
       "has_nickel_ingot": "2024-12-31 18:54:04 +0000"
@@ -7477,6 +7513,12 @@
   "immersiveengineering:recipes/misc/crafting/plate_nickel_hammering": {
     "criteria": {
       "has_nickel_ingot": "2024-12-31 18:54:04 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2024-12-31 19:10:57 +0000"
     },
     "done": true
   },
@@ -7504,9 +7546,69 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/aluminum_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2024-12-31 19:09:20 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/tin_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/tin]_ingot": "2024-12-31 19:08:06 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/aluminum_ingot_from_ore_blasting": {
+    "criteria": {
+      "has_item": "2024-12-31 19:08:18 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/building_blocks/crafting/silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-31 19:10:57 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iridium_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-12-31 19:09:20 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/lead_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-12-31 19:09:20 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/electrum_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2024-12-31 19:09:20 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2024-12-31 19:09:20 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/steel_ingot_from_dust": {
+    "criteria": {
+      "has_item": "2024-12-31 19:09:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2024-12-31 18:56:10 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/uranium_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2024-12-31 19:09:20 +0000"
     },
     "done": true
   },
@@ -7522,6 +7624,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/tin_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-12-31 19:09:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-31 18:56:10 +0000"
@@ -7534,9 +7642,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/uranium_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-12-31 19:09:20 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/tin_ingot_from_ore_blasting": {
     "criteria": {
       "has_item": "2024-12-31 18:54:15 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/aluminum_dust": {
+    "criteria": {
+      "has_aluminum": "2024-12-31 19:08:18 +0000"
     },
     "done": true
   },
@@ -7546,9 +7666,27 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/silver_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2024-12-31 19:10:57 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iron_ingot_from_dust_blasting": {
+    "criteria": {
+      "has_item": "2024-12-31 19:09:38 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/dead_bush": {
     "criteria": {
       "has_salts": "2024-12-31 18:50:12 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/netherite_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-12-31 19:09:20 +0000"
     },
     "done": true
   },
@@ -7558,9 +7696,27 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/enderium_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2024-12-31 19:09:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2024-12-31 18:56:10 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/magic_lamp_empty": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-31 19:10:57 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/tin_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2024-12-31 19:09:20 +0000"
     },
     "done": true
   },
@@ -7570,9 +7726,39 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/tin_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/tin]_ingot": "2024-12-31 19:08:06 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2024-12-31 19:09:20 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/sapphire_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-12-31 19:09:20 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/silver_dust_from_ingot": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-31 19:10:57 +0000"
+    },
+    "done": true
+  },
   "buildinggadgets2:recipes/misc/gadget_cut_paste": {
     "criteria": {
       "has_shear": "2024-12-31 18:36:15 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-31 19:10:57 +0000"
     },
     "done": true
   },
@@ -7588,15 +7774,63 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/zinc_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-12-31 19:09:20 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/misc/force_and_you": {
     "criteria": {
       "has_force_gem": "2024-12-31 18:50:15 +0000"
     },
     "done": true
   },
+  "alltheores:recipes/misc/silver_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2024-12-31 19:10:57 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/tin_dust_from_ingot": {
+    "criteria": {
+      "has_tin_ingot": "2024-12-31 19:08:06 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/invar_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2024-12-31 19:09:20 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/silver_dust": {
+    "criteria": {
+      "has_silver": "2024-12-31 19:08:02 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/building_blocks/stone_wall_stonecutting": {
     "criteria": {
       "has_item0": "2024-12-31 18:56:10 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/steel_ingot_from_dust_blasting": {
+    "criteria": {
+      "has_item": "2024-12-31 19:09:52 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/blasting/iron_ingot_from_dust": {
+    "criteria": {
+      "has_iron_dust": "2024-12-31 19:09:38 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/tin_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/tin]_ingot": "2024-12-31 19:08:06 +0000"
     },
     "done": true
   },
@@ -7612,9 +7846,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/ruby_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-12-31 19:09:20 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/lead_rod": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/lead]_ingot": "2024-12-31 18:53:56 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/diamond_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-12-31 19:09:20 +0000"
     },
     "done": true
   },
@@ -7636,6 +7882,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/tin_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2024-12-31 19:08:06 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/beef_jerky": {
     "criteria": {
       "has_salt": "2024-12-31 18:50:12 +0000"
@@ -7648,15 +7900,75 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/iron_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2024-12-31 19:09:20 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/pork_jerky": {
     "criteria": {
       "has_salt": "2024-12-31 18:50:12 +0000"
     },
     "done": true
   },
+  "alltheores:recipes/misc/silver_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2024-12-31 19:08:02 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/nickel_dust_from_ingot": {
     "criteria": {
       "has_nickel_ingot": "2024-12-31 18:54:04 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/blasting/silver_ingot": {
+    "criteria": {
+      "has_silver_ore": "2024-12-31 19:08:02 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/lead_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2024-12-31 19:09:20 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_ingot_from_ore_blasting": {
+    "criteria": {
+      "has_item": "2024-12-31 19:08:02 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/sapphire_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-12-31 19:09:20 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2024-12-31 19:10:57 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2024-12-31 19:09:20 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/peridot_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-12-31 19:09:20 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2024-12-31 19:09:20 +0000"
     },
     "done": true
   },
@@ -7669,6 +7981,30 @@
   "occultism:recipes/crushing/crushing/tin_dust": {
     "criteria": {
       "has_tin": "2024-12-31 18:54:15 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/aluminum_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2024-12-31 19:08:18 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/aluminum_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-12-31 19:09:20 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/gold_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2024-12-31 19:09:20 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/platinum_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-12-31 19:09:20 +0000"
     },
     "done": true
   },
@@ -7702,9 +8038,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/bronze_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2024-12-31 19:09:20 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/lead_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/lead]_ingot": "2024-12-31 18:53:56 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_silver_hammering": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-31 19:10:57 +0000"
     },
     "done": true
   },
@@ -7729,6 +8077,18 @@
   "occultism:recipes/crushing/crushing/lead_dust_from_ingot": {
     "criteria": {
       "has_lead_ingot": "2024-12-31 18:53:56 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/platinum_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2024-12-31 19:09:20 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-12-31 19:09:20 +0000"
     },
     "done": true
   },
@@ -7762,9 +8122,45 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/signalum_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2024-12-31 19:09:20 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-12-31 19:09:20 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-12-31 19:09:20 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/lens_frame": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-31 19:10:57 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-12-31 19:09:20 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/stone": {
     "criteria": {
       "has_wood": "2024-12-31 18:56:10 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2024-12-31 19:10:57 +0000"
     },
     "done": true
   },
@@ -7774,9 +8170,51 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/steel_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2024-12-31 19:09:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2024-12-31 18:56:10 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/smelting/iron_ingot_from_dust": {
+    "criteria": {
+      "has_iron_dust": "2024-12-31 19:09:38 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/brass_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2024-12-31 19:09:20 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/constantan_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2024-12-31 19:09:20 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iron_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-12-31 19:09:20 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/lumium_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2024-12-31 19:09:20 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/smelting/silver_ingot": {
+    "criteria": {
+      "has_silver_ore": "2024-12-31 19:08:02 +0000"
     },
     "done": true
   },
