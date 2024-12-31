@@ -1608,7 +1608,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_beef": "2024-12-30 20:33:16 +0000"
+      "cooked_beef": "2024-12-30 20:33:16 +0000",
+      "carrot": "2024-12-31 21:27:11 +0000"
     },
     "done": false
   },
@@ -7439,6 +7440,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-31 21:25:40 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/peridot_from_hammer_crushing": {
     "criteria": {
       "has_item": "2024-12-31 19:09:20 +0000"
@@ -7499,9 +7506,27 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/dry_bamboo_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-12-31 21:25:40 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_blue": {
     "criteria": {
       "has_ingots/aluminum": "2024-12-31 19:27:39 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-31 21:25:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-31 21:32:01 +0000"
     },
     "done": true
   },
@@ -7553,6 +7578,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-31 21:25:40 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/capacitor_lv": {
     "criteria": {
       "has_lead_ingot": "2024-12-31 18:53:56 +0000"
@@ -7574,6 +7605,12 @@
   "immersiveengineering:recipes/misc/crafting/capacitor_hv": {
     "criteria": {
       "has_nickel_ingot": "2024-12-31 18:54:04 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-31 21:25:40 +0000"
     },
     "done": true
   },
@@ -7655,6 +7692,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-31 21:32:01 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/bamboo_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-12-31 21:25:40 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/wirecoil_structure_steel": {
     "criteria": {
       "has_steel_ingot": "2024-12-31 19:14:30 +0000"
@@ -7670,6 +7719,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2024-12-31 18:56:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-31 21:32:01 +0000"
     },
     "done": true
   },
@@ -7748,6 +7803,12 @@
   "alltheores:recipes/misc/lead_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2024-12-31 19:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-31 21:32:01 +0000"
     },
     "done": true
   },
@@ -7847,6 +7908,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-31 21:25:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-31 18:56:10 +0000"
@@ -7943,6 +8010,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-12-31 21:25:40 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/diamond_to_netherite_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2024-12-31 20:44:30 +0000"
@@ -7970,6 +8043,12 @@
   "croptopia:recipes/french_fries": {
     "criteria": {
       "has_potato": "2024-12-31 21:21:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-31 21:32:01 +0000"
     },
     "done": true
   },
@@ -8021,6 +8100,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2024-12-31 21:31:02 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/axe_steel": {
     "criteria": {
       "has_steel_ingot": "2024-12-31 19:14:30 +0000"
@@ -8036,6 +8121,12 @@
   "mcwbridges:recipes/balustrade_blackstone_bridge": {
     "criteria": {
       "has_planks": "2024-12-31 20:08:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-31 21:32:01 +0000"
     },
     "done": true
   },
@@ -8078,6 +8169,12 @@
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2024-12-31 18:56:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-31 21:32:01 +0000"
     },
     "done": true
   },
@@ -8183,15 +8280,39 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/terracotta": {
+    "criteria": {
+      "has_planks": "2024-12-31 21:32:01 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/terracotta_1x": {
+    "criteria": {
+      "has_terracotta": "2024-12-31 21:32:01 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/blackstone_bridge_pier": {
     "criteria": {
       "has_planks": "2024-12-31 20:08:52 +0000"
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2024-12-31 21:25:40 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/stone_lamp": {
     "criteria": {
       "has_stone": "2024-12-31 18:56:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-31 21:32:01 +0000"
     },
     "done": true
   },
@@ -8495,6 +8616,18 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-31 21:25:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-12-31 21:25:40 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/immortal_stone_red": {
     "criteria": {
       "has_aluminum_ingot": "2024-12-31 19:27:39 +0000"
@@ -8561,6 +8694,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/dry_bamboo_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-31 21:25:40 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/nickel_dust_from_ingot": {
     "criteria": {
       "has_nickel_ingot": "2024-12-31 18:54:04 +0000"
@@ -8585,6 +8724,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-31 21:25:40 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/blasting/silver_ingot": {
     "criteria": {
       "has_silver_ore": "2024-12-31 19:08:02 +0000"
@@ -8594,6 +8739,12 @@
   "xycraft_override:recipes/building_blocks/shaped/stone_bricks_dark_r": {
     "criteria": {
       "has_stone_bricks": "2024-12-31 20:36:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-31 21:32:01 +0000"
     },
     "done": true
   },
@@ -8651,6 +8802,18 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-31 21:25:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flute": {
+    "criteria": {
+      "has_bamboo": "2024-12-31 21:25:40 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/plate_aluminum_hammering": {
     "criteria": {
       "has_aluminum_ingot": "2024-12-31 19:27:39 +0000"
@@ -8660,6 +8823,12 @@
   "sophisticatedstorage:recipes/misc/diamond_chest": {
     "criteria": {
       "has_gold_chest": "2024-12-31 20:47:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-31 21:32:01 +0000"
     },
     "done": true
   },
@@ -8693,6 +8862,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-31 21:32:01 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/aluminum_block": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/aluminum]_ingot": "2024-12-31 19:27:39 +0000"
@@ -8708,6 +8883,12 @@
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2024-12-31 18:56:14 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/bamboo": {
+    "criteria": {
+      "has_wood": "2024-12-31 21:25:40 +0000"
     },
     "done": true
   },
@@ -8744,6 +8925,12 @@
   "occultism:recipes/crushing/crushing/tin_dust": {
     "criteria": {
       "has_tin": "2024-12-31 18:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-31 21:32:01 +0000"
     },
     "done": true
   },
@@ -8861,6 +9048,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-31 21:32:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
     "criteria": {
       "has_item": "2024-12-31 19:27:31 +0000"
@@ -8948,6 +9141,18 @@
   "occultism:recipes/crushing/crushing/lead_dust_from_ingot": {
     "criteria": {
       "has_lead_ingot": "2024-12-31 18:53:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-31 21:32:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-12-31 21:25:40 +0000"
     },
     "done": true
   },
@@ -9083,6 +9288,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-31 21:32:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2024-12-31 20:09:38 +0000"
@@ -9131,9 +9342,21 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-31 21:25:40 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/osmium_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2024-12-31 19:09:20 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-31 21:25:40 +0000"
     },
     "done": true
   },
@@ -9152,6 +9375,12 @@
   "alltheores:recipes/misc/copper_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2024-12-31 19:09:20 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/bamboo_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-31 21:25:40 +0000"
     },
     "done": true
   },
@@ -9293,9 +9522,21 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-31 21:25:40 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/steel_fence": {
     "criteria": {
       "has_steel_ingot": "2024-12-31 19:14:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-31 21:32:01 +0000"
     },
     "done": true
   },
@@ -9419,6 +9660,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-31 21:25:40 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/gunpart_hammer": {
     "criteria": {
       "has_ingot_steel": "2024-12-31 19:14:30 +0000"
@@ -9428,6 +9675,12 @@
   "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_green_r": {
     "criteria": {
       "has_ingots/aluminum": "2024-12-31 19:27:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2024-12-31 21:31:02 +0000"
     },
     "done": true
   },
@@ -9452,6 +9705,12 @@
   "supplementaries:recipes/stonecutting/stone_tile": {
     "criteria": {
       "has_stone_bricks": "2024-12-31 20:36:25 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-31 21:25:40 +0000"
     },
     "done": true
   },
