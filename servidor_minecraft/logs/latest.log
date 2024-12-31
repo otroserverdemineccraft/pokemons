@@ -1894,3 +1894,15 @@ Refer to the recipe's ResourceLocation to find the mod responsible and let them 
 [31Dec2024 19:59:31.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior123123 left the game
 [31Dec2024 20:03:43.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 has made the advancement [Isn't It Iron Pick]
 [31Dec2024 20:09:38.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 has made the advancement [Hidden in the Depths]
+[31Dec2024 20:20:59.327] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: warrior123123[/[::1]:56846] logged in with entity id 6444 at (-4091.7924375729444, 68.0, -4093.026691395454)
+[31Dec2024 20:20:59.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior123123 joined the game
+[31Dec2024 20:20:59.545] [Server thread/INFO] [Jade/]: Syncing config to warrior123123 (9bd89d6c-e9a5-3239-ba47-5770512a02b3)
+[31Dec2024 20:20:59.547] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
+[31Dec2024 20:21:57.441] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: warrior123123 lost connection: Timed out
+[31Dec2024 20:21:57.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior123123 left the game
+[31Dec2024 20:23:09.515] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: warrior123123[/[::1]:47930] logged in with entity id 6450 at (-4091.7924375729444, 68.0, -4093.026691395454)
+[31Dec2024 20:23:09.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior123123 joined the game
+[31Dec2024 20:23:09.707] [Server thread/INFO] [Jade/]: Syncing config to warrior123123 (9bd89d6c-e9a5-3239-ba47-5770512a02b3)
+[31Dec2024 20:23:09.708] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
+[31Dec2024 20:25:07.689] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: warrior123123 lost connection: Timed out
+[31Dec2024 20:25:07.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior123123 left the game
