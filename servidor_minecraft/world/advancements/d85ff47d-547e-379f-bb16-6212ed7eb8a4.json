@@ -8113,6 +8113,12 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/cobblestone_3x": {
+    "criteria": {
+      "has_cobblestone_2x": "2024-12-31 22:00:28 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/axe_steel": {
     "criteria": {
       "has_steel_ingot": "2024-12-31 19:14:30 +0000"
@@ -8248,6 +8254,12 @@
   "sophisticatedstorage:recipes/misc/storage_input": {
     "criteria": {
       "has_base_tier_wooden_storage": "2024-12-31 20:44:49 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/decompress/cobblestone_2x": {
+    "criteria": {
+      "has_cobblestone_2x": "2024-12-31 22:00:28 +0000"
     },
     "done": true
   },
