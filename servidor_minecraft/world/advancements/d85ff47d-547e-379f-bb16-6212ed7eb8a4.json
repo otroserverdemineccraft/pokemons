@@ -7018,21 +7018,111 @@
     },
     "done": true
   },
-  "supplementaries:recipes/wrench": {
+  "tombstone:adventure/mysterious_gift": {
     "criteria": {
-      "has_copper_ingot": "2024-12-31 17:52:37 +0000"
+      "coded_trigger": "2024-12-31 16:54:14 +0000"
     },
     "done": true
   },
-  "occultism:recipes/crushing/crushing/lead_dust": {
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
-      "has_lead": "2024-12-31 17:55:14 +0000"
+      "has_iron_axe": "2024-12-31 17:01:28 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_axe": {
+    "criteria": {
+      "has_tool": "2024-12-31 17:01:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_axe": "2024-12-31 17:01:28 +0000"
     },
     "done": true
   },
   "utilitarian:recipes/misc/utility/gold_block_from_smelting": {
     "criteria": {
       "has_raw_gold": "2024-12-31 17:37:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-31 17:37:49 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/gold_dust_from_raw": {
+    "criteria": {
+      "has_raw_gold": "2024-12-31 17:37:49 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/gold_block_from_blasting": {
+    "criteria": {
+      "has_raw_gold": "2024-12-31 17:37:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-31 17:37:49 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/gold_ingot_from_clibano_combusting_raw_gold": {
+    "criteria": {
+      "has_item": "2024-12-31 17:37:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2024-12-31 17:37:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2024-12-31 17:48:12 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/copper_dust": {
+    "criteria": {
+      "has_copper": "2024-12-31 17:48:12 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/copper_ingot_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2024-12-31 17:48:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2024-12-31 17:48:12 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/gold_block_1x": {
+    "criteria": {
+      "has_gold_block": "2024-12-31 17:52:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-31 17:52:07 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/wrench": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-31 17:52:37 +0000"
     },
     "done": true
   },
@@ -7045,18 +7135,6 @@
   "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
     "criteria": {
       "has_item": "2024-12-31 17:52:37 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/mysterious_gift": {
-    "criteria": {
-      "coded_trigger": "2024-12-31 16:54:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
-    "criteria": {
-      "has_copper_ore": "2024-12-31 17:48:12 +0000"
     },
     "done": true
   },
@@ -7090,18 +7168,6 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/lead_ingot_from_ore": {
-    "criteria": {
-      "has_item": "2024-12-31 17:55:14 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/lead_ingot_from_ore_blasting": {
-    "criteria": {
-      "has_item": "2024-12-31 17:55:14 +0000"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/connector_lv": {
     "criteria": {
       "has_copper_ingot": "2024-12-31 17:52:37 +0000"
@@ -7111,12 +7177,6 @@
   "create:recipes/misc/crafting/appliances/copper_backtank": {
     "criteria": {
       "has_item": "2024-12-31 17:52:37 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/nickel_ingot_from_ore_blasting": {
-    "criteria": {
-      "has_item": "2024-12-31 17:53:34 +0000"
     },
     "done": true
   },
@@ -7144,33 +7204,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2024-12-31 17:37:49 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/gold_dust_from_raw": {
-    "criteria": {
-      "has_raw_gold": "2024-12-31 17:37:49 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/appliances/copper_diving_boots": {
     "criteria": {
       "has_item": "2024-12-31 17:52:37 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/utility/gold_block_from_blasting": {
-    "criteria": {
-      "has_raw_gold": "2024-12-31 17:37:49 +0000"
-    },
-    "done": true
-  },
-  "allthecompressed:recipes/building_blocks/compress/gold_block_1x": {
-    "criteria": {
-      "has_gold_block": "2024-12-31 17:52:07 +0000"
     },
     "done": true
   },
@@ -7186,12 +7222,6 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/nickel_ingot_from_ore": {
-    "criteria": {
-      "has_item": "2024-12-31 17:53:34 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2024-12-31 17:52:37 +0000"
@@ -7204,27 +7234,9 @@
     },
     "done": true
   },
-  "occultism:recipes/crushing/crushing/nickel_dust": {
-    "criteria": {
-      "has_nickel": "2024-12-31 17:53:34 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/copper_dust": {
-    "criteria": {
-      "has_copper": "2024-12-31 17:48:12 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/steam_engine": {
     "criteria": {
       "has_item": "2024-12-31 17:52:37 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/smelting/slag_glass": {
-    "criteria": {
-      "has_slag": "2024-12-31 17:58:01 +0000"
     },
     "done": true
   },
@@ -7249,18 +7261,6 @@
   "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2024-12-31 17:52:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
-    "criteria": {
-      "has_iron_axe": "2024-12-31 17:01:28 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/slag_brick": {
-    "criteria": {
-      "has_slag": "2024-12-31 17:58:01 +0000"
     },
     "done": true
   },
@@ -7294,12 +7294,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
-    "criteria": {
-      "has_gold_block": "2024-12-31 17:52:07 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/steam_whistle": {
     "criteria": {
       "has_item": "2024-12-31 17:52:37 +0000"
@@ -7312,33 +7306,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2024-12-31 17:37:49 +0000"
-    },
-    "done": true
-  },
   "create:copper": {
     "criteria": {
       "0": "2024-12-31 17:52:37 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/fertilizer": {
-    "criteria": {
-      "has_slag": "2024-12-31 17:58:01 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/misc/clibano_combustion/copper_ingot_from_clibano_combusting": {
-    "criteria": {
-      "has_item": "2024-12-31 17:48:12 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/misc/clibano_combustion/gold_ingot_from_clibano_combusting_raw_gold": {
-    "criteria": {
-      "has_item": "2024-12-31 17:37:49 +0000"
     },
     "done": true
   },
@@ -7354,27 +7324,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/raw_gold_block": {
-    "criteria": {
-      "has_raw_gold": "2024-12-31 17:37:49 +0000"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/light_engineering": {
     "criteria": {
       "has_copper_ingot": "2024-12-31 17:52:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
-    "criteria": {
-      "has_copper_ore": "2024-12-31 17:48:12 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_axe": {
-    "criteria": {
-      "has_tool": "2024-12-31 17:01:28 +0000"
     },
     "done": true
   },
@@ -7408,12 +7360,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
-    "criteria": {
-      "has_iron_axe": "2024-12-31 17:01:28 +0000"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/connector_lv_relay": {
     "criteria": {
       "has_copper_ingot": "2024-12-31 17:52:37 +0000"
@@ -7429,6 +7375,60 @@
   "occultism:recipes/crushing/crushing/copper_dust_from_ingot": {
     "criteria": {
       "has_copper_ingot": "2024-12-31 17:52:37 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_ingot_from_ore_blasting": {
+    "criteria": {
+      "has_item": "2024-12-31 17:53:34 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2024-12-31 17:53:34 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/nickel_dust": {
+    "criteria": {
+      "has_nickel": "2024-12-31 17:53:34 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/lead_dust": {
+    "criteria": {
+      "has_lead": "2024-12-31 17:55:14 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/lead_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2024-12-31 17:55:14 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/lead_ingot_from_ore_blasting": {
+    "criteria": {
+      "has_item": "2024-12-31 17:55:14 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/slag_glass": {
+    "criteria": {
+      "has_slag": "2024-12-31 17:58:01 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/slag_brick": {
+    "criteria": {
+      "has_slag": "2024-12-31 17:58:01 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/fertilizer": {
+    "criteria": {
+      "has_slag": "2024-12-31 17:58:01 +0000"
     },
     "done": true
   },

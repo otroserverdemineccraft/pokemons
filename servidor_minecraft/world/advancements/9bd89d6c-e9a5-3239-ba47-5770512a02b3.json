@@ -5712,9 +5712,21 @@
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/stick_from_stone_axe": {
+    "criteria": {
+      "has_tool": "2024-12-31 18:17:51 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/mysterious_gift": {
     "criteria": {
       "coded_trigger": "2024-12-31 18:10:09 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/roasted_pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin_seed": "2024-12-31 18:14:04 +0000"
     },
     "done": true
   },

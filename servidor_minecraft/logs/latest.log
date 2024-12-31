@@ -1718,3 +1718,53 @@ Refer to the recipe's ResourceLocation to find the mod responsible and let them 
 [31Dec2024 18:10:11.871] [Server thread/INFO] [Jade/]: Syncing config to warrior123123 (9bd89d6c-e9a5-3239-ba47-5770512a02b3)
 [31Dec2024 18:10:11.885] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
 [31Dec2024 18:10:11.946] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3609ms or 72 ticks behind
+[31Dec2024 18:19:16.934] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LIGS_458[/[::1]:48840] logged in with entity id 804 at (-1.10689123744487, 67.0, 4096.239276252342)
+[31Dec2024 18:19:17.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 joined the game
+[31Dec2024 18:19:17.270] [Server thread/INFO] [Jade/]: Syncing config to LIGS_458 (d85ff47d-547e-379f-bb16-6212ed7eb8a4)
+[31Dec2024 18:19:17.272] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
+[31Dec2024 18:19:49.336] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
+[31Dec2024 18:19:49.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: You are now a visitor of team waza.]
+[31Dec2024 18:19:52.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LIGS_458> mira
+[31Dec2024 18:20:01.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LIGS_458> te puedo visitar
+[31Dec2024 18:20:05.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LIGS_458> con
+[31Dec2024 18:20:07.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <warrior123123> Y
+[31Dec2024 18:20:11.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <warrior123123> wakala
+[31Dec2024 18:20:13.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LIGS_458> ./skyblock visit
+[31Dec2024 18:20:24.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Home sweet home]
+[31Dec2024 18:20:24.971] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
+[31Dec2024 18:20:50.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <warrior123123> a mi no me deja
+[31Dec2024 18:21:03.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LIGS_458> seguro?
+[31Dec2024 18:21:07.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <warrior123123> :rainbow-flag::rainbow-flag::rainbow-flag::rainbow-flag:
+[31Dec2024 18:21:10.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <warrior123123> si
+[31Dec2024 18:21:13.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LIGS_458> ./skyblock visit
+[31Dec2024 18:21:15.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LIGS_458> haci
+[31Dec2024 18:21:24.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LIGS_458> y pones el nombre de mi isla
+[31Dec2024 18:21:27.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <warrior123123> me dice error
+[31Dec2024 18:21:34.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <warrior123123> ya lo hice
+[31Dec2024 18:21:40.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <warrior123123> y me decia q el equipo no existe
+[31Dec2024 18:21:58.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Made warrior123123 a server operator]
+[31Dec2024 18:22:02.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LIGS_458> a ver ahora?
+[31Dec2024 18:22:09.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <warrior123123> nada
+[31Dec2024 18:22:19.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <warrior123123> todo junto las ratas?
+[31Dec2024 18:22:27.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LIGS_458> nop
+[31Dec2024 18:22:36.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Made warrior123123 no longer a server operator]
+[31Dec2024 18:22:42.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <warrior123123> nada
+[31Dec2024 18:23:04.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LIGS_458> chamare
+[31Dec2024 18:23:07.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <warrior123123> dame piedra p
+[31Dec2024 18:23:19.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LIGS_458> ok cuanta?
+[31Dec2024 18:23:30.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <warrior123123> 2 stacks
+[31Dec2024 18:23:44.629] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
+[31Dec2024 18:23:44.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: You are now a visitor of team waza.]
+[31Dec2024 18:23:58.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LIGS_458> no te acostumbres a
+[31Dec2024 18:23:59.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <warrior123123> donde queda tu isla
+[31Dec2024 18:24:00.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LIGS_458> shhh
+[31Dec2024 18:24:17.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LIGS_458> pera
+[31Dec2024 18:24:53.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LIGS_458> para alla
+[31Dec2024 18:25:02.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LIGS_458> pera esta a 9mil blorques xd
+[31Dec2024 18:25:11.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <warrior123123> marca mi isla p
+[31Dec2024 18:25:19.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LIGS_458> si ya la marque
+[31Dec2024 18:25:44.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LIGS_458> cunado consigamos obsidiana ya hacemos conexion es
+[31Dec2024 18:25:51.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <warrior123123> yeiii
+[31Dec2024 18:26:02.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LIGS_458> por yo domas podre visitarte porque nose porque tu no puedes xd
+[31Dec2024 18:26:31.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Home sweet home]
+[31Dec2024 18:26:31.862] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
