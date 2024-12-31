@@ -7432,9 +7432,87 @@
     },
     "done": true
   },
+  "forcecraft:recipes/building_blocks/force_brick": {
+    "criteria": {
+      "has_force_gem": "2024-12-31 18:50:15 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_helmet": {
+    "criteria": {
+      "has_armor": "2024-12-31 18:44:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-12-31 18:43:52 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_leggings": {
+    "criteria": {
+      "has_armor": "2024-12-31 18:43:57 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/dead_bush": {
+    "criteria": {
+      "has_salts": "2024-12-31 18:50:12 +0000"
+    },
+    "done": true
+  },
   "buildinggadgets2:recipes/misc/gadget_cut_paste": {
     "criteria": {
       "has_shear": "2024-12-31 18:36:15 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/force_and_you": {
+    "criteria": {
+      "has_force_gem": "2024-12-31 18:50:15 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_chestplate": {
+    "criteria": {
+      "has_armor": "2024-12-31 18:43:52 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cheese": {
+    "criteria": {
+      "has_salt": "2024-12-31 18:50:12 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/beef_jerky": {
+    "criteria": {
+      "has_salt": "2024-12-31 18:50:12 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pork_jerky": {
+    "criteria": {
+      "has_salt": "2024-12-31 18:50:12 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/crema": {
+    "criteria": {
+      "has_salt": "2024-12-31 18:50:12 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/butter": {
+    "criteria": {
+      "has_salt": "2024-12-31 18:50:12 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_boots": {
+    "criteria": {
+      "has_armor": "2024-12-31 18:44:00 +0000"
     },
     "done": true
   },
