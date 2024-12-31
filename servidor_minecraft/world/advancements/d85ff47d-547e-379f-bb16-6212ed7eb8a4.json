@@ -7444,6 +7444,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-31 20:09:38 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/immortal_stone_0_light": {
     "criteria": {
       "has_aluminum_ingot": "2024-12-31 19:27:39 +0000"
@@ -7546,6 +7552,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 20:08:52 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/plate_nickel_hammering": {
     "criteria": {
       "has_nickel_ingot": "2024-12-31 18:54:04 +0000"
@@ -7558,9 +7570,21 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/misc/smelting/arcane_crystal_dust_from_smelting": {
+    "criteria": {
+      "has_item": "2024-12-31 20:06:36 +0000"
+    },
+    "done": true
+  },
   "xycraft_machines:recipes/misc/shaped/machine_base": {
     "criteria": {
       "has_aluminum_ingot": "2024-12-31 19:27:39 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/arcane_crystal_dust_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2024-12-31 20:06:36 +0000"
     },
     "done": true
   },
@@ -7579,6 +7603,12 @@
   "immersiveengineering:recipes/misc/crafting/component_steel": {
     "criteria": {
       "has_steel_ingot": "2024-12-31 19:14:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 20:08:52 +0000"
     },
     "done": true
   },
@@ -7633,6 +7663,12 @@
   "alltheores:recipes/misc/tin_block": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/tin]_ingot": "2024-12-31 19:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-31 20:03:43 +0000"
     },
     "done": true
   },
@@ -7780,6 +7816,18 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/misc/blasting/arcane_crystal_dust_from_blasting": {
+    "criteria": {
+      "has_item": "2024-12-31 20:06:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 20:08:52 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/aluminum_dust": {
     "criteria": {
       "has_aluminum": "2024-12-31 19:08:18 +0000"
@@ -7840,6 +7888,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 20:08:52 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_light": {
     "criteria": {
       "has_ingots/aluminum": "2024-12-31 19:27:39 +0000"
@@ -7879,6 +7933,18 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2024-12-31 18:56:10 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_blackstone_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-31 20:08:52 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/tools/lens_of_veritatis": {
+    "criteria": {
+      "has_arcane_crystal": "2024-12-31 20:06:36 +0000"
     },
     "done": true
   },
@@ -7954,6 +8020,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 20:08:52 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/sawblade": {
     "criteria": {
       "has_steel_ingot": "2024-12-31 19:14:30 +0000"
@@ -7984,6 +8056,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/blackstone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-12-31 20:08:52 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/stone_lamp": {
     "criteria": {
       "has_stone": "2024-12-31 18:56:10 +0000"
@@ -7996,6 +8074,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-31 20:09:43 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/misc/force_and_you": {
     "criteria": {
       "has_force_gem": "2024-12-31 18:50:15 +0000"
@@ -8005,6 +8089,18 @@
   "xycraft_world:recipes/building_blocks/shaped/lamp_rgb": {
     "criteria": {
       "has_aluminum": "2024-12-31 19:27:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 20:08:52 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/blackstone_1x": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 20:08:52 +0000"
     },
     "done": true
   },
@@ -8035,6 +8131,12 @@
   "occultism:recipes/crushing/crushing/tin_dust_from_ingot": {
     "criteria": {
       "has_tin_ingot": "2024-12-31 19:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-31 20:09:38 +0000"
     },
     "done": true
   },
@@ -8110,6 +8212,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 20:08:52 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/steel_wallmount": {
     "criteria": {
       "has_steel_ingot": "2024-12-31 19:14:30 +0000"
@@ -8137,6 +8245,12 @@
   "xycraft_world:recipes/building_blocks/shaped/aluminum_torch": {
     "criteria": {
       "has_aluminum": "2024-12-31 19:27:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-12-31 20:08:44 +0000"
     },
     "done": true
   },
@@ -8179,6 +8293,12 @@
   "xycraft_world:recipes/building_blocks/shaped/immortal_stone_red": {
     "criteria": {
       "has_aluminum_ingot": "2024-12-31 19:27:39 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/building_blocks/compressed_crushed_blackstone": {
+    "criteria": {
+      "has_item": "2024-12-31 20:09:32 +0000"
     },
     "done": true
   },
@@ -8236,6 +8356,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 20:08:52 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/blasting/silver_ingot": {
     "criteria": {
       "has_silver_ore": "2024-12-31 19:08:02 +0000"
@@ -8245,6 +8371,12 @@
   "immersiveengineering:recipes/misc/crafting/coil_hv": {
     "criteria": {
       "has_steel_ingot": "2024-12-31 19:14:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 20:08:52 +0000"
     },
     "done": true
   },
@@ -8416,6 +8548,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/arcane_crystal_dust_from_gem": {
+    "criteria": {
+      "has_arcane_crystal_gem": "2024-12-31 20:06:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-31 18:56:10 +0000"
@@ -8506,6 +8644,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 20:08:52 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/arrow_slits_gothic": {
     "criteria": {
       "has_wood": "2024-12-31 18:56:10 +0000"
@@ -8521,6 +8665,12 @@
   "alltheores:recipes/misc/platinum_dust_from_hammer_ingot_crushing": {
     "criteria": {
       "has_item": "2024-12-31 19:09:20 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/basalt_1x": {
+    "criteria": {
+      "has_basalt": "2024-12-31 20:08:44 +0000"
     },
     "done": true
   },
@@ -8590,6 +8740,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/blackstone_lamp": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 20:08:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 20:08:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2024-12-31 18:56:10 +0000"
@@ -8599,6 +8761,18 @@
   "xycraft_world:recipes/building_blocks/shaped/immortal_stone_0_red": {
     "criteria": {
       "has_aluminum_ingot": "2024-12-31 19:27:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-31 20:09:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 20:08:52 +0000"
     },
     "done": true
   },
@@ -8626,6 +8800,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-31 20:08:44 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/osmium_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2024-12-31 19:09:20 +0000"
@@ -8644,9 +8824,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 20:08:52 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_0_dark": {
     "criteria": {
       "has_aluminum_ingot": "2024-12-31 19:27:39 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_pickaxe": {
+    "criteria": {
+      "has_tool": "2024-12-31 20:03:43 +0000"
     },
     "done": true
   },
@@ -8674,6 +8866,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-31 20:08:44 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/aluminum_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/aluminum]_ingot": "2024-12-31 19:27:39 +0000"
@@ -8695,6 +8893,12 @@
   "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_red_r": {
     "criteria": {
       "has_ingots/aluminum": "2024-12-31 19:27:39 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/blackstone": {
+    "criteria": {
+      "has_wood": "2024-12-31 20:08:52 +0000"
     },
     "done": true
   },
@@ -8728,6 +8932,18 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/misc/arcane_crystal_block_from_arcane_crystal": {
+    "criteria": {
+      "has_arcane_crystal": "2024-12-31 20:06:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 20:08:52 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/zinc_ingot_from_ore": {
     "criteria": {
       "has_item": "2024-12-31 19:15:13 +0000"
@@ -8743,6 +8959,24 @@
   "xycraft_world:recipes/building_blocks/shaped/immortal_stone_green": {
     "criteria": {
       "has_aluminum_ingot": "2024-12-31 19:27:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 20:08:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 20:08:52 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/blackstone_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-31 20:08:52 +0000"
     },
     "done": true
   },
@@ -8827,6 +9061,12 @@
   "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_blue_r": {
     "criteria": {
       "has_ingots/aluminum": "2024-12-31 19:27:39 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/netherite_scrap_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2024-12-31 20:09:38 +0000"
     },
     "done": true
   },
