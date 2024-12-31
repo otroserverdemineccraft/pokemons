@@ -1856,3 +1856,23 @@ Refer to the recipe's ResourceLocation to find the mod responsible and let them 
 [31Dec2024 19:32:18.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LIGS_458> porque te da mas materiales
 [31Dec2024 19:32:26.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Home sweet home]
 [31Dec2024 19:32:26.593] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
+[31Dec2024 19:41:28.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: warrior123123 was kicked for floating too long!
+[31Dec2024 19:41:28.342] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: warrior123123 lost connection: Flying is not enabled on this server
+[31Dec2024 19:41:28.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior123123 left the game
+[31Dec2024 19:42:04.570] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: warrior123123[/[::1]:51306] logged in with entity id 2866 at (-4092.178862871828, 69.24918707874468, -4095.3928081716954)
+[31Dec2024 19:42:04.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior123123 joined the game
+[31Dec2024 19:42:04.787] [Server thread/INFO] [Jade/]: Syncing config to warrior123123 (9bd89d6c-e9a5-3239-ba47-5770512a02b3)
+[31Dec2024 19:42:04.789] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
+[31Dec2024 19:42:54.541] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: warrior123123 lost connection: You logged in from another location
+[31Dec2024 19:42:54.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior123123 left the game
+[31Dec2024 19:42:54.552] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: warrior123123[/[::1]:51430] logged in with entity id 2870 at (-4092.178862871828, 69.24918707874468, -4095.3928081716954)
+[31Dec2024 19:42:54.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior123123 joined the game
+[31Dec2024 19:42:54.742] [Server thread/INFO] [Jade/]: Syncing config to warrior123123 (9bd89d6c-e9a5-3239-ba47-5770512a02b3)
+[31Dec2024 19:42:54.744] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
+[31Dec2024 19:44:38.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: warrior123123 was kicked for floating too long!
+[31Dec2024 19:44:38.440] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: warrior123123 lost connection: Flying is not enabled on this server
+[31Dec2024 19:44:38.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior123123 left the game
+[31Dec2024 19:46:02.774] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: warrior123123[/[::1]:57910] logged in with entity id 3010 at (-4092.178862871828, 69.1707870772188, -4095.3928081716954)
+[31Dec2024 19:46:02.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior123123 joined the game
+[31Dec2024 19:46:03.006] [Server thread/INFO] [Jade/]: Syncing config to warrior123123 (9bd89d6c-e9a5-3239-ba47-5770512a02b3)
+[31Dec2024 19:46:03.007] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
