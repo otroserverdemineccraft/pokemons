@@ -1809,3 +1809,13 @@ Refer to the recipe's ResourceLocation to find the mod responsible and let them 
 [31Dec2024 19:11:56.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior123123 left the game
 [31Dec2024 19:11:56.451] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [31Dec2024 19:15:49.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 has made the advancement [The Perfect Foundation]
+[31Dec2024 19:22:51.550] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: warrior123123[/[::1]:41782] logged in with entity id 2096 at (-4086.4273185871384, 68.0, -4085.5859913941035)
+[31Dec2024 19:22:51.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior123123 joined the game
+[31Dec2024 19:22:51.869] [Server thread/INFO] [Jade/]: Syncing config to warrior123123 (9bd89d6c-e9a5-3239-ba47-5770512a02b3)
+[31Dec2024 19:22:51.871] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
+[31Dec2024 19:23:22.894] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1be0ac3a[id=<null>,name=warrior123123,properties={},legacy=false] (/[::1]:43526) lost connection: Timed out
+[31Dec2024 19:24:58.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <warrior123123> al fin puedo hacer algo
+[31Dec2024 19:25:04.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LIGS_458> de q ? xd
+[31Dec2024 19:25:05.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <warrior123123> estuve media hora en la pantatalla de mojang
+[31Dec2024 19:25:12.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <warrior123123> por cambiar las animaciones
+[31Dec2024 19:25:13.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LIGS_458> ajaja

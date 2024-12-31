@@ -7432,6 +7432,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2024-12-31 19:15:13 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/peridot_from_hammer_crushing": {
     "criteria": {
       "has_item": "2024-12-31 19:09:20 +0000"
@@ -7522,9 +7528,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/component_steel": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 19:14:30 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/nickel_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2024-12-31 18:54:04 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_structure_steel": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 19:14:30 +0000"
     },
     "done": true
   },
@@ -7543,6 +7561,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2024-12-31 18:43:52 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/shovel_steel": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 19:14:30 +0000"
     },
     "done": true
   },
@@ -7570,6 +7594,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/steel_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/steel]_ingot": "2024-12-31 19:14:30 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/iridium_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2024-12-31 19:09:20 +0000"
@@ -7591,6 +7621,12 @@
   "alltheores:recipes/misc/zinc_dust_from_hammer_ingot_crushing": {
     "criteria": {
       "has_item": "2024-12-31 19:09:20 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/hoe_steel": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 19:14:30 +0000"
     },
     "done": true
   },
@@ -7678,6 +7714,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2024-12-31 19:15:13 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/dead_bush": {
     "criteria": {
       "has_salts": "2024-12-31 18:50:12 +0000"
@@ -7702,6 +7744,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/axe_steel": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 19:14:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2024-12-31 18:56:10 +0000"
@@ -7711,6 +7759,12 @@
   "occultism:recipes/misc/crafting/magic_lamp_empty": {
     "criteria": {
       "has_silver_ingot": "2024-12-31 19:10:57 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/steel_scaffolding_standard": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 19:14:30 +0000"
     },
     "done": true
   },
@@ -7750,6 +7804,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/sawblade": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 19:14:30 +0000"
+    },
+    "done": true
+  },
   "buildinggadgets2:recipes/misc/gadget_cut_paste": {
     "criteria": {
       "has_shear": "2024-12-31 18:36:15 +0000"
@@ -7783,6 +7843,12 @@
   "forcecraft:recipes/misc/force_and_you": {
     "criteria": {
       "has_force_gem": "2024-12-31 18:50:15 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/steel_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/steel]_ingot": "2024-12-31 19:14:30 +0000"
     },
     "done": true
   },
@@ -7828,15 +7894,33 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/steel_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/steel]_ingot": "2024-12-31 19:14:30 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/tin_plate": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/tin]_ingot": "2024-12-31 19:08:06 +0000"
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/sword_steel": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 19:14:30 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/stone": {
     "criteria": {
       "has_planks": "2024-12-31 18:56:10 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/steel_wallmount": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 19:14:30 +0000"
     },
     "done": true
   },
@@ -7918,6 +8002,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/drillhead_steel": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 19:14:30 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/nickel_dust_from_ingot": {
     "criteria": {
       "has_nickel_ingot": "2024-12-31 18:54:04 +0000"
@@ -7930,9 +8020,27 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/coil_hv": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 19:14:30 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_steel": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 19:14:30 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/lead_dust_from_hammer_ingot_crushing": {
     "criteria": {
       "has_item": "2024-12-31 19:09:20 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/gunpart_drum": {
+    "criteria": {
+      "has_ingot_steel": "2024-12-31 19:14:30 +0000"
     },
     "done": true
   },
@@ -7978,9 +8086,33 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/steel_dust_from_ingot": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 19:14:30 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/tin_dust": {
     "criteria": {
       "has_tin": "2024-12-31 18:54:15 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/pickaxe_steel": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 19:14:30 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/stick_steel": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 19:14:30 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/rockcutter": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 19:14:30 +0000"
     },
     "done": true
   },
@@ -8029,6 +8161,18 @@
   "croptopia:recipes/crema": {
     "criteria": {
       "has_salt": "2024-12-31 18:50:12 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_steel_hammering": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 19:14:30 +0000"
+    },
+    "done": true
+  },
+  "mekanism:steel_casing": {
+    "criteria": {
+      "steel_casing": "2024-12-31 19:15:49 +0000"
     },
     "done": true
   },
@@ -8110,6 +8254,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/steel_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2024-12-31 19:14:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-31 18:56:10 +0000"
@@ -8152,9 +8302,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/wire_steel": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 19:14:30 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/stone": {
     "criteria": {
       "has_wood": "2024-12-31 18:56:10 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/connector_structural": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 19:14:30 +0000"
     },
     "done": true
   },
@@ -8164,9 +8326,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/zinc_ingot_from_ore_blasting": {
+    "criteria": {
+      "has_item": "2024-12-31 19:15:13 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_boots": {
     "criteria": {
       "has_armor": "2024-12-31 18:44:00 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/steel_fence": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-31 19:14:30 +0000"
     },
     "done": true
   },
@@ -8182,9 +8356,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2024-12-31 19:15:13 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/smelting/iron_ingot_from_dust": {
     "criteria": {
       "has_iron_dust": "2024-12-31 19:09:38 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/steel_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/steel]_ingot": "2024-12-31 19:14:30 +0000"
     },
     "done": true
   },
@@ -8224,9 +8410,27 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/gunpart_hammer": {
+    "criteria": {
+      "has_ingot_steel": "2024-12-31 19:14:30 +0000"
+    },
+    "done": true
+  },
+  "rftoolspower:recipes/rftoolspower/power_core1": {
+    "criteria": {
+      "core": "2024-12-31 19:22:02 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/misc/stone_wall": {
     "criteria": {
       "criterion0": "2024-12-31 18:56:10 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/zinc_dust": {
+    "criteria": {
+      "has_zinc": "2024-12-31 19:15:13 +0000"
     },
     "done": true
   },
