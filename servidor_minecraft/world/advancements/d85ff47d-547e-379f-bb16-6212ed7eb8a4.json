@@ -9781,6 +9781,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/jukebox_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-01 17:56:46 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/redstone/resetting_lever_ten": {
     "criteria": {
       "has_ingredient": "2025-01-01 17:46:10 +0000"
@@ -9805,9 +9811,21 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/chipped/carpenters_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-01 17:56:46 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/redstone/resetting_lever_five_inv_from_base": {
     "criteria": {
       "has_ingredient": "2025-01-01 17:46:10 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-01 17:56:46 +0000"
     },
     "done": true
   },
@@ -9817,9 +9835,21 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/chipped/tinkering_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-01 17:56:46 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/antenna_base": {
     "criteria": {
       "block": "2025-01-01 17:45:35 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/filter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-01 17:56:46 +0000"
     },
     "done": true
   },
@@ -9841,6 +9871,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/smelting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-01 17:56:46 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/redstone/resetting_lever_five_inv": {
     "criteria": {
       "has_ingredient": "2025-01-01 17:46:10 +0000"
@@ -9853,15 +9889,45 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-01 17:56:46 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stonecutter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-01 17:56:46 +0000"
+    },
+    "done": true
+  },
   "integrateddynamics:meneglin_basics/squeezing": {
     "criteria": {
       "criteria_0": "2025-01-01 17:45:43 +0000"
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-01 17:56:46 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/redstone/resetting_lever_three_hundred_from_prev": {
     "criteria": {
       "has_ingredient": "2025-01-01 17:46:10 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/hopper_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-01 17:56:46 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/advanced_compacting_upgrade": {
+    "criteria": {
+      "has_compacting_upgrade": "2025-01-01 17:57:08 +0000"
     },
     "done": true
   },
@@ -9874,6 +9940,12 @@
   "enderio:recipes/redstone/resetting_lever_three_hundred_inv_from_prev": {
     "criteria": {
       "has_ingredient": "2025-01-01 17:46:10 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/chipped/alchemy_bench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-01 17:56:46 +0000"
     },
     "done": true
   },
@@ -9895,9 +9967,39 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-01 17:56:46 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/redstone/resetting_lever_thirty_inv_from_base": {
     "criteria": {
       "has_ingredient": "2025-01-01 17:46:10 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/chipped/botanist_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-01 17:56:46 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-01 17:56:46 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/compacting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-01 17:56:46 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-01 17:56:46 +0000"
     },
     "done": true
   },
@@ -9913,6 +10015,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/compression_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-01 17:56:46 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/redstone/resetting_lever_sixty_inv_from_prev": {
     "criteria": {
       "has_ingredient": "2025-01-01 17:46:10 +0000"
@@ -9922,6 +10030,18 @@
   "enderio:recipes/redstone/resetting_lever_sixty_inv": {
     "criteria": {
       "has_ingredient": "2025-01-01 17:46:10 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/backpack_compacting_upgrade_from_storage_compacting_upgrade": {
+    "criteria": {
+      "has_storage_upgrade": "2025-01-01 17:57:08 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/chipped/glassblower_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-01 17:56:46 +0000"
     },
     "done": true
   },
@@ -9937,6 +10057,12 @@
     },
     "done": true
   },
+  "utilitix:recipes/misc/piston_cart": {
+    "criteria": {
+      "criterion0": "2025-01-01 17:57:05 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/redstone/resetting_lever_thirty_inv_from_prev": {
     "criteria": {
       "has_ingredient": "2025-01-01 17:46:10 +0000"
@@ -9946,6 +10072,12 @@
   "integrateddynamics:root": {
     "criteria": {
       "criteria_0": "2025-01-01 17:45:43 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/chipped/mason_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-01 17:56:46 +0000"
     },
     "done": true
   },
@@ -9970,6 +10102,24 @@
   "allthecompressed:recipes/building_blocks/compress/iron_block_1x": {
     "criteria": {
       "has_iron_block": "2025-01-01 17:45:35 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/pickup_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-01 17:56:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/food_press": {
+    "criteria": {
+      "has_piston": "2025-01-01 17:57:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/chipped/loom_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-01 17:56:46 +0000"
     },
     "done": true
   },
