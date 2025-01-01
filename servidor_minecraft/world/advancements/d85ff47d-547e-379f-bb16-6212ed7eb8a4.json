@@ -9769,5 +9769,215 @@
     },
     "done": true
   },
+  "enderio:recipes/redstone/resetting_lever_five_from_inv": {
+    "criteria": {
+      "has_ingredient": "2025-01-01 17:46:10 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_ten_inv_from_prev": {
+    "criteria": {
+      "has_ingredient": "2025-01-01 17:46:10 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_ten": {
+    "criteria": {
+      "has_ingredient": "2025-01-01 17:46:10 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_sixty_from_inv": {
+    "criteria": {
+      "has_ingredient": "2025-01-01 17:46:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-01-01 17:45:35 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_ten_from_prev": {
+    "criteria": {
+      "has_ingredient": "2025-01-01 17:46:10 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_five_inv_from_base": {
+    "criteria": {
+      "has_ingredient": "2025-01-01 17:46:10 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_thirty_from_prev": {
+    "criteria": {
+      "has_ingredient": "2025-01-01 17:46:10 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/antenna_base": {
+    "criteria": {
+      "block": "2025-01-01 17:45:35 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_three_hundred_inv_from_base": {
+    "criteria": {
+      "has_ingredient": "2025-01-01 17:46:10 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_three_hundred_from_inv": {
+    "criteria": {
+      "has_ingredient": "2025-01-01 17:46:10 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_thirty_from_inv": {
+    "criteria": {
+      "has_ingredient": "2025-01-01 17:46:10 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_five_inv": {
+    "criteria": {
+      "has_ingredient": "2025-01-01 17:46:10 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_ten_inv_from_base": {
+    "criteria": {
+      "has_ingredient": "2025-01-01 17:46:10 +0000"
+    },
+    "done": true
+  },
+  "integrateddynamics:meneglin_basics/squeezing": {
+    "criteria": {
+      "criteria_0": "2025-01-01 17:45:43 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_three_hundred_from_prev": {
+    "criteria": {
+      "has_ingredient": "2025-01-01 17:46:10 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_thirty_inv": {
+    "criteria": {
+      "has_ingredient": "2025-01-01 17:46:10 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_three_hundred_inv_from_prev": {
+    "criteria": {
+      "has_ingredient": "2025-01-01 17:46:10 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_ten_inv": {
+    "criteria": {
+      "has_ingredient": "2025-01-01 17:46:10 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_sixty_inv_from_base": {
+    "criteria": {
+      "has_ingredient": "2025-01-01 17:46:10 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_three_hundred": {
+    "criteria": {
+      "has_ingredient": "2025-01-01 17:46:10 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_thirty_inv_from_base": {
+    "criteria": {
+      "has_ingredient": "2025-01-01 17:46:10 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_sixty_from_prev": {
+    "criteria": {
+      "has_ingredient": "2025-01-01 17:46:10 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_sixty": {
+    "criteria": {
+      "has_ingredient": "2025-01-01 17:46:10 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_sixty_inv_from_prev": {
+    "criteria": {
+      "has_ingredient": "2025-01-01 17:46:10 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_sixty_inv": {
+    "criteria": {
+      "has_ingredient": "2025-01-01 17:46:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-01-01 17:45:35 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_thirty": {
+    "criteria": {
+      "has_ingredient": "2025-01-01 17:46:10 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_thirty_inv_from_prev": {
+    "criteria": {
+      "has_ingredient": "2025-01-01 17:46:10 +0000"
+    },
+    "done": true
+  },
+  "integrateddynamics:root": {
+    "criteria": {
+      "criteria_0": "2025-01-01 17:45:43 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_three_hundred_inv": {
+    "criteria": {
+      "has_ingredient": "2025-01-01 17:46:10 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_five": {
+    "criteria": {
+      "has_ingredient": "2025-01-01 17:46:10 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_ten_from_inv": {
+    "criteria": {
+      "has_ingredient": "2025-01-01 17:46:10 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/iron_block_1x": {
+    "criteria": {
+      "has_iron_block": "2025-01-01 17:45:35 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iron_ore_hammer": {
+    "criteria": {
+      "has_iron_block": "2025-01-01 17:45:35 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

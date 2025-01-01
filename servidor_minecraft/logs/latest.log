@@ -1718,3 +1718,4 @@ Refer to the recipe's ResourceLocation to find the mod responsible and let them 
 [01Jan2025 17:35:12.156] [Server thread/INFO] [Jade/]: Syncing config to LIGS_458 (d85ff47d-547e-379f-bb16-6212ed7eb8a4)
 [01Jan2025 17:35:12.168] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
 [01Jan2025 17:35:12.196] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5533ms or 110 ticks behind
+[01Jan2025 17:45:43.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 has made the advancement [Squeezing like a boss]
