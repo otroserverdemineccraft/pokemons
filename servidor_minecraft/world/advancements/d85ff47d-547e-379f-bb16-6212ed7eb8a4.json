@@ -88,7 +88,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:slime": "2025-02-04 02:51:18 +0000"
+      "minecraft:slime": "2025-02-04 02:51:18 +0000",
+      "minecraft:wither_skeleton": "2025-02-04 22:24:07 +0000"
     },
     "done": false
   },

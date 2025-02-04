@@ -13073,3 +13073,85 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Feb2025 22:18:43.162] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ou9jl097hezb]: started parsing
 [04Feb2025 22:18:43.163] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ou9jl097hezb]: Consuming argument `90`
 [04Feb2025 22:18:43.163] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ou9jl097hezb]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:18:53.974] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n05laun72dct]: started parsing
+[04Feb2025 22:18:53.974] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n05laun72dct]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:19:07.345] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1euwcsjaqtgy4]: started parsing
+[04Feb2025 22:19:07.345] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1euwcsjaqtgy4]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:19:15.048] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hymnq6ofspn4]: started parsing
+[04Feb2025 22:19:15.048] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hymnq6ofspn4]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:19:21.961] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0l9qqs8zu34y3]: started parsing
+[04Feb2025 22:19:21.961] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0l9qqs8zu34y3]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:19:26.305] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lm89in41pvtl]: started parsing
+[04Feb2025 22:19:26.305] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lm89in41pvtl]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:19:45.752] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gyriugxd1orp]: started parsing
+[04Feb2025 22:19:45.752] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gyriugxd1orp]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:19:58.877] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1iwj5lwnjaqkw]: started parsing
+[04Feb2025 22:19:58.877] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1iwj5lwnjaqkw]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:20:22.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[04Feb2025 22:20:22.596] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[04Feb2025 22:21:02.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Spectator Mode]
+[04Feb2025 22:21:05.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
+[04Feb2025 22:21:10.482] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wfct3idd7tpp]: started parsing
+[04Feb2025 22:21:10.482] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wfct3idd7tpp]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:21:19.876] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ps8vhzyeobi0]: started parsing
+[04Feb2025 22:21:19.876] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ps8vhzyeobi0]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:22:36.525] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jmm1u6kursum]: started parsing
+[04Feb2025 22:22:36.525] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jmm1u6kursum]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:22:51.962] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b1kya5xi0jwb]: started parsing
+[04Feb2025 22:22:51.962] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b1kya5xi0jwb]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:23:25.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Summoned new Wither Skeleton]
+[04Feb2025 22:24:00.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap has completed the challenge [Cover Me in Debris]
+[04Feb2025 22:24:46.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Spectator Mode]
+[04Feb2025 22:24:55.609] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0olovyt8ivhnr]: started parsing
+[04Feb2025 22:24:55.609] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0olovyt8ivhnr]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:25:10.483] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uesw9rcmhbi8]: started parsing
+[04Feb2025 22:25:10.483] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uesw9rcmhbi8]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:25:13.281] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00z3jnj5h3pd7]: started parsing
+[04Feb2025 22:25:13.281] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00z3jnj5h3pd7]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:25:15.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
+[04Feb2025 22:25:19.675] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uj3q12jboy58]: started parsing
+[04Feb2025 22:25:19.675] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uj3q12jboy58]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:25:22.594] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[04Feb2025 22:25:22.601] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[04Feb2025 22:25:25.548] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ej5jg4owsb6s]: started parsing
+[04Feb2025 22:25:25.548] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ej5jg4owsb6s]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:25:29.501] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hvs3tim8yk9x]: started parsing
+[04Feb2025 22:25:29.501] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hvs3tim8yk9x]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:25:40.553] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mlb4lidxdze8]: started parsing
+[04Feb2025 22:25:40.553] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mlb4lidxdze8]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:25:44.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set the world spawn point to -66, -61, -191 [0.0]]
+[04Feb2025 22:25:47.746] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t05jiuimri89]: started parsing
+[04Feb2025 22:25:47.746] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t05jiuimri89]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:25:57.180] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xzek7wid4w7o]: started parsing
+[04Feb2025 22:25:57.180] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xzek7wid4w7o]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:26:07.548] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [134m9xns86bu0]: started parsing
+[04Feb2025 22:26:07.548] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [134m9xns86bu0]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:26:20.478] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [005hnqztsxrd2]: started parsing
+[04Feb2025 22:26:20.478] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [005hnqztsxrd2]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:26:22.658] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10u1zch214pje]: started parsing
+[04Feb2025 22:26:22.658] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10u1zch214pje]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:26:28.836] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17iiz85pfq44x]: started parsing
+[04Feb2025 22:26:28.836] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17iiz85pfq44x]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:26:31.483] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16983dyjcl216]: started parsing
+[04Feb2025 22:26:31.483] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16983dyjcl216]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:26:37.572] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qw63044noyvh]: started parsing
+[04Feb2025 22:26:37.572] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qw63044noyvh]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:26:42.181] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wuc4qoz9so98]: started parsing
+[04Feb2025 22:26:42.181] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wuc4qoz9so98]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:27:01.396] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1a292ymai4tap]: started parsing
+[04Feb2025 22:27:01.396] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1a292ymai4tap]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:27:04.308] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0906f3su1ehyw]: started parsing
+[04Feb2025 22:27:04.308] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0906f3su1ehyw]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:27:14.309] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h8dtcub3t5m8]: started parsing
+[04Feb2025 22:27:14.309] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h8dtcub3t5m8]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:27:17.126] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rsdndcymib77]: started parsing
+[04Feb2025 22:27:17.126] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rsdndcymib77]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:27:24.804] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jzm06q6u2vrh]: started parsing
+[04Feb2025 22:27:24.804] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jzm06q6u2vrh]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:27:26.725] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v6pj0um13swq]: started parsing
+[04Feb2025 22:27:26.725] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v6pj0um13swq]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:28:02.429] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [074zaq7owbmul]: started parsing
+[04Feb2025 22:28:02.429] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [074zaq7owbmul]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:28:04.525] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bstgahy7e14e]: started parsing
+[04Feb2025 22:28:04.525] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bstgahy7e14e]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:28:22.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Spectator Mode]
