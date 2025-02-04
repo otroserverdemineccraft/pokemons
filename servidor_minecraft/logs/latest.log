@@ -686,3 +686,32 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Feb2025 21:48:10.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> mira lo que estas haciendo alfredo
 [04Feb2025 21:48:14.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> acuerdate de este momento
 [04Feb2025 21:48:31.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> diegooo
+[04Feb2025 21:49:09.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ has made the advancement [Ice Bucket Challenge]
+[04Feb2025 21:49:37.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> soy inocente
+[04Feb2025 21:49:49.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> a que
+[04Feb2025 21:49:49.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Changed the block at -33, -53, -204]
+[04Feb2025 21:50:02.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> que fue
+[04Feb2025 21:50:06.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Changed the block at -34, -54, -180]
+[04Feb2025 21:50:08.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> ya pe
+[04Feb2025 21:50:34.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> tu pe
+[04Feb2025 21:50:37.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> deaa
+[04Feb2025 21:50:39.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> nada
+[04Feb2025 21:50:43.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> ya pe ya pe
+[04Feb2025 21:50:52.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> pero si no les tireee
+[04Feb2025 21:51:00.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 has made the advancement [Hot Stuff]
+[04Feb2025 21:52:03.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> estaba asii
+[04Feb2025 21:52:25.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> gente 30 min extra
+[04Feb2025 21:53:03.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> nah
+[04Feb2025 21:53:21.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> stream sniping
+[04Feb2025 21:53:24.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> muy mal
+[04Feb2025 21:53:47.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> baneaba a su unico viewer
+[04Feb2025 21:54:51.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> ligs
+[04Feb2025 21:55:12.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> no es esoo
+[04Feb2025 21:55:16.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> no puedo hablar
+[04Feb2025 21:55:29.325] [Server thread/INFO] [org.valkyrienskies.eureka.util.ShipAssembler/]: Assembled ship with 133 blocks, out of 32768 allowed
+[04Feb2025 21:55:30.922] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8510203650000006E7, -46.90626227841451, -179.79719218984246] -> [-121.19676478207111, -45.106262326098225, 1.2290062650000006E7] returning empty list! this might break things
+[04Feb2025 21:55:36.172] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8510203650000006E7, -47.00000001180605, -179.79928080923855] -> [-121.19911064952612, -45.20000005948977, 1.2290062650000006E7] returning empty list! this might break things
+[04Feb2025 21:55:41.220] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8510203650000006E7, -46.99663346820804, -181.58195270225406] -> [-121.19964775070548, -45.196633515891754, 1.2290062650000006E7] returning empty list! this might break things
+[04Feb2025 21:55:46.222] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8510203650000006E7, -46.969749662144295, -182.19946845248342] -> [-120.83533965796232, -45.16974970982801, 1.2290062650000006E7] returning empty list! this might break things
+[04Feb2025 21:56:52.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Gamerule keepInventory is now set to: true]
+[04Feb2025 21:57:40.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap has made the advancement [Hot Stuff]
