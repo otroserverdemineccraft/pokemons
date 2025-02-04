@@ -330,3 +330,21 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Feb2025 20:47:58.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> jhsajsa
 [04Feb2025 20:48:00.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> ya
 [04Feb2025 20:48:25.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Spectator Mode]
+[04Feb2025 20:48:32.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
+[04Feb2025 20:48:54.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ has made the advancement [Stone Age]
+[04Feb2025 20:49:37.910] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: LIGS_458/ca_onconcontrolremoto.nbt
+[04Feb2025 20:49:58.386] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1226, y=-63, z=-408}
+[04Feb2025 20:50:40.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> yo que
+[04Feb2025 20:50:43.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> fue diego
+[04Feb2025 20:51:47.903] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: LIGS_458/ca_onconcontrolremoto.nbt
+[04Feb2025 20:51:53.604] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1226, y=-63, z=-408}
+[04Feb2025 20:52:58.627] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: Warrior_Legend/ca_on.nbt
+[04Feb2025 20:53:22.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> queee
+[04Feb2025 20:53:23.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Removed 79 item(s) from player Ly4Nx_]
+[04Feb2025 20:55:58.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend has completed the challenge [Cover Me in Debris]
+[04Feb2025 20:56:06.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Survival Mode]
+[04Feb2025 20:57:49.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was hit with artillery fire
+[04Feb2025 20:57:55.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> XD
+[04Feb2025 20:58:02.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Teleported Warrior_Legend to Ly4Nx_]
+[04Feb2025 20:58:12.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ has completed the challenge [Cover Me in Debris]
+[04Feb2025 20:58:12.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Creative Mode]
