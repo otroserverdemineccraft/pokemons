@@ -759,6 +759,12 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/inverted_clutch_from_conversion": {
+    "criteria": {
+      "has_item": "2025-02-04 23:43:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/gearboxfrom_conversion": {
     "criteria": {
       "has_item": "2025-02-04 21:13:15 +0000"
