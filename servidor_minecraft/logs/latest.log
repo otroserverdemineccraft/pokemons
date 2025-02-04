@@ -722,3 +722,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Feb2025 22:05:34.172] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity IronGolem['cuchurrimi'/5413, l='ServerLevel[Mundo nuevo]', x=-110.30, y=-63.00, z=-189.70] died: cuchurrimi was shot by LIGS_458
 [04Feb2025 22:05:34.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 has made the advancement [Acquire Hardware]
 [04Feb2025 22:06:31.523] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity IronGolem['cuchurrimi'/5461, l='ServerLevel[Mundo nuevo]', x=-110.47, y=-63.00, z=-190.47] died: cuchurrimi was shot by LIGS_458
+[04Feb2025 22:09:07.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> hacemos la base mas segura del mundo y paso esto
+[04Feb2025 22:09:25.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> gente me tengo q salir un toque
+[04Feb2025 22:09:40.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> perame perame
+[04Feb2025 22:12:15.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Spectator Mode]
+[04Feb2025 22:12:29.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Creative Mode]
+[04Feb2025 22:13:11.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Spectator Mode]
+[04Feb2025 22:13:21.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Survival Mode]
+[04Feb2025 22:13:36.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Creative Mode]
