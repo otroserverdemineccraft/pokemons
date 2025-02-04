@@ -953,3 +953,69 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Feb2025 23:08:51.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ left the game
 [04Feb2025 23:08:56.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Teleported Warrior_Legend to Bascap]
 [04Feb2025 23:09:03.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Creative Mode]
+[04Feb2025 23:09:12.373] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5dc2f10f[id=<null>,name=Ly4Nx_,properties={},legacy=false] (/127.134.155.127:58993) lost connection: Disconnected
+[04Feb2025 23:09:13.998] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: LIGS_458/ca_onconcontrolremoto.nbt
+[04Feb2025 23:09:16.530] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ly4Nx_[/127.134.155.127:53815] logged in with entity id 11760 at (72.71150689475706, -56.0, -378.10600362281525)
+[04Feb2025 23:09:16.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ joined the game
+[04Feb2025 23:09:46.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set Warrior_Legend's game mode to Survival Mode]
+[04Feb2025 23:09:51.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Creative Mode]
+[04Feb2025 23:09:58.927] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1226, y=-63, z=-408}
+[04Feb2025 23:10:23.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set Warrior_Legend's game mode to Survival Mode]
+[04Feb2025 23:10:27.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> JAJJSAJS
+[04Feb2025 23:10:28.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend fell out of the world
+[04Feb2025 23:10:32.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> ya paro
+[04Feb2025 23:10:34.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> YAAA
+[04Feb2025 23:10:38.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Survival Mode]
+[04Feb2025 23:10:38.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Teleported Warrior_Legend to Bascap]
+[04Feb2025 23:11:00.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set spawn point to 73, -56, -379 [0.0] in minecraft:overworld for LIGS_458]
+[04Feb2025 23:11:06.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set spawn point to 73, -56, -381 [0.0] in minecraft:overworld for Ly4Nx_]
+[04Feb2025 23:11:12.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend fell out of the world
+[04Feb2025 23:11:14.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Applied effect Night Vision to 4 targets]
+[04Feb2025 23:11:19.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Teleported Warrior_Legend to Bascap]
+[04Feb2025 23:11:24.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 has made the advancement [Stone Age]
+[04Feb2025 23:11:36.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Survival Mode]
+[04Feb2025 23:11:36.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set Ly4Nx_'s game mode to Survival Mode]
+[04Feb2025 23:11:41.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> WAAA
+[04Feb2025 23:12:05.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by LIGS_458
+[04Feb2025 23:12:14.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[04Feb2025 23:12:15.723] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bascap lost connection: Disconnected
+[04Feb2025 23:12:15.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap left the game
+[04Feb2025 23:12:27.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was killed
+[04Feb2025 23:12:27.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Killed Warrior_Legend]
+[04Feb2025 23:12:29.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> yaa
+[04Feb2025 23:13:08.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> juega nomas
+[04Feb2025 23:14:02.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> POSICION EXPUESTA
+[04Feb2025 23:14:14.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> aca mira
+[04Feb2025 23:14:22.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> pero de verdad pee
+[04Feb2025 23:14:35.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[04Feb2025 23:14:50.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> un salto de fe
+[04Feb2025 23:14:52.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[04Feb2025 23:15:10.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[04Feb2025 23:15:27.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[04Feb2025 23:15:54.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by LIGS_458
+[04Feb2025 23:16:05.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> bueno
+[04Feb2025 23:16:09.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> ahora que
+[04Feb2025 23:16:39.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[04Feb2025 23:16:45.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> ya
+[04Feb2025 23:16:53.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ fell out of the world
+[04Feb2025 23:16:58.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
+[04Feb2025 23:17:03.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Teleported Ly4Nx_ to LIGS_458]
+[04Feb2025 23:17:22.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> si
+[04Feb2025 23:17:24.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> nah
+[04Feb2025 23:17:37.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> mas tarde hablo
+[04Feb2025 23:17:46.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set own game mode to Creative Mode]
+[04Feb2025 23:17:48.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> en la noche
+[04Feb2025 23:17:53.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ has made the advancement [Hot Stuff]
+[04Feb2025 23:17:56.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> sip
+[04Feb2025 23:18:03.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> XD
+[04Feb2025 23:18:10.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> soy el comodin
+[04Feb2025 23:18:24.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> pelea pelea
+[04Feb2025 23:18:24.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Kicked Ly4Nx_: Kicked by an operator]
+[04Feb2025 23:18:24.574] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ly4Nx_ lost connection: Kicked by an operator
+[04Feb2025 23:18:24.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ left the game
+[04Feb2025 23:18:40.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Creative Mode]
+[04Feb2025 23:18:46.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
+[04Feb2025 23:18:55.570] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2a651b7d[id=<null>,name=Bascap,properties={},legacy=false] (/127.143.177.98:48257) lost connection: Disconnected
+[04Feb2025 23:18:58.924] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@1a47e1e5[id=<null>,name=Ly4Nx_,properties={},legacy=false] (/127.134.155.127:42731): Took too long to log in
+[04Feb2025 23:18:58.924] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1a47e1e5[id=<null>,name=Ly4Nx_,properties={},legacy=false] (/127.134.155.127:42731) lost connection: Took too long to log in
+[04Feb2025 23:18:58.974] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
