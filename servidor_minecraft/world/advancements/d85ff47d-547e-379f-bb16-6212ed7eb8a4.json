@@ -572,6 +572,12 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/misc/proximity_fuze": {
+    "criteria": {
+      "has_iron_bars": "2025-02-04 21:58:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-02-04 20:28:38 +0000"

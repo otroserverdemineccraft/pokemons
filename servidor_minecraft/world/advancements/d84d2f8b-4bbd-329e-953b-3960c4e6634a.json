@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-02-04 21:57:40 +0000"
+    },
+    "done": true
+  },
   "vs_eureka:recipes/balloon_color": {
     "criteria": {
       "has_red_balloon": "2025-02-04 21:13:13 +0000",

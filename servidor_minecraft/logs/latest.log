@@ -715,3 +715,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Feb2025 21:55:46.222] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8510203650000006E7, -46.969749662144295, -182.19946845248342] -> [-120.83533965796232, -45.16974970982801, 1.2290062650000006E7] returning empty list! this might break things
 [04Feb2025 21:56:52.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Gamerule keepInventory is now set to: true]
 [04Feb2025 21:57:40.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap has made the advancement [Hot Stuff]
+[04Feb2025 21:59:31.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> dejalaas
+[04Feb2025 22:00:31.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> dejalas
+[04Feb2025 22:02:32.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> aca
+[04Feb2025 22:04:08.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> vuelvo
+[04Feb2025 22:05:34.172] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity IronGolem['cuchurrimi'/5413, l='ServerLevel[Mundo nuevo]', x=-110.30, y=-63.00, z=-189.70] died: cuchurrimi was shot by LIGS_458
+[04Feb2025 22:05:34.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 has made the advancement [Acquire Hardware]
+[04Feb2025 22:06:31.523] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity IronGolem['cuchurrimi'/5461, l='ServerLevel[Mundo nuevo]', x=-110.47, y=-63.00, z=-190.47] died: cuchurrimi was shot by LIGS_458
