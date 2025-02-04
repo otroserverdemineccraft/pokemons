@@ -13286,3 +13286,342 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Feb2025 22:48:47.994] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709327994
 [04Feb2025 22:48:49.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by LIGS_458
 [04Feb2025 22:48:51.130] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709331130
+[04Feb2025 22:49:04.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Ly4Nx_
+[04Feb2025 22:49:06.336] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709346336
+[04Feb2025 22:49:27.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[04Feb2025 22:49:29.472] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709369467
+[04Feb2025 22:49:43.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ has made the advancement [Monster Hunter]
+[04Feb2025 22:49:47.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend has reached the goal [Postmortal]
+[04Feb2025 22:49:48.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Ly4Nx_
+[04Feb2025 22:49:51.208] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709391208
+[04Feb2025 22:50:21.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap tried to swim in lava
+[04Feb2025 22:50:22.478] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709422469
+[04Feb2025 22:50:22.590] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[04Feb2025 22:50:22.596] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[04Feb2025 22:50:27.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> no le creas compadre
+[04Feb2025 22:50:40.972] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity IronGolem['cuchurrimi'/5557, l='ServerLevel[Mundo nuevo]', x=-110.47, y=-63.00, z=-189.70] died: cuchurrimi tried to swim in lava
+[04Feb2025 22:50:40.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by LIGS_458
+[04Feb2025 22:50:42.247] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709442247
+[04Feb2025 22:50:50.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by LIGS_458
+[04Feb2025 22:50:51.753] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709451753
+[04Feb2025 22:51:30.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Ly4Nx_
+[04Feb2025 22:51:32.305] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709492305
+[04Feb2025 22:51:41.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> XD
+[04Feb2025 22:51:46.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Spectator Mode]
+[04Feb2025 22:52:20.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend has made the advancement [Spooky Scary Skeleton]
+[04Feb2025 22:52:25.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Survival Mode]
+[04Feb2025 22:52:29.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by LIGS_458
+[04Feb2025 22:52:30.986] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709550986
+[04Feb2025 22:52:34.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
+[04Feb2025 22:52:36.243] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709556243
+[04Feb2025 22:52:39.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
+[04Feb2025 22:52:41.430] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709561430
+[04Feb2025 22:52:43.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by LIGS_458
+[04Feb2025 22:52:44.926] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709564926
+[04Feb2025 22:52:51.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
+[04Feb2025 22:52:52.804] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709572804
+[04Feb2025 22:52:52.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Ly4Nx_
+[04Feb2025 22:52:54.099] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709574099
+[04Feb2025 22:52:59.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Ly4Nx_
+[04Feb2025 22:53:00.576] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709580570
+[04Feb2025 22:53:05.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set the weather to clear]
+[04Feb2025 22:53:39.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by LIGS_458
+[04Feb2025 22:53:40.484] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709620484
+[04Feb2025 22:53:41.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by LIGS_458
+[04Feb2025 22:53:42.827] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709622820
+[04Feb2025 22:53:45.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Bascap
+[04Feb2025 22:53:46.637] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709626637
+[04Feb2025 22:53:49.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Bascap
+[04Feb2025 22:53:51.539] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709631539
+[04Feb2025 22:53:58.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Bascap
+[04Feb2025 22:54:00.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[04Feb2025 22:54:00.076] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709640067
+[04Feb2025 22:54:01.638] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709641638
+[04Feb2025 22:54:03.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Bascap
+[04Feb2025 22:54:04.684] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709644684
+[04Feb2025 22:54:05.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Bascap
+[04Feb2025 22:54:07.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by LIGS_458
+[04Feb2025 22:54:07.225] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709647218
+[04Feb2025 22:54:08.323] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709648319
+[04Feb2025 22:54:10.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Bascap
+[04Feb2025 22:54:11.977] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709651968
+[04Feb2025 22:54:16.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by LIGS_458
+[04Feb2025 22:54:17.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
+[04Feb2025 22:54:17.426] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709657421
+[04Feb2025 22:54:18.962] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709658962
+[04Feb2025 22:54:22.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
+[04Feb2025 22:54:26.203] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709666203
+[04Feb2025 22:54:27.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Bascap
+[04Feb2025 22:54:29.103] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709669103
+[04Feb2025 22:54:29.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
+[04Feb2025 22:54:31.624] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709671619
+[04Feb2025 22:54:34.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
+[04Feb2025 22:54:35.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[04Feb2025 22:54:38.775] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709678775
+[04Feb2025 22:54:41.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> oe ninguna dispara
+[04Feb2025 22:54:49.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Ly4Nx_
+[04Feb2025 22:54:49.281] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0so9rg3pd961l]: started parsing
+[04Feb2025 22:54:49.281] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0so9rg3pd961l]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:54:50.629] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709690629
+[04Feb2025 22:54:50.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[04Feb2025 22:54:52.506] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709692506
+[04Feb2025 22:54:54.060] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07hrjnz2h4rs6]: started parsing
+[04Feb2025 22:54:54.060] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07hrjnz2h4rs6]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:54:56.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[04Feb2025 22:54:58.170] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709698166
+[04Feb2025 22:55:01.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by LIGS_458
+[04Feb2025 22:55:02.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[04Feb2025 22:55:02.909] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709702909
+[04Feb2025 22:55:03.979] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709703969
+[04Feb2025 22:55:07.525] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1g8o42nb67vv2]: started parsing
+[04Feb2025 22:55:07.525] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1g8o42nb67vv2]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:55:14.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[04Feb2025 22:55:14.949] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gvrj888uyu6j]: started parsing
+[04Feb2025 22:55:14.949] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gvrj888uyu6j]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:55:16.377] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709716377
+[04Feb2025 22:55:16.872] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nh1konfdwhho]: started parsing
+[04Feb2025 22:55:16.872] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nh1konfdwhho]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:55:18.157] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0i6i0indt6oo1]: started parsing
+[04Feb2025 22:55:18.157] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0i6i0indt6oo1]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:55:19.261] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15wa2i04yea7f]: started parsing
+[04Feb2025 22:55:19.261] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15wa2i04yea7f]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:55:20.254] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0afm8znafbzx9]: started parsing
+[04Feb2025 22:55:20.254] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0afm8znafbzx9]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:55:21.149] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04ohancwv34vb]: started parsing
+[04Feb2025 22:55:21.149] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04ohancwv34vb]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:55:22.101] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zrzj2nfxb98u]: started parsing
+[04Feb2025 22:55:22.101] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zrzj2nfxb98u]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:55:22.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[04Feb2025 22:55:22.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[04Feb2025 22:55:22.596] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[04Feb2025 22:55:22.978] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19uq5prjqoylp]: started parsing
+[04Feb2025 22:55:22.978] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19uq5prjqoylp]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:55:23.823] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709723817
+[04Feb2025 22:55:23.845] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0frpu7ce8chdq]: started parsing
+[04Feb2025 22:55:23.845] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0frpu7ce8chdq]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:55:24.692] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0s0clespqphs8]: started parsing
+[04Feb2025 22:55:24.692] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0s0clespqphs8]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:55:25.474] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cwa09539xnfk]: started parsing
+[04Feb2025 22:55:25.474] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cwa09539xnfk]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:55:27.125] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0oefvryq9o2ou]: started parsing
+[04Feb2025 22:55:27.125] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0oefvryq9o2ou]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:55:27.789] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0x90p449gl0xj]: started parsing
+[04Feb2025 22:55:27.789] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0x90p449gl0xj]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:55:28.549] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qhxxbv6ezi6p]: started parsing
+[04Feb2025 22:55:28.549] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qhxxbv6ezi6p]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:55:30.357] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1obqeg9vord0w]: started parsing
+[04Feb2025 22:55:30.357] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1obqeg9vord0w]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:55:30.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[04Feb2025 22:55:30.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by LIGS_458
+[04Feb2025 22:55:31.809] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709731809
+[04Feb2025 22:55:31.995] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709731995
+[04Feb2025 22:55:35.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[04Feb2025 22:55:36.704] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0e3dtezcl34h6]: started parsing
+[04Feb2025 22:55:36.704] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0e3dtezcl34h6]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:55:36.951] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709736951
+[04Feb2025 22:55:37.470] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12urprkq2dotk]: started parsing
+[04Feb2025 22:55:37.470] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12urprkq2dotk]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:55:38.125] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jwkklddqi4wn]: started parsing
+[04Feb2025 22:55:38.125] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jwkklddqi4wn]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:55:38.661] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ia9k799ezy51]: started parsing
+[04Feb2025 22:55:38.661] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ia9k799ezy51]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:55:40.755] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15x1isawx47ol]: started parsing
+[04Feb2025 22:55:40.755] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15x1isawx47ol]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:55:41.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[04Feb2025 22:55:41.928] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [046ph0yzu7fv5]: started parsing
+[04Feb2025 22:55:41.928] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [046ph0yzu7fv5]: Consuming argument `air`
+[04Feb2025 22:55:41.928] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [046ph0yzu7fv5]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:55:41.928] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v25rifjen0ro]: started parsing
+[04Feb2025 22:55:41.928] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v25rifjen0ro]: Consuming argument `air`
+[04Feb2025 22:55:41.928] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v25rifjen0ro]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:55:42.494] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10u0yb2xt4gov]: started parsing
+[04Feb2025 22:55:42.494] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10u0yb2xt4gov]: Consuming argument `air`
+[04Feb2025 22:55:42.494] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10u0yb2xt4gov]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:55:42.642] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709742641
+[04Feb2025 22:55:46.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[04Feb2025 22:55:47.223] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pe37jq9h5v4n]: started parsing
+[04Feb2025 22:55:47.223] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pe37jq9h5v4n]: Consuming argument `air`
+[04Feb2025 22:55:47.223] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pe37jq9h5v4n]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:55:47.223] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vu43wm4axixk]: started parsing
+[04Feb2025 22:55:47.223] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vu43wm4axixk]: Consuming argument `air`
+[04Feb2025 22:55:47.224] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vu43wm4axixk]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:55:47.554] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04wfe5l4oyfvd]: started parsing
+[04Feb2025 22:55:47.554] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04wfe5l4oyfvd]: Consuming argument `air`
+[04Feb2025 22:55:47.554] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04wfe5l4oyfvd]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:55:47.746] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709747745
+[04Feb2025 22:55:54.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
+[04Feb2025 22:55:55.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[04Feb2025 22:55:55.922] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709755920
+[04Feb2025 22:55:57.558] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709757558
+[04Feb2025 22:56:02.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[04Feb2025 22:56:03.545] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709763545
+[04Feb2025 22:56:07.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Ly4Nx_
+[04Feb2025 22:56:07.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[04Feb2025 22:56:08.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Spectator Mode]
+[04Feb2025 22:56:08.735] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709768735
+[04Feb2025 22:56:09.576] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709769576
+[04Feb2025 22:56:16.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[04Feb2025 22:56:18.341] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709778341
+[04Feb2025 22:56:21.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
+[04Feb2025 22:56:24.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[04Feb2025 22:56:25.824] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709785824
+[04Feb2025 22:56:30.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[04Feb2025 22:56:32.246] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709792246
+[04Feb2025 22:56:36.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -19.500000, -54.467394, -461.500000]
+[04Feb2025 22:56:38.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[04Feb2025 22:56:38.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap tried to swim in lava
+[04Feb2025 22:56:39.790] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709799790
+[04Feb2025 22:56:40.079] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709800079
+[04Feb2025 22:56:47.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[04Feb2025 22:56:48.871] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709808866
+[04Feb2025 22:56:57.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
+[04Feb2025 22:56:58.777] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709818771
+[04Feb2025 22:57:04.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was slain by Bascap
+[04Feb2025 22:57:05.573] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709825573
+[04Feb2025 22:57:08.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[04Feb2025 22:57:10.380] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709830380
+[04Feb2025 22:57:10.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
+[04Feb2025 22:57:12.542] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709832542
+[04Feb2025 22:57:15.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[04Feb2025 22:57:16.848] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0s2vtzt1bz13l]: started parsing
+[04Feb2025 22:57:16.848] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0s2vtzt1bz13l]: Consuming argument `air`
+[04Feb2025 22:57:16.848] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0s2vtzt1bz13l]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:57:16.848] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p9n9b7drbtyf]: started parsing
+[04Feb2025 22:57:16.848] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p9n9b7drbtyf]: Consuming argument `air`
+[04Feb2025 22:57:16.848] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p9n9b7drbtyf]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:57:17.286] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nzxtxns3ifrt]: started parsing
+[04Feb2025 22:57:17.286] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nzxtxns3ifrt]: Consuming argument `air`
+[04Feb2025 22:57:17.286] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nzxtxns3ifrt]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:57:17.537] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709837390
+[04Feb2025 22:57:21.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[04Feb2025 22:57:22.827] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709842827
+[04Feb2025 22:57:32.187] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1d8o9bjl9h910]: started parsing
+[04Feb2025 22:57:32.187] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1d8o9bjl9h910]: Consuming argument ``
+[04Feb2025 22:57:32.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[04Feb2025 22:57:34.347] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709854347
+[04Feb2025 22:57:34.775] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12w7nqqxi56x3]: started parsing
+[04Feb2025 22:57:34.775] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12w7nqqxi56x3]: Consuming argument `s`
+[04Feb2025 22:57:35.124] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [000e585176fjt]: started parsing
+[04Feb2025 22:57:35.124] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [000e585176fjt]: Consuming argument `so`
+[04Feb2025 22:57:36.328] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0i1s9gnodwbt8]: started parsing
+[04Feb2025 22:57:36.328] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0i1s9gnodwbt8]: Consuming argument `s`
+[04Feb2025 22:57:36.430] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ngh2vsphw7xe]: started parsing
+[04Feb2025 22:57:36.430] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ngh2vsphw7xe]: Consuming argument `st`
+[04Feb2025 22:57:36.605] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pfre3dqb0ao2]: started parsing
+[04Feb2025 22:57:36.605] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pfre3dqb0ao2]: Consuming argument `sto`
+[04Feb2025 22:57:37.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[04Feb2025 22:57:37.600] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oss47wj3xhwl]: started parsing
+[04Feb2025 22:57:37.600] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oss47wj3xhwl]: Consuming argument `stone`
+[04Feb2025 22:57:37.600] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oss47wj3xhwl]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:57:38.939] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709858938
+[04Feb2025 22:57:40.275] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1766ejssyflfv]: started parsing
+[04Feb2025 22:57:40.275] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1766ejssyflfv]: Consuming argument `stone`
+[04Feb2025 22:57:40.275] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1766ejssyflfv]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:57:40.275] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06t2j9enqd116]: started parsing
+[04Feb2025 22:57:40.275] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06t2j9enqd116]: Consuming argument `stone`
+[04Feb2025 22:57:40.275] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06t2j9enqd116]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:57:40.436] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1usql5qvplkes]: started parsing
+[04Feb2025 22:57:40.436] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1usql5qvplkes]: Consuming argument `stone`
+[04Feb2025 22:57:40.437] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1usql5qvplkes]: Consuming argument ``
+[04Feb2025 22:57:41.375] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mmy7igjnu1u1]: started parsing
+[04Feb2025 22:57:41.375] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mmy7igjnu1u1]: Consuming argument `stone`
+[04Feb2025 22:57:41.375] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mmy7igjnu1u1]: Consuming argument `1`
+[04Feb2025 22:57:41.376] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mmy7igjnu1u1]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:57:41.572] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03yi0jw0fki8s]: started parsing
+[04Feb2025 22:57:41.572] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03yi0jw0fki8s]: Consuming argument `stone`
+[04Feb2025 22:57:41.572] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03yi0jw0fki8s]: Consuming argument `10`
+[04Feb2025 22:57:41.572] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03yi0jw0fki8s]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:57:41.797] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13z6tamj3p1cf]: started parsing
+[04Feb2025 22:57:41.797] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13z6tamj3p1cf]: Consuming argument `stone`
+[04Feb2025 22:57:41.798] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13z6tamj3p1cf]: Consuming argument `10`
+[04Feb2025 22:57:41.798] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13z6tamj3p1cf]: Consuming argument ``
+[04Feb2025 22:57:42.076] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b2vg33uksw4l]: started parsing
+[04Feb2025 22:57:42.076] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b2vg33uksw4l]: Consuming argument `stone`
+[04Feb2025 22:57:42.076] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b2vg33uksw4l]: Consuming argument `10`
+[04Feb2025 22:57:42.076] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b2vg33uksw4l]: Consuming argument `1`
+[04Feb2025 22:57:42.077] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b2vg33uksw4l]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:57:42.238] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16koezsxiuus8]: started parsing
+[04Feb2025 22:57:42.239] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16koezsxiuus8]: Consuming argument `stone`
+[04Feb2025 22:57:42.239] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16koezsxiuus8]: Consuming argument `10`
+[04Feb2025 22:57:42.239] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16koezsxiuus8]: Consuming argument `1`
+[04Feb2025 22:57:42.239] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16koezsxiuus8]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:57:45.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
+[04Feb2025 22:57:47.140] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709867140
+[04Feb2025 22:57:48.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Bascap
+[04Feb2025 22:57:52.621] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04znakrnjberl]: started parsing
+[04Feb2025 22:57:52.621] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04znakrnjberl]: Consuming argument `stone`
+[04Feb2025 22:57:52.622] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04znakrnjberl]: Consuming argument `10`
+[04Feb2025 22:57:52.622] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04znakrnjberl]: Consuming argument `1`
+[04Feb2025 22:57:52.622] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04znakrnjberl]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:57:52.622] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1w08cehs59f9s]: started parsing
+[04Feb2025 22:57:52.622] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1w08cehs59f9s]: Consuming argument `stone`
+[04Feb2025 22:57:52.622] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1w08cehs59f9s]: Consuming argument `10`
+[04Feb2025 22:57:52.622] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1w08cehs59f9s]: Consuming argument `1`
+[04Feb2025 22:57:52.622] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1w08cehs59f9s]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:57:52.946] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sh41xyebdus0]: started parsing
+[04Feb2025 22:57:52.947] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sh41xyebdus0]: Consuming argument `stone`
+[04Feb2025 22:57:52.947] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sh41xyebdus0]: Consuming argument `10`
+[04Feb2025 22:57:52.947] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sh41xyebdus0]: Consuming argument `1`
+[04Feb2025 22:57:52.947] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sh41xyebdus0]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:57:56.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
+[04Feb2025 22:57:57.851] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709877851
+[04Feb2025 22:58:01.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported 4 entities to LIGS_458]
+[04Feb2025 22:58:03.482] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709883482
+[04Feb2025 22:58:04.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
+[04Feb2025 22:58:06.272] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709886269
+[04Feb2025 22:58:14.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend fell out of the world
+[04Feb2025 22:58:15.172] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1785217 : 768127
+[04Feb2025 22:58:15.172] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: f306b002-aacc-469b-8b4a-9986337bc40d watched ships: [38]
+[04Feb2025 22:58:15.289] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1784959 : 768127
+[04Feb2025 22:58:15.289] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1785985 : 768127
+[04Feb2025 22:58:15.289] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1786240 : 768126
+[04Feb2025 22:58:15.289] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: f306b002-aacc-469b-8b4a-9986337bc40d watched ships: [34, 35, 39]
+[04Feb2025 22:58:15.444] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1785216 : 768126
+[04Feb2025 22:58:15.444] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1784447 : 768127
+[04Feb2025 22:58:15.444] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1784960 : 768126
+[04Feb2025 22:58:15.444] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1786241 : 768127
+[04Feb2025 22:58:15.444] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1785984 : 768126
+[04Feb2025 22:58:15.444] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1786240 : 768127
+[04Feb2025 22:58:15.444] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1785216 : 768127
+[04Feb2025 22:58:15.444] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1784448 : 768126
+[04Feb2025 22:58:15.444] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1784960 : 768127
+[04Feb2025 22:58:15.444] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1785984 : 768127
+[04Feb2025 22:58:15.444] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1784704 : 768128
+[04Feb2025 22:58:15.445] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: f306b002-aacc-469b-8b4a-9986337bc40d watched ships: [40, 41]
+[04Feb2025 22:58:15.673] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709895673
+[04Feb2025 22:58:25.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[04Feb2025 22:58:27.814] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709907814
+[04Feb2025 22:58:37.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[04Feb2025 22:58:39.223] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709919223
+[04Feb2025 22:58:42.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[04Feb2025 22:58:42.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> yo estoy q webeo
+[04Feb2025 22:58:43.997] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709923997
+[04Feb2025 22:58:48.981] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01tome0ejm6fq]: started parsing
+[04Feb2025 22:58:48.981] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01tome0ejm6fq]: Consuming argument `stone`
+[04Feb2025 22:58:48.981] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01tome0ejm6fq]: Consuming argument `10`
+[04Feb2025 22:58:48.982] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01tome0ejm6fq]: Consuming argument `1`
+[04Feb2025 22:58:48.982] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01tome0ejm6fq]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:58:48.982] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05cvvpllf6k7l]: started parsing
+[04Feb2025 22:58:48.982] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05cvvpllf6k7l]: Consuming argument `stone`
+[04Feb2025 22:58:48.982] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05cvvpllf6k7l]: Consuming argument `10`
+[04Feb2025 22:58:48.982] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05cvvpllf6k7l]: Consuming argument `1`
+[04Feb2025 22:58:48.982] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05cvvpllf6k7l]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:58:49.525] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dwnunsw15kfy]: started parsing
+[04Feb2025 22:58:49.525] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dwnunsw15kfy]: Consuming argument `stone`
+[04Feb2025 22:58:49.525] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dwnunsw15kfy]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:58:49.525] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0h0wqw03vzi3b]: started parsing
+[04Feb2025 22:58:49.525] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0h0wqw03vzi3b]: Consuming argument `stone`
+[04Feb2025 22:58:49.525] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0h0wqw03vzi3b]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:58:49.981] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13k9hu5fu38ly]: started parsing
+[04Feb2025 22:58:49.981] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13k9hu5fu38ly]: Consuming argument `air`
+[04Feb2025 22:58:49.981] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13k9hu5fu38ly]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:58:49.982] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cxvd0fjdl1e5]: started parsing
+[04Feb2025 22:58:49.982] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cxvd0fjdl1e5]: Consuming argument `air`
+[04Feb2025 22:58:49.982] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cxvd0fjdl1e5]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:58:50.403] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0twink0uc5m9r]: started parsing
+[04Feb2025 22:58:50.403] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0twink0uc5m9r]: Consuming argument `air`
+[04Feb2025 22:58:50.403] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0twink0uc5m9r]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:58:53.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[04Feb2025 22:58:55.399] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709935399
+[04Feb2025 22:59:00.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[04Feb2025 22:59:00.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by LIGS_458

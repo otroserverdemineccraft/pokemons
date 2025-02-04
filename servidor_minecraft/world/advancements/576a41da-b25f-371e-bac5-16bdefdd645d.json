@@ -191,15 +191,34 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:wither_skeleton": "2025-02-04 22:47:07 +0000",
+      "minecraft:cave_spider": "2025-02-04 22:52:14 +0000"
+    },
+    "done": false
+  },
   "create:recipes/misc/crafting/kinetics/gearbox": {
     "criteria": {
       "has_item": "2025-02-04 21:04:23 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-02-04 22:47:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-02-04 20:41:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-02-04 22:49:47 +0000"
     },
     "done": true
   },
@@ -266,6 +285,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-02-04 21:37:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-02-04 22:47:09 +0000"
     },
     "done": true
   },
@@ -374,6 +399,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2025-02-04 22:47:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-04 20:41:49 +0000"
@@ -383,6 +414,12 @@
   "create:recipes/misc/crafting/schematics/schematicannon": {
     "criteria": {
       "has_item": "2025-02-04 20:51:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-02-04 22:52:20 +0000"
     },
     "done": true
   },
@@ -476,6 +513,12 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/misc/proximity_fuze": {
+    "criteria": {
+      "has_iron_bars": "2025-02-04 22:48:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-04 20:41:15 +0000"
@@ -485,6 +528,12 @@
   "vs_eureka:recipes/ship_helm": {
     "criteria": {
       "has_gold": "2025-02-04 20:32:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:wither_skeleton": "2025-02-04 22:47:07 +0000"
     },
     "done": true
   },
@@ -539,6 +588,12 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-02-04 21:24:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-02-04 22:52:20 +0000"
     },
     "done": true
   },
