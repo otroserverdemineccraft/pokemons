@@ -348,3 +348,33 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Feb2025 20:58:02.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Teleported Warrior_Legend to Ly4Nx_]
 [04Feb2025 20:58:12.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ has completed the challenge [Cover Me in Debris]
 [04Feb2025 20:58:12.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Creative Mode]
+[04Feb2025 20:58:56.948] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: LIGS_458/torretaacontrolremoto.nbt
+[04Feb2025 21:00:40.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Survival Mode]
+[04Feb2025 21:00:50.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Creative Mode]
+[04Feb2025 21:01:14.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Survival Mode]
+[04Feb2025 21:01:40.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set LIGS_458's game mode to Survival Mode]
+[04Feb2025 21:01:40.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set Ly4Nx_'s game mode to Survival Mode]
+[04Feb2025 21:01:42.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[04Feb2025 21:01:48.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
+[04Feb2025 21:02:28.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Teleported Ly4Nx_ to Warrior_Legend]
+[04Feb2025 21:02:35.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[04Feb2025 21:02:50.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Teleported Ly4Nx_ to Warrior_Legend]
+[04Feb2025 21:03:08.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was blown up by Warrior_Legend
+[04Feb2025 21:04:20.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was blown up by LIGS_458
+[04Feb2025 21:04:36.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> ponme el creativo pee
+[04Feb2025 21:04:45.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Creative Mode]
+[04Feb2025 21:04:45.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set Ly4Nx_'s game mode to Creative Mode]
+[04Feb2025 21:04:45.975] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4, y=-61, z=-74} BlockPos{x=-4, y=-61, z=-75}
+[04Feb2025 21:05:47.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set LIGS_458's game mode to Survival Mode]
+[04Feb2025 21:05:47.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Survival Mode]
+[04Feb2025 21:05:47.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set Ly4Nx_'s game mode to Survival Mode]
+[04Feb2025 21:05:52.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was slain by Warrior_Legend
+[04Feb2025 21:05:52.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
+[04Feb2025 21:05:57.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 has reached the goal [Sky's the Limit]
+[04Feb2025 21:06:07.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set own game mode to Creative Mode]
+[04Feb2025 21:07:16.397] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ly4Nx_ lost connection: Disconnected
+[04Feb2025 21:07:16.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ left the game
+[04Feb2025 21:07:16.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Kicked Ly4Nx_: Kicked by an operator]
+[04Feb2025 21:07:16.416] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Feb2025 21:07:24.427] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ly4Nx_[/127.134.155.127:38773] logged in with entity id 3087 at (-21.261140449532213, -60.0, -206.55843971916488)
+[04Feb2025 21:07:24.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ joined the game

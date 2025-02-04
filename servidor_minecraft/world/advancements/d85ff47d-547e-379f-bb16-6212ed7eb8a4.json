@@ -128,6 +128,12 @@
     },
     "done": true
   },
+  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
+    "criteria": {
+      "has_item": "2025-02-04 21:01:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-04 20:41:52 +0000"
@@ -236,6 +242,12 @@
     },
     "done": true
   },
+  "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
+    "criteria": {
+      "has_item": "2025-02-04 21:01:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-04 20:41:52 +0000"
@@ -254,6 +266,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-02-04 21:05:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-04 20:41:52 +0000"
@@ -269,6 +287,12 @@
   "create:recipes/misc/crafting/appliances/linked_controller": {
     "criteria": {
       "has_item": "2025-02-04 20:50:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-02-04 21:05:16 +0000"
     },
     "done": true
   },
