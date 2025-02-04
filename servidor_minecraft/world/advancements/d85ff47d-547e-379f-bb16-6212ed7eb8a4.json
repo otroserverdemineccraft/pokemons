@@ -477,6 +477,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-02-04 22:42:43 +0000"
+    },
+    "done": true
+  },
   "createbigcannons:recipes/misc/mortar_stone": {
     "criteria": {
       "has_stone": "2025-02-04 20:41:52 +0000"
@@ -764,6 +770,12 @@
       "has_item": "2025-02-04 20:50:27 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "enchanted_golden_apple": "2025-02-04 22:42:43 +0000"
+    },
+    "done": false
   },
   "create:recipes/building_blocks/veridium_pillar_from_stone_types_veridium_stonecutting": {
     "criteria": {

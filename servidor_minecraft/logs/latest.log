@@ -774,3 +774,41 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Feb2025 22:37:32.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
 [04Feb2025 22:37:33.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> a bueno
 [04Feb2025 22:37:42.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Creative Mode]
+[04Feb2025 22:39:35.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied enchantment Efficiency V to Bascap's item]
+[04Feb2025 22:39:43.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> eu, pq este no dispara?
+[04Feb2025 22:40:03.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> no :u
+[04Feb2025 22:40:25.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> esta mejor
+[04Feb2025 22:41:21.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Applied effect Night Vision to LIGS_458]
+[04Feb2025 22:41:30.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Applied effect Night Vision to 4 targets]
+[04Feb2025 22:41:37.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Spectator Mode]
+[04Feb2025 22:41:41.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
+[04Feb2025 22:42:33.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied enchantment Unbreaking III to Bascap's item]
+[04Feb2025 22:42:50.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Survival Mode]
+[04Feb2025 22:43:34.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Creative Mode]
+[04Feb2025 22:43:53.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> ocupo balas
+[04Feb2025 22:44:08.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap has reached the goal [Sky's the Limit]
+[04Feb2025 22:44:28.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> dame balas
+[04Feb2025 22:44:43.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> yaya
+[04Feb2025 22:44:48.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> yaaaa
+[04Feb2025 22:45:07.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set Ly4Nx_'s game mode to Survival Mode]
+[04Feb2025 22:45:07.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set Bascap's game mode to Survival Mode]
+[04Feb2025 22:45:07.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set Warrior_Legend's game mode to Survival Mode]
+[04Feb2025 22:45:07.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Survival Mode]
+[04Feb2025 22:45:11.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> YA
+[04Feb2025 22:45:41.522] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SnowGolem['GOLEM DE HIRRO :V'/6160, l='ServerLevel[Mundo nuevo]', x=-113.96, y=-55.00, z=-187.15] died: GOLEM DE HIRRO :V drowned
+[04Feb2025 22:46:09.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by LIGS_458
+[04Feb2025 22:46:10.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
+[04Feb2025 22:46:15.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap has made the advancement [Stone Age]
+[04Feb2025 22:46:19.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
+[04Feb2025 22:46:43.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Ly4Nx_
+[04Feb2025 22:46:44.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[04Feb2025 22:46:51.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Ly4Nx_
+[04Feb2025 22:46:55.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was blown up by Bascap
+[04Feb2025 22:47:07.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend has made the advancement [Monster Hunter]
+[04Feb2025 22:47:40.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by LIGS_458
+[04Feb2025 22:47:54.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by LIGS_458
+[04Feb2025 22:47:56.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[04Feb2025 22:48:08.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap has made the advancement [Ice Bucket Challenge]
+[04Feb2025 22:48:16.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by LIGS_458
+[04Feb2025 22:48:31.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by LIGS_458
+[04Feb2025 22:48:49.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by LIGS_458
