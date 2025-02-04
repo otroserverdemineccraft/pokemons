@@ -13625,3 +13625,176 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Feb2025 22:58:55.399] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709935399
 [04Feb2025 22:59:00.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
 [04Feb2025 22:59:00.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by LIGS_458
+[04Feb2025 22:59:02.379] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709942374
+[04Feb2025 22:59:02.407] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709942407
+[04Feb2025 22:59:09.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was slain by Bascap
+[04Feb2025 22:59:10.062] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08f5wo27qdrqf]: started parsing
+[04Feb2025 22:59:10.062] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08f5wo27qdrqf]: Consuming argument `air`
+[04Feb2025 22:59:10.062] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08f5wo27qdrqf]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:59:10.062] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1m66zql78wl1w]: started parsing
+[04Feb2025 22:59:10.062] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1m66zql78wl1w]: Consuming argument `air`
+[04Feb2025 22:59:10.062] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1m66zql78wl1w]: Finished looking at arguments. Finalizing command.
+[04Feb2025 22:59:11.273] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709951268
+[04Feb2025 22:59:11.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was slain by Bascap
+[04Feb2025 22:59:12.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported 4 entities to LIGS_458]
+[04Feb2025 22:59:13.138] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709953138
+[04Feb2025 22:59:16.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported 4 entities to LIGS_458]
+[04Feb2025 22:59:18.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was slain by Bascap
+[04Feb2025 22:59:20.454] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738709960454
+[04Feb2025 22:59:36.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Creative Mode]
+[04Feb2025 22:59:52.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Creative Mode]
+[04Feb2025 22:59:58.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set own game mode to Creative Mode]
+[04Feb2025 23:00:22.078] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1790849 : 768128
+[04Feb2025 23:00:22.078] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: d318ddf7-fe69-416a-8e29-b27b9e1dfa71 watched ships: [16]
+[04Feb2025 23:00:22.475] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1790848 : 768129
+[04Feb2025 23:00:22.529] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1790848 : 768128
+[04Feb2025 23:00:22.592] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[04Feb2025 23:00:22.598] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[04Feb2025 23:00:22.775] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1790848 : 768127
+[04Feb2025 23:00:23.077] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1790847 : 768128
+[04Feb2025 23:00:24.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported Ly4Nx_ to LIGS_458]
+[04Feb2025 23:00:24.724] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1790848 : 768127
+[04Feb2025 23:00:24.724] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1790847 : 768128
+[04Feb2025 23:00:24.725] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1790848 : 768128
+[04Feb2025 23:00:24.725] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1790849 : 768128
+[04Feb2025 23:00:24.725] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1790848 : 768129
+[04Feb2025 23:00:24.725] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: dc34836a-4f1b-4206-a59b-e97c174f288a unwatched ships [16]
+[04Feb2025 23:00:24.725] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: d318ddf7-fe69-416a-8e29-b27b9e1dfa71 unwatched ships [16]
+[04Feb2025 23:00:24.725] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 04168dce-2ff1-4e11-bb0d-28ef8e3d0b0c unwatched ships [16]
+[04Feb2025 23:00:24.725] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 5227f1f0-d7c1-4b27-985b-cbbd926a6940 unwatched ships [16]
+[04Feb2025 23:00:58.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Survival Mode]
+[04Feb2025 23:01:14.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Ly4Nx_
+[04Feb2025 23:01:15.657] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738710075656
+[04Feb2025 23:01:46.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> see
+[04Feb2025 23:01:56.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> era la idea
+[04Feb2025 23:02:00.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Survival Mode]
+[04Feb2025 23:02:21.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> esta q roza
+[04Feb2025 23:02:25.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Creative Mode]
+[04Feb2025 23:02:52.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Survival Mode]
+[04Feb2025 23:02:57.327] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fdl1iwjapf8r]: started parsing
+[04Feb2025 23:02:57.327] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fdl1iwjapf8r]: Consuming argument ``
+[04Feb2025 23:02:58.010] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17waxq8ynlptm]: started parsing
+[04Feb2025 23:02:58.011] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17waxq8ynlptm]: Consuming argument `s`
+[04Feb2025 23:02:58.391] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0r90erwkwbx7e]: started parsing
+[04Feb2025 23:02:58.391] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0r90erwkwbx7e]: Consuming argument `st`
+[04Feb2025 23:02:58.492] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1twdowlmuyxgf]: started parsing
+[04Feb2025 23:02:58.493] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1twdowlmuyxgf]: Consuming argument `sto`
+[04Feb2025 23:02:58.689] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1thrrn28buhs1]: started parsing
+[04Feb2025 23:02:58.690] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1thrrn28buhs1]: Consuming argument `ston`
+[04Feb2025 23:02:59.094] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jsxporhbf3up]: started parsing
+[04Feb2025 23:02:59.094] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jsxporhbf3up]: Consuming argument `stono`
+[04Feb2025 23:02:59.552] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13d0sidd0ut2g]: started parsing
+[04Feb2025 23:02:59.553] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13d0sidd0ut2g]: Consuming argument `ston`
+[04Feb2025 23:02:59.657] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0no6tphddxt1a]: started parsing
+[04Feb2025 23:02:59.657] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0no6tphddxt1a]: Consuming argument `stone`
+[04Feb2025 23:02:59.658] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0no6tphddxt1a]: Finished looking at arguments. Finalizing command.
+[04Feb2025 23:02:59.861] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mwpe44k2ehzd]: started parsing
+[04Feb2025 23:02:59.861] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mwpe44k2ehzd]: Consuming argument `stone`
+[04Feb2025 23:02:59.862] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mwpe44k2ehzd]: Consuming argument ``
+[04Feb2025 23:03:00.577] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g56lvub929mb]: started parsing
+[04Feb2025 23:03:00.577] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g56lvub929mb]: Consuming argument `stone`
+[04Feb2025 23:03:00.577] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g56lvub929mb]: Consuming argument `b`
+[04Feb2025 23:03:00.695] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0plc1avvpvju9]: started parsing
+[04Feb2025 23:03:00.695] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0plc1avvpvju9]: Consuming argument `stone`
+[04Feb2025 23:03:00.695] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0plc1avvpvju9]: Consuming argument `be`
+[04Feb2025 23:03:02.078] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zl6g0wrixv4k]: started parsing
+[04Feb2025 23:03:02.078] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zl6g0wrixv4k]: Consuming argument `stone`
+[04Feb2025 23:03:02.078] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zl6g0wrixv4k]: Consuming argument `bedrock`
+[04Feb2025 23:03:02.078] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zl6g0wrixv4k]: Finished looking at arguments. Finalizing command.
+[04Feb2025 23:03:21.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Creative Mode]
+[04Feb2025 23:03:38.538] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19l7z3u95qh5z]: started parsing
+[04Feb2025 23:03:38.538] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19l7z3u95qh5z]: Consuming argument `stone`
+[04Feb2025 23:03:38.538] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19l7z3u95qh5z]: Consuming argument `bedrock`
+[04Feb2025 23:03:38.538] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19l7z3u95qh5z]: Finished looking at arguments. Finalizing command.
+[04Feb2025 23:03:38.539] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [164sej1hkg51d]: started parsing
+[04Feb2025 23:03:38.539] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [164sej1hkg51d]: Consuming argument `stone`
+[04Feb2025 23:03:38.539] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [164sej1hkg51d]: Consuming argument `bedrock`
+[04Feb2025 23:03:38.539] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [164sej1hkg51d]: Finished looking at arguments. Finalizing command.
+[04Feb2025 23:03:40.960] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pucrvircovbh]: started parsing
+[04Feb2025 23:03:40.960] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pucrvircovbh]: Consuming argument `stone`
+[04Feb2025 23:03:40.960] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pucrvircovbh]: Consuming argument `bedrock`
+[04Feb2025 23:03:40.961] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pucrvircovbh]: Finished looking at arguments. Finalizing command.
+[04Feb2025 23:03:40.961] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1um7gvvditwe5]: started parsing
+[04Feb2025 23:03:40.961] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1um7gvvditwe5]: Consuming argument `stone`
+[04Feb2025 23:03:40.961] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1um7gvvditwe5]: Consuming argument `bedrock`
+[04Feb2025 23:03:40.961] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1um7gvvditwe5]: Finished looking at arguments. Finalizing command.
+[04Feb2025 23:03:41.460] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ysj3ikaiazs1]: started parsing
+[04Feb2025 23:03:41.460] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ysj3ikaiazs1]: Consuming argument `stone`
+[04Feb2025 23:03:41.460] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ysj3ikaiazs1]: Consuming argument `bedrock`
+[04Feb2025 23:03:41.461] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ysj3ikaiazs1]: Finished looking at arguments. Finalizing command.
+[04Feb2025 23:03:55.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported Bascap to Warrior_Legend]
+[04Feb2025 23:04:01.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported Bascap to Warrior_Legend]
+[04Feb2025 23:04:13.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap fell out of the world
+[04Feb2025 23:04:15.106] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738710255102
+[04Feb2025 23:05:22.588] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[04Feb2025 23:05:22.595] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[04Feb2025 23:05:35.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Creative Mode]
+[04Feb2025 23:06:12.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Survival Mode]
+[04Feb2025 23:06:21.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported Bascap to Warrior_Legend]
+[04Feb2025 23:06:33.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> FUEGO
+[04Feb2025 23:06:39.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> ya
+[04Feb2025 23:06:46.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was killed
+[04Feb2025 23:06:46.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Killed Ly4Nx_]
+[04Feb2025 23:06:47.762] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738710407762
+[04Feb2025 23:06:53.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was killed
+[04Feb2025 23:06:53.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Killed Warrior_Legend]
+[04Feb2025 23:06:54.432] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738710414432
+[04Feb2025 23:07:00.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Gave 213213123 experience points to Bascap]
+[04Feb2025 23:07:21.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Teleported Ly4Nx_ to Warrior_Legend]
+[04Feb2025 23:07:24.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> oe
+[04Feb2025 23:07:27.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> XD
+[04Feb2025 23:07:32.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Creative Mode]
+[04Feb2025 23:07:33.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Teleported Warrior_Legend to Bascap]
+[04Feb2025 23:07:36.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> me tepeo a el
+[04Feb2025 23:07:46.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Teleported Ly4Nx_ to LIGS_458]
+[04Feb2025 23:07:50.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set Ly4Nx_'s game mode to Survival Mode]
+[04Feb2025 23:07:58.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Survival Mode]
+[04Feb2025 23:07:58.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set own game mode to Creative Mode]
+[04Feb2025 23:08:05.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Teleported Ly4Nx_ to Warrior_Legend]
+[04Feb2025 23:08:19.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set Warrior_Legend's game mode to Survival Mode]
+[04Feb2025 23:08:31.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Creative Mode]
+[04Feb2025 23:08:38.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was killed
+[04Feb2025 23:08:38.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Killed Ly4Nx_]
+[04Feb2025 23:08:40.924] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738710520915
+[04Feb2025 23:08:45.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was killed
+[04Feb2025 23:08:45.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Killed Warrior_Legend]
+[04Feb2025 23:08:46.703] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738710526703
+[04Feb2025 23:08:51.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Kicked Ly4Nx_: Kicked by an operator]
+[04Feb2025 23:08:51.127] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ly4Nx_ lost connection: Kicked by an operator
+[04Feb2025 23:08:51.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ left the game
+[04Feb2025 23:08:55.399] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 33 messages to dispatch.
+[04Feb2025 23:08:55.423] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[04Feb2025 23:08:55.473] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[04Feb2025 23:08:55.523] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[04Feb2025 23:08:55.572] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[04Feb2025 23:08:55.623] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[04Feb2025 23:08:55.674] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[04Feb2025 23:08:55.723] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[04Feb2025 23:08:55.775] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[04Feb2025 23:08:55.826] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[04Feb2025 23:08:55.876] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry createbigcannons:block_recipe_serializers' to 'fml:handshake' sequence 9
+[04Feb2025 23:08:55.923] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 10
+[04Feb2025 23:08:55.971] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 11
+[04Feb2025 23:08:56.024] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 12
+[04Feb2025 23:08:56.077] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 13
+[04Feb2025 23:08:56.124] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 14
+[04Feb2025 23:08:56.180] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 15
+[04Feb2025 23:08:56.226] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 16
+[04Feb2025 23:08:56.275] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 17
+[04Feb2025 23:08:56.324] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry createbigcannons:cannon_cast_shapes' to 'fml:handshake' sequence 18
+[04Feb2025 23:08:56.375] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 19
+[04Feb2025 23:08:56.423] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry createbigcannons:block_recipe_types' to 'fml:handshake' sequence 20
+[04Feb2025 23:08:56.480] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 21
+[04Feb2025 23:08:56.523] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 22
+[04Feb2025 23:08:56.572] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 23
+[04Feb2025 23:08:56.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Teleported Warrior_Legend to Bascap]
+[04Feb2025 23:08:56.626] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ritchiesprojectilelib-server.toml' to 'fml:handshake' sequence 24
+[04Feb2025 23:08:56.676] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config vs_clockwork-server.toml' to 'fml:handshake' sequence 25
+[04Feb2025 23:08:56.725] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config create-server.toml' to 'fml:handshake' sequence 26
+[04Feb2025 23:08:56.776] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config createbigcannons-server.toml' to 'fml:handshake' sequence 27
+[04Feb2025 23:08:56.824] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config create_connected-server.toml' to 'fml:handshake' sequence 28
+[04Feb2025 23:08:56.873] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 29
+[04Feb2025 23:08:56.923] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tacz-server.toml' to 'fml:handshake' sequence 30
+[04Feb2025 23:08:56.974] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 31
+[04Feb2025 23:08:57.023] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'com.tacz.guns.network.message.handshake.ServerMessageSyncedEntityDataMapping' to 'tacz:handshake' sequence 32
+[04Feb2025 23:09:03.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Creative Mode]

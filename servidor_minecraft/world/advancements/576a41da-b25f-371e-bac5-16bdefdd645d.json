@@ -41,6 +41,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-02-04 23:01:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-04 23:01:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-04 20:41:15 +0000"
@@ -167,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-02-04 23:01:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/summon_iron_golem": {
     "criteria": {
       "summoned_golem": "2025-02-04 21:36:25 +0000"
@@ -176,6 +194,12 @@
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-04 20:41:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-04 23:01:36 +0000"
     },
     "done": true
   },
@@ -197,6 +221,12 @@
       "minecraft:cave_spider": "2025-02-04 22:52:14 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-02-04 23:01:36 +0000"
+    },
+    "done": true
   },
   "create:recipes/misc/crafting/kinetics/gearbox": {
     "criteria": {
@@ -306,6 +336,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-02-04 23:01:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/netherite_armor": {
     "criteria": {
       "netherite_armor": "2025-02-04 20:55:58 +0000"
@@ -357,6 +393,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-04 20:41:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-02-04 23:01:36 +0000"
     },
     "done": true
   },
@@ -423,6 +465,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-04 23:01:36 +0000"
+    },
+    "done": true
+  },
   "create_connected:recipes/crafting/kinetics/crank_wheel": {
     "criteria": {
       "has_item": "2025-02-04 21:04:23 +0000"
@@ -432,6 +480,18 @@
   "create:recipes/misc/crafting/kinetics/gearboxfrom_conversion": {
     "criteria": {
       "has_item": "2025-02-04 20:33:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-04 23:01:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-02-04 23:01:36 +0000"
     },
     "done": true
   },
@@ -519,6 +579,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-02-04 23:01:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-04 20:41:15 +0000"
@@ -542,6 +608,12 @@
       "minecraft:plains": "2025-02-04 20:29:04 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-02-04 23:01:36 +0000"
+    },
+    "done": true
   },
   "vs_eureka:recipes/balloon_paper": {
     "criteria": {
