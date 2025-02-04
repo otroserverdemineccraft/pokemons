@@ -1048,3 +1048,62 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Feb2025 23:27:40.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported Warrior_Legend to LIGS_458]
 [04Feb2025 23:28:18.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Survival Mode]
 [04Feb2025 23:29:06.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
+[04Feb2025 23:29:11.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
+[04Feb2025 23:29:13.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 fell out of the world
+[04Feb2025 23:29:36.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set the world spawn point to 78, -48, -336 [0.0]]
+[04Feb2025 23:29:39.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Survival Mode]
+[04Feb2025 23:30:01.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
+[04Feb2025 23:30:05.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
+[04Feb2025 23:30:07.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 fell out of the world
+[04Feb2025 23:30:20.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Survival Mode]
+[04Feb2025 23:30:47.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
+[04Feb2025 23:30:53.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 fell out of the world
+[04Feb2025 23:30:53.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
+[04Feb2025 23:31:06.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set spawn point to 77, -48, -334 [0.0] in minecraft:overworld for LIGS_458]
+[04Feb2025 23:31:10.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Survival Mode]
+[04Feb2025 23:31:35.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
+[04Feb2025 23:33:03.583] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bascap[/127.143.177.98:57695] logged in with entity id 12614 at (71.94444295665076, -56.0, -382.14311958485047)
+[04Feb2025 23:33:03.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap joined the game
+[04Feb2025 23:33:14.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported Bascap to Warrior_Legend]
+[04Feb2025 23:33:14.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap fell from a high place
+[04Feb2025 23:33:27.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to Warrior_Legend]
+[04Feb2025 23:33:28.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 fell from a high place
+[04Feb2025 23:33:41.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to Warrior_Legend]
+[04Feb2025 23:33:45.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by LIGS_458
+[04Feb2025 23:33:52.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was blown up by Warrior_Legend
+[04Feb2025 23:33:56.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
+[04Feb2025 23:34:06.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
+[04Feb2025 23:34:19.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported Warrior_Legend to LIGS_458]
+[04Feb2025 23:34:29.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by LIGS_458
+[04Feb2025 23:34:42.330] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ly4Nx_[/127.134.155.127:50075] logged in with entity id 12800 at (28.03669339162747, -51.0, -336.17425775749814)
+[04Feb2025 23:34:42.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ joined the game
+[04Feb2025 23:34:46.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set Bascap's game mode to Creative Mode]
+[04Feb2025 23:35:22.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set LIGS_458's game mode to Survival Mode]
+[04Feb2025 23:35:22.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set Bascap's game mode to Survival Mode]
+[04Feb2025 23:35:22.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set Ly4Nx_'s game mode to Survival Mode]
+[04Feb2025 23:35:27.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[04Feb2025 23:35:28.943] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: LIGS_458/ca_onconcontrolremoto.nbt
+[04Feb2025 23:35:38.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ fell out of the world
+[04Feb2025 23:35:50.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[04Feb2025 23:35:53.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Creative Mode]
+[04Feb2025 23:35:57.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by LIGS_458
+[04Feb2025 23:36:14.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
+[04Feb2025 23:36:16.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> se sobra se sobra
+[04Feb2025 23:37:09.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ has made the advancement [Sweet Dreams]
+[04Feb2025 23:37:39.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set LIGS_458's game mode to Survival Mode]
+[04Feb2025 23:37:39.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set Bascap's game mode to Survival Mode]
+[04Feb2025 23:37:44.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> JA
+[04Feb2025 23:37:45.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported Bascap to Warrior_Legend]
+[04Feb2025 23:37:45.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap fell off a ladder
+[04Feb2025 23:37:46.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
+[04Feb2025 23:38:06.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Ly4Nx_
+[04Feb2025 23:38:11.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> AAAAAAAA
+[04Feb2025 23:38:12.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ fell out of the world
+[04Feb2025 23:38:12.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
+[04Feb2025 23:38:19.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set spawn point to 88, -48, -389 [0.0] in minecraft:overworld for Bascap]
+[04Feb2025 23:38:29.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported Bascap to LIGS_458]
+[04Feb2025 23:38:32.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set LIGS_458's game mode to Survival Mode]
+[04Feb2025 23:38:57.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
+[04Feb2025 23:39:02.802] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1226, y=-63, z=-408}
+[04Feb2025 23:39:05.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Survival Mode]
+[04Feb2025 23:39:06.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> XD
