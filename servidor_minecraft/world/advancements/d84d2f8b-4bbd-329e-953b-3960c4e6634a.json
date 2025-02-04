@@ -1,4 +1,10 @@
 {
+  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
+    "criteria": {
+      "has_item": "2025-02-04 21:24:21 +0000"
+    },
+    "done": true
+  },
   "create_connected:root": {
     "criteria": {
       "0": "2025-02-04 21:13:13 +0000"
@@ -17,9 +23,21 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/misc/nethersteel_ingot_from_block": {
+    "criteria": {
+      "has_nethersteel_block": "2025-02-04 21:19:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2025-02-04 21:15:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-04 21:24:24 +0000"
     },
     "done": true
   },
@@ -41,6 +59,12 @@
       "has_brown_balloon": "2025-02-04 21:13:13 +0000",
       "has_green_balloon": "2025-02-04 21:13:13 +0000",
       "has_magenta_balloon": "2025-02-04 21:13:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/createbigcannons/nethersteel_ingot_from_block": {
+    "criteria": {
+      "has_nethersteel_block": "2025-02-04 21:19:56 +0000"
     },
     "done": true
   },

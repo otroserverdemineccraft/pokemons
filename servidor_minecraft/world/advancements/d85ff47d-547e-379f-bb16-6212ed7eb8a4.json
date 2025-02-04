@@ -170,6 +170,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-02-04 21:19:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_veridium_bricks_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-02-04 21:11:37 +0000"
