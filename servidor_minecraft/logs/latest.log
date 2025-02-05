@@ -106,3 +106,26 @@
 [05Feb2025 00:17:10.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was killed
 [05Feb2025 00:17:10.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Killed Bascap]
 [05Feb2025 00:18:04.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Bascap
+[05Feb2025 00:21:07.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
+[05Feb2025 00:21:17.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
+[05Feb2025 00:22:07.724] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bascap lost connection: Disconnected
+[05Feb2025 00:22:07.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap left the game
+[05Feb2025 00:22:29.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
+[05Feb2025 00:22:35.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Spectator Mode]
+[05Feb2025 00:22:36.627] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bascap[/127.143.177.98:34501] logged in with entity id 15075 at (-1103.0015918328797, -71.16482362439801, -415.67189584581695)
+[05Feb2025 00:22:36.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap joined the game
+[05Feb2025 00:22:42.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap fell out of the world
+[05Feb2025 00:22:59.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported Bascap to LIGS_458]
+[05Feb2025 00:24:49.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap fell out of the world
+[05Feb2025 00:25:01.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was killed
+[05Feb2025 00:25:01.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Killed Warrior_Legend]
+[05Feb2025 00:25:06.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Removed 282 item(s) from player Bascap]
+[05Feb2025 00:25:13.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Removed 1429 item(s) from 4 players]
+[05Feb2025 00:25:40.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap fell out of the world
+[05Feb2025 00:26:11.075] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ly4Nx_ lost connection: Disconnected
+[05Feb2025 00:26:11.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ left the game
+[05Feb2025 00:26:14.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Creative Mode]
+[05Feb2025 00:26:24.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
+[05Feb2025 00:26:53.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap didn't want to live in the same world as Warrior_Legend
+[05Feb2025 00:27:16.978] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bascap lost connection: Disconnected
+[05Feb2025 00:27:16.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap left the game
