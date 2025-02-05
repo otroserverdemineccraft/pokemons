@@ -16934,3 +16934,82 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Feb2025 00:58:42.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported Bascap to Warrior_Legend]
 [05Feb2025 00:58:47.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
 [05Feb2025 00:59:29.586] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738717169586
+[05Feb2025 00:59:48.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Creative Mode]
+[05Feb2025 01:00:13.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was killed
+[05Feb2025 01:00:13.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Killed LIGS_458]
+[05Feb2025 01:00:16.047] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738717216047
+[05Feb2025 01:00:22.590] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[05Feb2025 01:00:22.596] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[05Feb2025 01:00:25.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -1075.500000, -32.500000, -471.500000]
+[05Feb2025 01:00:37.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Survival Mode]
+[05Feb2025 01:02:09.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend fell out of the world
+[05Feb2025 01:02:11.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 fell out of the world
+[05Feb2025 01:02:12.243] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738717332243
+[05Feb2025 01:02:35.776] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738717355765
+[05Feb2025 01:02:39.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to Bascap]
+[05Feb2025 01:02:56.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
+[05Feb2025 01:03:04.273] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16xf50stcinv3]: started parsing
+[05Feb2025 01:03:04.273] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16xf50stcinv3]: Consuming argument `bedrock`
+[05Feb2025 01:03:04.274] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16xf50stcinv3]: Consuming argument `10`
+[05Feb2025 01:03:04.274] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16xf50stcinv3]: Consuming argument `1`
+[05Feb2025 01:03:04.274] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16xf50stcinv3]: Finished looking at arguments. Finalizing command.
+[05Feb2025 01:03:04.274] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1avk814m0zgwn]: started parsing
+[05Feb2025 01:03:04.274] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1avk814m0zgwn]: Consuming argument `bedrock`
+[05Feb2025 01:03:04.274] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1avk814m0zgwn]: Consuming argument `10`
+[05Feb2025 01:03:04.274] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1avk814m0zgwn]: Consuming argument `1`
+[05Feb2025 01:03:04.274] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1avk814m0zgwn]: Finished looking at arguments. Finalizing command.
+[05Feb2025 01:03:04.924] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0f575xugdhhol]: started parsing
+[05Feb2025 01:03:04.924] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0f575xugdhhol]: Consuming argument `bedrock`
+[05Feb2025 01:03:04.924] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0f575xugdhhol]: Consuming argument `10`
+[05Feb2025 01:03:04.924] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0f575xugdhhol]: Consuming argument `1`
+[05Feb2025 01:03:04.924] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0f575xugdhhol]: Finished looking at arguments. Finalizing command.
+[05Feb2025 01:03:17.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was killed
+[05Feb2025 01:03:17.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was killed
+[05Feb2025 01:03:17.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was killed
+[05Feb2025 01:03:17.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Killed 3 entities]
+[05Feb2025 01:03:18.789] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738717398789
+[05Feb2025 01:03:19.563] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738717399545
+[05Feb2025 01:03:19.892] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738717399892
+[05Feb2025 01:03:27.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Survival Mode]
+[05Feb2025 01:03:27.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set LIGS_458's game mode to Survival Mode]
+[05Feb2025 01:03:32.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported Bascap to LIGS_458]
+[05Feb2025 01:03:38.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported Bascap to Warrior_Legend]
+[05Feb2025 01:03:38.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -1095.500000, -33.500000, -427.500000]
+[05Feb2025 01:03:44.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
+[05Feb2025 01:03:45.766] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738717425744
+[05Feb2025 01:03:49.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported Bascap to Warrior_Legend]
+[05Feb2025 01:03:51.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
+[05Feb2025 01:03:53.280] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738717433280
+[05Feb2025 01:03:56.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported Bascap to Warrior_Legend]
+[05Feb2025 01:03:59.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
+[05Feb2025 01:04:00.929] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738717440925
+[05Feb2025 01:04:07.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported Bascap to Warrior_Legend]
+[05Feb2025 01:04:09.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
+[05Feb2025 01:04:10.937] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738717450937
+[05Feb2025 01:04:14.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported Bascap to LIGS_458]
+[05Feb2025 01:04:20.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set spawn point to -1095, -34, -427 [0.0] in minecraft:overworld for LIGS_458]
+[05Feb2025 01:04:45.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported Bascap to LIGS_458]
+[05Feb2025 01:04:45.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap fell from a high place
+[05Feb2025 01:04:47.063] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738717487042
+[05Feb2025 01:04:50.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported Bascap to LIGS_458]
+[05Feb2025 01:04:56.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
+[05Feb2025 01:05:07.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
+[05Feb2025 01:05:08.340] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738717508332
+[05Feb2025 01:05:09.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported Bascap to LIGS_458]
+[05Feb2025 01:05:16.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set spawn point to -1079, -32, -472 [0.0] in minecraft:overworld for Bascap]
+[05Feb2025 01:05:22.586] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[05Feb2025 01:05:22.592] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[05Feb2025 01:05:32.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Survival Mode]
+[05Feb2025 01:06:29.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Bascap
+[05Feb2025 01:06:30.974] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738717590965
+[05Feb2025 01:07:17.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Bascap
+[05Feb2025 01:07:19.048] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738717639048
+[05Feb2025 01:07:33.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
+[05Feb2025 01:07:34.503] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738717654503
+[05Feb2025 01:07:45.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
+[05Feb2025 01:07:48.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to Bascap]
+[05Feb2025 01:08:02.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Survival Mode]
+[05Feb2025 01:08:02.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
+[05Feb2025 01:08:04.139] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738717684139
+[05Feb2025 01:08:16.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
+[05Feb2025 01:08:18.276] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738717698269
