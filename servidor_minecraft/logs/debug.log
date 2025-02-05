@@ -9861,3 +9861,1148 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Feb2025 17:15:59.022] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16pey73h2rsi9]: Consuming argument `air`
 [05Feb2025 17:15:59.023] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16pey73h2rsi9]: Consuming argument `white_concrete`
 [05Feb2025 17:15:59.023] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16pey73h2rsi9]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:16:52.563] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ryq6949bc7jh]: started parsing
+[05Feb2025 17:16:52.563] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ryq6949bc7jh]: Consuming argument `air`
+[05Feb2025 17:16:52.563] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ryq6949bc7jh]: Consuming argument `white_concrete`
+[05Feb2025 17:16:52.563] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ryq6949bc7jh]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:16:52.563] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xiv0kq5huavm]: started parsing
+[05Feb2025 17:16:52.563] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xiv0kq5huavm]: Consuming argument `air`
+[05Feb2025 17:16:52.563] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xiv0kq5huavm]: Consuming argument `white_concrete`
+[05Feb2025 17:16:52.563] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xiv0kq5huavm]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:16:53.631] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lcbzr59haqk1]: started parsing
+[05Feb2025 17:16:53.631] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lcbzr59haqk1]: Consuming argument `air`
+[05Feb2025 17:16:53.631] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lcbzr59haqk1]: Consuming argument `white_concrete`
+[05Feb2025 17:16:53.632] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lcbzr59haqk1]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:17:00.514] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[05Feb2025 17:17:00.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[05Feb2025 17:17:00.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[05Feb2025 17:17:00.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[05Feb2025 17:17:00.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[05Feb2025 17:17:00.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[05Feb2025 17:17:00.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[05Feb2025 17:17:00.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[05Feb2025 17:17:00.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[05Feb2025 17:17:00.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[05Feb2025 17:17:00.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[05Feb2025 17:17:00.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[05Feb2025 17:17:00.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[05Feb2025 17:17:00.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[05Feb2025 17:17:00.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[05Feb2025 17:17:00.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[05Feb2025 17:17:00.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[05Feb2025 17:17:00.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[05Feb2025 17:17:00.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[05Feb2025 17:17:00.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[05Feb2025 17:17:00.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[05Feb2025 17:17:00.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[05Feb2025 17:17:00.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[05Feb2025 17:17:00.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[05Feb2025 17:17:00.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[05Feb2025 17:17:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[05Feb2025 17:17:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[05Feb2025 17:17:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: createbigcannons:cannon_cast_shapes
+[05Feb2025 17:17:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[05Feb2025 17:17:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[05Feb2025 17:17:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[05Feb2025 17:17:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[05Feb2025 17:17:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[05Feb2025 17:17:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[05Feb2025 17:17:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[05Feb2025 17:17:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[05Feb2025 17:17:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[05Feb2025 17:17:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[05Feb2025 17:17:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[05Feb2025 17:17:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[05Feb2025 17:17:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[05Feb2025 17:17:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[05Feb2025 17:17:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[05Feb2025 17:17:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: createbigcannons:block_recipe_serializers
+[05Feb2025 17:17:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[05Feb2025 17:17:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[05Feb2025 17:17:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[05Feb2025 17:17:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[05Feb2025 17:17:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[05Feb2025 17:17:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[05Feb2025 17:17:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[05Feb2025 17:17:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[05Feb2025 17:17:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[05Feb2025 17:17:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[05Feb2025 17:17:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: createbigcannons:block_recipe_types
+[05Feb2025 17:17:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[05Feb2025 17:17:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[05Feb2025 17:17:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[05Feb2025 17:17:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[05Feb2025 17:17:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[05Feb2025 17:17:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[05Feb2025 17:17:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[05Feb2025 17:17:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[05Feb2025 17:17:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[05Feb2025 17:17:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[05Feb2025 17:17:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[05Feb2025 17:17:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[05Feb2025 17:17:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[05Feb2025 17:17:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[05Feb2025 17:17:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[05Feb2025 17:17:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[05Feb2025 17:17:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[05Feb2025 17:17:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[05Feb2025 17:17:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[05Feb2025 17:17:00.516] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[05Feb2025 17:17:00.524] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[05Feb2025 17:17:47.972] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rfv39rcm4ky5]: started parsing
+[05Feb2025 17:17:47.972] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rfv39rcm4ky5]: Consuming argument ``
+[05Feb2025 17:17:47.972] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rfv39rcm4ky5]: parseRegularArgument: no arguments to attempt matching
+[05Feb2025 17:17:48.953] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kd3ktt9qyuc1]: started parsing
+[05Feb2025 17:17:48.954] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kd3ktt9qyuc1]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:17:56.092] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pqphz8jwalys]: started parsing
+[05Feb2025 17:17:56.092] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pqphz8jwalys]: Consuming argument ``
+[05Feb2025 17:17:57.790] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qxt4exjz27y3]: started parsing
+[05Feb2025 17:17:57.790] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qxt4exjz27y3]: Consuming argument `save`
+[05Feb2025 17:17:57.790] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qxt4exjz27y3]: Consuming argument ``
+[05Feb2025 17:17:57.790] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qxt4exjz27y3]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:17:58.585] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c2eh54pdrn0t]: started parsing
+[05Feb2025 17:17:58.585] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c2eh54pdrn0t]: Consuming argument `save`
+[05Feb2025 17:17:58.585] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c2eh54pdrn0t]: Consuming argument `p`
+[05Feb2025 17:17:58.586] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c2eh54pdrn0t]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:17:58.711] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0camkudu3iovs]: started parsing
+[05Feb2025 17:17:58.711] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0camkudu3iovs]: Consuming argument `save`
+[05Feb2025 17:17:58.711] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0camkudu3iovs]: Consuming argument `pl`
+[05Feb2025 17:17:58.711] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0camkudu3iovs]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:17:58.915] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gopslxbuzumh]: started parsing
+[05Feb2025 17:17:58.915] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gopslxbuzumh]: Consuming argument `save`
+[05Feb2025 17:17:58.915] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gopslxbuzumh]: Consuming argument `pla`
+[05Feb2025 17:17:58.915] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gopslxbuzumh]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:17:59.332] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xvgjx8ha9jdb]: started parsing
+[05Feb2025 17:17:59.332] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xvgjx8ha9jdb]: Consuming argument `save`
+[05Feb2025 17:17:59.332] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xvgjx8ha9jdb]: Consuming argument `plat`
+[05Feb2025 17:17:59.332] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xvgjx8ha9jdb]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:17:59.516] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fy2qvydsuhg5]: started parsing
+[05Feb2025 17:17:59.516] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fy2qvydsuhg5]: Consuming argument `save`
+[05Feb2025 17:17:59.516] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fy2qvydsuhg5]: Consuming argument `plata`
+[05Feb2025 17:17:59.516] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fy2qvydsuhg5]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:18:00.015] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1w1h6719c73j9]: started parsing
+[05Feb2025 17:18:00.015] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1w1h6719c73j9]: Consuming argument `save`
+[05Feb2025 17:18:00.015] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1w1h6719c73j9]: Consuming argument `plataf`
+[05Feb2025 17:18:00.015] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1w1h6719c73j9]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:18:00.144] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [082jr9ab99esa]: started parsing
+[05Feb2025 17:18:00.144] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [082jr9ab99esa]: Consuming argument `save`
+[05Feb2025 17:18:00.144] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [082jr9ab99esa]: Consuming argument `platafo`
+[05Feb2025 17:18:00.144] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [082jr9ab99esa]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:18:00.520] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19wtg5ah4uk6z]: started parsing
+[05Feb2025 17:18:00.520] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19wtg5ah4uk6z]: Consuming argument `save`
+[05Feb2025 17:18:00.520] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19wtg5ah4uk6z]: Consuming argument `platafor`
+[05Feb2025 17:18:00.520] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19wtg5ah4uk6z]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:18:00.697] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zu1jjnls4si9]: started parsing
+[05Feb2025 17:18:00.697] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zu1jjnls4si9]: Consuming argument `save`
+[05Feb2025 17:18:00.697] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zu1jjnls4si9]: Consuming argument `plataform`
+[05Feb2025 17:18:00.697] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zu1jjnls4si9]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:18:00.837] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fda1nftsoyi8]: started parsing
+[05Feb2025 17:18:00.837] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fda1nftsoyi8]: Consuming argument `save`
+[05Feb2025 17:18:00.837] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fda1nftsoyi8]: Consuming argument `plataforma`
+[05Feb2025 17:18:00.837] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fda1nftsoyi8]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:18:01.013] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ndlft4x0uvzi]: started parsing
+[05Feb2025 17:18:01.013] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ndlft4x0uvzi]: Consuming argument `save`
+[05Feb2025 17:18:01.013] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ndlft4x0uvzi]: Consuming argument `plataformas`
+[05Feb2025 17:18:01.013] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ndlft4x0uvzi]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:18:01.178] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19guv36q2h702]: started parsing
+[05Feb2025 17:18:01.178] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19guv36q2h702]: Consuming argument `save`
+[05Feb2025 17:18:01.178] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19guv36q2h702]: Consuming argument `plataformas`
+[05Feb2025 17:18:01.179] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19guv36q2h702]: Consuming argument ``
+[05Feb2025 17:18:01.179] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19guv36q2h702]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:18:01.281] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h1l5sae6k8aa]: started parsing
+[05Feb2025 17:18:01.282] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h1l5sae6k8aa]: Consuming argument `save`
+[05Feb2025 17:18:01.282] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h1l5sae6k8aa]: Consuming argument `plataformas`
+[05Feb2025 17:18:01.282] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h1l5sae6k8aa]: Consuming argument `d`
+[05Feb2025 17:18:01.282] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h1l5sae6k8aa]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:18:01.452] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t2jcgoml8s3r]: started parsing
+[05Feb2025 17:18:01.452] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t2jcgoml8s3r]: Consuming argument `save`
+[05Feb2025 17:18:01.452] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t2jcgoml8s3r]: Consuming argument `plataformas`
+[05Feb2025 17:18:01.452] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t2jcgoml8s3r]: Consuming argument `de`
+[05Feb2025 17:18:01.452] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t2jcgoml8s3r]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:18:01.542] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qngbhul440to]: started parsing
+[05Feb2025 17:18:01.542] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qngbhul440to]: Consuming argument `save`
+[05Feb2025 17:18:01.542] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qngbhul440to]: Consuming argument `plataformas`
+[05Feb2025 17:18:01.542] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qngbhul440to]: Consuming argument `de`
+[05Feb2025 17:18:01.542] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qngbhul440to]: Consuming argument ``
+[05Feb2025 17:18:01.543] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qngbhul440to]: parseRegularArgument: no arguments to attempt matching
+[05Feb2025 17:18:01.756] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qctj1wokeuxb]: started parsing
+[05Feb2025 17:18:01.757] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qctj1wokeuxb]: Consuming argument `save`
+[05Feb2025 17:18:01.757] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qctj1wokeuxb]: Consuming argument `plataformas`
+[05Feb2025 17:18:01.757] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qctj1wokeuxb]: Consuming argument `de`
+[05Feb2025 17:18:01.757] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qctj1wokeuxb]: Consuming argument `b`
+[05Feb2025 17:18:01.757] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qctj1wokeuxb]: parseRegularArgument: no arguments to attempt matching
+[05Feb2025 17:18:01.911] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10pg9n7nx6xnz]: started parsing
+[05Feb2025 17:18:01.911] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10pg9n7nx6xnz]: Consuming argument `save`
+[05Feb2025 17:18:01.911] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10pg9n7nx6xnz]: Consuming argument `plataformas`
+[05Feb2025 17:18:01.911] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10pg9n7nx6xnz]: Consuming argument `de`
+[05Feb2025 17:18:01.911] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10pg9n7nx6xnz]: Consuming argument `ba`
+[05Feb2025 17:18:01.911] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10pg9n7nx6xnz]: parseRegularArgument: no arguments to attempt matching
+[05Feb2025 17:18:01.991] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02pweiox4smwh]: started parsing
+[05Feb2025 17:18:01.991] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02pweiox4smwh]: Consuming argument `save`
+[05Feb2025 17:18:01.992] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02pweiox4smwh]: Consuming argument `plataformas`
+[05Feb2025 17:18:01.992] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02pweiox4smwh]: Consuming argument `de`
+[05Feb2025 17:18:01.992] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02pweiox4smwh]: Consuming argument `bas`
+[05Feb2025 17:18:01.992] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02pweiox4smwh]: parseRegularArgument: no arguments to attempt matching
+[05Feb2025 17:18:02.193] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ti3pqte8glxj]: started parsing
+[05Feb2025 17:18:02.194] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ti3pqte8glxj]: Consuming argument `save`
+[05Feb2025 17:18:02.194] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ti3pqte8glxj]: Consuming argument `plataformas`
+[05Feb2025 17:18:02.194] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ti3pqte8glxj]: Consuming argument `de`
+[05Feb2025 17:18:02.194] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ti3pqte8glxj]: Consuming argument `base`
+[05Feb2025 17:18:02.194] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ti3pqte8glxj]: parseRegularArgument: no arguments to attempt matching
+[05Feb2025 17:18:02.378] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [053z0sxkrc56s]: started parsing
+[05Feb2025 17:18:02.379] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [053z0sxkrc56s]: Consuming argument `save`
+[05Feb2025 17:18:02.379] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [053z0sxkrc56s]: Consuming argument `plataformas`
+[05Feb2025 17:18:02.379] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [053z0sxkrc56s]: Consuming argument `de`
+[05Feb2025 17:18:02.379] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [053z0sxkrc56s]: Consuming argument `base`
+[05Feb2025 17:18:02.379] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [053z0sxkrc56s]: parseRegularArgument: no arguments to attempt matching
+[05Feb2025 17:18:02.681] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1waise5u6vp7v]: started parsing
+[05Feb2025 17:18:02.681] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1waise5u6vp7v]: Consuming argument `save`
+[05Feb2025 17:18:02.682] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1waise5u6vp7v]: Consuming argument `plataformas`
+[05Feb2025 17:18:02.682] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1waise5u6vp7v]: Consuming argument `de`
+[05Feb2025 17:18:02.682] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1waise5u6vp7v]: Consuming argument `base`
+[05Feb2025 17:18:02.682] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1waise5u6vp7v]: parseRegularArgument: no arguments to attempt matching
+[05Feb2025 17:18:02.911] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1416jscn66plo]: started parsing
+[05Feb2025 17:18:02.911] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1416jscn66plo]: Consuming argument `save`
+[05Feb2025 17:18:02.911] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1416jscn66plo]: Consuming argument `plataformas`
+[05Feb2025 17:18:02.911] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1416jscn66plo]: Consuming argument `de`
+[05Feb2025 17:18:02.911] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1416jscn66plo]: Consuming argument `base`
+[05Feb2025 17:18:02.911] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1416jscn66plo]: parseRegularArgument: no arguments to attempt matching
+[05Feb2025 17:18:03.115] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18prqyg3ollsc]: started parsing
+[05Feb2025 17:18:03.116] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18prqyg3ollsc]: Consuming argument `save`
+[05Feb2025 17:18:03.116] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18prqyg3ollsc]: Consuming argument `plataformas`
+[05Feb2025 17:18:03.116] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18prqyg3ollsc]: Consuming argument `de`
+[05Feb2025 17:18:03.116] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18prqyg3ollsc]: Consuming argument `base`
+[05Feb2025 17:18:03.116] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18prqyg3ollsc]: parseRegularArgument: no arguments to attempt matching
+[05Feb2025 17:18:03.331] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01v1ydo4nb1ug]: started parsing
+[05Feb2025 17:18:03.332] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01v1ydo4nb1ug]: Consuming argument `save`
+[05Feb2025 17:18:03.332] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01v1ydo4nb1ug]: Consuming argument `plataformas`
+[05Feb2025 17:18:03.332] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01v1ydo4nb1ug]: Consuming argument `de`
+[05Feb2025 17:18:03.332] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01v1ydo4nb1ug]: Consuming argument `base`
+[05Feb2025 17:18:03.332] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01v1ydo4nb1ug]: parseRegularArgument: no arguments to attempt matching
+[05Feb2025 17:18:03.472] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tkoafdboyu9f]: started parsing
+[05Feb2025 17:18:03.472] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tkoafdboyu9f]: Consuming argument `save`
+[05Feb2025 17:18:03.472] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tkoafdboyu9f]: Consuming argument `plataformas`
+[05Feb2025 17:18:03.472] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tkoafdboyu9f]: Consuming argument `de`
+[05Feb2025 17:18:03.472] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tkoafdboyu9f]: Consuming argument `base`
+[05Feb2025 17:18:03.472] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tkoafdboyu9f]: parseRegularArgument: no arguments to attempt matching
+[05Feb2025 17:18:03.628] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09or9fj5ksnn8]: started parsing
+[05Feb2025 17:18:03.628] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09or9fj5ksnn8]: Consuming argument `save`
+[05Feb2025 17:18:03.629] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09or9fj5ksnn8]: Consuming argument `plataformas`
+[05Feb2025 17:18:03.629] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09or9fj5ksnn8]: Consuming argument `de`
+[05Feb2025 17:18:03.629] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09or9fj5ksnn8]: Consuming argument `base`
+[05Feb2025 17:18:03.629] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09or9fj5ksnn8]: parseRegularArgument: no arguments to attempt matching
+[05Feb2025 17:18:03.901] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nv11qquwuq6c]: started parsing
+[05Feb2025 17:18:03.901] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nv11qquwuq6c]: Consuming argument `save`
+[05Feb2025 17:18:03.901] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nv11qquwuq6c]: Consuming argument `plataformas`
+[05Feb2025 17:18:03.902] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nv11qquwuq6c]: Consuming argument `de`
+[05Feb2025 17:18:03.902] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nv11qquwuq6c]: Consuming argument `base`
+[05Feb2025 17:18:03.902] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nv11qquwuq6c]: parseRegularArgument: no arguments to attempt matching
+[05Feb2025 17:18:04.134] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ekzpnjd12e95]: started parsing
+[05Feb2025 17:18:04.134] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ekzpnjd12e95]: Consuming argument `save`
+[05Feb2025 17:18:04.134] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ekzpnjd12e95]: Consuming argument `plataformas`
+[05Feb2025 17:18:04.134] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ekzpnjd12e95]: Consuming argument `de`
+[05Feb2025 17:18:04.134] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ekzpnjd12e95]: Consuming argument `base`
+[05Feb2025 17:18:04.134] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ekzpnjd12e95]: parseRegularArgument: no arguments to attempt matching
+[05Feb2025 17:18:07.079] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03poov8daecj1]: started parsing
+[05Feb2025 17:18:07.080] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03poov8daecj1]: Consuming argument `save`
+[05Feb2025 17:18:07.080] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03poov8daecj1]: Consuming argument `plataformas`
+[05Feb2025 17:18:07.080] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03poov8daecj1]: Consuming argument `de`
+[05Feb2025 17:18:07.080] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03poov8daecj1]: Consuming argument `base`
+[05Feb2025 17:18:07.080] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03poov8daecj1]: parseRegularArgument: no arguments to attempt matching
+[05Feb2025 17:18:07.080] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03e5owag1mlh8]: started parsing
+[05Feb2025 17:18:07.080] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03e5owag1mlh8]: Consuming argument `save`
+[05Feb2025 17:18:07.080] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03e5owag1mlh8]: Consuming argument `plataformas`
+[05Feb2025 17:18:07.080] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03e5owag1mlh8]: Consuming argument `de`
+[05Feb2025 17:18:07.080] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03e5owag1mlh8]: Consuming argument `base`
+[05Feb2025 17:18:07.080] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03e5owag1mlh8]: parseRegularArgument: no arguments to attempt matching
+[05Feb2025 17:18:07.866] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k1kgkg6uhhjc]: started parsing
+[05Feb2025 17:18:07.866] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k1kgkg6uhhjc]: Consuming argument `save`
+[05Feb2025 17:18:07.867] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k1kgkg6uhhjc]: Consuming argument `plataformas`
+[05Feb2025 17:18:07.867] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k1kgkg6uhhjc]: Consuming argument `de`
+[05Feb2025 17:18:07.867] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k1kgkg6uhhjc]: Consuming argument `base`
+[05Feb2025 17:18:07.867] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k1kgkg6uhhjc]: parseRegularArgument: no arguments to attempt matching
+[05Feb2025 17:18:08.369] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06205xnsc2lcn]: started parsing
+[05Feb2025 17:18:08.369] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06205xnsc2lcn]: Consuming argument `save`
+[05Feb2025 17:18:08.370] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06205xnsc2lcn]: Consuming argument `plataformas`
+[05Feb2025 17:18:08.370] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06205xnsc2lcn]: Consuming argument `de`
+[05Feb2025 17:18:08.370] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06205xnsc2lcn]: Consuming argument `base`
+[05Feb2025 17:18:08.370] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06205xnsc2lcn]: parseRegularArgument: no arguments to attempt matching
+[05Feb2025 17:18:08.395] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0phtkwwopgi87]: started parsing
+[05Feb2025 17:18:08.395] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0phtkwwopgi87]: Consuming argument `save`
+[05Feb2025 17:18:08.395] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0phtkwwopgi87]: Consuming argument `plataformas`
+[05Feb2025 17:18:08.395] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0phtkwwopgi87]: Consuming argument `de`
+[05Feb2025 17:18:08.396] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0phtkwwopgi87]: Consuming argument `base`
+[05Feb2025 17:18:08.396] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0phtkwwopgi87]: parseRegularArgument: no arguments to attempt matching
+[05Feb2025 17:18:08.426] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hrjblc6itdho]: started parsing
+[05Feb2025 17:18:08.426] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hrjblc6itdho]: Consuming argument `save`
+[05Feb2025 17:18:08.426] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hrjblc6itdho]: Consuming argument `plataformas`
+[05Feb2025 17:18:08.426] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hrjblc6itdho]: Consuming argument `de`
+[05Feb2025 17:18:08.426] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hrjblc6itdho]: Consuming argument `base`
+[05Feb2025 17:18:08.426] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hrjblc6itdho]: parseRegularArgument: no arguments to attempt matching
+[05Feb2025 17:18:08.455] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18hjlo8861gp0]: started parsing
+[05Feb2025 17:18:08.455] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18hjlo8861gp0]: Consuming argument `save`
+[05Feb2025 17:18:08.455] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18hjlo8861gp0]: Consuming argument `plataformas`
+[05Feb2025 17:18:08.455] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18hjlo8861gp0]: Consuming argument `de`
+[05Feb2025 17:18:08.455] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18hjlo8861gp0]: Consuming argument `base`
+[05Feb2025 17:18:08.455] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18hjlo8861gp0]: parseRegularArgument: no arguments to attempt matching
+[05Feb2025 17:18:08.487] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gl6gmruw59k9]: started parsing
+[05Feb2025 17:18:08.487] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gl6gmruw59k9]: Consuming argument `save`
+[05Feb2025 17:18:08.487] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gl6gmruw59k9]: Consuming argument `plataformas`
+[05Feb2025 17:18:08.487] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gl6gmruw59k9]: Consuming argument `de`
+[05Feb2025 17:18:08.487] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gl6gmruw59k9]: Consuming argument `base`
+[05Feb2025 17:18:08.487] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gl6gmruw59k9]: parseRegularArgument: no arguments to attempt matching
+[05Feb2025 17:18:08.518] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1e2jo8pcrqvow]: started parsing
+[05Feb2025 17:18:08.518] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1e2jo8pcrqvow]: Consuming argument `save`
+[05Feb2025 17:18:08.518] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1e2jo8pcrqvow]: Consuming argument `plataformas`
+[05Feb2025 17:18:08.518] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1e2jo8pcrqvow]: Consuming argument `de`
+[05Feb2025 17:18:08.518] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1e2jo8pcrqvow]: Consuming argument `base`
+[05Feb2025 17:18:08.518] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1e2jo8pcrqvow]: parseRegularArgument: no arguments to attempt matching
+[05Feb2025 17:18:08.546] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gcrzcdbn3d7h]: started parsing
+[05Feb2025 17:18:08.546] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gcrzcdbn3d7h]: Consuming argument `save`
+[05Feb2025 17:18:08.546] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gcrzcdbn3d7h]: Consuming argument `plataformas`
+[05Feb2025 17:18:08.546] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gcrzcdbn3d7h]: Consuming argument `de`
+[05Feb2025 17:18:08.546] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gcrzcdbn3d7h]: Consuming argument `base`
+[05Feb2025 17:18:08.546] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gcrzcdbn3d7h]: parseRegularArgument: no arguments to attempt matching
+[05Feb2025 17:18:08.576] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0u4jo16tmgaxk]: started parsing
+[05Feb2025 17:18:08.576] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0u4jo16tmgaxk]: Consuming argument `save`
+[05Feb2025 17:18:08.576] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0u4jo16tmgaxk]: Consuming argument `plataformas`
+[05Feb2025 17:18:08.576] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0u4jo16tmgaxk]: Consuming argument `de`
+[05Feb2025 17:18:08.577] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0u4jo16tmgaxk]: Consuming argument `bas`
+[05Feb2025 17:18:08.577] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0u4jo16tmgaxk]: parseRegularArgument: no arguments to attempt matching
+[05Feb2025 17:18:08.606] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cb2xi2m9wkcg]: started parsing
+[05Feb2025 17:18:08.606] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cb2xi2m9wkcg]: Consuming argument `save`
+[05Feb2025 17:18:08.606] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cb2xi2m9wkcg]: Consuming argument `plataformas`
+[05Feb2025 17:18:08.607] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cb2xi2m9wkcg]: Consuming argument `de`
+[05Feb2025 17:18:08.607] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cb2xi2m9wkcg]: Consuming argument `ba`
+[05Feb2025 17:18:08.607] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cb2xi2m9wkcg]: parseRegularArgument: no arguments to attempt matching
+[05Feb2025 17:18:08.636] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00l2f4cyglymz]: started parsing
+[05Feb2025 17:18:08.636] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00l2f4cyglymz]: Consuming argument `save`
+[05Feb2025 17:18:08.636] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00l2f4cyglymz]: Consuming argument `plataformas`
+[05Feb2025 17:18:08.636] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00l2f4cyglymz]: Consuming argument `de`
+[05Feb2025 17:18:08.636] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00l2f4cyglymz]: Consuming argument `b`
+[05Feb2025 17:18:08.637] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00l2f4cyglymz]: parseRegularArgument: no arguments to attempt matching
+[05Feb2025 17:18:08.671] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0biq3dyhgp4qb]: started parsing
+[05Feb2025 17:18:08.671] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0biq3dyhgp4qb]: Consuming argument `save`
+[05Feb2025 17:18:08.671] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0biq3dyhgp4qb]: Consuming argument `plataformas`
+[05Feb2025 17:18:08.671] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0biq3dyhgp4qb]: Consuming argument `de`
+[05Feb2025 17:18:08.671] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0biq3dyhgp4qb]: Consuming argument ``
+[05Feb2025 17:18:08.671] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0biq3dyhgp4qb]: parseRegularArgument: no arguments to attempt matching
+[05Feb2025 17:18:08.696] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06w0xfl624bn6]: started parsing
+[05Feb2025 17:18:08.696] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06w0xfl624bn6]: Consuming argument `save`
+[05Feb2025 17:18:08.696] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06w0xfl624bn6]: Consuming argument `plataformas`
+[05Feb2025 17:18:08.696] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06w0xfl624bn6]: Consuming argument `de`
+[05Feb2025 17:18:08.696] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06w0xfl624bn6]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:18:08.763] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wx9w8dvu7bgm]: started parsing
+[05Feb2025 17:18:08.763] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wx9w8dvu7bgm]: Consuming argument `save`
+[05Feb2025 17:18:08.763] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wx9w8dvu7bgm]: Consuming argument `plataformas`
+[05Feb2025 17:18:08.763] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wx9w8dvu7bgm]: Consuming argument `d`
+[05Feb2025 17:18:08.763] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wx9w8dvu7bgm]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:18:08.763] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1axa6yx1vl759]: started parsing
+[05Feb2025 17:18:08.763] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1axa6yx1vl759]: Consuming argument `save`
+[05Feb2025 17:18:08.763] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1axa6yx1vl759]: Consuming argument `plataformas`
+[05Feb2025 17:18:08.763] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1axa6yx1vl759]: Consuming argument ``
+[05Feb2025 17:18:08.763] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1axa6yx1vl759]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:18:08.786] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18u5n8m1aqfpd]: started parsing
+[05Feb2025 17:18:08.786] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18u5n8m1aqfpd]: Consuming argument `save`
+[05Feb2025 17:18:08.786] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18u5n8m1aqfpd]: Consuming argument `plataformas`
+[05Feb2025 17:18:08.786] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18u5n8m1aqfpd]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:18:08.816] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sa5ghzysihmw]: started parsing
+[05Feb2025 17:18:08.816] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sa5ghzysihmw]: Consuming argument `save`
+[05Feb2025 17:18:08.816] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sa5ghzysihmw]: Consuming argument `plataforma`
+[05Feb2025 17:18:08.816] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sa5ghzysihmw]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:18:08.849] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0h2p8klw6snpe]: started parsing
+[05Feb2025 17:18:08.849] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0h2p8klw6snpe]: Consuming argument `save`
+[05Feb2025 17:18:08.849] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0h2p8klw6snpe]: Consuming argument `plataform`
+[05Feb2025 17:18:08.849] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0h2p8klw6snpe]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:18:08.876] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n3nxzqr7p21q]: started parsing
+[05Feb2025 17:18:08.876] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n3nxzqr7p21q]: Consuming argument `save`
+[05Feb2025 17:18:08.877] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n3nxzqr7p21q]: Consuming argument `platafor`
+[05Feb2025 17:18:08.877] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n3nxzqr7p21q]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:18:08.908] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17yyisa1ccjsi]: started parsing
+[05Feb2025 17:18:08.908] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17yyisa1ccjsi]: Consuming argument `save`
+[05Feb2025 17:18:08.908] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17yyisa1ccjsi]: Consuming argument `platafo`
+[05Feb2025 17:18:08.909] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17yyisa1ccjsi]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:18:08.936] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1079xy6i2h20h]: started parsing
+[05Feb2025 17:18:08.936] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1079xy6i2h20h]: Consuming argument `save`
+[05Feb2025 17:18:08.936] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1079xy6i2h20h]: Consuming argument `plataf`
+[05Feb2025 17:18:08.936] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1079xy6i2h20h]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:18:08.969] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07bk4re8adnxi]: started parsing
+[05Feb2025 17:18:08.969] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07bk4re8adnxi]: Consuming argument `save`
+[05Feb2025 17:18:08.969] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07bk4re8adnxi]: Consuming argument `plata`
+[05Feb2025 17:18:08.969] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07bk4re8adnxi]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:18:09.002] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wqlyvykaqgz1]: started parsing
+[05Feb2025 17:18:09.002] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wqlyvykaqgz1]: Consuming argument `save`
+[05Feb2025 17:18:09.002] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wqlyvykaqgz1]: Consuming argument `plat`
+[05Feb2025 17:18:09.002] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wqlyvykaqgz1]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:18:09.028] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0on5t82mend27]: started parsing
+[05Feb2025 17:18:09.028] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0on5t82mend27]: Consuming argument `save`
+[05Feb2025 17:18:09.028] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0on5t82mend27]: Consuming argument `pla`
+[05Feb2025 17:18:09.028] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0on5t82mend27]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:18:09.057] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lxmwd1phdt8m]: started parsing
+[05Feb2025 17:18:09.057] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lxmwd1phdt8m]: Consuming argument `save`
+[05Feb2025 17:18:09.057] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lxmwd1phdt8m]: Consuming argument `pl`
+[05Feb2025 17:18:09.057] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lxmwd1phdt8m]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:18:09.087] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kanbjlmhd583]: started parsing
+[05Feb2025 17:18:09.087] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kanbjlmhd583]: Consuming argument `save`
+[05Feb2025 17:18:09.087] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kanbjlmhd583]: Consuming argument `p`
+[05Feb2025 17:18:09.087] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kanbjlmhd583]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:18:09.116] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1iud6y27as444]: started parsing
+[05Feb2025 17:18:09.116] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1iud6y27as444]: Consuming argument `save`
+[05Feb2025 17:18:09.116] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1iud6y27as444]: Consuming argument ``
+[05Feb2025 17:18:09.116] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1iud6y27as444]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:18:09.147] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qb9snx6j7u3g]: started parsing
+[05Feb2025 17:18:09.147] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qb9snx6j7u3g]: Consuming argument `save`
+[05Feb2025 17:18:09.147] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qb9snx6j7u3g]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:18:09.177] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v9r6kmvwuumf]: started parsing
+[05Feb2025 17:18:09.177] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v9r6kmvwuumf]: Consuming argument `sav`
+[05Feb2025 17:18:09.207] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z94j6rkcmogp]: started parsing
+[05Feb2025 17:18:09.207] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z94j6rkcmogp]: Consuming argument `sa`
+[05Feb2025 17:18:09.238] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kn3k2sftro86]: started parsing
+[05Feb2025 17:18:09.238] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kn3k2sftro86]: Consuming argument `s`
+[05Feb2025 17:18:09.376] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1o8ai423r6kip]: started parsing
+[05Feb2025 17:18:09.376] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1o8ai423r6kip]: Consuming argument ``
+[05Feb2025 17:18:10.634] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m8l0pdx3od0w]: started parsing
+[05Feb2025 17:18:10.634] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m8l0pdx3od0w]: Consuming argument ``
+[05Feb2025 17:18:11.599] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vlkp8cc8lksl]: started parsing
+[05Feb2025 17:18:11.599] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vlkp8cc8lksl]: Consuming argument ``
+[05Feb2025 17:18:37.716] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08z3l8lu5k3uk]: started parsing
+[05Feb2025 17:18:37.716] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08z3l8lu5k3uk]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:18:49.278] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1s5n5ot8eg28v]: started parsing
+[05Feb2025 17:18:49.278] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1s5n5ot8eg28v]: Consuming argument ``
+[05Feb2025 17:18:51.770] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vosmvecaj7ml]: started parsing
+[05Feb2025 17:18:51.770] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vosmvecaj7ml]: Consuming argument `save`
+[05Feb2025 17:18:51.770] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vosmvecaj7ml]: Consuming argument ``
+[05Feb2025 17:18:51.770] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vosmvecaj7ml]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:18:52.802] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m33pcztc0z9r]: started parsing
+[05Feb2025 17:18:52.802] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m33pcztc0z9r]: Consuming argument `save`
+[05Feb2025 17:18:52.802] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m33pcztc0z9r]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:18:54.373] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0n56844lqdhex]: started parsing
+[05Feb2025 17:18:54.373] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0n56844lqdhex]: Consuming argument `save`
+[05Feb2025 17:18:54.373] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0n56844lqdhex]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:18:54.374] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01fkfn844wi9l]: started parsing
+[05Feb2025 17:18:54.374] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01fkfn844wi9l]: Consuming argument `save`
+[05Feb2025 17:18:54.374] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01fkfn844wi9l]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:18:55.126] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d61tgrlhcq81]: started parsing
+[05Feb2025 17:18:55.126] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d61tgrlhcq81]: Consuming argument `save`
+[05Feb2025 17:18:55.126] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d61tgrlhcq81]: Consuming argument ``
+[05Feb2025 17:18:55.126] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d61tgrlhcq81]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:19:00.556] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11lwfdbl0oijc]: started parsing
+[05Feb2025 17:19:00.556] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11lwfdbl0oijc]: Consuming argument `save`
+[05Feb2025 17:19:00.556] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11lwfdbl0oijc]: Consuming argument `b`
+[05Feb2025 17:19:00.556] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11lwfdbl0oijc]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:19:00.803] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zlxw2b4614q0]: started parsing
+[05Feb2025 17:19:00.803] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zlxw2b4614q0]: Consuming argument `save`
+[05Feb2025 17:19:00.803] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zlxw2b4614q0]: Consuming argument `bs`
+[05Feb2025 17:19:00.803] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zlxw2b4614q0]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:19:00.905] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ckx2imsg85ft]: started parsing
+[05Feb2025 17:19:00.905] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ckx2imsg85ft]: Consuming argument `save`
+[05Feb2025 17:19:00.905] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ckx2imsg85ft]: Consuming argument `bsa`
+[05Feb2025 17:19:00.905] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ckx2imsg85ft]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:19:01.220] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uyufnceub9uu]: started parsing
+[05Feb2025 17:19:01.220] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uyufnceub9uu]: Consuming argument `save`
+[05Feb2025 17:19:01.220] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uyufnceub9uu]: Consuming argument `bs`
+[05Feb2025 17:19:01.221] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uyufnceub9uu]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:19:01.475] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vhhkeb02hosa]: started parsing
+[05Feb2025 17:19:01.475] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vhhkeb02hosa]: Consuming argument `save`
+[05Feb2025 17:19:01.475] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vhhkeb02hosa]: Consuming argument `b`
+[05Feb2025 17:19:01.476] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vhhkeb02hosa]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:19:01.681] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tpkvu3lc7cox]: started parsing
+[05Feb2025 17:19:01.682] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tpkvu3lc7cox]: Consuming argument `save`
+[05Feb2025 17:19:01.682] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tpkvu3lc7cox]: Consuming argument `ba`
+[05Feb2025 17:19:01.682] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tpkvu3lc7cox]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:19:01.866] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xyij50c9az4n]: started parsing
+[05Feb2025 17:19:01.867] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xyij50c9az4n]: Consuming argument `save`
+[05Feb2025 17:19:01.867] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xyij50c9az4n]: Consuming argument `bas`
+[05Feb2025 17:19:01.867] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xyij50c9az4n]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:19:02.123] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tu6zd7xb5ujr]: started parsing
+[05Feb2025 17:19:02.124] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tu6zd7xb5ujr]: Consuming argument `save`
+[05Feb2025 17:19:02.124] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tu6zd7xb5ujr]: Consuming argument `base`
+[05Feb2025 17:19:02.124] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tu6zd7xb5ujr]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:19:02.435] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09wbdfzojh7x7]: started parsing
+[05Feb2025 17:19:02.435] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09wbdfzojh7x7]: Consuming argument `save`
+[05Feb2025 17:19:02.435] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09wbdfzojh7x7]: Consuming argument `base`
+[05Feb2025 17:19:02.436] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09wbdfzojh7x7]: Consuming argument ``
+[05Feb2025 17:19:02.436] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09wbdfzojh7x7]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:19:02.627] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0w51gl6eo7faa]: started parsing
+[05Feb2025 17:19:02.627] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0w51gl6eo7faa]: Consuming argument `save`
+[05Feb2025 17:19:02.628] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0w51gl6eo7faa]: Consuming argument `base`
+[05Feb2025 17:19:02.628] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0w51gl6eo7faa]: Consuming argument `v`
+[05Feb2025 17:19:02.628] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0w51gl6eo7faa]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:19:02.953] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nu4ey80k19fw]: started parsing
+[05Feb2025 17:19:02.953] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nu4ey80k19fw]: Consuming argument `save`
+[05Feb2025 17:19:02.953] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nu4ey80k19fw]: Consuming argument `base`
+[05Feb2025 17:19:02.953] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nu4ey80k19fw]: Consuming argument `vs`
+[05Feb2025 17:19:02.954] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nu4ey80k19fw]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:19:03.536] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pe1w9whda8z0]: started parsing
+[05Feb2025 17:19:03.536] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pe1w9whda8z0]: Consuming argument `save`
+[05Feb2025 17:19:03.536] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pe1w9whda8z0]: Consuming argument `base`
+[05Feb2025 17:19:03.536] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pe1w9whda8z0]: Consuming argument `vs`
+[05Feb2025 17:19:03.536] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pe1w9whda8z0]: Consuming argument ``
+[05Feb2025 17:19:03.537] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pe1w9whda8z0]: parseRegularArgument: no arguments to attempt matching
+[05Feb2025 17:19:03.763] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16mco4rpzr0ci]: started parsing
+[05Feb2025 17:19:03.763] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16mco4rpzr0ci]: Consuming argument `save`
+[05Feb2025 17:19:03.763] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16mco4rpzr0ci]: Consuming argument `base`
+[05Feb2025 17:19:03.764] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16mco4rpzr0ci]: Consuming argument `vs`
+[05Feb2025 17:19:03.764] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16mco4rpzr0ci]: Consuming argument `b`
+[05Feb2025 17:19:03.764] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16mco4rpzr0ci]: parseRegularArgument: no arguments to attempt matching
+[05Feb2025 17:19:03.974] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nivlb8yp3tgq]: started parsing
+[05Feb2025 17:19:03.974] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nivlb8yp3tgq]: Consuming argument `save`
+[05Feb2025 17:19:03.974] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nivlb8yp3tgq]: Consuming argument `base`
+[05Feb2025 17:19:03.975] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nivlb8yp3tgq]: Consuming argument `vs`
+[05Feb2025 17:19:03.975] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nivlb8yp3tgq]: Consuming argument `bs`
+[05Feb2025 17:19:03.975] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nivlb8yp3tgq]: parseRegularArgument: no arguments to attempt matching
+[05Feb2025 17:19:04.103] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0u72dzukzijo7]: started parsing
+[05Feb2025 17:19:04.103] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0u72dzukzijo7]: Consuming argument `save`
+[05Feb2025 17:19:04.103] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0u72dzukzijo7]: Consuming argument `base`
+[05Feb2025 17:19:04.103] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0u72dzukzijo7]: Consuming argument `vs`
+[05Feb2025 17:19:04.103] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0u72dzukzijo7]: Consuming argument `bsa`
+[05Feb2025 17:19:04.103] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0u72dzukzijo7]: parseRegularArgument: no arguments to attempt matching
+[05Feb2025 17:19:04.423] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04faba050kcd8]: started parsing
+[05Feb2025 17:19:04.424] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04faba050kcd8]: Consuming argument `save`
+[05Feb2025 17:19:04.424] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04faba050kcd8]: Consuming argument `base`
+[05Feb2025 17:19:04.424] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04faba050kcd8]: Consuming argument `vs`
+[05Feb2025 17:19:04.424] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04faba050kcd8]: Consuming argument `bsae`
+[05Feb2025 17:19:04.424] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04faba050kcd8]: parseRegularArgument: no arguments to attempt matching
+[05Feb2025 17:19:04.678] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [078ufwy4ry9jm]: started parsing
+[05Feb2025 17:19:04.678] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [078ufwy4ry9jm]: Consuming argument `save`
+[05Feb2025 17:19:04.679] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [078ufwy4ry9jm]: Consuming argument `base`
+[05Feb2025 17:19:04.679] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [078ufwy4ry9jm]: Consuming argument `vs`
+[05Feb2025 17:19:04.679] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [078ufwy4ry9jm]: Consuming argument `bsae`
+[05Feb2025 17:19:04.679] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [078ufwy4ry9jm]: parseRegularArgument: no arguments to attempt matching
+[05Feb2025 17:19:05.013] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xpeo9bbd7igt]: started parsing
+[05Feb2025 17:19:05.014] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xpeo9bbd7igt]: Consuming argument `save`
+[05Feb2025 17:19:05.014] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xpeo9bbd7igt]: Consuming argument `base`
+[05Feb2025 17:19:05.014] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xpeo9bbd7igt]: Consuming argument `vs`
+[05Feb2025 17:19:05.014] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xpeo9bbd7igt]: Consuming argument `bsae`
+[05Feb2025 17:19:05.014] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xpeo9bbd7igt]: parseRegularArgument: no arguments to attempt matching
+[05Feb2025 17:19:07.070] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pxxxlvs0cpbd]: started parsing
+[05Feb2025 17:19:07.070] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pxxxlvs0cpbd]: Consuming argument `save`
+[05Feb2025 17:19:07.071] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pxxxlvs0cpbd]: Consuming argument `base`
+[05Feb2025 17:19:07.071] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pxxxlvs0cpbd]: Consuming argument `vs`
+[05Feb2025 17:19:07.071] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pxxxlvs0cpbd]: Consuming argument `bsae`
+[05Feb2025 17:19:07.071] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pxxxlvs0cpbd]: parseRegularArgument: no arguments to attempt matching
+[05Feb2025 17:19:07.071] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bcdjrii0gf1g]: started parsing
+[05Feb2025 17:19:07.071] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bcdjrii0gf1g]: Consuming argument `save`
+[05Feb2025 17:19:07.071] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bcdjrii0gf1g]: Consuming argument `base`
+[05Feb2025 17:19:07.071] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bcdjrii0gf1g]: Consuming argument `vs`
+[05Feb2025 17:19:07.071] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bcdjrii0gf1g]: Consuming argument `bsae`
+[05Feb2025 17:19:07.071] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bcdjrii0gf1g]: parseRegularArgument: no arguments to attempt matching
+[05Feb2025 17:19:07.983] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oy44pgsefl1j]: started parsing
+[05Feb2025 17:19:07.984] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oy44pgsefl1j]: Consuming argument `save`
+[05Feb2025 17:19:07.984] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oy44pgsefl1j]: Consuming argument `base`
+[05Feb2025 17:19:07.984] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oy44pgsefl1j]: Consuming argument `vs`
+[05Feb2025 17:19:07.984] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oy44pgsefl1j]: Consuming argument `bsa`
+[05Feb2025 17:19:07.984] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oy44pgsefl1j]: parseRegularArgument: no arguments to attempt matching
+[05Feb2025 17:19:08.487] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0boia2ejnld8q]: started parsing
+[05Feb2025 17:19:08.487] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0boia2ejnld8q]: Consuming argument `save`
+[05Feb2025 17:19:08.487] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0boia2ejnld8q]: Consuming argument `base`
+[05Feb2025 17:19:08.487] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0boia2ejnld8q]: Consuming argument `vs`
+[05Feb2025 17:19:08.487] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0boia2ejnld8q]: Consuming argument `bs`
+[05Feb2025 17:19:08.487] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0boia2ejnld8q]: parseRegularArgument: no arguments to attempt matching
+[05Feb2025 17:19:08.519] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15coo70u8u4a9]: started parsing
+[05Feb2025 17:19:08.519] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15coo70u8u4a9]: Consuming argument `save`
+[05Feb2025 17:19:08.519] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15coo70u8u4a9]: Consuming argument `base`
+[05Feb2025 17:19:08.519] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15coo70u8u4a9]: Consuming argument `vs`
+[05Feb2025 17:19:08.519] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15coo70u8u4a9]: Consuming argument `b`
+[05Feb2025 17:19:08.519] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15coo70u8u4a9]: parseRegularArgument: no arguments to attempt matching
+[05Feb2025 17:19:08.548] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1otz3b9766d2r]: started parsing
+[05Feb2025 17:19:08.548] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1otz3b9766d2r]: Consuming argument `save`
+[05Feb2025 17:19:08.548] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1otz3b9766d2r]: Consuming argument `base`
+[05Feb2025 17:19:08.548] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1otz3b9766d2r]: Consuming argument `vs`
+[05Feb2025 17:19:08.548] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1otz3b9766d2r]: Consuming argument ``
+[05Feb2025 17:19:08.548] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1otz3b9766d2r]: parseRegularArgument: no arguments to attempt matching
+[05Feb2025 17:19:08.577] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v98nx1cvg7rl]: started parsing
+[05Feb2025 17:19:08.577] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v98nx1cvg7rl]: Consuming argument `save`
+[05Feb2025 17:19:08.577] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v98nx1cvg7rl]: Consuming argument `base`
+[05Feb2025 17:19:08.577] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v98nx1cvg7rl]: Consuming argument `vs`
+[05Feb2025 17:19:08.578] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v98nx1cvg7rl]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:19:08.606] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0aie0kcg62sn0]: started parsing
+[05Feb2025 17:19:08.606] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0aie0kcg62sn0]: Consuming argument `save`
+[05Feb2025 17:19:08.607] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0aie0kcg62sn0]: Consuming argument `base`
+[05Feb2025 17:19:08.607] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0aie0kcg62sn0]: Consuming argument `v`
+[05Feb2025 17:19:08.607] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0aie0kcg62sn0]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:19:08.639] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ep2bckg99e9c]: started parsing
+[05Feb2025 17:19:08.639] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ep2bckg99e9c]: Consuming argument `save`
+[05Feb2025 17:19:08.640] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ep2bckg99e9c]: Consuming argument `base`
+[05Feb2025 17:19:08.640] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ep2bckg99e9c]: Consuming argument ``
+[05Feb2025 17:19:08.640] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ep2bckg99e9c]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:19:08.670] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dt1olhv69th8]: started parsing
+[05Feb2025 17:19:08.670] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dt1olhv69th8]: Consuming argument `save`
+[05Feb2025 17:19:08.670] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dt1olhv69th8]: Consuming argument `base`
+[05Feb2025 17:19:08.670] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dt1olhv69th8]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:19:08.699] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bhncr595ycla]: started parsing
+[05Feb2025 17:19:08.699] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bhncr595ycla]: Consuming argument `save`
+[05Feb2025 17:19:08.699] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bhncr595ycla]: Consuming argument `bas`
+[05Feb2025 17:19:08.699] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bhncr595ycla]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:19:08.727] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16nccoz9xpi5b]: started parsing
+[05Feb2025 17:19:08.727] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16nccoz9xpi5b]: Consuming argument `save`
+[05Feb2025 17:19:08.727] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16nccoz9xpi5b]: Consuming argument `ba`
+[05Feb2025 17:19:08.728] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16nccoz9xpi5b]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:19:08.895] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10y86nuxxpghw]: started parsing
+[05Feb2025 17:19:08.895] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10y86nuxxpghw]: Consuming argument `save`
+[05Feb2025 17:19:08.895] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10y86nuxxpghw]: Consuming argument `b`
+[05Feb2025 17:19:08.896] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10y86nuxxpghw]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:19:09.073] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0llqzruao62g1]: started parsing
+[05Feb2025 17:19:09.073] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0llqzruao62g1]: Consuming argument `save`
+[05Feb2025 17:19:09.073] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0llqzruao62g1]: Consuming argument ``
+[05Feb2025 17:19:09.073] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0llqzruao62g1]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:19:09.576] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0s5r0jzjwyqh8]: started parsing
+[05Feb2025 17:19:09.577] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0s5r0jzjwyqh8]: Consuming argument `save`
+[05Feb2025 17:19:09.577] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0s5r0jzjwyqh8]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:19:09.804] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1o20tclnzhs72]: started parsing
+[05Feb2025 17:19:09.804] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1o20tclnzhs72]: Consuming argument `sav`
+[05Feb2025 17:19:09.985] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [167l0o9kydbgg]: started parsing
+[05Feb2025 17:19:09.986] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [167l0o9kydbgg]: Consuming argument `sa`
+[05Feb2025 17:19:10.293] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0u1lwegovx3cv]: started parsing
+[05Feb2025 17:19:10.294] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0u1lwegovx3cv]: Consuming argument `s`
+[05Feb2025 17:19:10.460] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hwnm8sxgatc9]: started parsing
+[05Feb2025 17:19:10.460] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hwnm8sxgatc9]: Consuming argument ``
+[05Feb2025 17:19:11.610] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1eb7e255ra85m]: started parsing
+[05Feb2025 17:19:11.610] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1eb7e255ra85m]: Consuming argument ``
+[05Feb2025 17:19:15.489] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15erhed0zojkc]: started parsing
+[05Feb2025 17:19:15.489] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15erhed0zojkc]: Consuming argument `save`
+[05Feb2025 17:19:15.489] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15erhed0zojkc]: Consuming argument ``
+[05Feb2025 17:19:15.489] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15erhed0zojkc]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:19:15.887] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0as37yo9zk27k]: started parsing
+[05Feb2025 17:19:15.887] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0as37yo9zk27k]: Consuming argument `save`
+[05Feb2025 17:19:15.887] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0as37yo9zk27k]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:19:17.511] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pmnxbfq311rw]: started parsing
+[05Feb2025 17:19:17.511] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pmnxbfq311rw]: Consuming argument `save`
+[05Feb2025 17:19:17.511] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pmnxbfq311rw]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:19:17.511] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bd8n58fegibz]: started parsing
+[05Feb2025 17:19:17.511] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bd8n58fegibz]: Consuming argument `save`
+[05Feb2025 17:19:17.511] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bd8n58fegibz]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:19:18.010] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rap1re1ypm62]: started parsing
+[05Feb2025 17:19:18.010] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rap1re1ypm62]: Consuming argument `save`
+[05Feb2025 17:19:18.010] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rap1re1ypm62]: Consuming argument ``
+[05Feb2025 17:19:18.010] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rap1re1ypm62]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:19:20.730] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h5p09dthsp9c]: started parsing
+[05Feb2025 17:19:20.730] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h5p09dthsp9c]: Consuming argument `save`
+[05Feb2025 17:19:20.730] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h5p09dthsp9c]: Consuming argument `b`
+[05Feb2025 17:19:20.730] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h5p09dthsp9c]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:19:20.921] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1folqymf9vgky]: started parsing
+[05Feb2025 17:19:20.921] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1folqymf9vgky]: Consuming argument `save`
+[05Feb2025 17:19:20.921] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1folqymf9vgky]: Consuming argument `ba`
+[05Feb2025 17:19:20.921] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1folqymf9vgky]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:19:21.156] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0w3bkc10l1chg]: started parsing
+[05Feb2025 17:19:21.156] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0w3bkc10l1chg]: Consuming argument `save`
+[05Feb2025 17:19:21.156] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0w3bkc10l1chg]: Consuming argument `bas`
+[05Feb2025 17:19:21.156] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0w3bkc10l1chg]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:19:21.409] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vv9deh5r3ryj]: started parsing
+[05Feb2025 17:19:21.409] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vv9deh5r3ryj]: Consuming argument `save`
+[05Feb2025 17:19:21.409] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vv9deh5r3ryj]: Consuming argument `base`
+[05Feb2025 17:19:21.409] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vv9deh5r3ryj]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:19:21.767] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hgze0353wlw8]: started parsing
+[05Feb2025 17:19:21.767] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hgze0353wlw8]: Consuming argument `save`
+[05Feb2025 17:19:21.767] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hgze0353wlw8]: Consuming argument `basev`
+[05Feb2025 17:19:21.767] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hgze0353wlw8]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:19:21.954] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mpnb7wchjoj6]: started parsing
+[05Feb2025 17:19:21.954] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mpnb7wchjoj6]: Consuming argument `save`
+[05Feb2025 17:19:21.954] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mpnb7wchjoj6]: Consuming argument `basevs`
+[05Feb2025 17:19:21.954] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mpnb7wchjoj6]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:19:22.210] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ev88ozjzdccb]: started parsing
+[05Feb2025 17:19:22.210] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ev88ozjzdccb]: Consuming argument `save`
+[05Feb2025 17:19:22.210] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ev88ozjzdccb]: Consuming argument `basevsb`
+[05Feb2025 17:19:22.210] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ev88ozjzdccb]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:19:22.408] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06kcfkfk318ok]: started parsing
+[05Feb2025 17:19:22.408] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06kcfkfk318ok]: Consuming argument `save`
+[05Feb2025 17:19:22.408] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06kcfkfk318ok]: Consuming argument `basevsba`
+[05Feb2025 17:19:22.408] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06kcfkfk318ok]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:19:22.560] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0luyd6tri4ty0]: started parsing
+[05Feb2025 17:19:22.560] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0luyd6tri4ty0]: Consuming argument `save`
+[05Feb2025 17:19:22.560] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0luyd6tri4ty0]: Consuming argument `basevsbas`
+[05Feb2025 17:19:22.560] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0luyd6tri4ty0]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:19:22.818] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mifpd6r3ce37]: started parsing
+[05Feb2025 17:19:22.818] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mifpd6r3ce37]: Consuming argument `save`
+[05Feb2025 17:19:22.818] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mifpd6r3ce37]: Consuming argument `basevsbase`
+[05Feb2025 17:19:22.818] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mifpd6r3ce37]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:19:23.080] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qwex54c79i39]: started parsing
+[05Feb2025 17:19:23.080] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qwex54c79i39]: Consuming argument `save`
+[05Feb2025 17:19:23.080] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qwex54c79i39]: Consuming argument `basevsbase`
+[05Feb2025 17:19:23.080] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qwex54c79i39]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:19:23.110] [WorldEdit Task Executor - 0/INFO] [com.sk89q.worldedit.command.SchematicCommands/]: LIGS_458 saved /workspaces/pokemons/servidor_minecraft/config/worldedit/schematics/basevsbase.schem
+[05Feb2025 17:19:49.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -3831.500000, -53.631864, 58.500000]
+[05Feb2025 17:19:56.519] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19g8m72galrl8]: started parsing
+[05Feb2025 17:19:56.519] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19g8m72galrl8]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:20:13.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -1118.500000, -59.500000, 136.500000]
+[05Feb2025 17:22:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[05Feb2025 17:22:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[05Feb2025 17:22:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[05Feb2025 17:22:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[05Feb2025 17:22:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[05Feb2025 17:22:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[05Feb2025 17:22:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[05Feb2025 17:22:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[05Feb2025 17:22:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[05Feb2025 17:22:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[05Feb2025 17:22:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[05Feb2025 17:22:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[05Feb2025 17:22:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[05Feb2025 17:22:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[05Feb2025 17:22:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[05Feb2025 17:22:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[05Feb2025 17:22:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[05Feb2025 17:22:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[05Feb2025 17:22:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[05Feb2025 17:22:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[05Feb2025 17:22:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[05Feb2025 17:22:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[05Feb2025 17:22:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[05Feb2025 17:22:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[05Feb2025 17:22:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[05Feb2025 17:22:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[05Feb2025 17:22:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[05Feb2025 17:22:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: createbigcannons:cannon_cast_shapes
+[05Feb2025 17:22:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[05Feb2025 17:22:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[05Feb2025 17:22:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[05Feb2025 17:22:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[05Feb2025 17:22:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[05Feb2025 17:22:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[05Feb2025 17:22:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[05Feb2025 17:22:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[05Feb2025 17:22:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[05Feb2025 17:22:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[05Feb2025 17:22:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[05Feb2025 17:22:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[05Feb2025 17:22:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[05Feb2025 17:22:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[05Feb2025 17:22:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[05Feb2025 17:22:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: createbigcannons:block_recipe_serializers
+[05Feb2025 17:22:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[05Feb2025 17:22:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[05Feb2025 17:22:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[05Feb2025 17:22:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[05Feb2025 17:22:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[05Feb2025 17:22:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[05Feb2025 17:22:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[05Feb2025 17:22:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[05Feb2025 17:22:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[05Feb2025 17:22:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[05Feb2025 17:22:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: createbigcannons:block_recipe_types
+[05Feb2025 17:22:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[05Feb2025 17:22:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[05Feb2025 17:22:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[05Feb2025 17:22:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[05Feb2025 17:22:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[05Feb2025 17:22:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[05Feb2025 17:22:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[05Feb2025 17:22:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[05Feb2025 17:22:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[05Feb2025 17:22:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[05Feb2025 17:22:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[05Feb2025 17:22:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[05Feb2025 17:22:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[05Feb2025 17:22:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[05Feb2025 17:22:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[05Feb2025 17:22:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[05Feb2025 17:22:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[05Feb2025 17:22:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[05Feb2025 17:22:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[05Feb2025 17:22:00.517] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[05Feb2025 17:22:00.524] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[05Feb2025 17:22:04.123] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0p3tvdqqo48u4]: started parsing
+[05Feb2025 17:22:04.123] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0p3tvdqqo48u4]: Consuming argument ``
+[05Feb2025 17:22:05.413] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06xyfoz188g9k]: started parsing
+[05Feb2025 17:22:05.413] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06xyfoz188g9k]: Consuming argument `a`
+[05Feb2025 17:22:05.556] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00pzw7he82oy0]: started parsing
+[05Feb2025 17:22:05.556] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00pzw7he82oy0]: Consuming argument `ai`
+[05Feb2025 17:22:05.669] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zmjdgezdm2pe]: started parsing
+[05Feb2025 17:22:05.669] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zmjdgezdm2pe]: Consuming argument `air`
+[05Feb2025 17:22:05.669] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zmjdgezdm2pe]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:22:05.808] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fr3iutsp7syp]: started parsing
+[05Feb2025 17:22:05.808] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fr3iutsp7syp]: Consuming argument `air`
+[05Feb2025 17:22:05.809] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fr3iutsp7syp]: Consuming argument ``
+[05Feb2025 17:22:06.196] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [195g30z14ph8q]: started parsing
+[05Feb2025 17:22:06.197] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [195g30z14ph8q]: Consuming argument `air`
+[05Feb2025 17:22:06.197] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [195g30z14ph8q]: Consuming argument `b`
+[05Feb2025 17:22:06.343] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08sfkzupfalg5]: started parsing
+[05Feb2025 17:22:06.343] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08sfkzupfalg5]: Consuming argument `air`
+[05Feb2025 17:22:06.343] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08sfkzupfalg5]: Consuming argument `ba`
+[05Feb2025 17:22:06.736] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rvix8tfoljha]: started parsing
+[05Feb2025 17:22:06.736] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rvix8tfoljha]: Consuming argument `air`
+[05Feb2025 17:22:06.737] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rvix8tfoljha]: Consuming argument `b`
+[05Feb2025 17:22:07.476] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1x1nz1hldx8wq]: started parsing
+[05Feb2025 17:22:07.476] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1x1nz1hldx8wq]: Consuming argument `air`
+[05Feb2025 17:22:07.477] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1x1nz1hldx8wq]: Consuming argument `ba`
+[05Feb2025 17:22:08.395] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t7v48n72ibz1]: started parsing
+[05Feb2025 17:22:08.395] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t7v48n72ibz1]: Consuming argument `air`
+[05Feb2025 17:22:08.395] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t7v48n72ibz1]: Consuming argument `bar`
+[05Feb2025 17:22:10.743] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17cpfoqc413wi]: started parsing
+[05Feb2025 17:22:10.743] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17cpfoqc413wi]: Consuming argument `air`
+[05Feb2025 17:22:10.744] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17cpfoqc413wi]: Consuming argument `barrier`
+[05Feb2025 17:22:10.744] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17cpfoqc413wi]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:23:24.158] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sbmvyhk9s51v]: started parsing
+[05Feb2025 17:23:24.158] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sbmvyhk9s51v]: Consuming argument `air`
+[05Feb2025 17:23:24.158] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sbmvyhk9s51v]: Consuming argument `barrier`
+[05Feb2025 17:23:24.158] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sbmvyhk9s51v]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:23:24.159] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [010s8bv6rueym]: started parsing
+[05Feb2025 17:23:24.159] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [010s8bv6rueym]: Consuming argument `air`
+[05Feb2025 17:23:24.159] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [010s8bv6rueym]: Consuming argument `barrier`
+[05Feb2025 17:23:24.159] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [010s8bv6rueym]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:23:24.778] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1br45dh5iyby7]: started parsing
+[05Feb2025 17:23:24.778] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1br45dh5iyby7]: Consuming argument `air`
+[05Feb2025 17:23:24.778] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1br45dh5iyby7]: Consuming argument `barrier`
+[05Feb2025 17:23:24.779] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1br45dh5iyby7]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:23:51.437] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0i5oidoi97dqp]: started parsing
+[05Feb2025 17:23:51.437] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0i5oidoi97dqp]: Consuming argument `air`
+[05Feb2025 17:23:51.437] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0i5oidoi97dqp]: Consuming argument `barrier`
+[05Feb2025 17:23:51.437] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0i5oidoi97dqp]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:23:51.438] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lo3m6w6cdarw]: started parsing
+[05Feb2025 17:23:51.438] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lo3m6w6cdarw]: Consuming argument `air`
+[05Feb2025 17:23:51.438] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lo3m6w6cdarw]: Consuming argument `barrier`
+[05Feb2025 17:23:51.438] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lo3m6w6cdarw]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:23:52.109] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [142xpu7blvw17]: started parsing
+[05Feb2025 17:23:52.109] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [142xpu7blvw17]: Consuming argument `air`
+[05Feb2025 17:23:52.109] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [142xpu7blvw17]: Consuming argument `barrier`
+[05Feb2025 17:23:52.109] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [142xpu7blvw17]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:23:58.530] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pj2ioaw8ezlr]: started parsing
+[05Feb2025 17:23:58.530] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pj2ioaw8ezlr]: Consuming argument `air`
+[05Feb2025 17:23:58.531] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pj2ioaw8ezlr]: Consuming argument `barrier`
+[05Feb2025 17:23:58.531] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pj2ioaw8ezlr]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:23:58.531] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0e5vi0ehtol4w]: started parsing
+[05Feb2025 17:23:58.531] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0e5vi0ehtol4w]: Consuming argument `air`
+[05Feb2025 17:23:58.531] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0e5vi0ehtol4w]: Consuming argument `barrier`
+[05Feb2025 17:23:58.531] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0e5vi0ehtol4w]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:24:00.695] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [090f6k4gyioxg]: started parsing
+[05Feb2025 17:24:00.695] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [090f6k4gyioxg]: Consuming argument `air`
+[05Feb2025 17:24:00.695] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [090f6k4gyioxg]: Consuming argument `barrier`
+[05Feb2025 17:24:00.695] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [090f6k4gyioxg]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:24:00.696] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ioglywblajqs]: started parsing
+[05Feb2025 17:24:00.696] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ioglywblajqs]: Consuming argument `air`
+[05Feb2025 17:24:00.696] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ioglywblajqs]: Consuming argument `barrier`
+[05Feb2025 17:24:00.696] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ioglywblajqs]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:24:01.141] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1f24ap1xxgmc6]: started parsing
+[05Feb2025 17:24:01.141] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1f24ap1xxgmc6]: Consuming argument `air`
+[05Feb2025 17:24:01.142] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1f24ap1xxgmc6]: Consuming argument `barrie`
+[05Feb2025 17:24:01.643] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13i253n45yduk]: started parsing
+[05Feb2025 17:24:01.643] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13i253n45yduk]: Consuming argument `air`
+[05Feb2025 17:24:01.644] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13i253n45yduk]: Consuming argument `barri`
+[05Feb2025 17:24:01.667] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xuzy67f5q4ay]: started parsing
+[05Feb2025 17:24:01.667] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xuzy67f5q4ay]: Consuming argument `air`
+[05Feb2025 17:24:01.667] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xuzy67f5q4ay]: Consuming argument `barr`
+[05Feb2025 17:24:01.703] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0787q3yl3cpe8]: started parsing
+[05Feb2025 17:24:01.703] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0787q3yl3cpe8]: Consuming argument `air`
+[05Feb2025 17:24:01.703] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0787q3yl3cpe8]: Consuming argument `bar`
+[05Feb2025 17:24:01.727] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00n6ostx0hknq]: started parsing
+[05Feb2025 17:24:01.727] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00n6ostx0hknq]: Consuming argument `air`
+[05Feb2025 17:24:01.727] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00n6ostx0hknq]: Consuming argument `ba`
+[05Feb2025 17:24:01.766] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cwzxampskl67]: started parsing
+[05Feb2025 17:24:01.766] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cwzxampskl67]: Consuming argument `air`
+[05Feb2025 17:24:01.766] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cwzxampskl67]: Consuming argument `b`
+[05Feb2025 17:24:01.786] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nhkxjikk8y8u]: started parsing
+[05Feb2025 17:24:01.786] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nhkxjikk8y8u]: Consuming argument `air`
+[05Feb2025 17:24:01.786] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nhkxjikk8y8u]: Consuming argument ``
+[05Feb2025 17:24:01.824] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19it1f1g12dyj]: started parsing
+[05Feb2025 17:24:01.824] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19it1f1g12dyj]: Consuming argument `air`
+[05Feb2025 17:24:01.824] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19it1f1g12dyj]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:24:01.848] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oforgfhkfdsa]: started parsing
+[05Feb2025 17:24:01.848] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oforgfhkfdsa]: Consuming argument `ai`
+[05Feb2025 17:24:01.880] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1675btb3mxnsj]: started parsing
+[05Feb2025 17:24:01.880] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1675btb3mxnsj]: Consuming argument `a`
+[05Feb2025 17:24:01.909] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18v3x0whlg8e1]: started parsing
+[05Feb2025 17:24:01.909] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18v3x0whlg8e1]: Consuming argument ``
+[05Feb2025 17:24:10.203] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LIGS_458 lost connection: Timed out
+[05Feb2025 17:24:10.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 left the game
+[05Feb2025 17:24:10.301] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Feb2025 17:25:02.564] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 33 messages to dispatch.
+[05Feb2025 17:25:02.600] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[05Feb2025 17:25:02.650] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[05Feb2025 17:25:02.700] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[05Feb2025 17:25:02.750] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[05Feb2025 17:25:02.800] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[05Feb2025 17:25:02.850] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[05Feb2025 17:25:02.896] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.86.160.94:43513/]: Handling inbound login query with id 1
+[05Feb2025 17:25:02.897] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[05Feb2025 17:25:02.897] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[05Feb2025 17:25:02.897] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [fabric_renderer_api_v1, fabric_item_api_v1, fabric_rendering_fluids_v1, fabric_models_v0, fabric_convention_tags_v1, ritchiesprojectilelib, xaeroworldmap, fabric_command_api_v1, fabric_block_view_api_v2, fabric_command_api_v2, fabric_data_attachment_api_v1, mixinextras, fabric_screen_api_v1, cloth_config, fabric_api, fabric_content_registries_v0, embeddium, rubidium, cbcmodernwarfare, create_connected, fabric_game_rule_api_v1, fabric_api_lookup_api_v1, oculus, replaymod, connectormod, fabric_entity_events_v1, worldedit, fabric_loot_api_v2, fabric_rendering_data_attachment_v1, fabric_networking_api_v1, fabric_lifecycle_events_v1, fabric_key_binding_api_v1, fabric_client_tags_api_v1, fabric_transfer_api_v1, fabric_dimensions_v1, create_tweaked_controllers, fabric_model_loading_api_v1, jei, tacz, fabric_screen_handler_api_v1, fabric_resource_loader_v0, fabric_rendering_v1, fabric_renderer_indigo, fabric_mining_level_api_v1, fabric_particles_v1, forge, fabric_transitive_access_wideners_v1, minecraft, fabric_api_base, fabric_blockrenderlayer_v1, fabric_block_api_v1, fabric_resource_conditions_api_v1, kotlinforforge, flywheel, xaerominimap, fabric_item_group_api_v1, create_radar, createbigcannons, create, fabric_biome_api_v1, fabric_registry_sync_v0, fabric_recipe_api_v1, fabric_object_builder_api_v1, fabric_sound_api_v1, valkyrienskies, vs_eureka, vs_clockwork, fabric_message_api_v1, fabric_data_generation_api_v1, fabric_events_interaction_v0]
+[05Feb2025 17:25:02.897] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:cui' : Version test of '1' from client : ACCEPTED
+[05Feb2025 17:25:02.897] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[05Feb2025 17:25:02.897] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[05Feb2025 17:25:02.897] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[05Feb2025 17:25:02.897] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create_radar:messages' : Version test of '1.0' from client : ACCEPTED
+[05Feb2025 17:25:02.897] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create_connected:config_common' : Version test of '1.0.0' from client : ACCEPTED
+[05Feb2025 17:25:02.897] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[05Feb2025 17:25:02.897] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[05Feb2025 17:25:02.897] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Version test of '1.0' from client : ACCEPTED
+[05Feb2025 17:25:02.897] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'createbigcannons:network' : Version test of '2.0.0' from client : ACCEPTED
+[05Feb2025 17:25:02.897] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'vs_clockwork:main' : Version test of '1' from client : ACCEPTED
+[05Feb2025 17:25:02.897] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create_tweaked_controllers:main' : Version test of '2' from client : ACCEPTED
+[05Feb2025 17:25:02.897] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[05Feb2025 17:25:02.898] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'valkyrienskies:vs_packet' : Version test of '1' from client : ACCEPTED
+[05Feb2025 17:25:02.898] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tacz:handshake' : Version test of '1.0.4' from client : ACCEPTED
+[05Feb2025 17:25:02.898] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ritchiesprojectilelib:network' : Version test of '3.0.0' from client : ACCEPTED
+[05Feb2025 17:25:02.898] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:internal' : Version test of '1' from client : ACCEPTED
+[05Feb2025 17:25:02.898] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create_connected:main' : Version test of '1' from client : ACCEPTED
+[05Feb2025 17:25:02.898] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaeroworldmap:main' : Version test of '1.0' from client : ACCEPTED
+[05Feb2025 17:25:02.898] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[05Feb2025 17:25:02.898] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[05Feb2025 17:25:02.898] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tacz:network' : Version test of '1.0.4' from client : ACCEPTED
+[05Feb2025 17:25:02.898] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create:main' : Version test of '3' from client : ACCEPTED
+[05Feb2025 17:25:02.898] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[05Feb2025 17:25:02.898] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[05Feb2025 17:25:02.900] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[05Feb2025 17:25:02.947] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.86.160.94:43513/]: Handling inbound login query with id 2
+[05Feb2025 17:25:02.947] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[05Feb2025 17:25:02.947] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Feb2025 17:25:02.947] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Feb2025 17:25:02.950] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[05Feb2025 17:25:02.996] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.86.160.94:43513/]: Handling inbound login query with id 3
+[05Feb2025 17:25:02.996] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[05Feb2025 17:25:02.997] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Feb2025 17:25:02.997] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Feb2025 17:25:03.000] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[05Feb2025 17:25:03.050] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry createbigcannons:block_recipe_serializers' to 'fml:handshake' sequence 9
+[05Feb2025 17:25:03.100] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 10
+[05Feb2025 17:25:03.150] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 11
+[05Feb2025 17:25:03.200] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 12
+[05Feb2025 17:25:03.250] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 13
+[05Feb2025 17:25:03.290] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.86.160.94:43513/]: Handling inbound login query with id 4
+[05Feb2025 17:25:03.290] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[05Feb2025 17:25:03.290] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Feb2025 17:25:03.290] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Feb2025 17:25:03.290] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.86.160.94:43513/]: Handling inbound login query with id 5
+[05Feb2025 17:25:03.290] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[05Feb2025 17:25:03.290] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Feb2025 17:25:03.290] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Feb2025 17:25:03.290] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.86.160.94:43513/]: Handling inbound login query with id 6
+[05Feb2025 17:25:03.291] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[05Feb2025 17:25:03.291] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Feb2025 17:25:03.291] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Feb2025 17:25:03.300] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 14
+[05Feb2025 17:25:03.350] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 15
+[05Feb2025 17:25:03.400] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 16
+[05Feb2025 17:25:03.450] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 17
+[05Feb2025 17:25:03.500] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry createbigcannons:cannon_cast_shapes' to 'fml:handshake' sequence 18
+[05Feb2025 17:25:03.501] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.86.160.94:43513/]: Handling inbound login query with id 7
+[05Feb2025 17:25:03.501] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[05Feb2025 17:25:03.501] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Feb2025 17:25:03.501] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Feb2025 17:25:03.501] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.86.160.94:43513/]: Handling inbound login query with id 8
+[05Feb2025 17:25:03.501] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[05Feb2025 17:25:03.501] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Feb2025 17:25:03.501] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Feb2025 17:25:03.501] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.86.160.94:43513/]: Handling inbound login query with id 9
+[05Feb2025 17:25:03.501] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[05Feb2025 17:25:03.501] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Feb2025 17:25:03.501] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Feb2025 17:25:03.501] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.86.160.94:43513/]: Handling inbound login query with id 10
+[05Feb2025 17:25:03.501] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[05Feb2025 17:25:03.501] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Feb2025 17:25:03.501] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Feb2025 17:25:03.501] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.86.160.94:43513/]: Handling inbound login query with id 11
+[05Feb2025 17:25:03.501] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[05Feb2025 17:25:03.501] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Feb2025 17:25:03.501] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Feb2025 17:25:03.550] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 19
+[05Feb2025 17:25:03.555] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.86.160.94:43513/]: Handling inbound login query with id 12
+[05Feb2025 17:25:03.555] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[05Feb2025 17:25:03.555] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Feb2025 17:25:03.555] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Feb2025 17:25:03.555] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.86.160.94:43513/]: Handling inbound login query with id 13
+[05Feb2025 17:25:03.555] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[05Feb2025 17:25:03.555] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Feb2025 17:25:03.555] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Feb2025 17:25:03.600] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry createbigcannons:block_recipe_types' to 'fml:handshake' sequence 20
+[05Feb2025 17:25:03.650] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 21
+[05Feb2025 17:25:03.690] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.86.160.94:43513/]: Handling inbound login query with id 14
+[05Feb2025 17:25:03.690] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[05Feb2025 17:25:03.690] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Feb2025 17:25:03.690] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Feb2025 17:25:03.690] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.86.160.94:43513/]: Handling inbound login query with id 15
+[05Feb2025 17:25:03.691] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[05Feb2025 17:25:03.691] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Feb2025 17:25:03.691] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Feb2025 17:25:03.691] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.86.160.94:43513/]: Handling inbound login query with id 16
+[05Feb2025 17:25:03.691] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[05Feb2025 17:25:03.691] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Feb2025 17:25:03.691] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Feb2025 17:25:03.691] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.86.160.94:43513/]: Handling inbound login query with id 17
+[05Feb2025 17:25:03.691] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[05Feb2025 17:25:03.691] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Feb2025 17:25:03.691] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Feb2025 17:25:03.700] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 22
+[05Feb2025 17:25:03.744] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.86.160.94:43513/]: Handling inbound login query with id 18
+[05Feb2025 17:25:03.744] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[05Feb2025 17:25:03.744] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Feb2025 17:25:03.744] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Feb2025 17:25:03.750] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 23
+[05Feb2025 17:25:03.800] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ritchiesprojectilelib-server.toml' to 'fml:handshake' sequence 24
+[05Feb2025 17:25:03.845] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.86.160.94:43513/]: Handling inbound login query with id 19
+[05Feb2025 17:25:03.845] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[05Feb2025 17:25:03.845] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Feb2025 17:25:03.845] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Feb2025 17:25:03.845] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.86.160.94:43513/]: Handling inbound login query with id 20
+[05Feb2025 17:25:03.845] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[05Feb2025 17:25:03.845] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Feb2025 17:25:03.845] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Feb2025 17:25:03.851] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config vs_clockwork-server.toml' to 'fml:handshake' sequence 25
+[05Feb2025 17:25:03.886] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.86.160.94:43513/]: Handling inbound login query with id 21
+[05Feb2025 17:25:03.886] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[05Feb2025 17:25:03.886] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Feb2025 17:25:03.886] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Feb2025 17:25:03.900] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config create-server.toml' to 'fml:handshake' sequence 26
+[05Feb2025 17:25:03.945] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.86.160.94:43513/]: Handling inbound login query with id 22
+[05Feb2025 17:25:03.945] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[05Feb2025 17:25:03.945] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Feb2025 17:25:03.945] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Feb2025 17:25:03.950] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config createbigcannons-server.toml' to 'fml:handshake' sequence 27
+[05Feb2025 17:25:04.000] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config create_connected-server.toml' to 'fml:handshake' sequence 28
+[05Feb2025 17:25:04.050] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 29
+[05Feb2025 17:25:04.100] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tacz-server.toml' to 'fml:handshake' sequence 30
+[05Feb2025 17:25:04.150] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 31
+[05Feb2025 17:25:04.200] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'com.tacz.guns.network.message.handshake.ServerMessageSyncedEntityDataMapping' to 'tacz:handshake' sequence 32
+[05Feb2025 17:25:04.707] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.86.160.94:43513/]: Handling inbound login query with id 23
+[05Feb2025 17:25:04.707] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[05Feb2025 17:25:04.707] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Feb2025 17:25:04.707] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Feb2025 17:25:04.707] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.86.160.94:43513/]: Handling inbound login query with id 24
+[05Feb2025 17:25:04.707] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[05Feb2025 17:25:04.707] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Feb2025 17:25:04.707] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Feb2025 17:25:04.707] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.86.160.94:43513/]: Handling inbound login query with id 25
+[05Feb2025 17:25:04.707] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[05Feb2025 17:25:04.707] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Feb2025 17:25:04.707] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Feb2025 17:25:04.707] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.86.160.94:43513/]: Handling inbound login query with id 26
+[05Feb2025 17:25:04.707] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[05Feb2025 17:25:04.707] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Feb2025 17:25:04.707] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Feb2025 17:25:04.750] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.86.160.94:43513/]: Handling inbound login query with id 27
+[05Feb2025 17:25:04.750] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[05Feb2025 17:25:04.750] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Feb2025 17:25:04.750] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Feb2025 17:25:04.750] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.86.160.94:43513/]: Handling inbound login query with id 28
+[05Feb2025 17:25:04.750] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[05Feb2025 17:25:04.750] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Feb2025 17:25:04.750] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Feb2025 17:25:04.750] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.86.160.94:43513/]: Handling inbound login query with id 29
+[05Feb2025 17:25:04.750] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[05Feb2025 17:25:04.751] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Feb2025 17:25:04.751] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Feb2025 17:25:04.751] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.86.160.94:43513/]: Handling inbound login query with id 30
+[05Feb2025 17:25:04.751] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[05Feb2025 17:25:04.751] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Feb2025 17:25:04.751] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Feb2025 17:25:04.751] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.86.160.94:43513/]: Handling inbound login query with id 31
+[05Feb2025 17:25:04.751] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[05Feb2025 17:25:04.751] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Feb2025 17:25:04.751] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Feb2025 17:25:04.751] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.86.160.94:43513/]: Handling inbound login query with id 32
+[05Feb2025 17:25:04.751] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel tacz:handshake with index 32
+[05Feb2025 17:25:04.751] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type com.tacz.guns.network.message.handshake.Acknowledge
+[05Feb2025 17:25:04.751] [Netty Epoll Server IO #7/DEBUG] [tacz/HANDSHAKE_ACKNOWLEDGE]: Received acknowledgement from client
+[05Feb2025 17:25:04.800] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[05Feb2025 17:25:04.850] [Server thread/DEBUG] [fabric_networking_api_v1/]: Sent accepted channels to the client for "com.mojang.authlib.GameProfile@621bc5e[id=<null>,name=LIGS_458,properties={},legacy=false] (/127.86.160.94:43513)"
+[05Feb2025 17:25:05.297] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.86.160.94:43513/]: Handling inbound login query with id 999
+[05Feb2025 17:25:05.297] [Netty Epoll Server IO #7/DEBUG] [fabric_networking_api_v1/]: Received accepted channels from the client for "com.mojang.authlib.GameProfile@621bc5e[id=<null>,name=LIGS_458,properties={},legacy=false] (/127.86.160.94:43513)"
+[05Feb2025 17:25:05.316] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LIGS_458[/127.86.160.94:43513] logged in with entity id 137 at (-1079.415875755714, -59.2468000194788, 7.713180820978327)
+[05Feb2025 17:25:05.316] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@3bc6439d into net.minecraft.network.Connection@34f0ac64
+[05Feb2025 17:25:05.317] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:command_argument_type
+[05Feb2025 17:25:05.317] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:item
+[05Feb2025 17:25:05.317] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:block_entity_type
+[05Feb2025 17:25:05.317] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:custom_stat
+[05Feb2025 17:25:05.317] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/foliage_placer_type
+[05Feb2025 17:25:05.317] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:stat_type
+[05Feb2025 17:25:05.317] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/material_rule
+[05Feb2025 17:25:05.317] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_type
+[05Feb2025 17:25:05.317] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:attribute
+[05Feb2025 17:25:05.317] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:position_source_type
+[05Feb2025 17:25:05.317] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:height_provider_type
+[05Feb2025 17:25:05.317] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:rule_block_entity_modifier
+[05Feb2025 17:25:05.317] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/density_function_type
+[05Feb2025 17:25:05.317] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:fluid
+[05Feb2025 17:25:05.317] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: forge:global_loot_modifier_serializers
+[05Feb2025 17:25:05.317] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_condition_type
+[05Feb2025 17:25:05.317] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_pool_element
+[05Feb2025 17:25:05.317] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:activity
+[05Feb2025 17:25:05.317] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:recipe_serializer
+[05Feb2025 17:25:05.317] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:frog_variant
+[05Feb2025 17:25:05.317] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:banner_pattern
+[05Feb2025 17:25:05.317] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:instrument
+[05Feb2025 17:25:05.317] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:decorated_pot_patterns
+[05Feb2025 17:25:05.317] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/feature_size_type
+[05Feb2025 17:25:05.317] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:point_of_interest_type
+[05Feb2025 17:25:05.317] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:mob_effect
+[05Feb2025 17:25:05.317] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: createbigcannons:cannon_cast_shapes
+[05Feb2025 17:25:05.317] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_pool_entry_type
+[05Feb2025 17:25:05.317] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/block_state_provider_type
+[05Feb2025 17:25:05.317] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/chunk_generator
+[05Feb2025 17:25:05.317] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:float_provider_type
+[05Feb2025 17:25:05.317] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:chunk_status
+[05Feb2025 17:25:05.317] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:enchantment
+[05Feb2025 17:25:05.317] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_function_type
+[05Feb2025 17:25:05.317] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_processor
+[05Feb2025 17:25:05.317] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_score_provider_type
+[05Feb2025 17:25:05.317] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/tree_decorator_type
+[05Feb2025 17:25:05.317] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:schedule
+[05Feb2025 17:25:05.317] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/material_condition
+[05Feb2025 17:25:05.317] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:entity_type
+[05Feb2025 17:25:05.317] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:villager_profession
+[05Feb2025 17:25:05.317] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:potion
+[05Feb2025 17:25:05.317] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: createbigcannons:block_recipe_serializers
+[05Feb2025 17:25:05.317] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:recipe_type
+[05Feb2025 17:25:05.317] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:int_provider_type
+[05Feb2025 17:25:05.317] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/feature
+[05Feb2025 17:25:05.318] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:cat_variant
+[05Feb2025 17:25:05.318] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:pos_rule_test
+[05Feb2025 17:25:05.318] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_placement
+[05Feb2025 17:25:05.318] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_nbt_provider_type
+[05Feb2025 17:25:05.318] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:menu
+[05Feb2025 17:25:05.318] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/trunk_placer_type
+[05Feb2025 17:25:05.318] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:creative_mode_tab
+[05Feb2025 17:25:05.318] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: createbigcannons:block_recipe_types
+[05Feb2025 17:25:05.318] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/placement_modifier_type
+[05Feb2025 17:25:05.318] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/carver
+[05Feb2025 17:25:05.318] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_number_provider_type
+[05Feb2025 17:25:05.318] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_piece
+[05Feb2025 17:25:05.318] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:sound_event
+[05Feb2025 17:25:05.318] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:particle_type
+[05Feb2025 17:25:05.318] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:game_event
+[05Feb2025 17:25:05.318] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/biome_source
+[05Feb2025 17:25:05.318] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/root_placer_type
+[05Feb2025 17:25:05.318] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:villager_type
+[05Feb2025 17:25:05.318] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:painting_variant
+[05Feb2025 17:25:05.318] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: forge:fluid_type
+[05Feb2025 17:25:05.318] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:block_predicate_type
+[05Feb2025 17:25:05.318] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:block
+[05Feb2025 17:25:05.318] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: forge:entity_data_serializers
+[05Feb2025 17:25:05.318] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:sensor_type
+[05Feb2025 17:25:05.318] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:rule_test
+[05Feb2025 17:25:05.318] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:memory_module_type
+[05Feb2025 17:25:05.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 joined the game
+[05Feb2025 17:25:05.345] [Server thread/DEBUG] [com.hlysine.create_connected.CreateConnected/]: Sync Config: Sending server config to LIGS_458
+[05Feb2025 17:25:05.929] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738776305928
+[05Feb2025 17:25:11.423] [Netty Epoll Server IO #7/DEBUG] [org.valkyrienskies.core.impl.networking.NetworkChannel/]: Server received packet of type: PacketType(channel=org.valkyrienskies.core.impl.networking.NetworkChannel@edc24f3, id=1, name=SimplePacket - class org.valkyrienskies.core.impl.networking.impl.PacketRequestUdp)
+[05Feb2025 17:25:37.692] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yfws4ni5qndj]: started parsing
+[05Feb2025 17:25:37.692] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yfws4ni5qndj]: Consuming argument ``
+[05Feb2025 17:25:38.161] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11nefzvnwv1xv]: started parsing
+[05Feb2025 17:25:38.161] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11nefzvnwv1xv]: Consuming argument `a`
+[05Feb2025 17:25:38.463] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zp6z4a7r1acm]: started parsing
+[05Feb2025 17:25:38.463] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zp6z4a7r1acm]: Consuming argument `ai`
+[05Feb2025 17:25:38.939] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1igkwy7u4y2o8]: started parsing
+[05Feb2025 17:25:38.939] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1igkwy7u4y2o8]: Consuming argument `a`
+[05Feb2025 17:25:39.831] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fbe56u79z9cf]: started parsing
+[05Feb2025 17:25:39.831] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fbe56u79z9cf]: Consuming argument `ai`
+[05Feb2025 17:25:40.074] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uojrmkwxs4ut]: started parsing
+[05Feb2025 17:25:40.074] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uojrmkwxs4ut]: Consuming argument `air`
+[05Feb2025 17:25:40.074] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uojrmkwxs4ut]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:25:40.398] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hfnujpgeimzn]: started parsing
+[05Feb2025 17:25:40.398] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hfnujpgeimzn]: Consuming argument `air`
+[05Feb2025 17:25:40.398] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hfnujpgeimzn]: Consuming argument ``
+[05Feb2025 17:25:41.035] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0djgq35n77tqb]: started parsing
+[05Feb2025 17:25:41.035] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0djgq35n77tqb]: Consuming argument `air`
+[05Feb2025 17:25:41.036] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0djgq35n77tqb]: Consuming argument `b`
+[05Feb2025 17:25:41.620] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18nhonlg45did]: started parsing
+[05Feb2025 17:25:41.620] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18nhonlg45did]: Consuming argument `air`
+[05Feb2025 17:25:41.620] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18nhonlg45did]: Consuming argument `ba`
+[05Feb2025 17:25:42.755] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zrvhrgy09i0n]: started parsing
+[05Feb2025 17:25:42.755] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zrvhrgy09i0n]: Consuming argument `air`
+[05Feb2025 17:25:42.756] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zrvhrgy09i0n]: Consuming argument `bar`
+[05Feb2025 17:25:43.078] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0huh6qydk25rp]: started parsing
+[05Feb2025 17:25:43.078] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0huh6qydk25rp]: Consuming argument `air`
+[05Feb2025 17:25:43.078] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0huh6qydk25rp]: Consuming argument `barr`
+[05Feb2025 17:25:44.485] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17zoekmtgxf26]: started parsing
+[05Feb2025 17:25:44.485] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17zoekmtgxf26]: Consuming argument `air`
+[05Feb2025 17:25:44.485] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17zoekmtgxf26]: Consuming argument `barrier`
+[05Feb2025 17:25:44.485] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17zoekmtgxf26]: Finished looking at arguments. Finalizing command.

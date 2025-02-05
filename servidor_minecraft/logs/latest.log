@@ -247,3 +247,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Feb2025 17:02:12.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set the weather to clear]
 [05Feb2025 17:02:35.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Gamerule doWeatherCycle is now set to: false]
 [05Feb2025 17:11:47.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Gave 1 [Barrier] to LIGS_458]
+[05Feb2025 17:19:23.110] [WorldEdit Task Executor - 0/INFO] [com.sk89q.worldedit.command.SchematicCommands/]: LIGS_458 saved /workspaces/pokemons/servidor_minecraft/config/worldedit/schematics/basevsbase.schem
+[05Feb2025 17:19:49.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -3831.500000, -53.631864, 58.500000]
+[05Feb2025 17:20:13.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -1118.500000, -59.500000, 136.500000]
+[05Feb2025 17:24:10.203] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LIGS_458 lost connection: Timed out
+[05Feb2025 17:24:10.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 left the game
+[05Feb2025 17:24:10.301] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Feb2025 17:25:05.316] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LIGS_458[/127.86.160.94:43513] logged in with entity id 137 at (-1079.415875755714, -59.2468000194788, 7.713180820978327)
+[05Feb2025 17:25:05.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 joined the game
