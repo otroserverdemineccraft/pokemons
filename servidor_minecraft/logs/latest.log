@@ -146,3 +146,34 @@
 [05Feb2025 00:39:28.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was killed
 [05Feb2025 00:39:28.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was killed
 [05Feb2025 00:39:28.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Killed 3 entities]
+[05Feb2025 00:39:37.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Creative Mode]
+[05Feb2025 00:39:41.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Survival Mode]
+[05Feb2025 00:40:00.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported LIGS_458 to 12313.500000, -43.350000, -33231.000000]
+[05Feb2025 00:40:07.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported Bascap to Warrior_Legend]
+[05Feb2025 00:40:10.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to Warrior_Legend]
+[05Feb2025 00:40:58.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Creative Mode]
+[05Feb2025 00:41:21.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Survival Mode]
+[05Feb2025 00:41:34.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set Bascap's game mode to Survival Mode]
+[05Feb2025 00:41:34.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set LIGS_458's game mode to Survival Mode]
+[05Feb2025 00:41:37.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
+[05Feb2025 00:41:44.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported Bascap to LIGS_458]
+[05Feb2025 00:41:46.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
+[05Feb2025 00:41:49.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported Bascap to LIGS_458]
+[05Feb2025 00:41:57.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported Warrior_Legend to 234.500000, 24.000000, 1322131.500000]
+[05Feb2025 00:42:00.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend fell from a high place
+[05Feb2025 00:42:07.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
+[05Feb2025 00:42:17.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported Bascap to LIGS_458]
+[05Feb2025 00:42:56.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set the weather to rain & thunder]
+[05Feb2025 00:43:03.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Creative Mode]
+[05Feb2025 00:43:10.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 has reached the goal [Postmortal]
+[05Feb2025 00:44:25.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set the weather to clear]
+[05Feb2025 00:44:35.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
+[05Feb2025 00:44:44.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Survival Mode]
+[05Feb2025 00:45:07.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Applied effect Saturation to 3 targets]
+[05Feb2025 00:45:22.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Spectator Mode]
+[05Feb2025 00:45:25.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 fell out of the world
+[05Feb2025 00:45:29.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
+[05Feb2025 00:45:35.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Survival Mode]
+[05Feb2025 00:45:41.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Survival Mode]
+[05Feb2025 00:46:26.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
+[05Feb2025 00:48:17.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Bascap
