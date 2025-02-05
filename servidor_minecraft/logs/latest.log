@@ -129,3 +129,20 @@
 [05Feb2025 00:26:53.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap didn't want to live in the same world as Warrior_Legend
 [05Feb2025 00:27:16.978] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bascap lost connection: Disconnected
 [05Feb2025 00:27:16.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap left the game
+[05Feb2025 00:34:32.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set LIGS_458's game mode to Survival Mode]
+[05Feb2025 00:34:32.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Survival Mode]
+[05Feb2025 00:34:37.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
+[05Feb2025 00:34:59.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Creative Mode]
+[05Feb2025 00:37:50.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set LIGS_458's game mode to Survival Mode]
+[05Feb2025 00:37:50.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Survival Mode]
+[05Feb2025 00:37:54.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
+[05Feb2025 00:38:12.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set LIGS_458's game mode to Survival Mode]
+[05Feb2025 00:38:23.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by LIGS_458
+[05Feb2025 00:38:28.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
+[05Feb2025 00:38:29.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Creative Mode]
+[05Feb2025 00:39:19.528] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bascap[/127.143.177.98:57911] logged in with entity id 15377 at (81.69524998807907, -43.0, -338.30000001192093)
+[05Feb2025 00:39:19.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap joined the game
+[05Feb2025 00:39:28.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was killed
+[05Feb2025 00:39:28.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was killed
+[05Feb2025 00:39:28.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was killed
+[05Feb2025 00:39:28.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Killed 3 entities]
