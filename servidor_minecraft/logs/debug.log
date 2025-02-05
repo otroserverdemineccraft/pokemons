@@ -9552,3 +9552,312 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Feb2025 17:02:00.574] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
 [05Feb2025 17:02:12.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set the weather to clear]
 [05Feb2025 17:02:35.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Gamerule doWeatherCycle is now set to: false]
+[05Feb2025 17:07:00.523] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[05Feb2025 17:07:00.523] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[05Feb2025 17:07:00.523] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[05Feb2025 17:07:00.523] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[05Feb2025 17:07:00.523] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[05Feb2025 17:07:00.523] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[05Feb2025 17:07:00.523] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[05Feb2025 17:07:00.523] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[05Feb2025 17:07:00.523] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[05Feb2025 17:07:00.523] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[05Feb2025 17:07:00.523] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[05Feb2025 17:07:00.523] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[05Feb2025 17:07:00.523] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[05Feb2025 17:07:00.523] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[05Feb2025 17:07:00.523] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[05Feb2025 17:07:00.523] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[05Feb2025 17:07:00.523] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[05Feb2025 17:07:00.523] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[05Feb2025 17:07:00.523] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[05Feb2025 17:07:00.523] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[05Feb2025 17:07:00.523] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[05Feb2025 17:07:00.523] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[05Feb2025 17:07:00.523] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[05Feb2025 17:07:00.523] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[05Feb2025 17:07:00.523] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[05Feb2025 17:07:00.524] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[05Feb2025 17:07:00.524] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[05Feb2025 17:07:00.524] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: createbigcannons:cannon_cast_shapes
+[05Feb2025 17:07:00.524] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[05Feb2025 17:07:00.524] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[05Feb2025 17:07:00.524] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[05Feb2025 17:07:00.524] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[05Feb2025 17:07:00.524] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[05Feb2025 17:07:00.524] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[05Feb2025 17:07:00.524] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[05Feb2025 17:07:00.524] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[05Feb2025 17:07:00.524] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[05Feb2025 17:07:00.524] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[05Feb2025 17:07:00.524] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[05Feb2025 17:07:00.524] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[05Feb2025 17:07:00.524] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[05Feb2025 17:07:00.524] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[05Feb2025 17:07:00.524] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[05Feb2025 17:07:00.524] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: createbigcannons:block_recipe_serializers
+[05Feb2025 17:07:00.524] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[05Feb2025 17:07:00.524] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[05Feb2025 17:07:00.524] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[05Feb2025 17:07:00.524] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[05Feb2025 17:07:00.524] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[05Feb2025 17:07:00.524] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[05Feb2025 17:07:00.524] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[05Feb2025 17:07:00.524] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[05Feb2025 17:07:00.524] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[05Feb2025 17:07:00.524] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[05Feb2025 17:07:00.524] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: createbigcannons:block_recipe_types
+[05Feb2025 17:07:00.524] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[05Feb2025 17:07:00.524] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[05Feb2025 17:07:00.524] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[05Feb2025 17:07:00.524] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[05Feb2025 17:07:00.525] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[05Feb2025 17:07:00.525] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[05Feb2025 17:07:00.525] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[05Feb2025 17:07:00.525] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[05Feb2025 17:07:00.525] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[05Feb2025 17:07:00.525] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[05Feb2025 17:07:00.525] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[05Feb2025 17:07:00.525] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[05Feb2025 17:07:00.525] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[05Feb2025 17:07:00.525] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[05Feb2025 17:07:00.525] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[05Feb2025 17:07:00.525] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[05Feb2025 17:07:00.525] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[05Feb2025 17:07:00.525] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[05Feb2025 17:07:00.525] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[05Feb2025 17:07:00.526] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[05Feb2025 17:07:00.536] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[05Feb2025 17:08:40.142] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1f0hbywf5z85v]: started parsing
+[05Feb2025 17:08:40.142] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1f0hbywf5z85v]: Consuming argument ``
+[05Feb2025 17:08:41.426] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0myxysziln78m]: started parsing
+[05Feb2025 17:08:41.426] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0myxysziln78m]: Consuming argument `a`
+[05Feb2025 17:08:41.627] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00ie5c5f8r0jl]: started parsing
+[05Feb2025 17:08:41.627] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00ie5c5f8r0jl]: Consuming argument `ai`
+[05Feb2025 17:08:41.743] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dm17b5p0gjqs]: started parsing
+[05Feb2025 17:08:41.744] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dm17b5p0gjqs]: Consuming argument `air`
+[05Feb2025 17:08:42.103] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08gbdviap522y]: started parsing
+[05Feb2025 17:08:42.103] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08gbdviap522y]: Consuming argument `air`
+[05Feb2025 17:08:44.143] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ipdro4z5vme9]: started parsing
+[05Feb2025 17:08:44.143] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ipdro4z5vme9]: Consuming argument `air`
+[05Feb2025 17:08:44.143] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [081borui2qoi3]: started parsing
+[05Feb2025 17:08:44.143] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [081borui2qoi3]: Consuming argument `air`
+[05Feb2025 17:08:44.588] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07n3akkycokou]: started parsing
+[05Feb2025 17:08:44.588] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07n3akkycokou]: Consuming argument `ai`
+[05Feb2025 17:08:45.092] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c28zz8917x39]: started parsing
+[05Feb2025 17:08:45.092] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c28zz8917x39]: Consuming argument `a`
+[05Feb2025 17:08:45.120] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [004upla7vbgn2]: started parsing
+[05Feb2025 17:08:45.121] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [004upla7vbgn2]: Consuming argument ``
+[05Feb2025 17:08:50.952] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zrca5658zge8]: started parsing
+[05Feb2025 17:08:50.952] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zrca5658zge8]: Consuming argument ``
+[05Feb2025 17:08:51.315] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lydqrdmgkcf7]: started parsing
+[05Feb2025 17:08:51.315] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lydqrdmgkcf7]: Consuming argument `a`
+[05Feb2025 17:08:51.685] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j9gn1r56m638]: started parsing
+[05Feb2025 17:08:51.685] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j9gn1r56m638]: Consuming argument `ai`
+[05Feb2025 17:08:51.806] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bk5h1ge2rwru]: started parsing
+[05Feb2025 17:08:51.806] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bk5h1ge2rwru]: Consuming argument `air`
+[05Feb2025 17:08:51.824] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bk5h1ge2rwru]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:08:52.002] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09u3ib58fckzu]: started parsing
+[05Feb2025 17:08:52.002] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09u3ib58fckzu]: Consuming argument `air`
+[05Feb2025 17:08:52.002] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09u3ib58fckzu]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:08:52.031] [Server thread/DEBUG] [com.sk89q.worldedit.world.registry.BundledBlockData/]: Using union:/workspaces/pokemons/servidor_minecraft/mods/worldedit-mod-7.2.15.jar%23137!/com/sk89q/worldedit/world/registry/blocks.120.json for bundled block data.
+[05Feb2025 17:09:16.572] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hmsls6bonlh4]: started parsing
+[05Feb2025 17:09:16.572] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hmsls6bonlh4]: Consuming argument ``
+[05Feb2025 17:09:18.039] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c9aefua45rc8]: started parsing
+[05Feb2025 17:09:18.039] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c9aefua45rc8]: Consuming argument `c`
+[05Feb2025 17:09:18.378] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0imzmfdr5lc52]: started parsing
+[05Feb2025 17:09:18.378] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0imzmfdr5lc52]: Consuming argument ``
+[05Feb2025 17:09:18.797] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pwhlrejf4lz4]: started parsing
+[05Feb2025 17:09:18.797] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pwhlrejf4lz4]: Consuming argument `a`
+[05Feb2025 17:09:19.158] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19bembtkbx8la]: started parsing
+[05Feb2025 17:09:19.158] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19bembtkbx8la]: Consuming argument ``
+[05Feb2025 17:09:19.440] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bmvxrwsm9bob]: started parsing
+[05Feb2025 17:09:19.440] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bmvxrwsm9bob]: Consuming argument `g`
+[05Feb2025 17:09:19.853] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zr85cdhhxbzr]: started parsing
+[05Feb2025 17:09:19.853] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zr85cdhhxbzr]: Consuming argument `gr`
+[05Feb2025 17:09:20.013] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16zs5e67zx8cg]: started parsing
+[05Feb2025 17:09:20.013] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16zs5e67zx8cg]: Consuming argument `gra`
+[05Feb2025 17:09:20.630] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bry109a1fl43]: started parsing
+[05Feb2025 17:09:20.630] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bry109a1fl43]: Consuming argument `gras`
+[05Feb2025 17:09:21.834] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1g1oc02g0lumc]: started parsing
+[05Feb2025 17:09:21.834] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1g1oc02g0lumc]: Consuming argument `grass_block`
+[05Feb2025 17:09:21.836] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1g1oc02g0lumc]: Consuming argument ``
+[05Feb2025 17:09:22.562] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [034s00n6ilygk]: started parsing
+[05Feb2025 17:09:22.562] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [034s00n6ilygk]: Consuming argument `grass_block`
+[05Feb2025 17:09:22.562] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [034s00n6ilygk]: Consuming argument `c`
+[05Feb2025 17:09:22.752] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16bcyucl2npsu]: started parsing
+[05Feb2025 17:09:22.752] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16bcyucl2npsu]: Consuming argument `grass_block`
+[05Feb2025 17:09:22.752] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16bcyucl2npsu]: Consuming argument `co`
+[05Feb2025 17:09:23.178] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m8g2ihe69waf]: started parsing
+[05Feb2025 17:09:23.178] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m8g2ihe69waf]: Consuming argument `grass_block`
+[05Feb2025 17:09:23.178] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m8g2ihe69waf]: Consuming argument `c`
+[05Feb2025 17:09:23.370] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0k6rvdqncqs8a]: started parsing
+[05Feb2025 17:09:23.370] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0k6rvdqncqs8a]: Consuming argument `grass_block`
+[05Feb2025 17:09:23.370] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0k6rvdqncqs8a]: Consuming argument ``
+[05Feb2025 17:09:23.466] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qwbqbqn1ghzh]: started parsing
+[05Feb2025 17:09:23.466] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qwbqbqn1ghzh]: Consuming argument `grass_block`
+[05Feb2025 17:09:23.466] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qwbqbqn1ghzh]: Consuming argument `r`
+[05Feb2025 17:09:23.545] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [004uxxb447ovl]: started parsing
+[05Feb2025 17:09:23.545] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [004uxxb447ovl]: Consuming argument `grass_block`
+[05Feb2025 17:09:23.545] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [004uxxb447ovl]: Consuming argument `re`
+[05Feb2025 17:09:23.823] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ff4spw4kkyna]: started parsing
+[05Feb2025 17:09:23.823] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ff4spw4kkyna]: Consuming argument `grass_block`
+[05Feb2025 17:09:23.823] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ff4spw4kkyna]: Consuming argument `red`
+[05Feb2025 17:09:23.823] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ff4spw4kkyna]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:09:25.072] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zzs2aalkwyt5]: started parsing
+[05Feb2025 17:09:25.072] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zzs2aalkwyt5]: Consuming argument `grass_block`
+[05Feb2025 17:09:25.072] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zzs2aalkwyt5]: Consuming argument `re`
+[05Feb2025 17:09:27.240] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13tngb3jylhyk]: started parsing
+[05Feb2025 17:09:27.240] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13tngb3jylhyk]: Consuming argument `grass_block`
+[05Feb2025 17:09:27.241] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13tngb3jylhyk]: Consuming argument `red_concrete`
+[05Feb2025 17:09:27.241] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13tngb3jylhyk]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:10:45.585] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12zkuxfnq50ob]: started parsing
+[05Feb2025 17:10:45.585] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12zkuxfnq50ob]: Consuming argument ``
+[05Feb2025 17:10:46.183] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t1f4lzp8htnk]: started parsing
+[05Feb2025 17:10:46.183] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t1f4lzp8htnk]: Consuming argument `d`
+[05Feb2025 17:10:46.521] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rgoc02z3p3iq]: started parsing
+[05Feb2025 17:10:46.521] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rgoc02z3p3iq]: Consuming argument `di`
+[05Feb2025 17:10:46.767] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qptza5okipfn]: started parsing
+[05Feb2025 17:10:46.767] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qptza5okipfn]: Consuming argument `dir`
+[05Feb2025 17:10:47.066] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z1n5mgp5rmjb]: started parsing
+[05Feb2025 17:10:47.066] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z1n5mgp5rmjb]: Consuming argument `dirt`
+[05Feb2025 17:10:47.067] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z1n5mgp5rmjb]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:10:47.377] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xnxlkyvywd2o]: started parsing
+[05Feb2025 17:10:47.377] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xnxlkyvywd2o]: Consuming argument `dirt`
+[05Feb2025 17:10:47.377] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xnxlkyvywd2o]: Consuming argument ``
+[05Feb2025 17:10:48.273] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0f7uw4avm9h5e]: started parsing
+[05Feb2025 17:10:48.273] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0f7uw4avm9h5e]: Consuming argument `dirt`
+[05Feb2025 17:10:48.273] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0f7uw4avm9h5e]: Consuming argument `#`
+[05Feb2025 17:10:48.831] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yfvvinftbnpy]: started parsing
+[05Feb2025 17:10:48.831] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yfvvinftbnpy]: Consuming argument `dirt`
+[05Feb2025 17:10:48.831] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yfvvinftbnpy]: Consuming argument ``
+[05Feb2025 17:10:48.978] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13rsitjddfgg9]: started parsing
+[05Feb2025 17:10:48.978] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13rsitjddfgg9]: Consuming argument `dirt`
+[05Feb2025 17:10:48.978] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13rsitjddfgg9]: Consuming argument `b`
+[05Feb2025 17:10:49.183] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jz7fwf6x74hk]: started parsing
+[05Feb2025 17:10:49.183] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jz7fwf6x74hk]: Consuming argument `dirt`
+[05Feb2025 17:10:49.183] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jz7fwf6x74hk]: Consuming argument `bl`
+[05Feb2025 17:10:49.558] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0r2bl4g9z19r3]: started parsing
+[05Feb2025 17:10:49.558] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0r2bl4g9z19r3]: Consuming argument `dirt`
+[05Feb2025 17:10:49.558] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0r2bl4g9z19r3]: Consuming argument `bla`
+[05Feb2025 17:10:51.764] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15yktriz7m058]: started parsing
+[05Feb2025 17:10:51.764] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15yktriz7m058]: Consuming argument `dirt`
+[05Feb2025 17:10:51.764] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15yktriz7m058]: Consuming argument `black_concrete`
+[05Feb2025 17:10:51.764] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15yktriz7m058]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:11:47.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Gave 1 [Barrier] to LIGS_458]
+[05Feb2025 17:12:00.515] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[05Feb2025 17:12:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[05Feb2025 17:12:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[05Feb2025 17:12:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[05Feb2025 17:12:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[05Feb2025 17:12:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[05Feb2025 17:12:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[05Feb2025 17:12:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[05Feb2025 17:12:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[05Feb2025 17:12:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[05Feb2025 17:12:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[05Feb2025 17:12:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[05Feb2025 17:12:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[05Feb2025 17:12:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[05Feb2025 17:12:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[05Feb2025 17:12:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[05Feb2025 17:12:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[05Feb2025 17:12:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[05Feb2025 17:12:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[05Feb2025 17:12:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[05Feb2025 17:12:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[05Feb2025 17:12:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[05Feb2025 17:12:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[05Feb2025 17:12:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[05Feb2025 17:12:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[05Feb2025 17:12:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[05Feb2025 17:12:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[05Feb2025 17:12:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: createbigcannons:cannon_cast_shapes
+[05Feb2025 17:12:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[05Feb2025 17:12:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[05Feb2025 17:12:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[05Feb2025 17:12:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[05Feb2025 17:12:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[05Feb2025 17:12:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[05Feb2025 17:12:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[05Feb2025 17:12:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[05Feb2025 17:12:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[05Feb2025 17:12:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[05Feb2025 17:12:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[05Feb2025 17:12:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[05Feb2025 17:12:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[05Feb2025 17:12:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[05Feb2025 17:12:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[05Feb2025 17:12:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: createbigcannons:block_recipe_serializers
+[05Feb2025 17:12:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[05Feb2025 17:12:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[05Feb2025 17:12:00.516] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[05Feb2025 17:12:00.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[05Feb2025 17:12:00.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[05Feb2025 17:12:00.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[05Feb2025 17:12:00.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[05Feb2025 17:12:00.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[05Feb2025 17:12:00.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[05Feb2025 17:12:00.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[05Feb2025 17:12:00.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: createbigcannons:block_recipe_types
+[05Feb2025 17:12:00.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[05Feb2025 17:12:00.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[05Feb2025 17:12:00.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[05Feb2025 17:12:00.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[05Feb2025 17:12:00.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[05Feb2025 17:12:00.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[05Feb2025 17:12:00.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[05Feb2025 17:12:00.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[05Feb2025 17:12:00.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[05Feb2025 17:12:00.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[05Feb2025 17:12:00.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[05Feb2025 17:12:00.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[05Feb2025 17:12:00.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[05Feb2025 17:12:00.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[05Feb2025 17:12:00.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[05Feb2025 17:12:00.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[05Feb2025 17:12:00.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[05Feb2025 17:12:00.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[05Feb2025 17:12:00.517] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[05Feb2025 17:12:00.518] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[05Feb2025 17:12:00.525] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[05Feb2025 17:15:52.716] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jthz0m6y6c9o]: started parsing
+[05Feb2025 17:15:52.716] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jthz0m6y6c9o]: Consuming argument ``
+[05Feb2025 17:15:53.011] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o60n2kypbuh3]: started parsing
+[05Feb2025 17:15:53.011] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o60n2kypbuh3]: Consuming argument `a`
+[05Feb2025 17:15:53.278] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18fx514c3a1dt]: started parsing
+[05Feb2025 17:15:53.278] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18fx514c3a1dt]: Consuming argument `ai`
+[05Feb2025 17:15:53.385] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1x42n4g9p416u]: started parsing
+[05Feb2025 17:15:53.385] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1x42n4g9p416u]: Consuming argument `air`
+[05Feb2025 17:15:53.385] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1x42n4g9p416u]: Finished looking at arguments. Finalizing command.
+[05Feb2025 17:15:53.544] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0shdvkianrlk9]: started parsing
+[05Feb2025 17:15:53.544] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0shdvkianrlk9]: Consuming argument `air`
+[05Feb2025 17:15:53.544] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0shdvkianrlk9]: Consuming argument ``
+[05Feb2025 17:15:54.205] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dh35los1m136]: started parsing
+[05Feb2025 17:15:54.205] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dh35los1m136]: Consuming argument `air`
+[05Feb2025 17:15:54.205] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dh35los1m136]: Consuming argument `w`
+[05Feb2025 17:15:54.454] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kzrdv919aoat]: started parsing
+[05Feb2025 17:15:54.454] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kzrdv919aoat]: Consuming argument `air`
+[05Feb2025 17:15:54.454] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kzrdv919aoat]: Consuming argument `wh`
+[05Feb2025 17:15:54.627] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wn79paevjwgf]: started parsing
+[05Feb2025 17:15:54.627] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wn79paevjwgf]: Consuming argument `air`
+[05Feb2025 17:15:54.627] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wn79paevjwgf]: Consuming argument `wht`
+[05Feb2025 17:15:54.761] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07b61xqmafotp]: started parsing
+[05Feb2025 17:15:54.761] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07b61xqmafotp]: Consuming argument `air`
+[05Feb2025 17:15:54.761] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07b61xqmafotp]: Consuming argument `whti`
+[05Feb2025 17:15:55.674] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cpr3n18j3bc8]: started parsing
+[05Feb2025 17:15:55.674] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cpr3n18j3bc8]: Consuming argument `air`
+[05Feb2025 17:15:55.674] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cpr3n18j3bc8]: Consuming argument `wht`
+[05Feb2025 17:15:55.816] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01bovmt52xrq0]: started parsing
+[05Feb2025 17:15:55.816] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01bovmt52xrq0]: Consuming argument `air`
+[05Feb2025 17:15:55.816] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01bovmt52xrq0]: Consuming argument `wh`
+[05Feb2025 17:15:56.252] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0f5n1kj28octp]: started parsing
+[05Feb2025 17:15:56.252] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0f5n1kj28octp]: Consuming argument `air`
+[05Feb2025 17:15:56.252] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0f5n1kj28octp]: Consuming argument `whi`
+[05Feb2025 17:15:56.536] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k7g1dfy61mic]: started parsing
+[05Feb2025 17:15:56.536] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k7g1dfy61mic]: Consuming argument `air`
+[05Feb2025 17:15:56.536] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k7g1dfy61mic]: Consuming argument `whit`
+[05Feb2025 17:15:59.022] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16pey73h2rsi9]: started parsing
+[05Feb2025 17:15:59.022] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16pey73h2rsi9]: Consuming argument `air`
+[05Feb2025 17:15:59.023] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16pey73h2rsi9]: Consuming argument `white_concrete`
+[05Feb2025 17:15:59.023] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16pey73h2rsi9]: Finished looking at arguments. Finalizing command.

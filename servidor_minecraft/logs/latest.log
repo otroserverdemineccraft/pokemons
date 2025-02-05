@@ -246,3 +246,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Feb2025 17:01:59.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Removed every effect from LIGS_458]
 [05Feb2025 17:02:12.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set the weather to clear]
 [05Feb2025 17:02:35.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Gamerule doWeatherCycle is now set to: false]
+[05Feb2025 17:11:47.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Gave 1 [Barrier] to LIGS_458]
