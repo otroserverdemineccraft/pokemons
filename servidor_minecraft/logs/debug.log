@@ -11831,3 +11831,354 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Feb2025 20:28:40.878] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jsdmlj9w0izh]: Consuming argument `minecraft:end_stone`
 [06Feb2025 20:28:40.878] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jsdmlj9w0izh]: parseRegularArgument: no arguments to attempt matching
 [06Feb2025 20:28:58.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ has made the advancement [Withering Heights]
+[06Feb2025 20:29:08.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: The difficulty has been set to Peaceful]
+[06Feb2025 20:29:12.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: The difficulty has been set to Hard]
+[06Feb2025 20:29:40.848] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[06Feb2025 20:29:40.848] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[06Feb2025 20:29:40.848] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[06Feb2025 20:29:40.849] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[06Feb2025 20:29:40.849] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[06Feb2025 20:29:40.849] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[06Feb2025 20:29:40.849] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[06Feb2025 20:29:40.849] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[06Feb2025 20:29:40.849] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[06Feb2025 20:29:40.849] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[06Feb2025 20:29:40.849] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[06Feb2025 20:29:40.849] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[06Feb2025 20:29:40.849] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[06Feb2025 20:29:40.849] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[06Feb2025 20:29:40.849] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[06Feb2025 20:29:40.849] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[06Feb2025 20:29:40.849] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[06Feb2025 20:29:40.849] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[06Feb2025 20:29:40.849] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[06Feb2025 20:29:40.849] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[06Feb2025 20:29:40.849] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[06Feb2025 20:29:40.849] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[06Feb2025 20:29:40.849] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[06Feb2025 20:29:40.849] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[06Feb2025 20:29:40.849] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[06Feb2025 20:29:40.849] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[06Feb2025 20:29:40.849] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[06Feb2025 20:29:40.849] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: createbigcannons:cannon_cast_shapes
+[06Feb2025 20:29:40.849] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[06Feb2025 20:29:40.849] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[06Feb2025 20:29:40.849] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[06Feb2025 20:29:40.849] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[06Feb2025 20:29:40.849] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[06Feb2025 20:29:40.849] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[06Feb2025 20:29:40.849] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[06Feb2025 20:29:40.849] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[06Feb2025 20:29:40.849] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[06Feb2025 20:29:40.849] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[06Feb2025 20:29:40.849] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[06Feb2025 20:29:40.849] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[06Feb2025 20:29:40.849] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[06Feb2025 20:29:40.849] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[06Feb2025 20:29:40.849] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[06Feb2025 20:29:40.849] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: createbigcannons:block_recipe_serializers
+[06Feb2025 20:29:40.849] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[06Feb2025 20:29:40.849] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[06Feb2025 20:29:40.849] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[06Feb2025 20:29:40.849] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[06Feb2025 20:29:40.849] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[06Feb2025 20:29:40.850] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[06Feb2025 20:29:40.850] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[06Feb2025 20:29:40.850] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[06Feb2025 20:29:40.850] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[06Feb2025 20:29:40.850] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[06Feb2025 20:29:40.850] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: createbigcannons:block_recipe_types
+[06Feb2025 20:29:40.850] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[06Feb2025 20:29:40.850] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[06Feb2025 20:29:40.850] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[06Feb2025 20:29:40.850] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[06Feb2025 20:29:40.850] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[06Feb2025 20:29:40.850] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[06Feb2025 20:29:40.850] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[06Feb2025 20:29:40.850] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[06Feb2025 20:29:40.850] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[06Feb2025 20:29:40.850] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[06Feb2025 20:29:40.850] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[06Feb2025 20:29:40.850] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[06Feb2025 20:29:40.850] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[06Feb2025 20:29:40.850] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[06Feb2025 20:29:40.850] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[06Feb2025 20:29:40.850] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[06Feb2025 20:29:40.850] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[06Feb2025 20:29:40.850] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[06Feb2025 20:29:40.850] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[06Feb2025 20:29:40.850] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[06Feb2025 20:29:40.857] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[06Feb2025 20:29:49.572] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bklf5bzwqgni]: started parsing
+[06Feb2025 20:29:49.572] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bklf5bzwqgni]: Consuming argument `white_concrete`
+[06Feb2025 20:29:49.573] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bklf5bzwqgni]: Consuming argument `emerald_block`
+[06Feb2025 20:29:49.573] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bklf5bzwqgni]: Finished looking at arguments. Finalizing command.
+[06Feb2025 20:29:50.670] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0063mt6v6cb7d]: started parsing
+[06Feb2025 20:29:50.670] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0063mt6v6cb7d]: Consuming argument `white_concrete`
+[06Feb2025 20:29:50.670] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0063mt6v6cb7d]: Consuming argument `emerald_block`
+[06Feb2025 20:29:50.670] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0063mt6v6cb7d]: Finished looking at arguments. Finalizing command.
+[06Feb2025 20:30:18.750] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gs2h7zkqezk1]: started parsing
+[06Feb2025 20:30:18.750] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gs2h7zkqezk1]: Consuming argument `white_concrete`
+[06Feb2025 20:30:18.750] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gs2h7zkqezk1]: Consuming argument `emerald_block`
+[06Feb2025 20:30:18.750] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gs2h7zkqezk1]: Finished looking at arguments. Finalizing command.
+[06Feb2025 20:30:18.750] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00ogu3to5rlob]: started parsing
+[06Feb2025 20:30:18.750] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00ogu3to5rlob]: Consuming argument `white_concrete`
+[06Feb2025 20:30:18.750] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00ogu3to5rlob]: Consuming argument `emerald_block`
+[06Feb2025 20:30:18.751] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00ogu3to5rlob]: Finished looking at arguments. Finalizing command.
+[06Feb2025 20:30:19.734] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b9215nnwe5x9]: started parsing
+[06Feb2025 20:30:19.735] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b9215nnwe5x9]: Consuming argument `white_concrete`
+[06Feb2025 20:30:19.735] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b9215nnwe5x9]: Consuming argument `emerald_block`
+[06Feb2025 20:30:19.735] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b9215nnwe5x9]: Finished looking at arguments. Finalizing command.
+[06Feb2025 20:30:27.369] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yj22kr61zavz]: started parsing
+[06Feb2025 20:30:27.369] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yj22kr61zavz]: Consuming argument ``
+[06Feb2025 20:30:27.931] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q3eovmj3ije0]: started parsing
+[06Feb2025 20:30:27.931] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q3eovmj3ije0]: Consuming argument `e`
+[06Feb2025 20:30:28.126] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uzxkb8obp7dy]: started parsing
+[06Feb2025 20:30:28.126] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uzxkb8obp7dy]: Consuming argument `es`
+[06Feb2025 20:30:29.062] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mb5ainmx0xbc]: started parsing
+[06Feb2025 20:30:29.062] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mb5ainmx0xbc]: Consuming argument `e`
+[06Feb2025 20:30:29.208] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1u4v3g00ybr8a]: started parsing
+[06Feb2025 20:30:29.208] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1u4v3g00ybr8a]: Consuming argument ``
+[06Feb2025 20:30:29.328] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06u8scp6y0d7h]: started parsing
+[06Feb2025 20:30:29.328] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06u8scp6y0d7h]: Consuming argument `s`
+[06Feb2025 20:30:29.731] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [076i9x4c1bga6]: started parsing
+[06Feb2025 20:30:29.731] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [076i9x4c1bga6]: Consuming argument `sm`
+[06Feb2025 20:30:29.879] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1he2xx1f57qsw]: started parsing
+[06Feb2025 20:30:29.879] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1he2xx1f57qsw]: Consuming argument `sme`
+[06Feb2025 20:30:30.612] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13kv1uk35yy2a]: started parsing
+[06Feb2025 20:30:30.612] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13kv1uk35yy2a]: Consuming argument `sm`
+[06Feb2025 20:30:32.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set LIGS_458's game mode to Survival Mode]
+[06Feb2025 20:30:32.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Survival Mode]
+[06Feb2025 20:30:32.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set Bascap's game mode to Survival Mode]
+[06Feb2025 20:30:32.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set Ly4Nx_'s game mode to Survival Mode]
+[06Feb2025 20:30:34.352] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1domnza30131n]: started parsing
+[06Feb2025 20:30:34.352] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1domnza30131n]: Finished looking at arguments. Finalizing command.
+[06Feb2025 20:30:34.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[06Feb2025 20:30:36.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
+[06Feb2025 20:30:37.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 fell out of the world
+[06Feb2025 20:30:38.270] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738873838264
+[06Feb2025 20:30:39.522] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738873839514
+[06Feb2025 20:30:41.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Creative Mode]
+[06Feb2025 20:30:44.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was killed
+[06Feb2025 20:30:44.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Killed Warrior_Legend]
+[06Feb2025 20:30:44.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Creative Mode]
+[06Feb2025 20:30:45.540] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738873845513
+[06Feb2025 20:30:49.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -1103.500000, -59.500000, 116.500000]
+[06Feb2025 20:30:53.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set own game mode to Creative Mode]
+[06Feb2025 20:31:17.449] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00i87j9ycghqr]: started parsing
+[06Feb2025 20:31:17.449] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00i87j9ycghqr]: Finished looking at arguments. Finalizing command.
+[06Feb2025 20:31:26.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -3787.500000, -59.500000, 172.500000]
+[06Feb2025 20:31:27.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Teleported Ly4Nx_ to LIGS_458]
+[06Feb2025 20:31:31.762] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zc63fy4bjftq]: started parsing
+[06Feb2025 20:31:31.762] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zc63fy4bjftq]: Finished looking at arguments. Finalizing command.
+[06Feb2025 20:31:47.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Teleported Warrior_Legend to LIGS_458]
+[06Feb2025 20:31:47.919] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0atpc30v9ruau]: started parsing
+[06Feb2025 20:31:47.919] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0atpc30v9ruau]: Consuming argument `white_concrete`
+[06Feb2025 20:31:47.919] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0atpc30v9ruau]: Consuming argument `emerald_block`
+[06Feb2025 20:31:47.919] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0atpc30v9ruau]: Finished looking at arguments. Finalizing command.
+[06Feb2025 20:31:49.219] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hu8p2f89q5jl]: started parsing
+[06Feb2025 20:31:49.219] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hu8p2f89q5jl]: Consuming argument `white_concrete`
+[06Feb2025 20:31:49.219] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hu8p2f89q5jl]: Consuming argument `emerald_bloc`
+[06Feb2025 20:31:49.731] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1x35l64v6hcx6]: started parsing
+[06Feb2025 20:31:49.731] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1x35l64v6hcx6]: Consuming argument `white_concrete`
+[06Feb2025 20:31:49.731] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1x35l64v6hcx6]: Consuming argument `emerald_blo`
+[06Feb2025 20:31:49.763] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0slh20tvzovkg]: started parsing
+[06Feb2025 20:31:49.763] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0slh20tvzovkg]: Consuming argument `white_concrete`
+[06Feb2025 20:31:49.763] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0slh20tvzovkg]: Consuming argument `emerald_bl`
+[06Feb2025 20:31:49.794] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1psd5o1wknhqb]: started parsing
+[06Feb2025 20:31:49.794] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1psd5o1wknhqb]: Consuming argument `white_concrete`
+[06Feb2025 20:31:49.795] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1psd5o1wknhqb]: Consuming argument `emerald_b`
+[06Feb2025 20:31:49.825] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gwsttigg0vpg]: started parsing
+[06Feb2025 20:31:49.825] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gwsttigg0vpg]: Consuming argument `white_concrete`
+[06Feb2025 20:31:49.826] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gwsttigg0vpg]: Consuming argument `emerald_`
+[06Feb2025 20:31:49.857] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gcxf9gmtpt5i]: started parsing
+[06Feb2025 20:31:49.857] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gcxf9gmtpt5i]: Consuming argument `white_concrete`
+[06Feb2025 20:31:49.857] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gcxf9gmtpt5i]: Consuming argument `emerald`
+[06Feb2025 20:31:49.891] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gpzhpzbsu0xm]: started parsing
+[06Feb2025 20:31:49.891] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gpzhpzbsu0xm]: Consuming argument `white_concrete`
+[06Feb2025 20:31:49.891] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gpzhpzbsu0xm]: Consuming argument `emeral`
+[06Feb2025 20:31:49.923] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dyax0a6y9641]: started parsing
+[06Feb2025 20:31:49.923] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dyax0a6y9641]: Consuming argument `white_concrete`
+[06Feb2025 20:31:49.923] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dyax0a6y9641]: Consuming argument `emera`
+[06Feb2025 20:31:49.959] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ri822isskvyz]: started parsing
+[06Feb2025 20:31:49.959] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ri822isskvyz]: Consuming argument `white_concrete`
+[06Feb2025 20:31:49.959] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ri822isskvyz]: Consuming argument `emer`
+[06Feb2025 20:31:49.999] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tmhdtxs2tb04]: started parsing
+[06Feb2025 20:31:49.999] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tmhdtxs2tb04]: Consuming argument `white_concrete`
+[06Feb2025 20:31:49.999] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tmhdtxs2tb04]: Consuming argument `eme`
+[06Feb2025 20:31:50.029] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08euhlx0vh7jd]: started parsing
+[06Feb2025 20:31:50.029] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08euhlx0vh7jd]: Consuming argument `white_concrete`
+[06Feb2025 20:31:50.029] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08euhlx0vh7jd]: Consuming argument `em`
+[06Feb2025 20:31:50.059] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lg2p34mrl5md]: started parsing
+[06Feb2025 20:31:50.059] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lg2p34mrl5md]: Consuming argument `white_concrete`
+[06Feb2025 20:31:50.059] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lg2p34mrl5md]: Consuming argument `e`
+[06Feb2025 20:31:50.093] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0iu9hjpfjrl3f]: started parsing
+[06Feb2025 20:31:50.094] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0iu9hjpfjrl3f]: Consuming argument `white_concrete`
+[06Feb2025 20:31:50.094] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0iu9hjpfjrl3f]: Consuming argument ``
+[06Feb2025 20:31:50.122] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11w5urz3isyg0]: started parsing
+[06Feb2025 20:31:50.122] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11w5urz3isyg0]: Consuming argument `white_concrete`
+[06Feb2025 20:31:50.123] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11w5urz3isyg0]: Finished looking at arguments. Finalizing command.
+[06Feb2025 20:31:50.150] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ygk0m6ac8sdl]: started parsing
+[06Feb2025 20:31:50.150] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ygk0m6ac8sdl]: Consuming argument `white_concret`
+[06Feb2025 20:31:50.182] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0n3qjrty44vd8]: started parsing
+[06Feb2025 20:31:50.182] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0n3qjrty44vd8]: Consuming argument `white_concre`
+[06Feb2025 20:31:50.231] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ro8fhvc5aght]: started parsing
+[06Feb2025 20:31:50.231] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ro8fhvc5aght]: Consuming argument `white_concr`
+[06Feb2025 20:31:50.262] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1380hp0hcreqx]: started parsing
+[06Feb2025 20:31:50.263] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1380hp0hcreqx]: Consuming argument `white_conc`
+[06Feb2025 20:31:50.296] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bfvzqhdqzt2v]: started parsing
+[06Feb2025 20:31:50.296] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bfvzqhdqzt2v]: Consuming argument `white_con`
+[06Feb2025 20:31:50.327] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ctqsiu0t928g]: started parsing
+[06Feb2025 20:31:50.327] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ctqsiu0t928g]: Consuming argument `white_co`
+[06Feb2025 20:31:50.354] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gso21elb2sng]: started parsing
+[06Feb2025 20:31:50.354] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gso21elb2sng]: Consuming argument `white_c`
+[06Feb2025 20:31:50.386] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jpmy0t8up6yr]: started parsing
+[06Feb2025 20:31:50.386] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jpmy0t8up6yr]: Consuming argument `white_`
+[06Feb2025 20:31:50.426] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0serfmlweotze]: started parsing
+[06Feb2025 20:31:50.426] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0serfmlweotze]: Consuming argument `white`
+[06Feb2025 20:31:50.426] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0serfmlweotze]: Finished looking at arguments. Finalizing command.
+[06Feb2025 20:31:50.448] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lwjipby58tdp]: started parsing
+[06Feb2025 20:31:50.448] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lwjipby58tdp]: Consuming argument `whit`
+[06Feb2025 20:31:50.481] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rq4sksw17uol]: started parsing
+[06Feb2025 20:31:50.481] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rq4sksw17uol]: Consuming argument `whi`
+[06Feb2025 20:31:50.521] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1an9c0v60lfzw]: started parsing
+[06Feb2025 20:31:50.521] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1an9c0v60lfzw]: Consuming argument `wh`
+[06Feb2025 20:31:50.545] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lbm37xgofpsi]: started parsing
+[06Feb2025 20:31:50.546] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lbm37xgofpsi]: Consuming argument `w`
+[06Feb2025 20:31:50.591] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kw4i85l2fjma]: started parsing
+[06Feb2025 20:31:50.591] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kw4i85l2fjma]: Consuming argument ``
+[06Feb2025 20:31:52.947] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ma4h3tas4tiu]: started parsing
+[06Feb2025 20:31:52.947] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ma4h3tas4tiu]: Finished looking at arguments. Finalizing command.
+[06Feb2025 20:31:58.139] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02lzded9vb3mm]: started parsing
+[06Feb2025 20:31:58.139] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02lzded9vb3mm]: Finished looking at arguments. Finalizing command.
+[06Feb2025 20:31:59.379] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n95nikmresm2]: started parsing
+[06Feb2025 20:31:59.380] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n95nikmresm2]: Finished looking at arguments. Finalizing command.
+[06Feb2025 20:32:09.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported Bascap to LIGS_458]
+[06Feb2025 20:33:10.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied enchantment Protection IV to Bascap's item]
+[06Feb2025 20:33:13.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied enchantment Protection IV to Bascap's item]
+[06Feb2025 20:33:15.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied enchantment Protection IV to Bascap's item]
+[06Feb2025 20:33:19.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied enchantment Protection IV to Bascap's item]
+[06Feb2025 20:33:27.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied enchantment Unbreaking III to Bascap's item]
+[06Feb2025 20:33:31.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied enchantment Unbreaking III to Bascap's item]
+[06Feb2025 20:33:34.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied enchantment Unbreaking III to Bascap's item]
+[06Feb2025 20:33:37.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied enchantment Unbreaking III to Bascap's item]
+[06Feb2025 20:33:48.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Applied enchantment Protection IV to LIGS_458's item]
+[06Feb2025 20:33:50.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied enchantment Mending to Bascap's item]
+[06Feb2025 20:33:52.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Applied enchantment Protection IV to LIGS_458's item]
+[06Feb2025 20:33:54.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Applied enchantment Protection IV to LIGS_458's item]
+[06Feb2025 20:33:54.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied enchantment Mending to Bascap's item]
+[06Feb2025 20:33:56.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied enchantment Mending to Bascap's item]
+[06Feb2025 20:33:57.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Applied enchantment Protection IV to LIGS_458's item]
+[06Feb2025 20:33:59.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied enchantment Mending to Bascap's item]
+[06Feb2025 20:34:13.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Applied enchantment Mending to LIGS_458's item]
+[06Feb2025 20:34:17.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Applied enchantment Mending to LIGS_458's item]
+[06Feb2025 20:34:19.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Applied enchantment Mending to LIGS_458's item]
+[06Feb2025 20:34:21.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Applied enchantment Mending to LIGS_458's item]
+[06Feb2025 20:34:40.830] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: createbigcannons:cannon_cast_shapes
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: createbigcannons:block_recipe_serializers
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: createbigcannons:block_recipe_types
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[06Feb2025 20:34:40.831] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[06Feb2025 20:34:40.832] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[06Feb2025 20:34:40.832] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[06Feb2025 20:34:40.832] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[06Feb2025 20:34:40.832] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[06Feb2025 20:34:40.832] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[06Feb2025 20:34:40.832] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[06Feb2025 20:34:40.832] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[06Feb2025 20:34:40.832] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[06Feb2025 20:34:40.832] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[06Feb2025 20:34:40.832] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[06Feb2025 20:34:40.832] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[06Feb2025 20:34:40.832] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[06Feb2025 20:34:40.839] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[06Feb2025 20:35:51.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Survival Mode]
+[06Feb2025 20:36:09.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Gamerule keepInventory is now set to: true]
+[06Feb2025 20:36:18.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[06Feb2025 20:36:18.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dawdaw<--[HERE]
+[06Feb2025 20:36:33.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set Ly4Nx_'s game mode to Survival Mode]
+[06Feb2025 20:36:33.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set LIGS_458's game mode to Survival Mode]
+[06Feb2025 20:36:33.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Survival Mode]
+[06Feb2025 20:36:35.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[06Feb2025 20:36:37.542] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738874197542
+[06Feb2025 20:36:39.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied enchantment Unbreaking III to Bascap's item]
+[06Feb2025 20:36:42.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
+[06Feb2025 20:36:48.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Teleported Ly4Nx_ to LIGS_458]
+[06Feb2025 20:36:49.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Creative Mode]
+[06Feb2025 20:36:57.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set spawn point to -3809, -60, 167 [0.0] in minecraft:overworld for Ly4Nx_]
+[06Feb2025 20:36:59.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Gave 1 [Light Blue Bed] to 4]
+[06Feb2025 20:37:02.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Survival Mode]
+[06Feb2025 20:37:16.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend fell out of the world
+[06Feb2025 20:37:18.276] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738874238276
+[06Feb2025 20:37:26.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[06Feb2025 20:37:28.515] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738874248515
+[06Feb2025 20:37:29.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Creative Mode]
+[06Feb2025 20:37:40.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[06Feb2025 20:37:42.133] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738874262133
+[06Feb2025 20:37:47.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[06Feb2025 20:37:48.892] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738874268892
+[06Feb2025 20:37:52.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Survival Mode]
+[06Feb2025 20:37:54.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Bascap
+[06Feb2025 20:37:56.077] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738874276077
+[06Feb2025 20:38:14.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set Bascap's game mode to Creative Mode]
+[06Feb2025 20:38:14.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Creative Mode]
+[06Feb2025 20:38:14.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set Ly4Nx_'s game mode to Creative Mode]
+[06Feb2025 20:38:18.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Survival Mode]
