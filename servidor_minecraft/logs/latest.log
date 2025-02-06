@@ -465,3 +465,78 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Feb2025 20:49:01.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
 [06Feb2025 20:49:06.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
 [06Feb2025 20:49:14.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by LIGS_458
+[06Feb2025 20:49:42.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Bascap
+[06Feb2025 20:49:58.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
+[06Feb2025 20:50:04.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Bascap
+[06Feb2025 20:50:13.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Bascap
+[06Feb2025 20:50:45.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 fell out of the world
+[06Feb2025 20:50:46.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Bascap
+[06Feb2025 20:50:52.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[06Feb2025 20:50:55.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
+[06Feb2025 20:51:14.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Bascap
+[06Feb2025 20:51:24.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Ly4Nx_
+[06Feb2025 20:51:32.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Bascap
+[06Feb2025 20:51:37.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Bascap
+[06Feb2025 20:51:50.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Bascap
+[06Feb2025 20:51:57.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
+[06Feb2025 20:52:30.065] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warrior_Legend lost connection: Timed out
+[06Feb2025 20:52:30.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend left the game
+[06Feb2025 20:52:56.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Survival Mode]
+[06Feb2025 20:53:02.215] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7c29a072[id=<null>,name=Warrior_Legend,properties={},legacy=false] (/127.232.213.80:40473) lost connection: Disconnected
+[06Feb2025 20:53:08.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set own game mode to Creative Mode]
+[06Feb2025 20:53:14.623] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Warrior_Legend[/127.232.213.80:56009] logged in with entity id 2226 at (-3794.527403512451, -41.0, 141.22736507521185)
+[06Feb2025 20:53:14.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend joined the game
+[06Feb2025 20:53:17.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
+[06Feb2025 20:53:45.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set own game mode to Survival Mode]
+[06Feb2025 20:53:47.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: The difficulty has been set to Peaceful]
+[06Feb2025 20:53:53.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: The difficulty has been set to Hard]
+[06Feb2025 20:53:57.665] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bascap lost connection: Disconnected
+[06Feb2025 20:53:57.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap left the game
+[06Feb2025 20:54:14.815] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warrior_Legend lost connection: Timed out
+[06Feb2025 20:54:14.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend left the game
+[06Feb2025 20:54:25.521] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Warrior_Legend[/127.232.213.80:40003] logged in with entity id 2254 at (-3781.7984682931096, -60.0, 181.99216090451554)
+[06Feb2025 20:54:25.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend joined the game
+[06Feb2025 20:54:26.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set own game mode to Creative Mode]
+[06Feb2025 20:55:10.421] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bascap[/127.143.177.98:60173] logged in with entity id 2316 at (-3795.7131110574005, -79.03858366954117, 156.0755826170415)
+[06Feb2025 20:55:10.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap joined the game
+[06Feb2025 20:55:12.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set Warrior_Legend's game mode to Creative Mode]
+[06Feb2025 20:55:12.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set Bascap's game mode to Creative Mode]
+[06Feb2025 20:55:22.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported Bascap to LIGS_458]
+[06Feb2025 20:55:43.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied effect Instant Health to Bascap]
+[06Feb2025 20:55:50.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Survival Mode]
+[06Feb2025 20:56:31.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set Ly4Nx_'s game mode to Survival Mode]
+[06Feb2025 20:56:31.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set LIGS_458's game mode to Survival Mode]
+[06Feb2025 20:56:31.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Survival Mode]
+[06Feb2025 20:56:35.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[06Feb2025 20:56:35.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
+[06Feb2025 20:56:42.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Bascap
+[06Feb2025 20:56:47.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
+[06Feb2025 20:56:47.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set own game mode to Creative Mode]
+[06Feb2025 20:56:50.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
+[06Feb2025 20:56:56.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -3799.500000, -59.500000, 183.500000]
+[06Feb2025 20:57:05.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend fell out of the world
+[06Feb2025 20:57:10.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set LIGS_458's game mode to Survival Mode]
+[06Feb2025 20:57:10.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set Ly4Nx_'s game mode to Survival Mode]
+[06Feb2025 20:57:11.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was slain by Bascap
+[06Feb2025 20:57:16.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was slain by Bascap
+[06Feb2025 20:57:18.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set own game mode to Creative Mode]
+[06Feb2025 20:57:19.765] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bascap lost connection: Disconnected
+[06Feb2025 20:57:19.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap left the game
+[06Feb2025 20:57:21.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
+[06Feb2025 20:57:31.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -3797.500000, -59.500000, 189.500000]
+[06Feb2025 20:57:32.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Creative Mode]
+[06Feb2025 20:57:33.172] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bascap[/127.143.177.98:42141] logged in with entity id 2635 at (-3816.2710970289, -99.07594797338169, 197.71769813371327)
+[06Feb2025 20:57:33.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap joined the game
+[06Feb2025 20:57:33.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap has made the advancement [Withering Heights]
+[06Feb2025 20:57:33.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 has made the advancement [Withering Heights]
+[06Feb2025 20:57:38.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: The difficulty has been set to Peaceful]
+[06Feb2025 20:57:40.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Creative Mode]
+[06Feb2025 20:57:40.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: The difficulty has been set to Hard]
+[06Feb2025 20:57:44.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported Bascap to LIGS_458]
+[06Feb2025 20:58:16.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied effect Blindness to Ly4Nx_]
+[06Feb2025 20:58:28.103] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3539ms or 70 ticks behind
+[06Feb2025 20:58:30.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied effect Darkness to Ly4Nx_]
+[06Feb2025 20:58:41.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied effect Mining Fatigue to Ly4Nx_]
+[06Feb2025 20:59:00.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied effect Slowness to Ly4Nx_]
+[06Feb2025 20:59:10.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set Ly4Nx_'s game mode to Survival Mode]
+[06Feb2025 20:59:16.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set own game mode to Creative Mode]
