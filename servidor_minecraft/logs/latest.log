@@ -603,3 +603,81 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Feb2025 21:09:15.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Survival Mode]
 [06Feb2025 21:09:15.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set Ly4Nx_'s game mode to Survival Mode]
 [06Feb2025 21:09:16.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied effect Instant Health to 3 targets]
+[06Feb2025 21:09:28.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied effect Instant Health to 3 targets]
+[06Feb2025 21:09:32.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Bascap
+[06Feb2025 21:09:45.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[06Feb2025 21:09:55.121] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LIGS_458[/127.50.180.136:41189] logged in with entity id 3589 at (-3782.300000011921, -57.0, 172.38489476338262)
+[06Feb2025 21:09:55.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 joined the game
+[06Feb2025 21:09:56.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ burned to death
+[06Feb2025 21:09:57.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was killed
+[06Feb2025 21:09:57.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Killed Warrior_Legend]
+[06Feb2025 21:10:08.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was killed
+[06Feb2025 21:10:08.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was killed
+[06Feb2025 21:10:08.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was killed
+[06Feb2025 21:10:08.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was killed
+[06Feb2025 21:10:08.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Killed 4 entities]
+[06Feb2025 21:10:13.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was killed
+[06Feb2025 21:10:13.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Killed Warrior_Legend]
+[06Feb2025 21:10:13.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set own game mode to Creative Mode]
+[06Feb2025 21:10:16.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap fell out of the world
+[06Feb2025 21:10:19.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was killed
+[06Feb2025 21:10:19.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Killed Warrior_Legend]
+[06Feb2025 21:10:20.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -3797.500000, -59.500000, 176.500000]
+[06Feb2025 21:10:30.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was killed
+[06Feb2025 21:10:30.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was killed
+[06Feb2025 21:10:30.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was killed
+[06Feb2025 21:10:30.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was killed
+[06Feb2025 21:10:30.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Killed 4 entities]
+[06Feb2025 21:10:38.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was killed whilst fighting Warrior_Legend
+[06Feb2025 21:10:38.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Killed Bascap]
+[06Feb2025 21:10:42.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -3801.500000, -59.500000, 171.500000]
+[06Feb2025 21:10:43.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was killed
+[06Feb2025 21:10:43.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was killed
+[06Feb2025 21:10:43.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was killed whilst fighting Bascap
+[06Feb2025 21:10:43.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was killed
+[06Feb2025 21:10:43.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Killed 4 entities]
+[06Feb2025 21:10:45.717] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ly4Nx_ lost connection: Disconnected
+[06Feb2025 21:10:45.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ left the game
+[06Feb2025 21:10:50.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -3812.500000, -59.500000, 184.500000]
+[06Feb2025 21:11:00.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
+[06Feb2025 21:11:10.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was killed
+[06Feb2025 21:11:10.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was killed
+[06Feb2025 21:11:10.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was killed
+[06Feb2025 21:11:10.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Killed 3 entities]
+[06Feb2025 21:11:16.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -3794.500000, -56.500000, 163.500000]
+[06Feb2025 21:11:20.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was killed
+[06Feb2025 21:11:20.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was killed
+[06Feb2025 21:11:20.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was killed whilst fighting Warrior_Legend
+[06Feb2025 21:11:20.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Killed 3 entities]
+[06Feb2025 21:11:29.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -3804.500000, -57.500000, 180.500000]
+[06Feb2025 21:11:31.420] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warrior_Legend lost connection: Disconnected
+[06Feb2025 21:11:31.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend left the game
+[06Feb2025 21:11:51.065] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bascap lost connection: Disconnected
+[06Feb2025 21:11:51.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap left the game
+[06Feb2025 21:13:53.671] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Warrior_Legend[/127.232.213.80:39523] logged in with entity id 3714 at (73.61102375901667, -46.833890739061786, -335.24797461135427)
+[06Feb2025 21:13:53.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend joined the game
+[06Feb2025 21:13:56.269] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bascap[/127.143.177.98:43723] logged in with entity id 3719 at (80.25037478184923, -37.0, -333.69999998807907)
+[06Feb2025 21:13:56.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap joined the game
+[06Feb2025 21:14:11.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported Bascap to Warrior_Legend]
+[06Feb2025 21:14:23.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Creative Mode]
+[06Feb2025 21:14:29.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Applied effect Health Boost to Warrior_Legend]
+[06Feb2025 21:14:48.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -3793.500000, -52.222319, 480.500000]
+[06Feb2025 21:15:11.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Applied effect Instant Health to Warrior_Legend]
+[06Feb2025 21:15:12.843] [WorldEdit Task Executor - 1/INFO] [com.sk89q.worldedit.command.SchematicCommands/]: LIGS_458 saved /workspaces/pokemons/servidor_minecraft/config/worldedit/schematics/peleaapistolas.schem
+[06Feb2025 21:15:17.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -3814.500000, -59.500000, 178.500000]
+[06Feb2025 21:15:26.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported 3 entities to LIGS_458]
+[06Feb2025 21:15:30.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Survival Mode]
+[06Feb2025 21:15:42.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Creative Mode]
+[06Feb2025 21:15:52.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Survival Mode]
+[06Feb2025 21:15:55.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Removed 39 item(s) from player Bascap]
+[06Feb2025 21:15:57.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend has made the advancement [Suit Up]
+[06Feb2025 21:15:57.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Gave 1 [Iron Boots] to Warrior_Legend]
+[06Feb2025 21:16:12.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Gave 1 [Iron Chestplate] to Warrior_Legend]
+[06Feb2025 21:16:13.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Creative Mode]
+[06Feb2025 21:16:27.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Gave 1 [Iron Hoe] to Warrior_Legend]
+[06Feb2025 21:17:01.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Gave 1 [Iron Helmet] to Warrior_Legend]
+[06Feb2025 21:17:26.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Gave 1 [Iron Leggings] to Warrior_Legend]
+[06Feb2025 21:18:13.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 has made the advancement [Suit Up]
+[06Feb2025 21:19:06.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Made Bascap no longer a server operator]
+[06Feb2025 21:19:11.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Removed 3 item(s) from player Bascap]
+[06Feb2025 21:19:19.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap has made the advancement [Suit Up]

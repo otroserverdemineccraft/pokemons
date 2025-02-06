@@ -1030,9 +1030,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/emerald": {
+  "minecraft:adventure/avoid_vibration": {
     "criteria": {
-      "has_emerald_block": "2025-02-06 20:30:23 +0000"
+      "avoid_vibration": "2025-02-06 20:12:36 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/brake": {
+    "criteria": {
+      "has_item": "2025-02-06 20:17:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-02-06 20:17:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-02-06 20:17:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-02-06 20:17:10 +0000"
     },
     "done": true
   },
@@ -1054,45 +1078,21 @@
     },
     "done": true
   },
-  "create_connected:recipes/crafting/kinetics/brake": {
-    "criteria": {
-      "has_item": "2025-02-06 20:17:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_obsidian": "2025-02-06 20:17:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-02-06 20:20:27 +0000"
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
+  "minecraft:recipes/misc/emerald": {
     "criteria": {
-      "obsidian": "2025-02-06 20:17:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2025-02-06 20:12:36 +0000"
+      "has_emerald_block": "2025-02-06 20:30:23 +0000"
     },
     "done": true
   },
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2025-02-06 20:57:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2025-02-06 20:17:10 +0000"
     },
     "done": true
   },
