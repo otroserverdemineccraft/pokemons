@@ -16353,3 +16353,293 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Feb2025 21:19:06.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Made Bascap no longer a server operator]
 [06Feb2025 21:19:11.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Removed 3 item(s) from player Bascap]
 [06Feb2025 21:19:19.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap has made the advancement [Suit Up]
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: createbigcannons:cannon_cast_shapes
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: createbigcannons:block_recipe_serializers
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: createbigcannons:block_recipe_types
+[06Feb2025 21:19:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[06Feb2025 21:19:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[06Feb2025 21:19:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[06Feb2025 21:19:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[06Feb2025 21:19:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[06Feb2025 21:19:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[06Feb2025 21:19:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[06Feb2025 21:19:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[06Feb2025 21:19:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[06Feb2025 21:19:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[06Feb2025 21:19:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[06Feb2025 21:19:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[06Feb2025 21:19:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[06Feb2025 21:19:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[06Feb2025 21:19:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[06Feb2025 21:19:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[06Feb2025 21:19:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[06Feb2025 21:19:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[06Feb2025 21:19:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[06Feb2025 21:19:44.327] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[06Feb2025 21:19:44.333] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[06Feb2025 21:19:52.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Survival Mode]
+[06Feb2025 21:19:52.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set Bascap's game mode to Survival Mode]
+[06Feb2025 21:20:29.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Bascap
+[06Feb2025 21:20:32.037] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738876832037
+[06Feb2025 21:20:36.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
+[06Feb2025 21:20:43.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -3803.500000, -59.500000, 189.500000]
+[06Feb2025 21:20:44.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
+[06Feb2025 21:20:45.545] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738876845544
+[06Feb2025 21:20:59.819] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=69, y=-49, z=-331}
+[06Feb2025 21:21:05.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap burned to death
+[06Feb2025 21:21:06.835] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738876866835
+[06Feb2025 21:21:18.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap fell out of the world
+[06Feb2025 21:21:19.561] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738876879561
+[06Feb2025 21:21:25.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported Bascap to LIGS_458]
+[06Feb2025 21:21:50.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by LIGS_458
+[06Feb2025 21:21:51.353] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738876911353
+[06Feb2025 21:22:02.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by LIGS_458
+[06Feb2025 21:22:04.084] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738876924084
+[06Feb2025 21:22:12.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported Warrior_Legend to LIGS_458]
+[06Feb2025 21:22:18.562] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=82, y=-44, z=-331}
+[06Feb2025 21:22:18.737] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=81, y=-45, z=-331}
+[06Feb2025 21:22:18.921] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=81, y=-45, z=-331}
+[06Feb2025 21:22:26.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap fell out of the world
+[06Feb2025 21:22:28.215] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738876948214
+[06Feb2025 21:22:31.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported Bascap to LIGS_458]
+[06Feb2025 21:22:44.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported Bascap to LIGS_458]
+[06Feb2025 21:22:57.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Survival Mode]
+[06Feb2025 21:23:05.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
+[06Feb2025 21:23:07.524] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738876987516
+[06Feb2025 21:23:18.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Bascap
+[06Feb2025 21:23:19.612] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738876999612
+[06Feb2025 21:23:28.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -3805.500000, -56.500000, 170.500000]
+[06Feb2025 21:23:46.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Applied effect Invisibility to Warrior_Legend]
+[06Feb2025 21:23:57.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by LIGS_458
+[06Feb2025 21:23:58.812] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877038812
+[06Feb2025 21:24:00.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Teleported Warrior_Legend to Bascap]
+[06Feb2025 21:24:04.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
+[06Feb2025 21:24:05.651] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877045651
+[06Feb2025 21:24:10.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set spawn point to -3802, -60, 175 [0.0] in minecraft:overworld for 3 players]
+[06Feb2025 21:24:19.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap fell out of the world
+[06Feb2025 21:24:20.499] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877060499
+[06Feb2025 21:24:22.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported 3 entities to LIGS_458]
+[06Feb2025 21:24:26.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
+[06Feb2025 21:24:28.575] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877068575
+[06Feb2025 21:24:30.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
+[06Feb2025 21:24:32.093] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877072093
+[06Feb2025 21:24:33.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
+[06Feb2025 21:24:35.063] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877075063
+[06Feb2025 21:24:36.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
+[06Feb2025 21:24:37.648] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877077648
+[06Feb2025 21:24:38.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
+[06Feb2025 21:24:40.367] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877080367
+[06Feb2025 21:24:44.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
+[06Feb2025 21:24:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[06Feb2025 21:24:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[06Feb2025 21:24:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[06Feb2025 21:24:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[06Feb2025 21:24:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[06Feb2025 21:24:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[06Feb2025 21:24:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[06Feb2025 21:24:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[06Feb2025 21:24:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[06Feb2025 21:24:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[06Feb2025 21:24:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[06Feb2025 21:24:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[06Feb2025 21:24:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[06Feb2025 21:24:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[06Feb2025 21:24:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[06Feb2025 21:24:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[06Feb2025 21:24:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[06Feb2025 21:24:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[06Feb2025 21:24:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[06Feb2025 21:24:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[06Feb2025 21:24:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[06Feb2025 21:24:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[06Feb2025 21:24:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[06Feb2025 21:24:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[06Feb2025 21:24:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[06Feb2025 21:24:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[06Feb2025 21:24:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[06Feb2025 21:24:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: createbigcannons:cannon_cast_shapes
+[06Feb2025 21:24:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[06Feb2025 21:24:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[06Feb2025 21:24:44.326] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[06Feb2025 21:24:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[06Feb2025 21:24:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[06Feb2025 21:24:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[06Feb2025 21:24:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[06Feb2025 21:24:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[06Feb2025 21:24:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[06Feb2025 21:24:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[06Feb2025 21:24:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[06Feb2025 21:24:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[06Feb2025 21:24:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[06Feb2025 21:24:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[06Feb2025 21:24:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[06Feb2025 21:24:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: createbigcannons:block_recipe_serializers
+[06Feb2025 21:24:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[06Feb2025 21:24:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[06Feb2025 21:24:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[06Feb2025 21:24:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[06Feb2025 21:24:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[06Feb2025 21:24:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[06Feb2025 21:24:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[06Feb2025 21:24:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[06Feb2025 21:24:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[06Feb2025 21:24:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[06Feb2025 21:24:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: createbigcannons:block_recipe_types
+[06Feb2025 21:24:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[06Feb2025 21:24:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[06Feb2025 21:24:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[06Feb2025 21:24:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[06Feb2025 21:24:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[06Feb2025 21:24:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[06Feb2025 21:24:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[06Feb2025 21:24:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[06Feb2025 21:24:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[06Feb2025 21:24:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[06Feb2025 21:24:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[06Feb2025 21:24:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[06Feb2025 21:24:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[06Feb2025 21:24:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[06Feb2025 21:24:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[06Feb2025 21:24:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[06Feb2025 21:24:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[06Feb2025 21:24:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[06Feb2025 21:24:44.327] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[06Feb2025 21:24:44.328] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[06Feb2025 21:24:44.334] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[06Feb2025 21:24:45.511] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877085511
+[06Feb2025 21:24:53.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
+[06Feb2025 21:24:54.375] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877094375
+[06Feb2025 21:24:58.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by LIGS_458
+[06Feb2025 21:24:59.312] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877099312
+[06Feb2025 21:25:03.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by LIGS_458
+[06Feb2025 21:25:04.730] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877104730
+[06Feb2025 21:25:10.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
+[06Feb2025 21:25:11.315] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877111314
+[06Feb2025 21:25:15.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
+[06Feb2025 21:25:16.829] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877116829
+[06Feb2025 21:25:21.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
+[06Feb2025 21:25:23.318] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877123318
+[06Feb2025 21:25:26.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Bascap
+[06Feb2025 21:25:28.452] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877128452
+[06Feb2025 21:25:33.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
+[06Feb2025 21:25:35.110] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877135110
+[06Feb2025 21:25:38.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
+[06Feb2025 21:25:39.565] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877139565
+[06Feb2025 21:25:48.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
+[06Feb2025 21:25:50.978] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877150978
+[06Feb2025 21:25:55.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
+[06Feb2025 21:25:56.850] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877156850
+[06Feb2025 21:26:00.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
+[06Feb2025 21:26:02.221] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877162221
+[06Feb2025 21:26:06.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
+[06Feb2025 21:26:08.046] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877168046
+[06Feb2025 21:26:09.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by LIGS_458
+[06Feb2025 21:26:10.450] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877170450
+[06Feb2025 21:26:18.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by LIGS_458
+[06Feb2025 21:26:20.155] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877180155
+[06Feb2025 21:26:25.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
+[06Feb2025 21:26:27.173] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877187173
+[06Feb2025 21:26:30.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by LIGS_458
+[06Feb2025 21:26:32.343] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877192343
+[06Feb2025 21:26:35.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Bascap
+[06Feb2025 21:26:36.607] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877196607
+[06Feb2025 21:26:40.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Bascap
+[06Feb2025 21:26:41.915] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877201914
+[06Feb2025 21:26:44.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by LIGS_458
+[06Feb2025 21:26:45.654] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877205654
+[06Feb2025 21:26:47.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
+[06Feb2025 21:26:48.850] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877208850
+[06Feb2025 21:26:52.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by LIGS_458
+[06Feb2025 21:26:52.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
+[06Feb2025 21:26:53.539] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877213539
+[06Feb2025 21:26:54.165] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877214164
+[06Feb2025 21:26:56.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
+[06Feb2025 21:26:58.132] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877218132
+[06Feb2025 21:27:04.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
+[06Feb2025 21:27:04.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
+[06Feb2025 21:27:05.565] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877225563
+[06Feb2025 21:27:05.675] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877225675
+[06Feb2025 21:27:11.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by LIGS_458
+[06Feb2025 21:27:12.968] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877232968
+[06Feb2025 21:27:15.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by LIGS_458
+[06Feb2025 21:27:17.116] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877237116
+[06Feb2025 21:27:24.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by LIGS_458
+[06Feb2025 21:27:32.647] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877252647
+[06Feb2025 21:27:34.014] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bascap lost connection: Disconnected
+[06Feb2025 21:27:34.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap left the game
+[06Feb2025 21:27:36.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
+[06Feb2025 21:27:37.740] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877257740
+[06Feb2025 21:27:43.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
+[06Feb2025 21:27:44.622] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877264622
+[06Feb2025 21:27:47.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by LIGS_458
+[06Feb2025 21:27:49.207] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877269207
+[06Feb2025 21:27:55.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by LIGS_458
+[06Feb2025 21:27:56.411] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877276411
+[06Feb2025 21:28:02.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by LIGS_458
+[06Feb2025 21:28:03.920] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877283920
+[06Feb2025 21:28:07.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by LIGS_458
+[06Feb2025 21:28:08.369] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877288369
+[06Feb2025 21:28:18.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by LIGS_458
+[06Feb2025 21:28:19.693] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877299693
+[06Feb2025 21:28:27.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
+[06Feb2025 21:28:29.513] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877309513
+[06Feb2025 21:28:47.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
+[06Feb2025 21:28:48.647] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877328647
+[06Feb2025 21:29:01.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
+[06Feb2025 21:29:03.165] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877343165
+[06Feb2025 21:29:09.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
+[06Feb2025 21:29:11.212] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877351212
+[06Feb2025 21:29:13.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by LIGS_458
+[06Feb2025 21:29:15.271] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1738877355271

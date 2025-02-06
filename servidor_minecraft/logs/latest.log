@@ -681,3 +681,82 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Feb2025 21:19:06.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Made Bascap no longer a server operator]
 [06Feb2025 21:19:11.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Removed 3 item(s) from player Bascap]
 [06Feb2025 21:19:19.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap has made the advancement [Suit Up]
+[06Feb2025 21:19:52.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Survival Mode]
+[06Feb2025 21:19:52.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set Bascap's game mode to Survival Mode]
+[06Feb2025 21:20:29.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Bascap
+[06Feb2025 21:20:36.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
+[06Feb2025 21:20:43.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -3803.500000, -59.500000, 189.500000]
+[06Feb2025 21:20:44.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
+[06Feb2025 21:20:59.819] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=69, y=-49, z=-331}
+[06Feb2025 21:21:05.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap burned to death
+[06Feb2025 21:21:18.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap fell out of the world
+[06Feb2025 21:21:25.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported Bascap to LIGS_458]
+[06Feb2025 21:21:50.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by LIGS_458
+[06Feb2025 21:22:02.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by LIGS_458
+[06Feb2025 21:22:12.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported Warrior_Legend to LIGS_458]
+[06Feb2025 21:22:18.562] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=82, y=-44, z=-331}
+[06Feb2025 21:22:18.737] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=81, y=-45, z=-331}
+[06Feb2025 21:22:18.921] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=81, y=-45, z=-331}
+[06Feb2025 21:22:26.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap fell out of the world
+[06Feb2025 21:22:31.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported Bascap to LIGS_458]
+[06Feb2025 21:22:44.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported Bascap to LIGS_458]
+[06Feb2025 21:22:57.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Survival Mode]
+[06Feb2025 21:23:05.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
+[06Feb2025 21:23:18.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Bascap
+[06Feb2025 21:23:28.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -3805.500000, -56.500000, 170.500000]
+[06Feb2025 21:23:46.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Applied effect Invisibility to Warrior_Legend]
+[06Feb2025 21:23:57.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by LIGS_458
+[06Feb2025 21:24:00.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Teleported Warrior_Legend to Bascap]
+[06Feb2025 21:24:04.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
+[06Feb2025 21:24:10.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set spawn point to -3802, -60, 175 [0.0] in minecraft:overworld for 3 players]
+[06Feb2025 21:24:19.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap fell out of the world
+[06Feb2025 21:24:22.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported 3 entities to LIGS_458]
+[06Feb2025 21:24:26.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
+[06Feb2025 21:24:30.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
+[06Feb2025 21:24:33.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
+[06Feb2025 21:24:36.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
+[06Feb2025 21:24:38.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
+[06Feb2025 21:24:44.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
+[06Feb2025 21:24:53.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
+[06Feb2025 21:24:58.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by LIGS_458
+[06Feb2025 21:25:03.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by LIGS_458
+[06Feb2025 21:25:10.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
+[06Feb2025 21:25:15.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
+[06Feb2025 21:25:21.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
+[06Feb2025 21:25:26.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Bascap
+[06Feb2025 21:25:33.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
+[06Feb2025 21:25:38.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
+[06Feb2025 21:25:48.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
+[06Feb2025 21:25:55.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
+[06Feb2025 21:26:00.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
+[06Feb2025 21:26:06.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
+[06Feb2025 21:26:09.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by LIGS_458
+[06Feb2025 21:26:18.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by LIGS_458
+[06Feb2025 21:26:25.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
+[06Feb2025 21:26:30.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by LIGS_458
+[06Feb2025 21:26:35.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Bascap
+[06Feb2025 21:26:40.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Bascap
+[06Feb2025 21:26:44.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by LIGS_458
+[06Feb2025 21:26:47.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
+[06Feb2025 21:26:52.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by LIGS_458
+[06Feb2025 21:26:52.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
+[06Feb2025 21:26:56.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
+[06Feb2025 21:27:04.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
+[06Feb2025 21:27:04.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
+[06Feb2025 21:27:11.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by LIGS_458
+[06Feb2025 21:27:15.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by LIGS_458
+[06Feb2025 21:27:24.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by LIGS_458
+[06Feb2025 21:27:34.014] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bascap lost connection: Disconnected
+[06Feb2025 21:27:34.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap left the game
+[06Feb2025 21:27:36.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
+[06Feb2025 21:27:43.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
+[06Feb2025 21:27:47.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by LIGS_458
+[06Feb2025 21:27:55.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by LIGS_458
+[06Feb2025 21:28:02.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by LIGS_458
+[06Feb2025 21:28:07.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by LIGS_458
+[06Feb2025 21:28:18.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by LIGS_458
+[06Feb2025 21:28:27.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
+[06Feb2025 21:28:47.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
+[06Feb2025 21:29:01.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
+[06Feb2025 21:29:09.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
+[06Feb2025 21:29:13.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by LIGS_458

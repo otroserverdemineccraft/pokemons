@@ -1096,5 +1096,23 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-02-06 21:18:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_hoe": "2025-02-06 21:16:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_hoe": "2025-02-06 21:16:33 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
