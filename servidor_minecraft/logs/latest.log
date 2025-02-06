@@ -294,3 +294,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Feb2025 20:08:29.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ joined the game
 [06Feb2025 20:08:48.368] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/142, l='ServerLevel[Mundo nuevo]', x=-1021.49, y=-60.06, z=152.81] died, message: 'Farmer was shot by LIGS_458'
 [06Feb2025 20:08:56.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Teleported Ly4Nx_ to LIGS_458]
+[06Feb2025 20:11:38.169] [WorldEdit Task Executor - 0/INFO] [com.sk89q.worldedit.command.SchematicCommands/]: LIGS_458 saved /workspaces/pokemons/servidor_minecraft/config/worldedit/schematics/basevsbase2.schem
+[06Feb2025 20:11:50.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> aqui con mi causa
+[06Feb2025 20:11:57.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -1735.500000, -59.500000, 39.500000]
+[06Feb2025 20:12:21.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -1109.500000, -25.576232, 86.500000]
+[06Feb2025 20:12:36.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 has made the advancement [Sneak 100]
+[06Feb2025 20:12:41.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ has made the advancement [Sneak 100]
+[06Feb2025 20:14:04.069] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/146, l='ServerLevel[Mundo nuevo]', x=-1031.35, y=-60.00, z=145.67] died, message: 'Leatherworker was shot by Ly4Nx_'
+[06Feb2025 20:17:10.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 has made the advancement [Ice Bucket Challenge]
+[06Feb2025 20:17:50.225] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/993, l='ServerLevel[Mundo nuevo]', x=-1147.99, y=-60.00, z=225.04] died, message: 'Villager was blown up by LIGS_458'
+[06Feb2025 20:17:50.226] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/994, l='ServerLevel[Mundo nuevo]', x=-1148.78, y=-60.00, z=225.74] died, message: 'Villager was blown up by LIGS_458'
+[06Feb2025 20:18:57.590] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Warrior_Legend[/127.232.213.80:48967] logged in with entity id 1044 at (-1053.0267849501004, -42.0, -401.05698556741925)
+[06Feb2025 20:18:57.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend joined the game
