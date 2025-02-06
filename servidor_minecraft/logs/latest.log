@@ -306,3 +306,45 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Feb2025 20:17:50.226] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/994, l='ServerLevel[Mundo nuevo]', x=-1148.78, y=-60.00, z=225.74] died, message: 'Villager was blown up by LIGS_458'
 [06Feb2025 20:18:57.590] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Warrior_Legend[/127.232.213.80:48967] logged in with entity id 1044 at (-1053.0267849501004, -42.0, -401.05698556741925)
 [06Feb2025 20:18:57.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend joined the game
+[06Feb2025 20:20:05.721] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1161, l='ServerLevel[Mundo nuevo]', x=-1091.05, y=-253.22, z=68.52] died, message: 'Villager fell out of the world'
+[06Feb2025 20:20:06.726] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1162, l='ServerLevel[Mundo nuevo]', x=-1089.80, y=-253.22, z=68.81] died, message: 'Villager fell out of the world'
+[06Feb2025 20:20:11.470] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1163, l='ServerLevel[Mundo nuevo]', x=-1112.55, y=-253.22, z=70.67] died, message: 'Villager fell out of the world'
+[06Feb2025 20:20:12.525] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1166, l='ServerLevel[Mundo nuevo]', x=-1127.98, y=-30.00, z=72.60] died, message: 'Villager was shot by LIGS_458'
+[06Feb2025 20:20:13.175] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1164, l='ServerLevel[Mundo nuevo]', x=-1102.56, y=-187.59, z=70.85] died, message: 'Villager fell out of the world'
+[06Feb2025 20:20:14.419] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1165, l='ServerLevel[Mundo nuevo]', x=-1123.28, y=-30.00, z=72.50] died, message: 'Villager was shot by LIGS_458'
+[06Feb2025 20:20:14.420] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1167, l='ServerLevel[Mundo nuevo]', x=-1121.90, y=-30.00, z=72.50] died, message: 'Villager was shot by LIGS_458'
+[06Feb2025 20:20:59.382] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bascap[/127.143.177.98:42179] logged in with entity id 1252 at (-1075.3190745921622, -33.0, -468.05792503426045)
+[06Feb2025 20:20:59.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap joined the game
+[06Feb2025 20:21:13.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported 4 entities to LIGS_458]
+[06Feb2025 20:21:20.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Removed 1392 item(s) from 4 players]
+[06Feb2025 20:21:28.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set Warrior_Legend's game mode to Creative Mode]
+[06Feb2025 20:21:28.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set Bascap's game mode to Creative Mode]
+[06Feb2025 20:21:30.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap fell out of the world
+[06Feb2025 20:21:52.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Survival Mode]
+[06Feb2025 20:22:03.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set the time to 13000]
+[06Feb2025 20:22:12.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set the time to 1000]
+[06Feb2025 20:22:50.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set Bascap's game mode to Creative Mode]
+[06Feb2025 20:22:50.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied effect Instant Health to Bascap]
+[06Feb2025 20:22:53.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported 4 entities to LIGS_458]
+[06Feb2025 20:23:00.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Survival Mode]
+[06Feb2025 20:23:00.669] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ly4Nx_ lost connection: Disconnected
+[06Feb2025 20:23:00.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ left the game
+[06Feb2025 20:23:00.722] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Feb2025 20:23:04.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied effect Instant Health to Bascap]
+[06Feb2025 20:23:09.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied effect Instant Health to Bascap]
+[06Feb2025 20:23:27.870] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@47d4b48b[id=<null>,name=Ly4Nx_,properties={},legacy=false] (/127.166.200.69:39183) lost connection: Disconnected
+[06Feb2025 20:23:41.427] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ly4Nx_[/127.166.200.69:37173] logged in with entity id 1322 at (-1103.344841623305, -60.0, 27.028831792877117)
+[06Feb2025 20:23:41.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ joined the game
+[06Feb2025 20:24:06.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Kicked Ly4Nx_: Kicked by an operator]
+[06Feb2025 20:24:06.370] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ly4Nx_ lost connection: Kicked by an operator
+[06Feb2025 20:24:06.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ left the game
+[06Feb2025 20:24:32.620] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@162de3c6[id=<null>,name=Ly4Nx_,properties={},legacy=false] (/127.166.200.69:35069) lost connection: Disconnected
+[06Feb2025 20:24:50.929] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ly4Nx_[/127.166.200.69:36793] logged in with entity id 1396 at (-1094.8916030479784, -59.878703159460805, 30.277576886512215)
+[06Feb2025 20:24:50.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ joined the game
+[06Feb2025 20:25:18.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Creative Mode]
+[06Feb2025 20:27:39.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ has made the advancement [Spooky Scary Skeleton]
+[06Feb2025 20:27:51.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set Ly4Nx_'s game mode to Survival Mode]
+[06Feb2025 20:28:03.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[06Feb2025 20:28:13.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set own game mode to Creative Mode]
+[06Feb2025 20:28:19.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Teleported Ly4Nx_ to Warrior_Legend]
+[06Feb2025 20:28:58.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ has made the advancement [Withering Heights]
