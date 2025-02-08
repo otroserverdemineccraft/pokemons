@@ -639,3 +639,10 @@ Reason: puedes ver este mensaje?
 [08Feb2025 21:46:05.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Teleported Warrior_Legend to Ly4Nx_]
 [08Feb2025 21:46:24.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Teleported Warrior_Legend to LIGS_458]
 [08Feb2025 21:46:31.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Teleported Warrior_Legend to Ly4Nx_]
+[08Feb2025 21:49:01.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Gave 1 [Command Block] to Warrior_Legend]
+[08Feb2025 21:49:25.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Spectator Mode]
+[08Feb2025 21:49:28.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -1101.500000, -51.500000, 125.500000]
+[08Feb2025 21:49:51.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -1113.500000, -51.500000, 35.500000]
+[08Feb2025 21:50:01.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
+[08Feb2025 21:52:42.042] [WorldEdit Task Executor - 5/INFO] [com.sk89q.worldedit.command.SchematicCommands/]: Bascap loaded /workspaces/pokemons/servidor_minecraft/config/worldedit/schematics/canonautomatico.schem
+[08Feb2025 21:57:48.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Teleported Warrior_Legend to Ly4Nx_]
