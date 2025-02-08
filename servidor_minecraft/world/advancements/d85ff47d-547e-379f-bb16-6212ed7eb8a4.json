@@ -89,6 +89,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:slime": "2025-02-04 02:51:18 +0000",
+      "minecraft:zombified_piglin": "2025-02-08 23:14:11 +0000",
       "minecraft:wither_skeleton": "2025-02-04 22:24:07 +0000",
       "minecraft:zombie": "2025-02-06 20:17:35 +0000"
     },
@@ -1114,33 +1115,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_wood": {
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
     "criteria": {
-      "has_log": "2025-02-08 22:34:00 +0000"
+      "has_cyan_terracotta": "2025-02-08 21:00:54 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/ram_rod": {
+    "criteria": {
+      "has_ram_head": "2025-02-08 21:10:04 +0000"
     },
     "done": true
   },
   "create:recipes/misc/crafting/kinetics/controller_rail": {
     "criteria": {
       "has_item": "2025-02-08 21:31:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2025-02-08 22:38:41 +0000"
-    },
-    "done": true
-  },
-  "immersive_aircraft:misc/aircraftery": {
-    "criteria": {
-      "has_item": "2025-02-08 21:41:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2025-02-08 22:37:05 +0000"
     },
     "done": true
   },
@@ -1156,21 +1145,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+  "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
-      "has_cyan_terracotta": "2025-02-08 21:00:54 +0000"
+      "has_rail": "2025-02-08 21:31:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_planks": {
+  "immersive_aircraft:misc/aircraftery": {
     "criteria": {
-      "has_logs": "2025-02-08 22:34:00 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/fluid_tank": {
-    "criteria": {
-      "has_item": "2025-02-08 22:17:39 +0000"
+      "has_item": "2025-02-08 21:41:06 +0000"
     },
     "done": true
   },
@@ -1180,15 +1163,21 @@
     },
     "done": true
   },
-  "create_connected:recipes/crafting/kinetics/fluid_vessel": {
+  "create:recipes/misc/crafting/appliances/filter_clear": {
+    "criteria": {
+      "has_item": "2025-02-08 21:44:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
     "criteria": {
       "has_item": "2025-02-08 22:17:39 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_planks": {
+  "create_connected:recipes/crafting/kinetics/fluid_vessel": {
     "criteria": {
-      "has_logs": "2025-02-08 22:34:46 +0000"
+      "has_item": "2025-02-08 22:17:39 +0000"
     },
     "done": true
   },
@@ -1198,33 +1187,45 @@
     },
     "done": true
   },
-  "createbigcannons:recipes/misc/ram_rod": {
-    "criteria": {
-      "has_ram_head": "2025-02-08 21:10:04 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/item_vault": {
     "criteria": {
       "has_item": "2025-02-08 22:17:39 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/appliances/filter_clear": {
+  "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
-      "has_item": "2025-02-08 21:44:54 +0000"
+      "has_log": "2025-02-08 22:34:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-02-08 22:34:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-02-08 22:34:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-02-08 22:37:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-02-08 22:38:41 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-02-08 22:38:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/powered_rail": {
-    "criteria": {
-      "has_rail": "2025-02-08 21:31:26 +0000"
     },
     "done": true
   },

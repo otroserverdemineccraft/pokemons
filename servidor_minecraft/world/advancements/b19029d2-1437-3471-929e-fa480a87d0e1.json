@@ -452,6 +452,13 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:piglin_brute": "2025-02-08 23:13:23 +0000",
+      "minecraft:zombified_piglin": "2025-02-08 23:13:45 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-02-08 23:06:39 +0000"
@@ -467,6 +474,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-02-08 23:06:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:piglin_brute": "2025-02-08 23:13:23 +0000"
     },
     "done": true
   },

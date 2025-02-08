@@ -1568,3 +1568,67 @@ Reason: puedes ver este mensaje?
 [08Feb2025 23:08:27.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> :c
 [08Feb2025 23:08:38.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Teleported Warrior_Legend to Bascap]
 [08Feb2025 23:09:13.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Spectator Mode]
+[08Feb2025 23:09:19.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Teleported Warrior_Legend to Ly4Nx_]
+[08Feb2025 23:09:35.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Survival Mode]
+[08Feb2025 23:09:44.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Creative Mode]
+[08Feb2025 23:10:01.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Bascap) moved wrongly! 1.296478798284852
+[08Feb2025 23:10:01.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Bascap) moved wrongly! 1.2934030685230482
+[08Feb2025 23:10:01.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Bascap) moved wrongly! 1.2895344577439118
+[08Feb2025 23:11:14.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Survival Mode]
+[08Feb2025 23:11:20.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Creative Mode]
+[08Feb2025 23:11:25.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set own game mode to Spectator Mode]
+[08Feb2025 23:11:27.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Survival Mode]
+[08Feb2025 23:11:28.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Survival Mode]
+[08Feb2025 23:11:28.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set Ly4Nx_'s game mode to Survival Mode]
+[08Feb2025 23:11:28.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set LIGS_458's game mode to Survival Mode]
+[08Feb2025 23:11:28.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set Fabrix_YT's game mode to Survival Mode]
+[08Feb2025 23:11:30.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ fell from a high place
+[08Feb2025 23:11:35.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set own game mode to Spectator Mode]
+[08Feb2025 23:11:41.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Teleported Ly4Nx_ to Warrior_Legend]
+[08Feb2025 23:11:57.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
+[08Feb2025 23:11:57.980] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LIGS_458 lost connection: Timed out
+[08Feb2025 23:11:57.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 left the game
+[08Feb2025 23:12:57.186] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LIGS_458[/127.209.77.91:46425] logged in with entity id 14043 at (-2621.781408334263, -52.0, -1504.0081848422917)
+[08Feb2025 23:12:57.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 joined the game
+[08Feb2025 23:13:09.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> NO JODAS
+[08Feb2025 23:13:14.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Fabrix_YT
+[08Feb2025 23:13:23.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fabrix_YT has made the advancement [Monster Hunter]
+[08Feb2025 23:13:25.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> todo queda documentado
+[08Feb2025 23:13:32.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> no hace falta que me mueva xd
+[08Feb2025 23:13:42.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Bascap) moved wrongly! 0.3693846727237542
+[08Feb2025 23:14:06.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Survival Mode]
+[08Feb2025 23:14:16.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fabrix_YT was shot by Bascap
+[08Feb2025 23:14:23.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fabrix_YT fell out of the world
+[08Feb2025 23:14:25.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
+[08Feb2025 23:14:33.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
+[08Feb2025 23:14:33.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap has made the advancement [Monster Hunter]
+[08Feb2025 23:14:35.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> asu oe
+[08Feb2025 23:14:38.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -2638.500000, -45.500000, -1495.500000]
+[08Feb2025 23:14:45.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> paro de grabar mejor
+[08Feb2025 23:14:49.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -2491.500000, -59.500000, -1489.500000]
+[08Feb2025 23:14:56.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> reseteen pe
+[08Feb2025 23:14:57.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Creative Mode]
+[08Feb2025 23:15:04.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend fell out of the world
+[08Feb2025 23:15:12.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Creative Mode]
+[08Feb2025 23:15:32.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was killed
+[08Feb2025 23:15:32.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was killed
+[08Feb2025 23:15:32.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fabrix_YT was killed
+[08Feb2025 23:15:32.619] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/14251, l='ServerLevel[Mundo nuevo]', x=256.01, y=-60.00, z=-440.99] died, message: 'Nitwit was killed'
+[08Feb2025 23:15:32.619] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/14252, l='ServerLevel[Mundo nuevo]', x=256.50, y=-60.00, z=-422.94] died, message: 'Farmer was killed'
+[08Feb2025 23:15:32.620] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/14254, l='ServerLevel[Mundo nuevo]', x=256.04, y=-60.00, z=-412.96] died, message: 'Nitwit was killed'
+[08Feb2025 23:15:32.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was killed
+[08Feb2025 23:15:32.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was killed
+[08Feb2025 23:15:32.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Killed 201 entities]
+[08Feb2025 23:15:38.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set own game mode to Creative Mode]
+[08Feb2025 23:15:41.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -2838.500000, -60.000000, -1395.500000]
+[08Feb2025 23:15:44.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Teleported Ly4Nx_ to Warrior_Legend]
+[08Feb2025 23:15:53.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Teleported Warrior_Legend to LIGS_458]
+[08Feb2025 23:16:14.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Teleported Ly4Nx_ to LIGS_458]
+[08Feb2025 23:16:49.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported Bascap to LIGS_458]
+[08Feb2025 23:17:10.557] [WorldEdit Task Executor - 9/INFO] [com.sk89q.worldedit.command.SchematicCommands/]: LIGS_458 loaded /workspaces/pokemons/servidor_minecraft/config/worldedit/schematics/basevsbase2.schem
+[08Feb2025 23:17:39.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Teleported Ly4Nx_ to Warrior_Legend]
+[08Feb2025 23:18:00.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -2728.500000, -59.500000, -1258.500000]
+[08Feb2025 23:18:08.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Teleported Warrior_Legend to LIGS_458]
+[08Feb2025 23:18:42.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> firme ya me aburri
+[08Feb2025 23:18:46.827] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fabrix_YT lost connection: Disconnected
+[08Feb2025 23:18:46.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fabrix_YT left the game
