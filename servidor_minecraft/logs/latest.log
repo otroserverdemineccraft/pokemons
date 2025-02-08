@@ -1,126 +1,85 @@
-[06Feb2025 19:58:59.618] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[06Feb2025 19:58:59.621] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[06Feb2025 19:59:00.677] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[06Feb2025 19:59:00.689] [main/INFO] [mixin-transmog/]: Mixin Transmogrifier is definitely up to no good...
-[06Feb2025 19:59:00.722] [main/INFO] [mixin-transmog/]: crimes against java were committed
-[06Feb2025 19:59:00.745] [main/INFO] [mixin-transmog/]: Original mixin transformation service successfully crobbed by mixin-transmogrifier!
-[06Feb2025 19:59:00.789] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/pokemons/servidor_minecraft/mods/Connector-1.0.0-beta.46+1.20.1.jar%23119%23122!/ Service=ModLauncher Env=SERVER
-[06Feb2025 19:59:01.182] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/pokemons/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[06Feb2025 19:59:01.190] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/pokemons/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[06Feb2025 19:59:01.191] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/pokemons/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[06Feb2025 19:59:01.192] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/pokemons/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[06Feb2025 19:59:02.028] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 78 dependencies adding them to mods collection
-[06Feb2025 19:59:02.610] [main/INFO] [org.sinytra.connector.locator.DependencyResolver/]: Dependency resolution found 0 candidates to load
-[06Feb2025 19:59:03.847] [main/INFO] [org.sinytra.connector.service.hacks.ModuleLayerMigrator/]: Successfully made module authlib transformable
-[06Feb2025 19:59:05.054] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[06Feb2025 19:59:05.259] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[06Feb2025 19:59:05.571] [main/WARN] [mixin/]: Reference map 'eureka-1201-forge-refmap.json' for vs_eureka.mixins.json could not be read. If this is a development environment you can ignore this message
-[06Feb2025 19:59:05.625] [main/WARN] [mixin/]: Reference map '' for adapter.init.mixins.json could not be read. If this is a development environment you can ignore this message
-[06Feb2025 19:59:06.299] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/MouseHandler for invalid dist DEDICATED_SERVER
-[06Feb2025 19:59:06.301] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/MouseHandler (java.lang.RuntimeException: Attempted to load class net/minecraft/client/MouseHandler for invalid dist DEDICATED_SERVER)
-[06Feb2025 19:59:06.302] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.MouseHandler was not found fabric-screen-api-v1.mixins.json:MouseMixin from mod fabric_screen_api_v1
-[06Feb2025 19:59:06.310] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
-[06Feb2025 19:59:06.311] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
-[06Feb2025 19:59:06.311] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found fabric-screen-api-v1.mixins.json:ScreenAccessor from mod fabric_screen_api_v1
-[06Feb2025 19:59:06.696] [main/WARN] [mixin/]: Error loading class: com/copycatsplus/copycats/content/copycat/slab/CopycatSlabBlock (java.lang.ClassNotFoundException: com.copycatsplus.copycats.content.copycat.slab.CopycatSlabBlock)
-[06Feb2025 19:59:06.698] [main/WARN] [mixin/]: @Mixin target com.copycatsplus.copycats.content.copycat.slab.CopycatSlabBlock was not found create_connected.mixins.json:compat.CopycatBlockMixin from mod create_connected
-[06Feb2025 19:59:06.700] [main/WARN] [mixin/]: Error loading class: com/copycatsplus/copycats/content/copycat/board/CopycatBoardBlock (java.lang.ClassNotFoundException: com.copycatsplus.copycats.content.copycat.board.CopycatBoardBlock)
-[06Feb2025 19:59:06.701] [main/WARN] [mixin/]: @Mixin target com.copycatsplus.copycats.content.copycat.board.CopycatBoardBlock was not found create_connected.mixins.json:compat.CopycatBlockMixin from mod create_connected
-[06Feb2025 19:59:06.752] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/lithium/common/ai/pathing/PathNodeDefaults (java.lang.ClassNotFoundException: me.jellysquid.mods.lithium.common.ai.pathing.PathNodeDefaults)
-[06Feb2025 19:59:06.801] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/simibubi/create/foundation/gui/AbstractSimiScreen for invalid dist DEDICATED_SERVER
-[06Feb2025 19:59:06.802] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/foundation/gui/AbstractSimiScreen (java.lang.RuntimeException: Attempted to load class com/simibubi/create/foundation/gui/AbstractSimiScreen for invalid dist DEDICATED_SERVER)
-[06Feb2025 19:59:06.802] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.foundation.gui.AbstractSimiScreen was not found create_connected.mixins.json:sequencedgearshift.AbstractSimiScreenAccessor from mod create_connected
-[06Feb2025 19:59:06.921] [main/WARN] [mixin/]: Error loading class: xfacthd/framedblocks/common/blockentity/doubled/FramedAdjustableDoubleBlockEntity (java.lang.ClassNotFoundException: xfacthd.framedblocks.common.blockentity.doubled.FramedAdjustableDoubleBlockEntity)
-[06Feb2025 19:59:06.922] [main/WARN] [mixin/]: @Mixin target xfacthd.framedblocks.common.blockentity.doubled.FramedAdjustableDoubleBlockEntity was not found createbigcannons.mixins.json:compat.FramedAdjustableDoubleBlockEntityAccessor from mod createbigcannons
-[06Feb2025 19:59:07.490] [main/WARN] [mixin/]: Error loading class: com/jamieswhiteshirt/reachentityattributes/ReachEntityAttributes (java.lang.ClassNotFoundException: com.jamieswhiteshirt.reachentityattributes.ReachEntityAttributes)
-[06Feb2025 19:59:07.519] [main/WARN] [mixin/]: Error loading class: blusunrize/immersiveengineering/common/gui/BlockEntityInventory (java.lang.ClassNotFoundException: blusunrize.immersiveengineering.common.gui.BlockEntityInventory)
-[06Feb2025 19:59:07.521] [main/WARN] [mixin/]: Error loading class: net/dries007/tfc/world/TFCChunkGenerator (java.lang.ClassNotFoundException: net.dries007.tfc.world.TFCChunkGenerator)
-[06Feb2025 19:59:07.523] [main/WARN] [mixin/]: Error loading class: cofh/core/block/entity/TileCoFH (java.lang.ClassNotFoundException: cofh.core.block.entity.TileCoFH)
-[06Feb2025 19:59:07.526] [main/WARN] [mixin/]: Error loading class: li/cil/tis3d/common/entity/InfraredPacketEntity (java.lang.ClassNotFoundException: li.cil.tis3d.common.entity.InfraredPacketEntity)
-[06Feb2025 19:59:07.528] [main/WARN] [mixin/]: Error loading class: me/desht/modularrouters/container/RouterMenu (java.lang.ClassNotFoundException: me.desht.modularrouters.container.RouterMenu)
-[06Feb2025 19:59:07.746] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/particle/SimpleAnimatedParticle (java.lang.ClassNotFoundException: net.minecraft.client.particle.SimpleAnimatedParticle)
-[06Feb2025 19:59:07.823] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
-[06Feb2025 19:59:15.642] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[06Feb2025 19:59:15.643] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[06Feb2025 19:59:15.970] [modloading-worker-0/INFO] [com.happysg.radar.CreateRadar/]: Initializing Create Radar!
-[06Feb2025 19:59:15.979] [modloading-worker-0/INFO] [com.happysg.radar.CreateRadar/]: Registering Items!
-[06Feb2025 19:59:15.980] [modloading-worker-0/INFO] [com.happysg.radar.CreateRadar/]: Registering CBC Compat Items!
-[06Feb2025 19:59:16.022] [modloading-worker-0/INFO] [com.happysg.radar.CreateRadar/]: Registering blocks!
-[06Feb2025 19:59:16.254] [modloading-worker-0/INFO] [com.happysg.radar.CreateRadar/]: Registering block entity types!
-[06Feb2025 19:59:16.259] [modloading-worker-0/INFO] [com.happysg.radar.CreateRadar/]: Registering CreativeTabs!
-[06Feb2025 19:59:16.262] [modloading-worker-0/INFO] [com.happysg.radar.CreateRadar/]: Registering Lang!
-[06Feb2025 19:59:16.383] [modloading-worker-0/INFO] [com.happysg.radar.CreateRadar/]: Registering ContraptionType!
-[06Feb2025 19:59:16.436] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
-[06Feb2025 19:59:17.140] [modloading-worker-0/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on valkyrienskies-common.mixins.json:mod_compat.create.block.MixinRedstoneContactBlock from mod valkyrienskies::handler$zmm000$valkyrienskies$injectTick exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[06Feb2025 19:59:19.185] [main/INFO] [net.minecraft.resources.RegistryDataLoader/]: Capturing existing worldgen registries
-[06Feb2025 19:59:19.186] [main/INFO] [net.minecraft.resources.RegistryDataLoader/]: Found 0 injected RegistryDataLoader worldgen registries
-[06Feb2025 19:59:20.598] [modloading-worker-0/INFO] [com.happysg.radar.CreateRadar/]: Registering Display Behaviors!
-[06Feb2025 19:59:21.007] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[06Feb2025 19:59:21.425] [modloading-worker-0/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@405c7466]
-[06Feb2025 19:59:21.442] [modloading-worker-0/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.15+6463-5ca4dff) is loaded
-[06Feb2025 19:59:21.488] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
-[06Feb2025 19:59:21.489] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
-[06Feb2025 19:59:21.489] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
-[06Feb2025 19:59:21.489] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
-[06Feb2025 19:59:21.489] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
-[06Feb2025 19:59:21.489] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
-[06Feb2025 19:59:21.489] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
-[06Feb2025 19:59:21.489] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
-[06Feb2025 19:59:21.510] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.27
-[06Feb2025 19:59:21.510] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_connected] Starting version check at https://raw.githubusercontent.com/hlysine/create_connected/main/update.json
-[06Feb2025 19:59:21.568] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_connected] Found status: OUTDATED Current: 0.8.2-mc1.20.1 Target: 0.9.4-mc1.20.1
-[06Feb2025 19:59:21.568] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
-[06Feb2025 19:59:21.729] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[06Feb2025 19:59:21.729] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[06Feb2025 19:59:21.731] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[06Feb2025 19:59:21.731] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[06Feb2025 19:59:22.350] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
-[06Feb2025 19:59:23.906] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[06Feb2025 19:59:24.070] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_aircraft:hull Expected: 1267 Got: 2315
-[06Feb2025 19:59:24.071] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_aircraft:engine Expected: 1268 Got: 2316
-[06Feb2025 19:59:24.071] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_aircraft:sail Expected: 1269 Got: 2317
-[06Feb2025 19:59:24.071] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_aircraft:propeller Expected: 1270 Got: 2318
-[06Feb2025 19:59:24.071] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_aircraft:boiler Expected: 1271 Got: 2319
-[06Feb2025 19:59:24.072] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_aircraft:airship Expected: 1272 Got: 2320
-[06Feb2025 19:59:24.072] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_aircraft:cargo_airship Expected: 1273 Got: 2321
-[06Feb2025 19:59:24.072] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_aircraft:warship Expected: 1274 Got: 2322
-[06Feb2025 19:59:24.072] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_aircraft:biplane Expected: 1275 Got: 2323
-[06Feb2025 19:59:24.073] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_aircraft:gyrodyne Expected: 1276 Got: 2324
-[06Feb2025 19:59:24.073] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_aircraft:quadrocopter Expected: 1277 Got: 2325
-[06Feb2025 19:59:24.073] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_aircraft:rotary_cannon Expected: 1278 Got: 2326
-[06Feb2025 19:59:24.073] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_aircraft:heavy_crossbow Expected: 1279 Got: 2327
-[06Feb2025 19:59:24.073] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_aircraft:telescope Expected: 1280 Got: 2328
-[06Feb2025 19:59:24.074] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_aircraft:bomb_bay Expected: 1281 Got: 2329
-[06Feb2025 19:59:24.074] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_aircraft:enhanced_propeller Expected: 1282 Got: 2330
-[06Feb2025 19:59:24.074] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_aircraft:eco_engine Expected: 1283 Got: 2331
-[06Feb2025 19:59:24.074] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_aircraft:nether_engine Expected: 1284 Got: 2332
-[06Feb2025 19:59:24.074] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_aircraft:steel_boiler Expected: 1285 Got: 2333
-[06Feb2025 19:59:24.074] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_aircraft:industrial_gears Expected: 1286 Got: 2334
-[06Feb2025 19:59:24.074] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_aircraft:sturdy_pipes Expected: 1287 Got: 2335
-[06Feb2025 19:59:24.075] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_aircraft:gyroscope Expected: 1288 Got: 2336
-[06Feb2025 19:59:24.075] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_aircraft:hull_reinforcement Expected: 1289 Got: 2337
-[06Feb2025 19:59:24.075] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_aircraft:improved_landing_gear Expected: 1290 Got: 2338
-[06Feb2025 19:59:24.075] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: immersive_aircraft:engine_start Expected: 1476 Got: 1583
-[06Feb2025 19:59:24.076] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: immersive_aircraft:engine_start_warship Expected: 1477 Got: 1584
-[06Feb2025 19:59:24.076] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: immersive_aircraft:warship Expected: 1478 Got: 1585
-[06Feb2025 19:59:24.076] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: immersive_aircraft:propeller Expected: 1479 Got: 1586
-[06Feb2025 19:59:24.076] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: immersive_aircraft:propeller_small Expected: 1480 Got: 1587
-[06Feb2025 19:59:24.076] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: immersive_aircraft:propeller_tiny Expected: 1481 Got: 1588
-[06Feb2025 19:59:24.076] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: immersive_aircraft:woosh Expected: 1482 Got: 1589
-[06Feb2025 19:59:24.076] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: immersive_aircraft:repair Expected: 1483 Got: 1590
-[06Feb2025 19:59:24.077] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: immersive_aircraft:cannon Expected: 1484 Got: 1591
-[06Feb2025 19:59:24.077] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: immersive_aircraft:gyrodyne Expected: 126 Got: 176
-[06Feb2025 19:59:24.077] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: immersive_aircraft:biplane Expected: 127 Got: 177
-[06Feb2025 19:59:24.077] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: immersive_aircraft:airship Expected: 128 Got: 178
-[06Feb2025 19:59:24.077] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: immersive_aircraft:cargo_airship Expected: 129 Got: 179
-[06Feb2025 19:59:24.078] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: immersive_aircraft:warship Expected: 130 Got: 180
-[06Feb2025 19:59:24.078] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: immersive_aircraft:quadrocopter Expected: 131 Got: 181
-[06Feb2025 19:59:24.078] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: immersive_aircraft:bullet Expected: 132 Got: 182
-[06Feb2025 19:59:24.078] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: immersive_aircraft:tiny_tnt Expected: 133 Got: 183
-[06Feb2025 19:59:25.234] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/pokemons/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23143!/assets/.mcassetsroot' uses unexpected schema
-[06Feb2025 19:59:25.234] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/pokemons/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23143!/data/.mcassetsroot' uses unexpected schema
-[06Feb2025 19:59:30.940] [main/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
-[06Feb2025 19:59:31.737] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:cbcmodernwarfare:blocks/apds_steel
+[08Feb2025 20:48:28.811] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[08Feb2025 20:48:28.817] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[08Feb2025 20:48:32.415] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[08Feb2025 20:48:32.512] [main/INFO] [mixin-transmog/]: Mixin Transmogrifier is definitely up to no good...
+[08Feb2025 20:48:32.548] [main/INFO] [mixin-transmog/]: crimes against java were committed
+[08Feb2025 20:48:32.578] [main/INFO] [mixin-transmog/]: Original mixin transformation service successfully crobbed by mixin-transmogrifier!
+[08Feb2025 20:48:32.638] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/pokemons/servidor_minecraft/mods/Connector-1.0.0-beta.46+1.20.1.jar%23119%23122!/ Service=ModLauncher Env=SERVER
+[08Feb2025 20:48:33.551] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/pokemons/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[08Feb2025 20:48:33.557] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/pokemons/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[08Feb2025 20:48:33.560] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/pokemons/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[08Feb2025 20:48:33.561] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/pokemons/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[08Feb2025 20:48:34.972] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 78 dependencies adding them to mods collection
+[08Feb2025 20:48:36.274] [main/INFO] [org.sinytra.connector.locator.DependencyResolver/]: Dependency resolution found 0 candidates to load
+[08Feb2025 20:48:38.231] [main/INFO] [org.sinytra.connector.service.hacks.ModuleLayerMigrator/]: Successfully made module authlib transformable
+[08Feb2025 20:48:40.021] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[08Feb2025 20:48:40.262] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[08Feb2025 20:48:40.656] [main/WARN] [mixin/]: Reference map 'eureka-1201-forge-refmap.json' for vs_eureka.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Feb2025 20:48:40.687] [main/WARN] [mixin/]: Reference map '' for adapter.init.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Feb2025 20:48:41.807] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/MouseHandler for invalid dist DEDICATED_SERVER
+[08Feb2025 20:48:41.807] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/MouseHandler (java.lang.RuntimeException: Attempted to load class net/minecraft/client/MouseHandler for invalid dist DEDICATED_SERVER)
+[08Feb2025 20:48:41.808] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.MouseHandler was not found fabric-screen-api-v1.mixins.json:MouseMixin from mod fabric_screen_api_v1
+[08Feb2025 20:48:41.809] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[08Feb2025 20:48:41.809] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
+[08Feb2025 20:48:41.809] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found fabric-screen-api-v1.mixins.json:ScreenAccessor from mod fabric_screen_api_v1
+[08Feb2025 20:48:42.279] [main/WARN] [mixin/]: Error loading class: com/copycatsplus/copycats/content/copycat/slab/CopycatSlabBlock (java.lang.ClassNotFoundException: com.copycatsplus.copycats.content.copycat.slab.CopycatSlabBlock)
+[08Feb2025 20:48:42.279] [main/WARN] [mixin/]: @Mixin target com.copycatsplus.copycats.content.copycat.slab.CopycatSlabBlock was not found create_connected.mixins.json:compat.CopycatBlockMixin from mod create_connected
+[08Feb2025 20:48:42.282] [main/WARN] [mixin/]: Error loading class: com/copycatsplus/copycats/content/copycat/board/CopycatBoardBlock (java.lang.ClassNotFoundException: com.copycatsplus.copycats.content.copycat.board.CopycatBoardBlock)
+[08Feb2025 20:48:42.282] [main/WARN] [mixin/]: @Mixin target com.copycatsplus.copycats.content.copycat.board.CopycatBoardBlock was not found create_connected.mixins.json:compat.CopycatBlockMixin from mod create_connected
+[08Feb2025 20:48:42.407] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/lithium/common/ai/pathing/PathNodeDefaults (java.lang.ClassNotFoundException: me.jellysquid.mods.lithium.common.ai.pathing.PathNodeDefaults)
+[08Feb2025 20:48:42.460] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/simibubi/create/foundation/gui/AbstractSimiScreen for invalid dist DEDICATED_SERVER
+[08Feb2025 20:48:42.461] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/foundation/gui/AbstractSimiScreen (java.lang.RuntimeException: Attempted to load class com/simibubi/create/foundation/gui/AbstractSimiScreen for invalid dist DEDICATED_SERVER)
+[08Feb2025 20:48:42.461] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.foundation.gui.AbstractSimiScreen was not found create_connected.mixins.json:sequencedgearshift.AbstractSimiScreenAccessor from mod create_connected
+[08Feb2025 20:48:42.611] [main/WARN] [mixin/]: Error loading class: xfacthd/framedblocks/common/blockentity/doubled/FramedAdjustableDoubleBlockEntity (java.lang.ClassNotFoundException: xfacthd.framedblocks.common.blockentity.doubled.FramedAdjustableDoubleBlockEntity)
+[08Feb2025 20:48:42.611] [main/WARN] [mixin/]: @Mixin target xfacthd.framedblocks.common.blockentity.doubled.FramedAdjustableDoubleBlockEntity was not found createbigcannons.mixins.json:compat.FramedAdjustableDoubleBlockEntityAccessor from mod createbigcannons
+[08Feb2025 20:48:43.176] [main/WARN] [mixin/]: Error loading class: com/jamieswhiteshirt/reachentityattributes/ReachEntityAttributes (java.lang.ClassNotFoundException: com.jamieswhiteshirt.reachentityattributes.ReachEntityAttributes)
+[08Feb2025 20:48:43.205] [main/WARN] [mixin/]: Error loading class: blusunrize/immersiveengineering/common/gui/BlockEntityInventory (java.lang.ClassNotFoundException: blusunrize.immersiveengineering.common.gui.BlockEntityInventory)
+[08Feb2025 20:48:43.209] [main/WARN] [mixin/]: Error loading class: net/dries007/tfc/world/TFCChunkGenerator (java.lang.ClassNotFoundException: net.dries007.tfc.world.TFCChunkGenerator)
+[08Feb2025 20:48:43.212] [main/WARN] [mixin/]: Error loading class: cofh/core/block/entity/TileCoFH (java.lang.ClassNotFoundException: cofh.core.block.entity.TileCoFH)
+[08Feb2025 20:48:43.215] [main/WARN] [mixin/]: Error loading class: li/cil/tis3d/common/entity/InfraredPacketEntity (java.lang.ClassNotFoundException: li.cil.tis3d.common.entity.InfraredPacketEntity)
+[08Feb2025 20:48:43.222] [main/WARN] [mixin/]: Error loading class: me/desht/modularrouters/container/RouterMenu (java.lang.ClassNotFoundException: me.desht.modularrouters.container.RouterMenu)
+[08Feb2025 20:48:43.550] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/particle/SimpleAnimatedParticle (java.lang.ClassNotFoundException: net.minecraft.client.particle.SimpleAnimatedParticle)
+[08Feb2025 20:48:43.623] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[08Feb2025 20:48:54.651] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[08Feb2025 20:48:54.652] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[08Feb2025 20:48:55.326] [modloading-worker-0/INFO] [com.happysg.radar.CreateRadar/]: Initializing Create Radar!
+[08Feb2025 20:48:55.331] [modloading-worker-0/INFO] [com.happysg.radar.CreateRadar/]: Registering Items!
+[08Feb2025 20:48:55.332] [modloading-worker-0/INFO] [com.happysg.radar.CreateRadar/]: Registering CBC Compat Items!
+[08Feb2025 20:48:55.368] [modloading-worker-0/INFO] [com.happysg.radar.CreateRadar/]: Registering blocks!
+[08Feb2025 20:48:55.697] [modloading-worker-0/INFO] [com.happysg.radar.CreateRadar/]: Registering block entity types!
+[08Feb2025 20:48:55.702] [modloading-worker-0/INFO] [com.happysg.radar.CreateRadar/]: Registering CreativeTabs!
+[08Feb2025 20:48:55.703] [modloading-worker-0/INFO] [com.happysg.radar.CreateRadar/]: Registering Lang!
+[08Feb2025 20:48:55.828] [modloading-worker-0/INFO] [com.happysg.radar.CreateRadar/]: Registering ContraptionType!
+[08Feb2025 20:48:56.033] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[08Feb2025 20:48:57.146] [modloading-worker-0/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on valkyrienskies-common.mixins.json:mod_compat.create.block.MixinRedstoneContactBlock from mod valkyrienskies::handler$zmm000$valkyrienskies$injectTick exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[08Feb2025 20:48:59.793] [main/INFO] [net.minecraft.resources.RegistryDataLoader/]: Capturing existing worldgen registries
+[08Feb2025 20:48:59.794] [main/INFO] [net.minecraft.resources.RegistryDataLoader/]: Found 0 injected RegistryDataLoader worldgen registries
+[08Feb2025 20:49:02.109] [modloading-worker-0/INFO] [com.happysg.radar.CreateRadar/]: Registering Display Behaviors!
+[08Feb2025 20:49:03.115] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[08Feb2025 20:49:03.387] [modloading-worker-0/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@3706b4b2]
+[08Feb2025 20:49:03.408] [modloading-worker-0/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.15+6463-5ca4dff) is loaded
+[08Feb2025 20:49:03.493] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[08Feb2025 20:49:03.493] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[08Feb2025 20:49:03.493] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[08Feb2025 20:49:03.493] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[08Feb2025 20:49:03.494] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[08Feb2025 20:49:03.494] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[08Feb2025 20:49:03.494] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[08Feb2025 20:49:03.494] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
+[08Feb2025 20:49:03.720] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[08Feb2025 20:49:03.721] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[08Feb2025 20:49:03.727] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[08Feb2025 20:49:03.727] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[08Feb2025 20:49:03.759] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.27
+[08Feb2025 20:49:03.759] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_connected] Starting version check at https://raw.githubusercontent.com/hlysine/create_connected/main/update.json
+[08Feb2025 20:49:03.885] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_connected] Found status: OUTDATED Current: 0.8.2-mc1.20.1 Target: 0.9.4-mc1.20.1
+[08Feb2025 20:49:03.886] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[08Feb2025 20:49:04.309] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
+[08Feb2025 20:49:06.956] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[08Feb2025 20:49:08.861] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/pokemons/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23143!/assets/.mcassetsroot' uses unexpected schema
+[08Feb2025 20:49:08.862] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/pokemons/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23143!/data/.mcassetsroot' uses unexpected schema
+[08Feb2025 20:49:19.153] [main/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
+[08Feb2025 20:49:20.113] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:cbcmodernwarfare:blocks/apds_steel
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'cbcmodernwarfare:apds_steel'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -172,7 +131,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[06Feb2025 19:59:31.762] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:cbcmodernwarfare:blocks/hehc_shell
+[08Feb2025 20:49:20.207] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:cbcmodernwarfare:blocks/hehc_shell
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'cbcmodernwarfare:hehc_shell'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -224,539 +183,100 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[06Feb2025 19:59:32.178] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_slab_compat as it's serializer returned null
-[06Feb2025 19:59:32.179] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_fence_compat as it's serializer returned null
-[06Feb2025 19:59:32.185] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_fence_gate_compat as it's serializer returned null
-[06Feb2025 19:59:32.196] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_vertical_step_compat as it's serializer returned null
-[06Feb2025 19:59:32.209] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_wall_compat as it's serializer returned null
-[06Feb2025 19:59:32.210] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_block_compat as it's serializer returned null
-[06Feb2025 19:59:32.225] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_beam_compat as it's serializer returned null
-[06Feb2025 19:59:32.236] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_board_compat as it's serializer returned null
-[06Feb2025 19:59:32.248] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_stairs_compat as it's serializer returned null
-[06Feb2025 19:59:32.253] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 30 recipes
-[06Feb2025 19:59:32.356] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2391 advancements
-[06Feb2025 19:59:32.494] [main/WARN] [rbasamoyai.createbigcannons.CreateBigCannons/]: cbcmodernwarfare:solid_fuel_tank is missing durability_mass value, will be set to 1.0
-[06Feb2025 19:59:32.496] [main/WARN] [rbasamoyai.createbigcannons.CreateBigCannons/]: cbcmodernwarfare:solid_fuel_tank is missing penetration value, will be set to 1.0
-[06Feb2025 19:59:32.496] [main/WARN] [rbasamoyai.createbigcannons.CreateBigCannons/]: cbcmodernwarfare:solid_fuel_tank is missing toughness value, will be set to 1.0
-[06Feb2025 19:59:32.497] [main/WARN] [rbasamoyai.createbigcannons.CreateBigCannons/]: cbcmodernwarfare:solid_fuel_tank is missing deflection value, will be set to 1.0
-[06Feb2025 19:59:32.498] [main/WARN] [rbasamoyai.createbigcannons.CreateBigCannons/]: cbcmodernwarfare:solid_fuel_tank is missing entity_damage value, will be set to 1.0
-[06Feb2025 19:59:32.498] [main/WARN] [rbasamoyai.createbigcannons.CreateBigCannons/]: cbcmodernwarfare:solid_fuel_thruster is missing durability_mass value, will be set to 1.0
-[06Feb2025 19:59:32.499] [main/WARN] [rbasamoyai.createbigcannons.CreateBigCannons/]: cbcmodernwarfare:solid_fuel_thruster is missing penetration value, will be set to 1.0
-[06Feb2025 19:59:32.499] [main/WARN] [rbasamoyai.createbigcannons.CreateBigCannons/]: cbcmodernwarfare:solid_fuel_thruster is missing toughness value, will be set to 1.0
-[06Feb2025 19:59:32.501] [main/WARN] [rbasamoyai.createbigcannons.CreateBigCannons/]: cbcmodernwarfare:solid_fuel_thruster is missing deflection value, will be set to 1.0
-[06Feb2025 19:59:32.502] [main/WARN] [rbasamoyai.createbigcannons.CreateBigCannons/]: cbcmodernwarfare:solid_fuel_thruster is missing entity_damage value, will be set to 1.0
-[06Feb2025 19:59:32.503] [main/WARN] [rbasamoyai.createbigcannons.CreateBigCannons/]: cbcmodernwarfare:solid_fuel_split_thruster is missing durability_mass value, will be set to 1.0
-[06Feb2025 19:59:32.503] [main/WARN] [rbasamoyai.createbigcannons.CreateBigCannons/]: cbcmodernwarfare:solid_fuel_split_thruster is missing penetration value, will be set to 1.0
-[06Feb2025 19:59:32.504] [main/WARN] [rbasamoyai.createbigcannons.CreateBigCannons/]: cbcmodernwarfare:solid_fuel_split_thruster is missing toughness value, will be set to 1.0
-[06Feb2025 19:59:32.505] [main/WARN] [rbasamoyai.createbigcannons.CreateBigCannons/]: cbcmodernwarfare:solid_fuel_split_thruster is missing deflection value, will be set to 1.0
-[06Feb2025 19:59:32.507] [main/WARN] [rbasamoyai.createbigcannons.CreateBigCannons/]: cbcmodernwarfare:solid_fuel_split_thruster is missing entity_damage value, will be set to 1.0
-[06Feb2025 19:59:33.694] [main/WARN] [org.valkyrienskies.mod.common.config.MassDatapackResolver/]: No specified tag 'minecraft:carpets' doesn't exist!
-[06Feb2025 19:59:33.804] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[06Feb2025 19:59:33.804] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[06Feb2025 19:59:33.804] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[06Feb2025 19:59:33.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[06Feb2025 19:59:33.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[06Feb2025 19:59:33.984] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[06Feb2025 19:59:34.072] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[06Feb2025 19:59:34.073] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[06Feb2025 19:59:34.073] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[06Feb2025 19:59:34.074] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[06Feb2025 19:59:34.215] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[06Feb2025 19:59:34.718] [Server thread/INFO] [org.valkyrienskies.core.impl.networking.VSNetworking/]: We are not using UDP, falling back to TCP
-[06Feb2025 19:59:35.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[06Feb2025 19:59:38.109] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Feb2025 19:59:38.111] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Feb2025 19:59:38.111] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Feb2025 19:59:38.112] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Feb2025 19:59:38.113] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Feb2025 19:59:38.114] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Feb2025 19:59:38.199] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Feb2025 19:59:38.699] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 31%
-[06Feb2025 19:59:39.228] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 93%
-[06Feb2025 19:59:39.247] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4048 ms
-[06Feb2025 19:59:39.248] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (5.098s)! For help, type "help"
-[06Feb2025 19:59:39.279] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[06Feb2025 19:59:40.320] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[06Feb2025 20:00:39.516] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LIGS_458[/127.50.180.136:40425] logged in with entity id 13 at (-1312.0781258933507, -55.007890293754144, 80.04669528537455)
-[06Feb2025 20:00:39.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 joined the game
-[06Feb2025 20:01:02.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -1106.500000, -60.000000, 79.500000]
-[06Feb2025 20:02:18.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -1295.500000, -59.500000, 79.500000]
-[06Feb2025 20:03:53.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -1110.500000, -58.006765, 79.500000]
-[06Feb2025 20:06:31.721] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/140, l='ServerLevel[Mundo nuevo]', x=-1041.50, y=-60.00, z=80.00] died, message: 'Cartographer was shot by LIGS_458'
-[06Feb2025 20:06:33.818] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/141, l='ServerLevel[Mundo nuevo]', x=-1051.48, y=-60.00, z=124.31] died, message: 'Villager was shot by LIGS_458'
-[06Feb2025 20:07:38.716] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/154, l='ServerLevel[Mundo nuevo]', x=-1012.15, y=-60.00, z=85.17] died, message: 'Farmer was shot by LIGS_458'
-[06Feb2025 20:08:11.666] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/153, l='ServerLevel[Mundo nuevo]', x=-937.49, y=-60.00, z=150.99] died, message: 'Leatherworker was shot by LIGS_458'
-[06Feb2025 20:08:13.616] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/149, l='ServerLevel[Mundo nuevo]', x=-958.36, y=-60.00, z=140.05] died, message: 'Weaponsmith was shot by LIGS_458'
-[06Feb2025 20:08:15.766] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/151, l='ServerLevel[Mundo nuevo]', x=-954.94, y=-60.00, z=94.48] died, message: 'Nitwit was shot by LIGS_458'
-[06Feb2025 20:08:17.316] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/152, l='ServerLevel[Mundo nuevo]', x=-956.18, y=-60.00, z=71.30] died, message: 'Librarian was shot by LIGS_458'
-[06Feb2025 20:08:20.665] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/147, l='ServerLevel[Mundo nuevo]', x=-949.70, y=-60.00, z=70.49] died, message: 'Villager was shot by LIGS_458'
-[06Feb2025 20:08:29.379] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ly4Nx_[/127.166.200.69:47863] logged in with entity id 202 at (-1046.1317743663578, -42.0, -401.44549032670244)
-[06Feb2025 20:08:29.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ joined the game
-[06Feb2025 20:08:48.368] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/142, l='ServerLevel[Mundo nuevo]', x=-1021.49, y=-60.06, z=152.81] died, message: 'Farmer was shot by LIGS_458'
-[06Feb2025 20:08:56.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Teleported Ly4Nx_ to LIGS_458]
-[06Feb2025 20:11:38.169] [WorldEdit Task Executor - 0/INFO] [com.sk89q.worldedit.command.SchematicCommands/]: LIGS_458 saved /workspaces/pokemons/servidor_minecraft/config/worldedit/schematics/basevsbase2.schem
-[06Feb2025 20:11:50.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> aqui con mi causa
-[06Feb2025 20:11:57.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -1735.500000, -59.500000, 39.500000]
-[06Feb2025 20:12:21.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -1109.500000, -25.576232, 86.500000]
-[06Feb2025 20:12:36.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 has made the advancement [Sneak 100]
-[06Feb2025 20:12:41.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ has made the advancement [Sneak 100]
-[06Feb2025 20:14:04.069] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/146, l='ServerLevel[Mundo nuevo]', x=-1031.35, y=-60.00, z=145.67] died, message: 'Leatherworker was shot by Ly4Nx_'
-[06Feb2025 20:17:10.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 has made the advancement [Ice Bucket Challenge]
-[06Feb2025 20:17:50.225] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/993, l='ServerLevel[Mundo nuevo]', x=-1147.99, y=-60.00, z=225.04] died, message: 'Villager was blown up by LIGS_458'
-[06Feb2025 20:17:50.226] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/994, l='ServerLevel[Mundo nuevo]', x=-1148.78, y=-60.00, z=225.74] died, message: 'Villager was blown up by LIGS_458'
-[06Feb2025 20:18:57.590] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Warrior_Legend[/127.232.213.80:48967] logged in with entity id 1044 at (-1053.0267849501004, -42.0, -401.05698556741925)
-[06Feb2025 20:18:57.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend joined the game
-[06Feb2025 20:20:05.721] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1161, l='ServerLevel[Mundo nuevo]', x=-1091.05, y=-253.22, z=68.52] died, message: 'Villager fell out of the world'
-[06Feb2025 20:20:06.726] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1162, l='ServerLevel[Mundo nuevo]', x=-1089.80, y=-253.22, z=68.81] died, message: 'Villager fell out of the world'
-[06Feb2025 20:20:11.470] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1163, l='ServerLevel[Mundo nuevo]', x=-1112.55, y=-253.22, z=70.67] died, message: 'Villager fell out of the world'
-[06Feb2025 20:20:12.525] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1166, l='ServerLevel[Mundo nuevo]', x=-1127.98, y=-30.00, z=72.60] died, message: 'Villager was shot by LIGS_458'
-[06Feb2025 20:20:13.175] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1164, l='ServerLevel[Mundo nuevo]', x=-1102.56, y=-187.59, z=70.85] died, message: 'Villager fell out of the world'
-[06Feb2025 20:20:14.419] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1165, l='ServerLevel[Mundo nuevo]', x=-1123.28, y=-30.00, z=72.50] died, message: 'Villager was shot by LIGS_458'
-[06Feb2025 20:20:14.420] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1167, l='ServerLevel[Mundo nuevo]', x=-1121.90, y=-30.00, z=72.50] died, message: 'Villager was shot by LIGS_458'
-[06Feb2025 20:20:59.382] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bascap[/127.143.177.98:42179] logged in with entity id 1252 at (-1075.3190745921622, -33.0, -468.05792503426045)
-[06Feb2025 20:20:59.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap joined the game
-[06Feb2025 20:21:13.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported 4 entities to LIGS_458]
-[06Feb2025 20:21:20.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Removed 1392 item(s) from 4 players]
-[06Feb2025 20:21:28.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set Warrior_Legend's game mode to Creative Mode]
-[06Feb2025 20:21:28.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set Bascap's game mode to Creative Mode]
-[06Feb2025 20:21:30.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap fell out of the world
-[06Feb2025 20:21:52.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Survival Mode]
-[06Feb2025 20:22:03.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set the time to 13000]
-[06Feb2025 20:22:12.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set the time to 1000]
-[06Feb2025 20:22:50.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set Bascap's game mode to Creative Mode]
-[06Feb2025 20:22:50.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied effect Instant Health to Bascap]
-[06Feb2025 20:22:53.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported 4 entities to LIGS_458]
-[06Feb2025 20:23:00.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Survival Mode]
-[06Feb2025 20:23:00.669] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ly4Nx_ lost connection: Disconnected
-[06Feb2025 20:23:00.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ left the game
-[06Feb2025 20:23:00.722] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[06Feb2025 20:23:04.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied effect Instant Health to Bascap]
-[06Feb2025 20:23:09.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied effect Instant Health to Bascap]
-[06Feb2025 20:23:27.870] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@47d4b48b[id=<null>,name=Ly4Nx_,properties={},legacy=false] (/127.166.200.69:39183) lost connection: Disconnected
-[06Feb2025 20:23:41.427] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ly4Nx_[/127.166.200.69:37173] logged in with entity id 1322 at (-1103.344841623305, -60.0, 27.028831792877117)
-[06Feb2025 20:23:41.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ joined the game
-[06Feb2025 20:24:06.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Kicked Ly4Nx_: Kicked by an operator]
-[06Feb2025 20:24:06.370] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ly4Nx_ lost connection: Kicked by an operator
-[06Feb2025 20:24:06.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ left the game
-[06Feb2025 20:24:32.620] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@162de3c6[id=<null>,name=Ly4Nx_,properties={},legacy=false] (/127.166.200.69:35069) lost connection: Disconnected
-[06Feb2025 20:24:50.929] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ly4Nx_[/127.166.200.69:36793] logged in with entity id 1396 at (-1094.8916030479784, -59.878703159460805, 30.277576886512215)
-[06Feb2025 20:24:50.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ joined the game
-[06Feb2025 20:25:18.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Creative Mode]
-[06Feb2025 20:27:39.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ has made the advancement [Spooky Scary Skeleton]
-[06Feb2025 20:27:51.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set Ly4Nx_'s game mode to Survival Mode]
-[06Feb2025 20:28:03.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
-[06Feb2025 20:28:13.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set own game mode to Creative Mode]
-[06Feb2025 20:28:19.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Teleported Ly4Nx_ to Warrior_Legend]
-[06Feb2025 20:28:58.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ has made the advancement [Withering Heights]
-[06Feb2025 20:29:08.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: The difficulty has been set to Peaceful]
-[06Feb2025 20:29:12.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: The difficulty has been set to Hard]
-[06Feb2025 20:30:32.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set LIGS_458's game mode to Survival Mode]
-[06Feb2025 20:30:32.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Survival Mode]
-[06Feb2025 20:30:32.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set Bascap's game mode to Survival Mode]
-[06Feb2025 20:30:32.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set Ly4Nx_'s game mode to Survival Mode]
-[06Feb2025 20:30:34.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
-[06Feb2025 20:30:36.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
-[06Feb2025 20:30:37.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 fell out of the world
-[06Feb2025 20:30:41.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Creative Mode]
-[06Feb2025 20:30:44.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was killed
-[06Feb2025 20:30:44.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Killed Warrior_Legend]
-[06Feb2025 20:30:44.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Creative Mode]
-[06Feb2025 20:30:49.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -1103.500000, -59.500000, 116.500000]
-[06Feb2025 20:30:53.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set own game mode to Creative Mode]
-[06Feb2025 20:31:26.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -3787.500000, -59.500000, 172.500000]
-[06Feb2025 20:31:27.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Teleported Ly4Nx_ to LIGS_458]
-[06Feb2025 20:31:47.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Teleported Warrior_Legend to LIGS_458]
-[06Feb2025 20:32:09.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported Bascap to LIGS_458]
-[06Feb2025 20:33:10.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied enchantment Protection IV to Bascap's item]
-[06Feb2025 20:33:13.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied enchantment Protection IV to Bascap's item]
-[06Feb2025 20:33:15.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied enchantment Protection IV to Bascap's item]
-[06Feb2025 20:33:19.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied enchantment Protection IV to Bascap's item]
-[06Feb2025 20:33:27.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied enchantment Unbreaking III to Bascap's item]
-[06Feb2025 20:33:31.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied enchantment Unbreaking III to Bascap's item]
-[06Feb2025 20:33:34.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied enchantment Unbreaking III to Bascap's item]
-[06Feb2025 20:33:37.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied enchantment Unbreaking III to Bascap's item]
-[06Feb2025 20:33:48.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Applied enchantment Protection IV to LIGS_458's item]
-[06Feb2025 20:33:50.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied enchantment Mending to Bascap's item]
-[06Feb2025 20:33:52.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Applied enchantment Protection IV to LIGS_458's item]
-[06Feb2025 20:33:54.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Applied enchantment Protection IV to LIGS_458's item]
-[06Feb2025 20:33:54.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied enchantment Mending to Bascap's item]
-[06Feb2025 20:33:56.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied enchantment Mending to Bascap's item]
-[06Feb2025 20:33:57.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Applied enchantment Protection IV to LIGS_458's item]
-[06Feb2025 20:33:59.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied enchantment Mending to Bascap's item]
-[06Feb2025 20:34:13.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Applied enchantment Mending to LIGS_458's item]
-[06Feb2025 20:34:17.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Applied enchantment Mending to LIGS_458's item]
-[06Feb2025 20:34:19.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Applied enchantment Mending to LIGS_458's item]
-[06Feb2025 20:34:21.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Applied enchantment Mending to LIGS_458's item]
-[06Feb2025 20:35:51.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Survival Mode]
-[06Feb2025 20:36:09.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Gamerule keepInventory is now set to: true]
-[06Feb2025 20:36:18.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[06Feb2025 20:36:18.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dawdaw<--[HERE]
-[06Feb2025 20:36:33.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set Ly4Nx_'s game mode to Survival Mode]
-[06Feb2025 20:36:33.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set LIGS_458's game mode to Survival Mode]
-[06Feb2025 20:36:33.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Survival Mode]
-[06Feb2025 20:36:35.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
-[06Feb2025 20:36:39.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied enchantment Unbreaking III to Bascap's item]
-[06Feb2025 20:36:42.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
-[06Feb2025 20:36:48.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Teleported Ly4Nx_ to LIGS_458]
-[06Feb2025 20:36:49.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Creative Mode]
-[06Feb2025 20:36:57.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set spawn point to -3809, -60, 167 [0.0] in minecraft:overworld for Ly4Nx_]
-[06Feb2025 20:36:59.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Gave 1 [Light Blue Bed] to 4]
-[06Feb2025 20:37:02.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Survival Mode]
-[06Feb2025 20:37:16.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend fell out of the world
-[06Feb2025 20:37:26.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
-[06Feb2025 20:37:29.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Creative Mode]
-[06Feb2025 20:37:40.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
-[06Feb2025 20:37:47.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
-[06Feb2025 20:37:52.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Survival Mode]
-[06Feb2025 20:37:54.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Bascap
-[06Feb2025 20:38:14.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set Bascap's game mode to Creative Mode]
-[06Feb2025 20:38:14.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Creative Mode]
-[06Feb2025 20:38:14.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set Ly4Nx_'s game mode to Creative Mode]
-[06Feb2025 20:38:18.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Survival Mode]
-[06Feb2025 20:39:13.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set own game mode to Survival Mode]
-[06Feb2025 20:39:14.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set Bascap's game mode to Survival Mode]
-[06Feb2025 20:39:14.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Survival Mode]
-[06Feb2025 20:39:55.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Bascap
-[06Feb2025 20:39:57.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
-[06Feb2025 20:40:06.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
-[06Feb2025 20:40:27.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
-[06Feb2025 20:40:44.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
-[06Feb2025 20:40:50.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Bascap
-[06Feb2025 20:41:00.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
-[06Feb2025 20:41:02.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Bascap
-[06Feb2025 20:41:18.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
-[06Feb2025 20:41:55.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
-[06Feb2025 20:41:55.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Bascap
-[06Feb2025 20:42:03.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
-[06Feb2025 20:42:08.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
-[06Feb2025 20:42:28.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Creative Mode]
-[06Feb2025 20:43:08.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set own game mode to Creative Mode]
-[06Feb2025 20:43:33.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Survival Mode]
-[06Feb2025 20:43:33.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set LIGS_458's game mode to Survival Mode]
-[06Feb2025 20:43:33.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set Ly4Nx_'s game mode to Survival Mode]
-[06Feb2025 20:44:00.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
-[06Feb2025 20:44:12.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
-[06Feb2025 20:44:23.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Bascap
-[06Feb2025 20:44:23.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Survival Mode]
-[06Feb2025 20:44:32.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Bascap
-[06Feb2025 20:44:37.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Bascap
-[06Feb2025 20:44:48.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Bascap
-[06Feb2025 20:44:51.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
-[06Feb2025 20:44:57.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Bascap
-[06Feb2025 20:45:00.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
-[06Feb2025 20:45:03.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
-[06Feb2025 20:45:13.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set own game mode to Creative Mode]
-[06Feb2025 20:45:16.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Bascap
-[06Feb2025 20:45:19.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set spawn point to -3792, -60, 179 [0.0] in minecraft:overworld for Ly4Nx_]
-[06Feb2025 20:45:36.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set own game mode to Survival Mode]
-[06Feb2025 20:45:42.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
-[06Feb2025 20:46:08.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Bascap
-[06Feb2025 20:46:47.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Bascap
-[06Feb2025 20:46:57.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
-[06Feb2025 20:47:10.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Bascap
-[06Feb2025 20:47:18.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Bascap
-[06Feb2025 20:47:31.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
-[06Feb2025 20:47:36.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
-[06Feb2025 20:47:39.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
-[06Feb2025 20:48:18.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Bascap
-[06Feb2025 20:48:30.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Bascap
-[06Feb2025 20:48:40.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Bascap
-[06Feb2025 20:48:41.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
-[06Feb2025 20:49:01.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
-[06Feb2025 20:49:06.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
-[06Feb2025 20:49:14.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by LIGS_458
-[06Feb2025 20:49:42.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Bascap
-[06Feb2025 20:49:58.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
-[06Feb2025 20:50:04.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Bascap
-[06Feb2025 20:50:13.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Bascap
-[06Feb2025 20:50:45.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 fell out of the world
-[06Feb2025 20:50:46.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Bascap
-[06Feb2025 20:50:52.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
-[06Feb2025 20:50:55.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
-[06Feb2025 20:51:14.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Bascap
-[06Feb2025 20:51:24.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Ly4Nx_
-[06Feb2025 20:51:32.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Bascap
-[06Feb2025 20:51:37.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Bascap
-[06Feb2025 20:51:50.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Bascap
-[06Feb2025 20:51:57.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
-[06Feb2025 20:52:30.065] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warrior_Legend lost connection: Timed out
-[06Feb2025 20:52:30.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend left the game
-[06Feb2025 20:52:56.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Survival Mode]
-[06Feb2025 20:53:02.215] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7c29a072[id=<null>,name=Warrior_Legend,properties={},legacy=false] (/127.232.213.80:40473) lost connection: Disconnected
-[06Feb2025 20:53:08.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set own game mode to Creative Mode]
-[06Feb2025 20:53:14.623] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Warrior_Legend[/127.232.213.80:56009] logged in with entity id 2226 at (-3794.527403512451, -41.0, 141.22736507521185)
-[06Feb2025 20:53:14.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend joined the game
-[06Feb2025 20:53:17.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
-[06Feb2025 20:53:45.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set own game mode to Survival Mode]
-[06Feb2025 20:53:47.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: The difficulty has been set to Peaceful]
-[06Feb2025 20:53:53.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: The difficulty has been set to Hard]
-[06Feb2025 20:53:57.665] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bascap lost connection: Disconnected
-[06Feb2025 20:53:57.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap left the game
-[06Feb2025 20:54:14.815] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warrior_Legend lost connection: Timed out
-[06Feb2025 20:54:14.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend left the game
-[06Feb2025 20:54:25.521] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Warrior_Legend[/127.232.213.80:40003] logged in with entity id 2254 at (-3781.7984682931096, -60.0, 181.99216090451554)
-[06Feb2025 20:54:25.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend joined the game
-[06Feb2025 20:54:26.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set own game mode to Creative Mode]
-[06Feb2025 20:55:10.421] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bascap[/127.143.177.98:60173] logged in with entity id 2316 at (-3795.7131110574005, -79.03858366954117, 156.0755826170415)
-[06Feb2025 20:55:10.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap joined the game
-[06Feb2025 20:55:12.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set Warrior_Legend's game mode to Creative Mode]
-[06Feb2025 20:55:12.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set Bascap's game mode to Creative Mode]
-[06Feb2025 20:55:22.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported Bascap to LIGS_458]
-[06Feb2025 20:55:43.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied effect Instant Health to Bascap]
-[06Feb2025 20:55:50.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Survival Mode]
-[06Feb2025 20:56:31.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set Ly4Nx_'s game mode to Survival Mode]
-[06Feb2025 20:56:31.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set LIGS_458's game mode to Survival Mode]
-[06Feb2025 20:56:31.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Survival Mode]
-[06Feb2025 20:56:35.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
-[06Feb2025 20:56:35.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
-[06Feb2025 20:56:42.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Bascap
-[06Feb2025 20:56:47.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
-[06Feb2025 20:56:47.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set own game mode to Creative Mode]
-[06Feb2025 20:56:50.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
-[06Feb2025 20:56:56.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -3799.500000, -59.500000, 183.500000]
-[06Feb2025 20:57:05.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend fell out of the world
-[06Feb2025 20:57:10.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set LIGS_458's game mode to Survival Mode]
-[06Feb2025 20:57:10.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set Ly4Nx_'s game mode to Survival Mode]
-[06Feb2025 20:57:11.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was slain by Bascap
-[06Feb2025 20:57:16.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was slain by Bascap
-[06Feb2025 20:57:18.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set own game mode to Creative Mode]
-[06Feb2025 20:57:19.765] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bascap lost connection: Disconnected
-[06Feb2025 20:57:19.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap left the game
-[06Feb2025 20:57:21.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
-[06Feb2025 20:57:31.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -3797.500000, -59.500000, 189.500000]
-[06Feb2025 20:57:32.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Creative Mode]
-[06Feb2025 20:57:33.172] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bascap[/127.143.177.98:42141] logged in with entity id 2635 at (-3816.2710970289, -99.07594797338169, 197.71769813371327)
-[06Feb2025 20:57:33.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap joined the game
-[06Feb2025 20:57:33.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap has made the advancement [Withering Heights]
-[06Feb2025 20:57:33.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 has made the advancement [Withering Heights]
-[06Feb2025 20:57:38.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: The difficulty has been set to Peaceful]
-[06Feb2025 20:57:40.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Creative Mode]
-[06Feb2025 20:57:40.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: The difficulty has been set to Hard]
-[06Feb2025 20:57:44.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported Bascap to LIGS_458]
-[06Feb2025 20:58:16.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied effect Blindness to Ly4Nx_]
-[06Feb2025 20:58:28.103] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3539ms or 70 ticks behind
-[06Feb2025 20:58:30.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied effect Darkness to Ly4Nx_]
-[06Feb2025 20:58:41.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied effect Mining Fatigue to Ly4Nx_]
-[06Feb2025 20:59:00.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied effect Slowness to Ly4Nx_]
-[06Feb2025 20:59:10.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set Ly4Nx_'s game mode to Survival Mode]
-[06Feb2025 20:59:16.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set own game mode to Creative Mode]
-[06Feb2025 20:59:21.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set own game mode to Spectator Mode]
-[06Feb2025 20:59:28.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Survival Mode]
-[06Feb2025 20:59:33.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Survival Mode]
-[06Feb2025 20:59:33.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set Ly4Nx_'s game mode to Survival Mode]
-[06Feb2025 20:59:33.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set LIGS_458's game mode to Survival Mode]
-[06Feb2025 20:59:37.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
-[06Feb2025 20:59:48.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
-[06Feb2025 20:59:56.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Creative Mode]
-[06Feb2025 21:00:01.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Bascap
-[06Feb2025 21:00:23.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set LIGS_458's game mode to Survival Mode]
-[06Feb2025 21:00:23.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set Warrior_Legend's game mode to Survival Mode]
-[06Feb2025 21:00:29.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
-[06Feb2025 21:00:30.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set own game mode to Spectator Mode]
-[06Feb2025 21:00:35.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set LIGS_458's game mode to Survival Mode]
-[06Feb2025 21:00:35.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set Ly4Nx_'s game mode to Survival Mode]
-[06Feb2025 21:00:37.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
-[06Feb2025 21:00:43.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Bascap
-[06Feb2025 21:00:47.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
-[06Feb2025 21:00:52.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Creative Mode]
-[06Feb2025 21:00:53.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set LIGS_458's game mode to Survival Mode]
-[06Feb2025 21:00:53.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set Warrior_Legend's game mode to Survival Mode]
-[06Feb2025 21:00:55.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set own game mode to Spectator Mode]
-[06Feb2025 21:00:55.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
-[06Feb2025 21:00:57.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set LIGS_458's game mode to Survival Mode]
-[06Feb2025 21:00:57.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set Ly4Nx_'s game mode to Survival Mode]
-[06Feb2025 21:00:58.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Creative Mode]
-[06Feb2025 21:00:58.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Bascap
-[06Feb2025 21:01:01.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
-[06Feb2025 21:01:05.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set own game mode to Spectator Mode]
-[06Feb2025 21:01:08.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -3802.500000, -59.500000, 173.500000]
-[06Feb2025 21:01:42.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied effect Instant Health to Bascap]
-[06Feb2025 21:01:46.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set own game mode to Creative Mode]
-[06Feb2025 21:02:22.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Gave 1 [Composite (NERA) Armor Block] to Bascap]
-[06Feb2025 21:02:35.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Gave 1 [Composite (NERA) Armor Block] to Bascap]
-[06Feb2025 21:02:58.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Survival Mode]
-[06Feb2025 21:03:28.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was slain by Bascap
-[06Feb2025 21:04:51.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Creative Mode]
-[06Feb2025 21:05:18.365] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bascap lost connection: Disconnected
-[06Feb2025 21:05:18.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap left the game
-[06Feb2025 21:06:48.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Applied effect Poison to Warrior_Legend]
-[06Feb2025 21:06:59.922] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bascap[/127.143.177.98:47085] logged in with entity id 3305 at (-3800.0906936880087, -33.23964818492004, 103.9585708977017)
-[06Feb2025 21:06:59.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap joined the game
-[06Feb2025 21:07:10.415] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bascap lost connection: Disconnected
-[06Feb2025 21:07:10.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap left the game
-[06Feb2025 21:07:17.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Ly4Nx_
-[06Feb2025 21:07:23.621] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bascap[/127.143.177.98:50811] logged in with entity id 3340 at (-3800.0906936880087, -33.23964818492004, 103.9585708977017)
-[06Feb2025 21:07:23.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap joined the game
-[06Feb2025 21:08:00.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Applied effect Absorption to Warrior_Legend]
-[06Feb2025 21:08:07.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Teleported Warrior_Legend to Ly4Nx_]
-[06Feb2025 21:08:19.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Creative Mode]
-[06Feb2025 21:08:21.366] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LIGS_458 lost connection: Disconnected
-[06Feb2025 21:08:21.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 left the game
-[06Feb2025 21:08:25.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set Ly4Nx_'s game mode to Survival Mode]
-[06Feb2025 21:08:25.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Survival Mode]
-[06Feb2025 21:08:25.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set Bascap's game mode to Survival Mode]
-[06Feb2025 21:08:28.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ fell out of the world
-[06Feb2025 21:08:30.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Creative Mode]
-[06Feb2025 21:08:34.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported Bascap to Warrior_Legend]
-[06Feb2025 21:08:34.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set own game mode to Creative Mode]
-[06Feb2025 21:09:01.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied effect Instant Health to 3 targets]
-[06Feb2025 21:09:15.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Survival Mode]
-[06Feb2025 21:09:15.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set Ly4Nx_'s game mode to Survival Mode]
-[06Feb2025 21:09:16.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied effect Instant Health to 3 targets]
-[06Feb2025 21:09:28.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied effect Instant Health to 3 targets]
-[06Feb2025 21:09:32.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Bascap
-[06Feb2025 21:09:45.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
-[06Feb2025 21:09:55.121] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LIGS_458[/127.50.180.136:41189] logged in with entity id 3589 at (-3782.300000011921, -57.0, 172.38489476338262)
-[06Feb2025 21:09:55.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 joined the game
-[06Feb2025 21:09:56.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ burned to death
-[06Feb2025 21:09:57.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was killed
-[06Feb2025 21:09:57.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Killed Warrior_Legend]
-[06Feb2025 21:10:08.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was killed
-[06Feb2025 21:10:08.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was killed
-[06Feb2025 21:10:08.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was killed
-[06Feb2025 21:10:08.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was killed
-[06Feb2025 21:10:08.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Killed 4 entities]
-[06Feb2025 21:10:13.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was killed
-[06Feb2025 21:10:13.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Killed Warrior_Legend]
-[06Feb2025 21:10:13.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set own game mode to Creative Mode]
-[06Feb2025 21:10:16.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap fell out of the world
-[06Feb2025 21:10:19.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was killed
-[06Feb2025 21:10:19.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Killed Warrior_Legend]
-[06Feb2025 21:10:20.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -3797.500000, -59.500000, 176.500000]
-[06Feb2025 21:10:30.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was killed
-[06Feb2025 21:10:30.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was killed
-[06Feb2025 21:10:30.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was killed
-[06Feb2025 21:10:30.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was killed
-[06Feb2025 21:10:30.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Killed 4 entities]
-[06Feb2025 21:10:38.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was killed whilst fighting Warrior_Legend
-[06Feb2025 21:10:38.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Killed Bascap]
-[06Feb2025 21:10:42.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -3801.500000, -59.500000, 171.500000]
-[06Feb2025 21:10:43.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was killed
-[06Feb2025 21:10:43.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was killed
-[06Feb2025 21:10:43.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was killed whilst fighting Bascap
-[06Feb2025 21:10:43.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was killed
-[06Feb2025 21:10:43.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Killed 4 entities]
-[06Feb2025 21:10:45.717] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ly4Nx_ lost connection: Disconnected
-[06Feb2025 21:10:45.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ left the game
-[06Feb2025 21:10:50.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -3812.500000, -59.500000, 184.500000]
-[06Feb2025 21:11:00.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
-[06Feb2025 21:11:10.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was killed
-[06Feb2025 21:11:10.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was killed
-[06Feb2025 21:11:10.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was killed
-[06Feb2025 21:11:10.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Killed 3 entities]
-[06Feb2025 21:11:16.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -3794.500000, -56.500000, 163.500000]
-[06Feb2025 21:11:20.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was killed
-[06Feb2025 21:11:20.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was killed
-[06Feb2025 21:11:20.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was killed whilst fighting Warrior_Legend
-[06Feb2025 21:11:20.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Killed 3 entities]
-[06Feb2025 21:11:29.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -3804.500000, -57.500000, 180.500000]
-[06Feb2025 21:11:31.420] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warrior_Legend lost connection: Disconnected
-[06Feb2025 21:11:31.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend left the game
-[06Feb2025 21:11:51.065] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bascap lost connection: Disconnected
-[06Feb2025 21:11:51.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap left the game
-[06Feb2025 21:13:53.671] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Warrior_Legend[/127.232.213.80:39523] logged in with entity id 3714 at (73.61102375901667, -46.833890739061786, -335.24797461135427)
-[06Feb2025 21:13:53.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend joined the game
-[06Feb2025 21:13:56.269] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bascap[/127.143.177.98:43723] logged in with entity id 3719 at (80.25037478184923, -37.0, -333.69999998807907)
-[06Feb2025 21:13:56.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap joined the game
-[06Feb2025 21:14:11.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported Bascap to Warrior_Legend]
-[06Feb2025 21:14:23.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Creative Mode]
-[06Feb2025 21:14:29.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Applied effect Health Boost to Warrior_Legend]
-[06Feb2025 21:14:48.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -3793.500000, -52.222319, 480.500000]
-[06Feb2025 21:15:11.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Applied effect Instant Health to Warrior_Legend]
-[06Feb2025 21:15:12.843] [WorldEdit Task Executor - 1/INFO] [com.sk89q.worldedit.command.SchematicCommands/]: LIGS_458 saved /workspaces/pokemons/servidor_minecraft/config/worldedit/schematics/peleaapistolas.schem
-[06Feb2025 21:15:17.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -3814.500000, -59.500000, 178.500000]
-[06Feb2025 21:15:26.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported 3 entities to LIGS_458]
-[06Feb2025 21:15:30.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Survival Mode]
-[06Feb2025 21:15:42.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Creative Mode]
-[06Feb2025 21:15:52.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Survival Mode]
-[06Feb2025 21:15:55.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Removed 39 item(s) from player Bascap]
-[06Feb2025 21:15:57.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend has made the advancement [Suit Up]
-[06Feb2025 21:15:57.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Gave 1 [Iron Boots] to Warrior_Legend]
-[06Feb2025 21:16:12.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Gave 1 [Iron Chestplate] to Warrior_Legend]
-[06Feb2025 21:16:13.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Creative Mode]
-[06Feb2025 21:16:27.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Gave 1 [Iron Hoe] to Warrior_Legend]
-[06Feb2025 21:17:01.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Gave 1 [Iron Helmet] to Warrior_Legend]
-[06Feb2025 21:17:26.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Gave 1 [Iron Leggings] to Warrior_Legend]
-[06Feb2025 21:18:13.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 has made the advancement [Suit Up]
-[06Feb2025 21:19:06.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Made Bascap no longer a server operator]
-[06Feb2025 21:19:11.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Removed 3 item(s) from player Bascap]
-[06Feb2025 21:19:19.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap has made the advancement [Suit Up]
-[06Feb2025 21:19:52.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Survival Mode]
-[06Feb2025 21:19:52.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set Bascap's game mode to Survival Mode]
-[06Feb2025 21:20:29.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Bascap
-[06Feb2025 21:20:36.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
-[06Feb2025 21:20:43.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -3803.500000, -59.500000, 189.500000]
-[06Feb2025 21:20:44.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
-[06Feb2025 21:20:59.819] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=69, y=-49, z=-331}
-[06Feb2025 21:21:05.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap burned to death
-[06Feb2025 21:21:18.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap fell out of the world
-[06Feb2025 21:21:25.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported Bascap to LIGS_458]
-[06Feb2025 21:21:50.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by LIGS_458
-[06Feb2025 21:22:02.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by LIGS_458
-[06Feb2025 21:22:12.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported Warrior_Legend to LIGS_458]
-[06Feb2025 21:22:18.562] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=82, y=-44, z=-331}
-[06Feb2025 21:22:18.737] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=81, y=-45, z=-331}
-[06Feb2025 21:22:18.921] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=81, y=-45, z=-331}
-[06Feb2025 21:22:26.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap fell out of the world
-[06Feb2025 21:22:31.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported Bascap to LIGS_458]
-[06Feb2025 21:22:44.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported Bascap to LIGS_458]
-[06Feb2025 21:22:57.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Survival Mode]
-[06Feb2025 21:23:05.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
-[06Feb2025 21:23:18.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Bascap
-[06Feb2025 21:23:28.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -3805.500000, -56.500000, 170.500000]
-[06Feb2025 21:23:46.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Applied effect Invisibility to Warrior_Legend]
-[06Feb2025 21:23:57.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by LIGS_458
-[06Feb2025 21:24:00.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Teleported Warrior_Legend to Bascap]
-[06Feb2025 21:24:04.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
-[06Feb2025 21:24:10.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set spawn point to -3802, -60, 175 [0.0] in minecraft:overworld for 3 players]
-[06Feb2025 21:24:19.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap fell out of the world
-[06Feb2025 21:24:22.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported 3 entities to LIGS_458]
-[06Feb2025 21:24:26.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
-[06Feb2025 21:24:30.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
-[06Feb2025 21:24:33.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
-[06Feb2025 21:24:36.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
-[06Feb2025 21:24:38.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
-[06Feb2025 21:24:44.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
-[06Feb2025 21:24:53.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
-[06Feb2025 21:24:58.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by LIGS_458
-[06Feb2025 21:25:03.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by LIGS_458
-[06Feb2025 21:25:10.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
-[06Feb2025 21:25:15.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
-[06Feb2025 21:25:21.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
-[06Feb2025 21:25:26.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Bascap
-[06Feb2025 21:25:33.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
-[06Feb2025 21:25:38.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
-[06Feb2025 21:25:48.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
-[06Feb2025 21:25:55.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
-[06Feb2025 21:26:00.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
-[06Feb2025 21:26:06.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
-[06Feb2025 21:26:09.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by LIGS_458
-[06Feb2025 21:26:18.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by LIGS_458
-[06Feb2025 21:26:25.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
-[06Feb2025 21:26:30.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by LIGS_458
-[06Feb2025 21:26:35.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Bascap
-[06Feb2025 21:26:40.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Bascap
-[06Feb2025 21:26:44.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by LIGS_458
-[06Feb2025 21:26:47.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
-[06Feb2025 21:26:52.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by LIGS_458
-[06Feb2025 21:26:52.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
-[06Feb2025 21:26:56.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
-[06Feb2025 21:27:04.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
-[06Feb2025 21:27:04.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
-[06Feb2025 21:27:11.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by LIGS_458
-[06Feb2025 21:27:15.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by LIGS_458
-[06Feb2025 21:27:24.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by LIGS_458
-[06Feb2025 21:27:34.014] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bascap lost connection: Disconnected
-[06Feb2025 21:27:34.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap left the game
-[06Feb2025 21:27:36.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
-[06Feb2025 21:27:43.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
-[06Feb2025 21:27:47.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by LIGS_458
-[06Feb2025 21:27:55.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by LIGS_458
-[06Feb2025 21:28:02.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by LIGS_458
-[06Feb2025 21:28:07.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by LIGS_458
-[06Feb2025 21:28:18.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by LIGS_458
-[06Feb2025 21:28:27.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
-[06Feb2025 21:28:47.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
-[06Feb2025 21:29:01.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
-[06Feb2025 21:29:09.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
-[06Feb2025 21:29:13.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by LIGS_458
+[08Feb2025 20:49:20.742] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_slab_compat as it's serializer returned null
+[08Feb2025 20:49:20.742] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_fence_compat as it's serializer returned null
+[08Feb2025 20:49:20.749] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_fence_gate_compat as it's serializer returned null
+[08Feb2025 20:49:20.765] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_vertical_step_compat as it's serializer returned null
+[08Feb2025 20:49:20.781] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_wall_compat as it's serializer returned null
+[08Feb2025 20:49:20.782] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_block_compat as it's serializer returned null
+[08Feb2025 20:49:20.809] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_beam_compat as it's serializer returned null
+[08Feb2025 20:49:20.819] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_board_compat as it's serializer returned null
+[08Feb2025 20:49:20.833] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_stairs_compat as it's serializer returned null
+[08Feb2025 20:49:20.838] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 30 recipes
+[08Feb2025 20:49:20.998] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2391 advancements
+[08Feb2025 20:49:21.270] [main/WARN] [rbasamoyai.createbigcannons.CreateBigCannons/]: cbcmodernwarfare:solid_fuel_tank is missing durability_mass value, will be set to 1.0
+[08Feb2025 20:49:21.270] [main/WARN] [rbasamoyai.createbigcannons.CreateBigCannons/]: cbcmodernwarfare:solid_fuel_tank is missing penetration value, will be set to 1.0
+[08Feb2025 20:49:21.270] [main/WARN] [rbasamoyai.createbigcannons.CreateBigCannons/]: cbcmodernwarfare:solid_fuel_tank is missing toughness value, will be set to 1.0
+[08Feb2025 20:49:21.270] [main/WARN] [rbasamoyai.createbigcannons.CreateBigCannons/]: cbcmodernwarfare:solid_fuel_tank is missing deflection value, will be set to 1.0
+[08Feb2025 20:49:21.270] [main/WARN] [rbasamoyai.createbigcannons.CreateBigCannons/]: cbcmodernwarfare:solid_fuel_tank is missing entity_damage value, will be set to 1.0
+[08Feb2025 20:49:21.270] [main/WARN] [rbasamoyai.createbigcannons.CreateBigCannons/]: cbcmodernwarfare:solid_fuel_thruster is missing durability_mass value, will be set to 1.0
+[08Feb2025 20:49:21.271] [main/WARN] [rbasamoyai.createbigcannons.CreateBigCannons/]: cbcmodernwarfare:solid_fuel_thruster is missing penetration value, will be set to 1.0
+[08Feb2025 20:49:21.271] [main/WARN] [rbasamoyai.createbigcannons.CreateBigCannons/]: cbcmodernwarfare:solid_fuel_thruster is missing toughness value, will be set to 1.0
+[08Feb2025 20:49:21.271] [main/WARN] [rbasamoyai.createbigcannons.CreateBigCannons/]: cbcmodernwarfare:solid_fuel_thruster is missing deflection value, will be set to 1.0
+[08Feb2025 20:49:21.271] [main/WARN] [rbasamoyai.createbigcannons.CreateBigCannons/]: cbcmodernwarfare:solid_fuel_thruster is missing entity_damage value, will be set to 1.0
+[08Feb2025 20:49:21.271] [main/WARN] [rbasamoyai.createbigcannons.CreateBigCannons/]: cbcmodernwarfare:solid_fuel_split_thruster is missing durability_mass value, will be set to 1.0
+[08Feb2025 20:49:21.271] [main/WARN] [rbasamoyai.createbigcannons.CreateBigCannons/]: cbcmodernwarfare:solid_fuel_split_thruster is missing penetration value, will be set to 1.0
+[08Feb2025 20:49:21.272] [main/WARN] [rbasamoyai.createbigcannons.CreateBigCannons/]: cbcmodernwarfare:solid_fuel_split_thruster is missing toughness value, will be set to 1.0
+[08Feb2025 20:49:21.272] [main/WARN] [rbasamoyai.createbigcannons.CreateBigCannons/]: cbcmodernwarfare:solid_fuel_split_thruster is missing deflection value, will be set to 1.0
+[08Feb2025 20:49:21.272] [main/WARN] [rbasamoyai.createbigcannons.CreateBigCannons/]: cbcmodernwarfare:solid_fuel_split_thruster is missing entity_damage value, will be set to 1.0
+[08Feb2025 20:49:22.690] [main/WARN] [org.valkyrienskies.mod.common.config.MassDatapackResolver/]: No specified tag 'minecraft:carpets' doesn't exist!
+[08Feb2025 20:49:23.033] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[08Feb2025 20:49:23.034] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[08Feb2025 20:49:23.034] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[08Feb2025 20:49:23.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[08Feb2025 20:49:23.255] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[08Feb2025 20:49:23.307] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[08Feb2025 20:49:23.396] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[08Feb2025 20:49:23.397] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[08Feb2025 20:49:23.397] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[08Feb2025 20:49:23.398] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[08Feb2025 20:49:23.475] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[08Feb2025 20:49:24.134] [Server thread/INFO] [org.valkyrienskies.core.impl.networking.VSNetworking/]: We are not using UDP, falling back to TCP
+[08Feb2025 20:49:24.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[08Feb2025 20:49:29.035] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Feb2025 20:49:29.036] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Feb2025 20:49:29.037] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Feb2025 20:49:29.037] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Feb2025 20:49:29.038] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Feb2025 20:49:29.039] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Feb2025 20:49:29.039] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Feb2025 20:49:29.040] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Feb2025 20:49:29.041] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Feb2025 20:49:29.307] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Feb2025 20:49:29.805] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 37%
+[08Feb2025 20:49:29.943] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[08Feb2025 20:49:30.305] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[08Feb2025 20:49:30.503] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5698 ms
+[08Feb2025 20:49:30.504] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (7.089s)! For help, type "help"
+[08Feb2025 20:49:30.551] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[08Feb2025 20:49:30.945] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[08Feb2025 20:49:31.946] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[08Feb2025 20:49:32.947] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[08Feb2025 20:49:42.520] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LIGS_458[/127.209.77.91:44783] logged in with entity id 12 at (-3801.5, -60.0, 175.5)
+[08Feb2025 20:49:42.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 joined the game
+[08Feb2025 20:49:45.039] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2519ms or 50 ticks behind
+[08Feb2025 20:49:58.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
+[08Feb2025 20:50:30.149] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ly4Nx_[/127.221.157.209:56521] logged in with entity id 16 at (-3791.5, -60.0, 179.5)
+[08Feb2025 20:50:30.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ joined the game
+[08Feb2025 20:52:45.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -1287.500000, -59.500000, 76.500000]
+[08Feb2025 20:53:37.589] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bascap[/127.143.177.98:40861] logged in with entity id 134 at (-3801.5, -60.0, 175.5)
+[08Feb2025 20:53:37.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap joined the game
+[08Feb2025 20:53:58.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Ly4Nx_
+[08Feb2025 20:54:16.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Teleported Bascap to Ly4Nx_]
+[08Feb2025 20:54:21.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap fell out of the world
+[08Feb2025 20:54:35.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Teleported Bascap to Ly4Nx_]
+[08Feb2025 20:54:43.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Ly4Nx_
+[08Feb2025 20:55:37.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Made Bascap a server operator]
+[08Feb2025 20:56:22.294] [WorldEdit Task Executor - 0/INFO] [com.sk89q.worldedit.command.SchematicCommands/]: LIGS_458 loaded /workspaces/pokemons/servidor_minecraft/config/worldedit/schematics/canonautomatico.schem
+[08Feb2025 20:56:56.635] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Warrior_Legend[/127.119.191.31:36557] logged in with entity id 272 at (-3802.4254227575225, -60.0, 170.41931812645743)
+[08Feb2025 20:56:56.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend joined the game
+[08Feb2025 20:57:11.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> ya que fue
+[08Feb2025 20:57:19.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
+[08Feb2025 20:57:26.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Ly4Nx_
+[08Feb2025 20:57:32.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
+[08Feb2025 20:57:37.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
+[08Feb2025 20:57:41.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
+[08Feb2025 20:57:46.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
+[08Feb2025 20:57:51.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
+[08Feb2025 20:57:53.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -3801.500000, -59.500000, 182.500000]
+[08Feb2025 20:57:59.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
+[08Feb2025 20:57:59.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Ly4Nx_
+[08Feb2025 20:58:04.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Ly4Nx_
+[08Feb2025 20:58:08.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Bascap
+[08Feb2025 20:58:11.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
+[08Feb2025 20:58:15.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> se
+[08Feb2025 20:58:19.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was killed
+[08Feb2025 20:58:19.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was killed
+[08Feb2025 20:58:19.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was killed
+[08Feb2025 20:58:19.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was killed
+[08Feb2025 20:58:19.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Killed 4 entities]
