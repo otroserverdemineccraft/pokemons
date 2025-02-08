@@ -544,3 +544,82 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Feb2025 21:25:31.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Unbanned Ly4Nx_]
 [08Feb2025 21:26:10.135] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ly4Nx_[/127.221.157.209:56975] logged in with entity id 2644 at (-1118.2112872461414, -30.0, 72.76074780123318)
 [08Feb2025 21:26:10.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ joined the game
+[08Feb2025 21:28:37.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Banned Bascap: Banned by an operator.]
+[08Feb2025 21:28:37.590] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bascap lost connection: You are banned from this server
+[08Feb2025 21:28:37.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap left the game
+[08Feb2025 21:28:41.780] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 158, but a ship with this ShipId does not exist!
+[08Feb2025 21:28:41.781] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 158, but a ship with this ShipId does not exist!
+[08Feb2025 21:28:41.781] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 158, but a ship with this ShipId does not exist!
+[08Feb2025 21:28:41.879] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 159, but a ship with this ShipId does not exist!
+[08Feb2025 21:28:41.879] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 159, but a ship with this ShipId does not exist!
+[08Feb2025 21:28:41.879] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 159, but a ship with this ShipId does not exist!
+[08Feb2025 21:28:44.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Unbanned Bascap]
+[08Feb2025 21:28:47.835] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bascap[/127.143.177.98:58669] logged in with entity id 2655 at (-1094.7140154516806, -30.0, 72.48147640447505)
+[08Feb2025 21:28:47.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap joined the game
+[08Feb2025 21:29:06.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Banned Ly4Nx_: puedes ver este mensaje?]
+[08Feb2025 21:29:06.628] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ly4Nx_ lost connection: You are banned from this server
+[08Feb2025 21:29:06.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ left the game
+[08Feb2025 21:29:14.385] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@57825d00[id=35cdac71-9f75-39f1-ae12-3104d0e734a5,name=Ly4Nx_,properties={},legacy=false] (/127.221.157.209:52433): You are banned from this server.
+Reason: puedes ver este mensaje?
+[08Feb2025 21:29:14.386] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@57825d00[id=35cdac71-9f75-39f1-ae12-3104d0e734a5,name=Ly4Nx_,properties={},legacy=false] (/127.221.157.209:52433) lost connection: You are banned from this server.
+Reason: puedes ver este mensaje?
+[08Feb2025 21:29:14.434] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Feb2025 21:29:22.580] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@196eacf9[id=35cdac71-9f75-39f1-ae12-3104d0e734a5,name=Ly4Nx_,properties={},legacy=false] (/127.221.157.209:42953): You are banned from this server.
+Reason: puedes ver este mensaje?
+[08Feb2025 21:29:22.580] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@196eacf9[id=35cdac71-9f75-39f1-ae12-3104d0e734a5,name=Ly4Nx_,properties={},legacy=false] (/127.221.157.209:42953) lost connection: You are banned from this server.
+Reason: puedes ver este mensaje?
+[08Feb2025 21:29:22.627] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Feb2025 21:29:34.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Unbanned Ly4Nx_]
+[08Feb2025 21:29:38.835] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ly4Nx_[/127.221.157.209:55823] logged in with entity id 2657 at (-1082.949999988079, -30.0, 72.41740751983966)
+[08Feb2025 21:29:38.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ joined the game
+[08Feb2025 21:31:21.837] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fabrix_YT[/127.213.65.231:52025] logged in with entity id 2662 at (81.5, -48.0, -327.5)
+[08Feb2025 21:31:21.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fabrix_YT joined the game
+[08Feb2025 21:31:43.229] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 160, but a ship with this ShipId does not exist!
+[08Feb2025 21:31:43.229] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 160, but a ship with this ShipId does not exist!
+[08Feb2025 21:31:43.229] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 160, but a ship with this ShipId does not exist!
+[08Feb2025 21:31:43.229] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 160, but a ship with this ShipId does not exist!
+[08Feb2025 21:31:43.329] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 161, but a ship with this ShipId does not exist!
+[08Feb2025 21:31:43.329] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 161, but a ship with this ShipId does not exist!
+[08Feb2025 21:31:43.329] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 161, but a ship with this ShipId does not exist!
+[08Feb2025 21:31:43.380] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 162, but a ship with this ShipId does not exist!
+[08Feb2025 21:31:43.380] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 162, but a ship with this ShipId does not exist!
+[08Feb2025 21:31:43.380] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 162, but a ship with this ShipId does not exist!
+[08Feb2025 21:31:43.681] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 163, but a ship with this ShipId does not exist!
+[08Feb2025 21:31:43.681] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 163, but a ship with this ShipId does not exist!
+[08Feb2025 21:31:43.681] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 163, but a ship with this ShipId does not exist!
+[08Feb2025 21:31:43.731] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 164, but a ship with this ShipId does not exist!
+[08Feb2025 21:31:43.731] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 164, but a ship with this ShipId does not exist!
+[08Feb2025 21:31:43.731] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 164, but a ship with this ShipId does not exist!
+[08Feb2025 21:31:43.881] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 165, but a ship with this ShipId does not exist!
+[08Feb2025 21:31:43.882] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 165, but a ship with this ShipId does not exist!
+[08Feb2025 21:31:43.882] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 165, but a ship with this ShipId does not exist!
+[08Feb2025 21:31:59.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported Fabrix_YT to LIGS_458]
+[08Feb2025 21:32:02.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Made Fabrix_YT a server operator]
+[08Feb2025 21:32:09.088] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.847744099000001E7, -30.000000485052485, 71.20007923431695] -> [-1122.200000051409, 129.76249998807907, 1.229004899000001E7] returning empty list! this might break things
+[08Feb2025 21:32:14.131] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8477450596731916E7, -48.060293272118145, 71.18611331759834] -> [-1131.7921916578523, 111.98969705788348, 1.2290048989757577E7] returning empty list! this might break things
+[08Feb2025 21:32:19.177] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.847745198746155E7, -126.7618390167618, 71.19976665638387] -> [-1133.197568781674, 33.28814976785459, 1.2290048989751639E7] returning empty list! this might break things
+[08Feb2025 21:32:19.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported Bascap to Ly4Nx_]
+[08Feb2025 21:32:26.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fabrix_YT fell out of the world
+[08Feb2025 21:32:31.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set spawn point to -1105, -60, 25 [0.0] in minecraft:overworld for Fabrix_YT]
+[08Feb2025 21:33:12.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was killed
+[08Feb2025 21:33:12.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Killed Ly4Nx_]
+[08Feb2025 21:33:16.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set Fabrix_YT's game mode to Creative Mode]
+[08Feb2025 21:33:36.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Teleported Ly4Nx_ to LIGS_458]
+[08Feb2025 21:34:15.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> ya po
+[08Feb2025 21:34:25.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> y a el no le dices nada
+[08Feb2025 21:34:30.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> >:v
+[08Feb2025 21:34:36.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fabrix_YT fell out of the world
+[08Feb2025 21:35:00.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Banned Bascap: Banned by an operator.]
+[08Feb2025 21:35:00.278] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bascap lost connection: You are banned from this server
+[08Feb2025 21:35:00.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap left the game
+[08Feb2025 21:35:07.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Unbanned Bascap]
+[08Feb2025 21:35:12.937] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bascap[/127.143.177.98:42513] logged in with entity id 2791 at (-1080.690893159655, -30.0, 72.55109383423458)
+[08Feb2025 21:35:12.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap joined the game
+[08Feb2025 21:35:14.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabrix_YT> (summon enderdragon
+[08Feb2025 21:35:25.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set own game mode to Spectator Mode]
+[08Feb2025 21:35:42.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set own game mode to Creative Mode]
+[08Feb2025 21:36:01.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set own game mode to Spectator Mode]
+[08Feb2025 21:36:05.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> oe ya pe
+[08Feb2025 21:36:27.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> hago un montage
+[08Feb2025 21:37:18.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Applied effect Night Vision to 5 targets]
+[08Feb2025 21:38:31.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fabrix_YT has completed the challenge [Cover Me in Debris]
