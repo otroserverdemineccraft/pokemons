@@ -555,5 +555,23 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/inverted_gearshift_from_conversion": {
+    "criteria": {
+      "has_item": "2025-02-08 21:02:39 +0000"
+    },
+    "done": true
+  },
+  "create:linked_controller": {
+    "criteria": {
+      "0": "2025-02-08 21:00:19 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/yaw_controller": {
+    "criteria": {
+      "has_cannon_mount": "2025-02-08 21:02:45 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

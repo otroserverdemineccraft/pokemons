@@ -280,3 +280,75 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Feb2025 20:58:19.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was killed
 [08Feb2025 20:58:19.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was killed
 [08Feb2025 20:58:19.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Killed 4 entities]
+[08Feb2025 20:58:23.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
+[08Feb2025 20:58:27.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -1298.500000, -59.500000, 46.500000]
+[08Feb2025 20:58:34.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Creative Mode]
+[08Feb2025 20:58:36.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by Ly4Nx_
+[08Feb2025 20:58:37.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -3769.500000, -59.500000, 115.500000]
+[08Feb2025 20:58:41.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> NOOOOOO
+[08Feb2025 20:58:44.077] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LIGS_458 lost connection: Kicked by an operator
+[08Feb2025 20:58:44.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 left the game
+[08Feb2025 20:58:44.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Kicked LIGS_458: Kicked by an operator]
+[08Feb2025 20:58:44.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Kicked Ly4Nx_: Kicked by an operator]
+[08Feb2025 20:58:44.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Kicked Bascap: Kicked by an operator]
+[08Feb2025 20:58:44.088] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warrior_Legend lost connection: Kicked by an operator
+[08Feb2025 20:58:44.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend left the game
+[08Feb2025 20:58:44.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Kicked Warrior_Legend: Kicked by an operator]
+[08Feb2025 20:58:44.124] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Feb2025 20:58:44.124] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ly4Nx_ lost connection: Kicked by an operator
+[08Feb2025 20:58:44.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ left the game
+[08Feb2025 20:58:44.129] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bascap lost connection: Kicked by an operator
+[08Feb2025 20:58:44.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap left the game
+[08Feb2025 20:58:44.133] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Feb2025 20:58:52.021] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@374654f1[id=<null>,name=Warrior_Legend,properties={},legacy=false] (/127.119.191.31:56813) lost connection: Disconnected
+[08Feb2025 20:58:54.832] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bascap[/127.143.177.98:52813] logged in with entity id 558 at (-3786.581957714806, -54.881843129341895, 185.39132893687628)
+[08Feb2025 20:58:54.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap joined the game
+[08Feb2025 20:58:55.293] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ly4Nx_[/127.221.157.209:50577] logged in with entity id 559 at (-3799.489279792616, -60.0, 190.78050542974668)
+[08Feb2025 20:58:55.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ joined the game
+[08Feb2025 20:58:56.086] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LIGS_458[/127.209.77.91:37463] logged in with entity id 560 at (-3800.4435649379243, -51.53620356965243, 174.32561154265392)
+[08Feb2025 20:58:56.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 joined the game
+[08Feb2025 20:59:04.030] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Warrior_Legend[/127.119.191.31:37895] logged in with entity id 561 at (-3801.5, -60.0, 175.5)
+[08Feb2025 20:59:04.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend joined the game
+[08Feb2025 20:59:05.766] [WorldEdit Task Executor - 1/INFO] [com.sk89q.worldedit.command.SchematicCommands/]: Bascap loaded /workspaces/pokemons/servidor_minecraft/config/worldedit/schematics/canonautomatico.schem
+[08Feb2025 20:59:08.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Kicked Warrior_Legend: Kicked by an operator]
+[08Feb2025 20:59:08.372] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warrior_Legend lost connection: Kicked by an operator
+[08Feb2025 20:59:08.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend left the game
+[08Feb2025 20:59:15.330] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Warrior_Legend[/127.119.191.31:58437] logged in with entity id 564 at (-3801.5, -60.0, 175.5)
+[08Feb2025 20:59:15.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend joined the game
+[08Feb2025 20:59:29.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set Bascap's game mode to Survival Mode]
+[08Feb2025 20:59:29.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set Ly4Nx_'s game mode to Survival Mode]
+[08Feb2025 20:59:29.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set LIGS_458's game mode to Survival Mode]
+[08Feb2025 20:59:29.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to Bascap]
+[08Feb2025 20:59:30.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[08Feb2025 20:59:33.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
+[08Feb2025 20:59:37.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[08Feb2025 20:59:37.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set own game mode to Creative Mode]
+[08Feb2025 20:59:43.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was blown up by Ly4Nx_
+[08Feb2025 20:59:53.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Creative Mode]
+[08Feb2025 20:59:54.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was killed
+[08Feb2025 20:59:54.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Killed Ly4Nx_]
+[08Feb2025 20:59:59.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Creative Mode]
+[08Feb2025 21:00:00.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> WAAA
+[08Feb2025 21:00:09.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Teleported Warrior_Legend to LIGS_458]
+[08Feb2025 21:00:16.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was killed
+[08Feb2025 21:00:16.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Killed Warrior_Legend]
+[08Feb2025 21:00:36.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Teleported 4 entities to Bascap]
+[08Feb2025 21:02:02.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ has made the advancement [Suit Up]
+[08Feb2025 21:02:08.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> a
+[08Feb2025 21:02:10.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> vava
+[08Feb2025 21:02:37.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Survival Mode]
+[08Feb2025 21:05:58.060] [WorldEdit Task Executor - 2/INFO] [com.sk89q.worldedit.command.SchematicCommands/]: LIGS_458 loaded /workspaces/pokemons/servidor_minecraft/config/worldedit/schematics/canonautomatico.schem
+[08Feb2025 21:06:56.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Creative Mode]
+[08Feb2025 21:07:20.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> lol
+[08Feb2025 21:07:28.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Survival Mode]
+[08Feb2025 21:08:01.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set Bascap's game mode to Survival Mode]
+[08Feb2025 21:08:01.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set LIGS_458's game mode to Survival Mode]
+[08Feb2025 21:08:01.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set Ly4Nx_'s game mode to Survival Mode]
+[08Feb2025 21:08:02.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was hit with artillery fire
+[08Feb2025 21:08:05.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> NOO
+[08Feb2025 21:08:06.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
+[08Feb2025 21:08:11.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set own game mode to Creative Mode]
+[08Feb2025 21:08:12.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
+[08Feb2025 21:08:14.828] [WorldEdit Task Executor - 3/INFO] [com.sk89q.worldedit.command.SchematicCommands/]: LIGS_458 loaded /workspaces/pokemons/servidor_minecraft/config/worldedit/schematics/canonautomatico.schem
+[08Feb2025 21:08:17.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported Bascap to LIGS_458]
+[08Feb2025 21:08:21.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Creative Mode]
