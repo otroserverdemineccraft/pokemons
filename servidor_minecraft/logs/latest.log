@@ -1521,3 +1521,14 @@ Reason: puedes ver este mensaje?
 [08Feb2025 22:47:57.727] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Warrior_Legend[/127.119.191.31:48575] logged in with entity id 13064 at (-1113.028762529121, -38.0, 123.1482307009331)
 [08Feb2025 22:47:57.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend joined the game
 [08Feb2025 22:48:34.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Teleported Warrior_Legend to Bascap]
+[08Feb2025 22:55:41.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -1112.500000, -37.500000, 23.500000]
+[08Feb2025 22:56:29.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
+[08Feb2025 22:56:33.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Teleported Warrior_Legend to LIGS_458]
+[08Feb2025 22:57:59.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -2656.500000, -59.500000, -1505.500000]
+[08Feb2025 22:58:16.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Teleported Warrior_Legend to LIGS_458]
+[08Feb2025 22:58:50.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Teleported Fabrix_YT to LIGS_458]
+[08Feb2025 22:58:53.128] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ly4Nx_[/127.221.157.209:59659] logged in with entity id 13135 at (-1067.0774965262306, -27.07294067856721, 84.27443626693254)
+[08Feb2025 22:58:53.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ joined the game
+[08Feb2025 22:59:01.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set own game mode to Creative Mode]
+[08Feb2025 22:59:13.775] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fabrix_YT lost connection: Disconnected
+[08Feb2025 22:59:13.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fabrix_YT left the game

@@ -332,6 +332,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-02-08 22:49:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
       "has_carved_pumpkin": "2025-02-08 22:25:54 +0000"
@@ -385,6 +391,12 @@
       "has_logs": "2025-02-08 22:27:47 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "golden_carrot": "2025-02-08 22:49:36 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
