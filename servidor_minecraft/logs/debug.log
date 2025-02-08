@@ -13410,3 +13410,1132 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Feb2025 21:18:08.435] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [08Feb2025 21:18:08.435] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Dispatching wrapped packet reply for channel fml:handshake with index 1
 [08Feb2025 21:18:08.478] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@17d2cf12[id=<null>,name=fabrix_YT,properties={},legacy=false] (/127.213.65.231:53739) lost connection: Connection closed - mismatched mod channel list
+[08Feb2025 21:18:49.553] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zj75lvuqh5cd]: started parsing
+[08Feb2025 21:18:49.553] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zj75lvuqh5cd]: Finished looking at arguments. Finalizing command.
+[08Feb2025 21:18:59.095] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01arxaboiv1r8]: started parsing
+[08Feb2025 21:18:59.095] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01arxaboiv1r8]: Finished looking at arguments. Finalizing command.
+[08Feb2025 21:19:07.294] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wjzi95u37bnn]: started parsing
+[08Feb2025 21:19:07.295] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wjzi95u37bnn]: Consuming argument ``
+[08Feb2025 21:19:08.607] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0e95aex576dba]: started parsing
+[08Feb2025 21:19:08.608] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0e95aex576dba]: Consuming argument `load`
+[08Feb2025 21:19:08.608] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0e95aex576dba]: Consuming argument ``
+[08Feb2025 21:19:08.608] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0e95aex576dba]: Finished looking at arguments. Finalizing command.
+[08Feb2025 21:19:08.967] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [120fvbbwjve4o]: started parsing
+[08Feb2025 21:19:08.967] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [120fvbbwjve4o]: Consuming argument `load`
+[08Feb2025 21:19:08.967] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [120fvbbwjve4o]: Consuming argument `c`
+[08Feb2025 21:19:08.967] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [120fvbbwjve4o]: Finished looking at arguments. Finalizing command.
+[08Feb2025 21:19:09.185] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19tidwu6g1suh]: started parsing
+[08Feb2025 21:19:09.185] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19tidwu6g1suh]: Consuming argument `load`
+[08Feb2025 21:19:09.185] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19tidwu6g1suh]: Consuming argument `ca`
+[08Feb2025 21:19:09.185] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19tidwu6g1suh]: Finished looking at arguments. Finalizing command.
+[08Feb2025 21:19:09.496] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1015rcvp73atg]: started parsing
+[08Feb2025 21:19:09.496] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1015rcvp73atg]: Consuming argument `load`
+[08Feb2025 21:19:09.496] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1015rcvp73atg]: Consuming argument `can`
+[08Feb2025 21:19:09.496] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1015rcvp73atg]: Finished looking at arguments. Finalizing command.
+[08Feb2025 21:19:09.695] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1i0jh0sk4ehot]: started parsing
+[08Feb2025 21:19:09.696] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1i0jh0sk4ehot]: Consuming argument `load`
+[08Feb2025 21:19:09.696] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1i0jh0sk4ehot]: Consuming argument `cano`
+[08Feb2025 21:19:09.696] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1i0jh0sk4ehot]: Finished looking at arguments. Finalizing command.
+[08Feb2025 21:19:09.880] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03mkuotrhj4kc]: started parsing
+[08Feb2025 21:19:09.880] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03mkuotrhj4kc]: Consuming argument `load`
+[08Feb2025 21:19:09.880] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03mkuotrhj4kc]: Consuming argument `canon`
+[08Feb2025 21:19:09.880] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03mkuotrhj4kc]: Finished looking at arguments. Finalizing command.
+[08Feb2025 21:19:09.937] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kzhepxpxij1k]: started parsing
+[08Feb2025 21:19:09.937] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kzhepxpxij1k]: Consuming argument `load`
+[08Feb2025 21:19:09.937] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kzhepxpxij1k]: Consuming argument `canona`
+[08Feb2025 21:19:09.937] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kzhepxpxij1k]: Finished looking at arguments. Finalizing command.
+[08Feb2025 21:19:10.230] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q677006qzlin]: started parsing
+[08Feb2025 21:19:10.230] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q677006qzlin]: Consuming argument `load`
+[08Feb2025 21:19:10.230] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q677006qzlin]: Consuming argument `canonat`
+[08Feb2025 21:19:10.230] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q677006qzlin]: Finished looking at arguments. Finalizing command.
+[08Feb2025 21:19:10.352] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vtb927nfdewf]: started parsing
+[08Feb2025 21:19:10.352] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vtb927nfdewf]: Consuming argument `load`
+[08Feb2025 21:19:10.352] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vtb927nfdewf]: Consuming argument `canonatu`
+[08Feb2025 21:19:10.352] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vtb927nfdewf]: Finished looking at arguments. Finalizing command.
+[08Feb2025 21:19:10.689] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [090okv7fw6kec]: started parsing
+[08Feb2025 21:19:10.689] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [090okv7fw6kec]: Consuming argument `load`
+[08Feb2025 21:19:10.689] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [090okv7fw6kec]: Consuming argument `canonatum`
+[08Feb2025 21:19:10.689] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [090okv7fw6kec]: Finished looking at arguments. Finalizing command.
+[08Feb2025 21:19:10.926] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0foy1ekrpiwqw]: started parsing
+[08Feb2025 21:19:10.926] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0foy1ekrpiwqw]: Consuming argument `load`
+[08Feb2025 21:19:10.927] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0foy1ekrpiwqw]: Consuming argument `canonatu`
+[08Feb2025 21:19:10.927] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0foy1ekrpiwqw]: Finished looking at arguments. Finalizing command.
+[08Feb2025 21:19:11.087] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qkup4qxdko8t]: started parsing
+[08Feb2025 21:19:11.087] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qkup4qxdko8t]: Consuming argument `load`
+[08Feb2025 21:19:11.087] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qkup4qxdko8t]: Consuming argument `canonat`
+[08Feb2025 21:19:11.087] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qkup4qxdko8t]: Finished looking at arguments. Finalizing command.
+[08Feb2025 21:19:11.848] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jg0r5aozbkd3]: started parsing
+[08Feb2025 21:19:11.848] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jg0r5aozbkd3]: Consuming argument `load`
+[08Feb2025 21:19:11.848] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jg0r5aozbkd3]: Consuming argument `canona`
+[08Feb2025 21:19:11.849] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jg0r5aozbkd3]: Finished looking at arguments. Finalizing command.
+[08Feb2025 21:19:12.080] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sjucd5wqx6oj]: started parsing
+[08Feb2025 21:19:12.080] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sjucd5wqx6oj]: Consuming argument `load`
+[08Feb2025 21:19:12.080] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sjucd5wqx6oj]: Consuming argument `canonau`
+[08Feb2025 21:19:12.081] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sjucd5wqx6oj]: Finished looking at arguments. Finalizing command.
+[08Feb2025 21:19:12.208] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1d14gegygtj1k]: started parsing
+[08Feb2025 21:19:12.208] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1d14gegygtj1k]: Consuming argument `load`
+[08Feb2025 21:19:12.209] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1d14gegygtj1k]: Consuming argument `canonaut`
+[08Feb2025 21:19:12.209] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1d14gegygtj1k]: Finished looking at arguments. Finalizing command.
+[08Feb2025 21:19:12.295] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tva0m722ogyd]: started parsing
+[08Feb2025 21:19:12.295] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tva0m722ogyd]: Consuming argument `load`
+[08Feb2025 21:19:12.295] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tva0m722ogyd]: Consuming argument `canonauto`
+[08Feb2025 21:19:12.295] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tva0m722ogyd]: Finished looking at arguments. Finalizing command.
+[08Feb2025 21:19:12.496] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mah7mh6l3n0t]: started parsing
+[08Feb2025 21:19:12.496] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mah7mh6l3n0t]: Consuming argument `load`
+[08Feb2025 21:19:12.496] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mah7mh6l3n0t]: Consuming argument `canonautom`
+[08Feb2025 21:19:12.496] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mah7mh6l3n0t]: Finished looking at arguments. Finalizing command.
+[08Feb2025 21:19:12.568] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vx5qk62d5cbd]: started parsing
+[08Feb2025 21:19:12.568] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vx5qk62d5cbd]: Consuming argument `load`
+[08Feb2025 21:19:12.568] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vx5qk62d5cbd]: Consuming argument `canonautoma`
+[08Feb2025 21:19:12.568] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vx5qk62d5cbd]: Finished looking at arguments. Finalizing command.
+[08Feb2025 21:19:12.777] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pbt7ilxvlbrx]: started parsing
+[08Feb2025 21:19:12.777] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pbt7ilxvlbrx]: Consuming argument `load`
+[08Feb2025 21:19:12.777] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pbt7ilxvlbrx]: Consuming argument `canonautomat`
+[08Feb2025 21:19:12.777] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pbt7ilxvlbrx]: Finished looking at arguments. Finalizing command.
+[08Feb2025 21:19:12.856] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12qtraxwhghwh]: started parsing
+[08Feb2025 21:19:12.856] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12qtraxwhghwh]: Consuming argument `load`
+[08Feb2025 21:19:12.856] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12qtraxwhghwh]: Consuming argument `canonautomati`
+[08Feb2025 21:19:12.856] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12qtraxwhghwh]: Finished looking at arguments. Finalizing command.
+[08Feb2025 21:19:12.993] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uk8vei434zto]: started parsing
+[08Feb2025 21:19:12.993] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uk8vei434zto]: Consuming argument `load`
+[08Feb2025 21:19:12.993] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uk8vei434zto]: Consuming argument `canonautomatic`
+[08Feb2025 21:19:12.993] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uk8vei434zto]: Finished looking at arguments. Finalizing command.
+[08Feb2025 21:19:13.065] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wxr1wj5v9ufv]: started parsing
+[08Feb2025 21:19:13.065] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wxr1wj5v9ufv]: Consuming argument `load`
+[08Feb2025 21:19:13.065] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wxr1wj5v9ufv]: Consuming argument `canonautomatico`
+[08Feb2025 21:19:13.065] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wxr1wj5v9ufv]: Finished looking at arguments. Finalizing command.
+[08Feb2025 21:19:13.368] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bxb119ja0j1j]: started parsing
+[08Feb2025 21:19:13.368] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bxb119ja0j1j]: Consuming argument `load`
+[08Feb2025 21:19:13.368] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bxb119ja0j1j]: Consuming argument `canonautomatico`
+[08Feb2025 21:19:13.368] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bxb119ja0j1j]: Finished looking at arguments. Finalizing command.
+[08Feb2025 21:19:13.372] [WorldEdit Task Executor - 4/INFO] [com.sk89q.worldedit.command.SchematicCommands/]: Bascap loaded /workspaces/pokemons/servidor_minecraft/config/worldedit/schematics/canonautomatico.schem
+[08Feb2025 21:19:16.503] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10y1ie0ff70x6]: started parsing
+[08Feb2025 21:19:16.503] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10y1ie0ff70x6]: Finished looking at arguments. Finalizing command.
+[08Feb2025 21:19:35.697] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[08Feb2025 21:19:35.697] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[08Feb2025 21:19:35.697] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[08Feb2025 21:19:35.697] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[08Feb2025 21:19:35.697] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[08Feb2025 21:19:35.697] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[08Feb2025 21:19:35.697] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[08Feb2025 21:19:35.697] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[08Feb2025 21:19:35.697] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[08Feb2025 21:19:35.697] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[08Feb2025 21:19:35.697] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[08Feb2025 21:19:35.697] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[08Feb2025 21:19:35.697] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[08Feb2025 21:19:35.697] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[08Feb2025 21:19:35.697] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[08Feb2025 21:19:35.697] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[08Feb2025 21:19:35.697] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[08Feb2025 21:19:35.697] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[08Feb2025 21:19:35.697] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[08Feb2025 21:19:35.697] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[08Feb2025 21:19:35.697] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[08Feb2025 21:19:35.697] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[08Feb2025 21:19:35.697] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[08Feb2025 21:19:35.697] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[08Feb2025 21:19:35.697] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[08Feb2025 21:19:35.697] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[08Feb2025 21:19:35.697] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[08Feb2025 21:19:35.697] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: createbigcannons:cannon_cast_shapes
+[08Feb2025 21:19:35.697] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[08Feb2025 21:19:35.697] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[08Feb2025 21:19:35.698] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[08Feb2025 21:19:35.698] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[08Feb2025 21:19:35.698] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[08Feb2025 21:19:35.698] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[08Feb2025 21:19:35.698] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[08Feb2025 21:19:35.698] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[08Feb2025 21:19:35.698] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[08Feb2025 21:19:35.698] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[08Feb2025 21:19:35.698] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[08Feb2025 21:19:35.698] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[08Feb2025 21:19:35.698] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[08Feb2025 21:19:35.698] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[08Feb2025 21:19:35.698] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[08Feb2025 21:19:35.698] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: createbigcannons:block_recipe_serializers
+[08Feb2025 21:19:35.698] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[08Feb2025 21:19:35.698] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[08Feb2025 21:19:35.698] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[08Feb2025 21:19:35.698] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[08Feb2025 21:19:35.698] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[08Feb2025 21:19:35.698] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[08Feb2025 21:19:35.698] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[08Feb2025 21:19:35.698] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[08Feb2025 21:19:35.698] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[08Feb2025 21:19:35.698] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[08Feb2025 21:19:35.698] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: createbigcannons:block_recipe_types
+[08Feb2025 21:19:35.698] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[08Feb2025 21:19:35.698] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[08Feb2025 21:19:35.698] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[08Feb2025 21:19:35.698] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[08Feb2025 21:19:35.698] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[08Feb2025 21:19:35.698] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[08Feb2025 21:19:35.698] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[08Feb2025 21:19:35.698] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[08Feb2025 21:19:35.698] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[08Feb2025 21:19:35.698] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[08Feb2025 21:19:35.698] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[08Feb2025 21:19:35.698] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[08Feb2025 21:19:35.698] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[08Feb2025 21:19:35.698] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[08Feb2025 21:19:35.698] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[08Feb2025 21:19:35.698] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[08Feb2025 21:19:35.698] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[08Feb2025 21:19:35.698] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[08Feb2025 21:19:35.698] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[08Feb2025 21:19:35.699] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[08Feb2025 21:19:35.706] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[08Feb2025 21:19:58.163] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lvi7grzz81hn]: started parsing
+[08Feb2025 21:19:58.163] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lvi7grzz81hn]: Finished looking at arguments. Finalizing command.
+[08Feb2025 21:20:20.266] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1crbqx1byyunt]: started parsing
+[08Feb2025 21:20:20.266] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1crbqx1byyunt]: Finished looking at arguments. Finalizing command.
+[08Feb2025 21:20:28.125] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 33 messages to dispatch.
+[08Feb2025 21:20:28.127] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[08Feb2025 21:20:28.179] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[08Feb2025 21:20:28.226] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[08Feb2025 21:20:28.276] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[08Feb2025 21:20:28.326] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[08Feb2025 21:20:28.334] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.213.65.231:40731/]: Handling inbound login query with id 1
+[08Feb2025 21:20:28.334] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[08Feb2025 21:20:28.334] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[08Feb2025 21:20:28.334] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [minecraft, forge, tlskincape]
+[08Feb2025 21:20:28.335] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:cui' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[08Feb2025 21:20:28.335] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[08Feb2025 21:20:28.335] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[08Feb2025 21:20:28.335] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[08Feb2025 21:20:28.335] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create_radar:messages' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[08Feb2025 21:20:28.335] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create_connected:config_common' : Version test of 'ABSENT 🤔' from client : REJECTED
+[08Feb2025 21:20:28.335] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[08Feb2025 21:20:28.335] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[08Feb2025 21:20:28.335] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[08Feb2025 21:20:28.335] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ic_air:main' : Version test of 'ABSENT 🤔' from client : REJECTED
+[08Feb2025 21:20:28.335] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'createbigcannons:network' : Version test of 'ABSENT 🤔' from client : REJECTED
+[08Feb2025 21:20:28.335] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'vs_clockwork:main' : Version test of 'ABSENT 🤔' from client : REJECTED
+[08Feb2025 21:20:28.335] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create_tweaked_controllers:main' : Version test of 'ABSENT 🤔' from client : REJECTED
+[08Feb2025 21:20:28.335] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[08Feb2025 21:20:28.335] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'valkyrienskies:vs_packet' : Version test of 'ABSENT 🤔' from client : REJECTED
+[08Feb2025 21:20:28.335] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tacz:handshake' : Version test of 'ABSENT 🤔' from client : REJECTED
+[08Feb2025 21:20:28.335] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ritchiesprojectilelib:network' : Version test of 'ABSENT 🤔' from client : REJECTED
+[08Feb2025 21:20:28.335] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:internal' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[08Feb2025 21:20:28.335] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create_connected:main' : Version test of 'ABSENT 🤔' from client : REJECTED
+[08Feb2025 21:20:28.335] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaeroworldmap:main' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[08Feb2025 21:20:28.335] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[08Feb2025 21:20:28.335] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[08Feb2025 21:20:28.335] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tacz:network' : Version test of 'ABSENT 🤔' from client : REJECTED
+[08Feb2025 21:20:28.335] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create:main' : Version test of 'ABSENT 🤔' from client : REJECTED
+[08Feb2025 21:20:28.335] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [vs_clockwork:main,create_tweaked_controllers:main,valkyrienskies:vs_packet,tacz:handshake,ritchiesprojectilelib:network,create_connected:config_common,create_connected:main,tacz:network,create:main,ic_air:main,createbigcannons:network] rejected their client side version number
+[08Feb2025 21:20:28.336] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[08Feb2025 21:20:28.336] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Dispatching wrapped packet reply for channel fml:handshake with index 1
+[08Feb2025 21:20:28.382] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@681e6826[id=<null>,name=fabrix_YT,properties={},legacy=false] (/127.213.65.231:40731) lost connection: Connection closed - mismatched mod channel list
+[08Feb2025 21:22:08.068] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1781633 : 768127
+[08Feb2025 21:22:08.069] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1781632 : 768127
+[08Feb2025 21:22:08.070] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1781632 : 768128
+[08Feb2025 21:22:08.070] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1781632 : 768126
+[08Feb2025 21:22:08.070] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1781631 : 768127
+[08Feb2025 21:22:08.072] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 1acdf136-678f-4764-935a-67e9313616c5 watched ships: [113]
+[08Feb2025 21:22:08.105] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 watched ships: [113]
+[08Feb2025 21:22:08.106] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a watched ships: [113]
+[08Feb2025 21:22:08.106] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 watched ships: [113]
+[08Feb2025 21:22:08.175] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1781632 : 768128
+[08Feb2025 21:22:08.175] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1781631 : 768127
+[08Feb2025 21:22:08.175] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1781632 : 768127
+[08Feb2025 21:22:08.175] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1781633 : 768127
+[08Feb2025 21:22:08.175] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1781632 : 768126
+[08Feb2025 21:22:08.184] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 1acdf136-678f-4764-935a-67e9313616c5 unwatched ships [113]
+[08Feb2025 21:22:10.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend fell out of the world
+[08Feb2025 21:22:12.343] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1739049732342
+[08Feb2025 21:22:12.944] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1781633 : 768127
+[08Feb2025 21:22:12.945] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 unwatched ships [113]
+[08Feb2025 21:22:12.945] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a unwatched ships [113]
+[08Feb2025 21:22:12.945] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a unwatched ships [113]
+[08Feb2025 21:22:12.945] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 unwatched ships [113]
+[08Feb2025 21:22:15.311] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1781377 : 768127
+[08Feb2025 21:22:15.311] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1781376 : 768127
+[08Feb2025 21:22:15.311] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1781376 : 768128
+[08Feb2025 21:22:15.311] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1781376 : 768126
+[08Feb2025 21:22:15.311] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1781375 : 768127
+[08Feb2025 21:22:15.311] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 watched ships: [114]
+[08Feb2025 21:22:15.312] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a watched ships: [114]
+[08Feb2025 21:22:15.312] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 watched ships: [114]
+[08Feb2025 21:22:16.190] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1781121 : 768127
+[08Feb2025 21:22:16.190] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1781120 : 768127
+[08Feb2025 21:22:16.190] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1781120 : 768128
+[08Feb2025 21:22:16.190] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1781120 : 768126
+[08Feb2025 21:22:16.191] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1781119 : 768127
+[08Feb2025 21:22:16.191] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 watched ships: [115]
+[08Feb2025 21:22:16.192] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a watched ships: [115]
+[08Feb2025 21:22:16.192] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 watched ships: [115]
+[08Feb2025 21:22:16.975] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1780865 : 768127
+[08Feb2025 21:22:16.975] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1780864 : 768127
+[08Feb2025 21:22:16.975] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1780864 : 768128
+[08Feb2025 21:22:16.975] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1780864 : 768126
+[08Feb2025 21:22:16.975] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1780863 : 768127
+[08Feb2025 21:22:16.976] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 watched ships: [116]
+[08Feb2025 21:22:16.976] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a watched ships: [116]
+[08Feb2025 21:22:16.976] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 watched ships: [116]
+[08Feb2025 21:22:28.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Teleported Warrior_Legend to -3811.065838, -43.967399, 119.702340]
+[08Feb2025 21:22:32.753] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1780609 : 768127
+[08Feb2025 21:22:32.753] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1780608 : 768128
+[08Feb2025 21:22:32.753] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1780608 : 768127
+[08Feb2025 21:22:32.753] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1780608 : 768126
+[08Feb2025 21:22:32.753] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1780607 : 768127
+[08Feb2025 21:22:32.754] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 watched ships: [117]
+[08Feb2025 21:22:32.754] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a watched ships: [117]
+[08Feb2025 21:22:32.754] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 watched ships: [117]
+[08Feb2025 21:22:35.981] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1780608 : 768127
+[08Feb2025 21:22:35.982] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 unwatched ships [117]
+[08Feb2025 21:22:35.982] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a unwatched ships [117]
+[08Feb2025 21:22:35.982] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a unwatched ships [117]
+[08Feb2025 21:22:35.982] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 unwatched ships [117]
+[08Feb2025 21:22:41.478] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1780863 : 768127
+[08Feb2025 21:22:41.479] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 unwatched ships [116]
+[08Feb2025 21:22:41.479] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a unwatched ships [116]
+[08Feb2025 21:22:41.479] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a unwatched ships [116]
+[08Feb2025 21:22:41.479] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 unwatched ships [116]
+[08Feb2025 21:22:41.927] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1781119 : 768127
+[08Feb2025 21:22:41.928] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 unwatched ships [115]
+[08Feb2025 21:22:41.928] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a unwatched ships [115]
+[08Feb2025 21:22:41.928] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a unwatched ships [115]
+[08Feb2025 21:22:41.928] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 unwatched ships [115]
+[08Feb2025 21:22:42.328] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1781376 : 768126
+[08Feb2025 21:22:42.329] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 unwatched ships [114]
+[08Feb2025 21:22:42.329] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a unwatched ships [114]
+[08Feb2025 21:22:42.329] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a unwatched ships [114]
+[08Feb2025 21:22:42.329] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 unwatched ships [114]
+[08Feb2025 21:22:49.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Teleported 4 entities to LIGS_458]
+[08Feb2025 21:22:49.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> que exagerado
+[08Feb2025 21:22:53.356] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1780352 : 768127
+[08Feb2025 21:22:53.357] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1780353 : 768127
+[08Feb2025 21:22:53.357] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1780352 : 768128
+[08Feb2025 21:22:53.357] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1780351 : 768127
+[08Feb2025 21:22:53.357] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1780352 : 768126
+[08Feb2025 21:22:53.357] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 watched ships: [118]
+[08Feb2025 21:22:53.357] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a watched ships: [118]
+[08Feb2025 21:22:53.357] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a watched ships: [118]
+[08Feb2025 21:22:53.357] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 watched ships: [118]
+[08Feb2025 21:22:55.825] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1780352 : 768127
+[08Feb2025 21:22:55.826] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 unwatched ships [118]
+[08Feb2025 21:22:55.826] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a unwatched ships [118]
+[08Feb2025 21:22:55.826] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a unwatched ships [118]
+[08Feb2025 21:22:55.826] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 unwatched ships [118]
+[08Feb2025 21:23:01.502] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1780095 : 768127
+[08Feb2025 21:23:01.503] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1780096 : 768127
+[08Feb2025 21:23:01.503] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1780096 : 768128
+[08Feb2025 21:23:01.503] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1780097 : 768127
+[08Feb2025 21:23:01.503] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1780096 : 768126
+[08Feb2025 21:23:01.503] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 watched ships: [119]
+[08Feb2025 21:23:01.503] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a watched ships: [119]
+[08Feb2025 21:23:01.503] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a watched ships: [119]
+[08Feb2025 21:23:01.503] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 watched ships: [119]
+[08Feb2025 21:23:08.530] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1780095 : 768127
+[08Feb2025 21:23:08.530] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 unwatched ships [119]
+[08Feb2025 21:23:08.531] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a unwatched ships [119]
+[08Feb2025 21:23:08.531] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a unwatched ships [119]
+[08Feb2025 21:23:08.531] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 unwatched ships [119]
+[08Feb2025 21:23:23.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> ponlo tu
+[08Feb2025 21:23:48.210] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1779841 : 768127
+[08Feb2025 21:23:48.210] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1779840 : 768128
+[08Feb2025 21:23:48.210] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1779840 : 768127
+[08Feb2025 21:23:48.210] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1779839 : 768127
+[08Feb2025 21:23:48.210] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1779840 : 768126
+[08Feb2025 21:23:48.211] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 watched ships: [120]
+[08Feb2025 21:23:48.211] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a watched ships: [120]
+[08Feb2025 21:23:48.211] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a watched ships: [120]
+[08Feb2025 21:23:48.211] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 watched ships: [120]
+[08Feb2025 21:23:51.103] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 33 messages to dispatch.
+[08Feb2025 21:23:51.129] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[08Feb2025 21:23:51.177] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[08Feb2025 21:23:51.226] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[08Feb2025 21:23:51.298] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[08Feb2025 21:23:51.334] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[08Feb2025 21:23:51.385] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[08Feb2025 21:23:51.427] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[08Feb2025 21:23:51.448] [Netty Epoll Server IO #3/DEBUG] [ServerLoginNetworkAddon for /127.213.65.231:38305/]: Handling inbound login query with id 1
+[08Feb2025 21:23:51.448] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[08Feb2025 21:23:51.448] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[08Feb2025 21:23:51.449] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [minecraft, forge, tlskincape]
+[08Feb2025 21:23:51.449] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:cui' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[08Feb2025 21:23:51.449] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[08Feb2025 21:23:51.449] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[08Feb2025 21:23:51.449] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[08Feb2025 21:23:51.449] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create_radar:messages' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[08Feb2025 21:23:51.449] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create_connected:config_common' : Version test of 'ABSENT 🤔' from client : REJECTED
+[08Feb2025 21:23:51.449] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[08Feb2025 21:23:51.449] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[08Feb2025 21:23:51.449] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[08Feb2025 21:23:51.449] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ic_air:main' : Version test of 'ABSENT 🤔' from client : REJECTED
+[08Feb2025 21:23:51.449] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'createbigcannons:network' : Version test of 'ABSENT 🤔' from client : REJECTED
+[08Feb2025 21:23:51.449] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'vs_clockwork:main' : Version test of 'ABSENT 🤔' from client : REJECTED
+[08Feb2025 21:23:51.449] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create_tweaked_controllers:main' : Version test of 'ABSENT 🤔' from client : REJECTED
+[08Feb2025 21:23:51.449] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[08Feb2025 21:23:51.449] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'valkyrienskies:vs_packet' : Version test of 'ABSENT 🤔' from client : REJECTED
+[08Feb2025 21:23:51.449] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tacz:handshake' : Version test of 'ABSENT 🤔' from client : REJECTED
+[08Feb2025 21:23:51.449] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ritchiesprojectilelib:network' : Version test of 'ABSENT 🤔' from client : REJECTED
+[08Feb2025 21:23:51.449] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:internal' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[08Feb2025 21:23:51.449] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create_connected:main' : Version test of 'ABSENT 🤔' from client : REJECTED
+[08Feb2025 21:23:51.449] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaeroworldmap:main' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[08Feb2025 21:23:51.449] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[08Feb2025 21:23:51.449] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[08Feb2025 21:23:51.449] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tacz:network' : Version test of 'ABSENT 🤔' from client : REJECTED
+[08Feb2025 21:23:51.449] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create:main' : Version test of 'ABSENT 🤔' from client : REJECTED
+[08Feb2025 21:23:51.450] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [vs_clockwork:main,create_tweaked_controllers:main,valkyrienskies:vs_packet,tacz:handshake,ritchiesprojectilelib:network,create_connected:config_common,create_connected:main,tacz:network,create:main,ic_air:main,createbigcannons:network] rejected their client side version number
+[08Feb2025 21:23:51.450] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[08Feb2025 21:23:51.450] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Dispatching wrapped packet reply for channel fml:handshake with index 1
+[08Feb2025 21:23:51.477] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1af85ab5[id=<null>,name=fabrix_YT,properties={},legacy=false] (/127.213.65.231:38305) lost connection: Connection closed - mismatched mod channel list
+[08Feb2025 21:23:56.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> no
+[08Feb2025 21:23:58.579] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 watched physics entities: [121]
+[08Feb2025 21:23:58.592] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a watched physics entities: [121]
+[08Feb2025 21:23:58.592] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a watched physics entities: [121]
+[08Feb2025 21:23:58.592] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 watched physics entities: [121]
+[08Feb2025 21:24:11.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> no sabia
+[08Feb2025 21:24:21.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> se transforma
+[08Feb2025 21:24:22.779] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 121, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:22.779] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 121, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:22.779] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 121, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:22.780] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 unwatched physics entities [121]
+[08Feb2025 21:24:22.783] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a unwatched physics entities [121]
+[08Feb2025 21:24:22.783] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a unwatched physics entities [121]
+[08Feb2025 21:24:22.783] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 unwatched physics entities [121]
+[08Feb2025 21:24:22.828] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 121, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:29.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> mira
+[08Feb2025 21:24:32.277] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 watched physics entities: [122]
+[08Feb2025 21:24:32.277] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a watched physics entities: [122]
+[08Feb2025 21:24:32.277] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a watched physics entities: [122]
+[08Feb2025 21:24:32.277] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 watched physics entities: [122]
+[08Feb2025 21:24:34.278] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 watched physics entities: [123]
+[08Feb2025 21:24:34.278] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a watched physics entities: [123]
+[08Feb2025 21:24:34.278] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a watched physics entities: [123]
+[08Feb2025 21:24:34.278] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 watched physics entities: [123]
+[08Feb2025 21:24:35.428] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 watched physics entities: [124]
+[08Feb2025 21:24:35.428] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a watched physics entities: [124]
+[08Feb2025 21:24:35.428] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a watched physics entities: [124]
+[08Feb2025 21:24:35.428] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 watched physics entities: [124]
+[08Feb2025 21:24:35.729] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[08Feb2025 21:24:35.729] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[08Feb2025 21:24:35.729] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[08Feb2025 21:24:35.729] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[08Feb2025 21:24:35.729] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[08Feb2025 21:24:35.729] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[08Feb2025 21:24:35.729] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[08Feb2025 21:24:35.729] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[08Feb2025 21:24:35.729] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[08Feb2025 21:24:35.729] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[08Feb2025 21:24:35.729] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[08Feb2025 21:24:35.729] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[08Feb2025 21:24:35.729] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[08Feb2025 21:24:35.729] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[08Feb2025 21:24:35.729] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[08Feb2025 21:24:35.729] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[08Feb2025 21:24:35.729] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[08Feb2025 21:24:35.729] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[08Feb2025 21:24:35.729] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[08Feb2025 21:24:35.729] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[08Feb2025 21:24:35.730] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[08Feb2025 21:24:35.730] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[08Feb2025 21:24:35.730] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[08Feb2025 21:24:35.730] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[08Feb2025 21:24:35.730] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[08Feb2025 21:24:35.730] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[08Feb2025 21:24:35.730] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[08Feb2025 21:24:35.730] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: createbigcannons:cannon_cast_shapes
+[08Feb2025 21:24:35.730] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[08Feb2025 21:24:35.730] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[08Feb2025 21:24:35.730] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[08Feb2025 21:24:35.730] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[08Feb2025 21:24:35.730] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[08Feb2025 21:24:35.730] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[08Feb2025 21:24:35.730] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[08Feb2025 21:24:35.730] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[08Feb2025 21:24:35.730] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[08Feb2025 21:24:35.730] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[08Feb2025 21:24:35.730] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[08Feb2025 21:24:35.730] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[08Feb2025 21:24:35.730] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[08Feb2025 21:24:35.730] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[08Feb2025 21:24:35.730] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[08Feb2025 21:24:35.730] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: createbigcannons:block_recipe_serializers
+[08Feb2025 21:24:35.730] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[08Feb2025 21:24:35.730] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[08Feb2025 21:24:35.730] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[08Feb2025 21:24:35.730] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[08Feb2025 21:24:35.730] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[08Feb2025 21:24:35.730] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[08Feb2025 21:24:35.730] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[08Feb2025 21:24:35.730] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[08Feb2025 21:24:35.730] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[08Feb2025 21:24:35.730] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[08Feb2025 21:24:35.730] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: createbigcannons:block_recipe_types
+[08Feb2025 21:24:35.730] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[08Feb2025 21:24:35.730] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[08Feb2025 21:24:35.730] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[08Feb2025 21:24:35.730] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[08Feb2025 21:24:35.730] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[08Feb2025 21:24:35.730] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[08Feb2025 21:24:35.731] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[08Feb2025 21:24:35.731] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[08Feb2025 21:24:35.731] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[08Feb2025 21:24:35.731] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[08Feb2025 21:24:35.731] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[08Feb2025 21:24:35.731] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[08Feb2025 21:24:35.731] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[08Feb2025 21:24:35.731] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[08Feb2025 21:24:35.731] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[08Feb2025 21:24:35.731] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[08Feb2025 21:24:35.731] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[08Feb2025 21:24:35.731] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[08Feb2025 21:24:35.731] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[08Feb2025 21:24:35.731] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[08Feb2025 21:24:35.741] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[08Feb2025 21:24:35.977] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 122, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:35.977] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 122, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:35.977] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 122, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:35.977] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 unwatched physics entities [122]
+[08Feb2025 21:24:35.978] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a unwatched physics entities [122]
+[08Feb2025 21:24:35.978] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a unwatched physics entities [122]
+[08Feb2025 21:24:35.978] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 unwatched physics entities [122]
+[08Feb2025 21:24:36.283] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 watched physics entities: [125]
+[08Feb2025 21:24:36.283] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a watched physics entities: [125]
+[08Feb2025 21:24:36.284] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a watched physics entities: [125]
+[08Feb2025 21:24:36.284] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 watched physics entities: [125]
+[08Feb2025 21:24:36.428] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 watched physics entities: [126]
+[08Feb2025 21:24:36.428] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a watched physics entities: [126]
+[08Feb2025 21:24:36.428] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a watched physics entities: [126]
+[08Feb2025 21:24:36.428] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 watched physics entities: [126]
+[08Feb2025 21:24:36.678] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 watched physics entities: [127]
+[08Feb2025 21:24:36.678] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a watched physics entities: [127]
+[08Feb2025 21:24:36.678] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a watched physics entities: [127]
+[08Feb2025 21:24:36.678] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 watched physics entities: [127]
+[08Feb2025 21:24:36.787] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 watched physics entities: [128]
+[08Feb2025 21:24:36.787] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a watched physics entities: [128]
+[08Feb2025 21:24:36.787] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a watched physics entities: [128]
+[08Feb2025 21:24:36.787] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 watched physics entities: [128]
+[08Feb2025 21:24:37.182] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 watched physics entities: [129]
+[08Feb2025 21:24:37.182] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a watched physics entities: [129]
+[08Feb2025 21:24:37.183] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a watched physics entities: [129]
+[08Feb2025 21:24:37.183] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 watched physics entities: [129]
+[08Feb2025 21:24:37.778] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 watched physics entities: [130]
+[08Feb2025 21:24:37.778] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a watched physics entities: [130]
+[08Feb2025 21:24:37.778] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a watched physics entities: [130]
+[08Feb2025 21:24:37.778] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 watched physics entities: [130]
+[08Feb2025 21:24:37.981] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 123, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:37.981] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 123, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:37.981] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 123, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:37.982] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 unwatched physics entities [123]
+[08Feb2025 21:24:37.982] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a unwatched physics entities [123]
+[08Feb2025 21:24:37.982] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a unwatched physics entities [123]
+[08Feb2025 21:24:37.982] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 unwatched physics entities [123]
+[08Feb2025 21:24:37.982] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 watched physics entities: [131]
+[08Feb2025 21:24:37.982] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a watched physics entities: [131]
+[08Feb2025 21:24:37.982] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a watched physics entities: [131]
+[08Feb2025 21:24:37.982] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 watched physics entities: [131]
+[08Feb2025 21:24:38.077] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 watched physics entities: [132]
+[08Feb2025 21:24:38.077] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a watched physics entities: [132]
+[08Feb2025 21:24:38.077] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a watched physics entities: [132]
+[08Feb2025 21:24:38.077] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 watched physics entities: [132]
+[08Feb2025 21:24:38.234] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 watched physics entities: [133]
+[08Feb2025 21:24:38.234] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a watched physics entities: [133]
+[08Feb2025 21:24:38.234] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a watched physics entities: [133]
+[08Feb2025 21:24:38.234] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 watched physics entities: [133]
+[08Feb2025 21:24:38.528] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 watched physics entities: [134]
+[08Feb2025 21:24:38.528] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a watched physics entities: [134]
+[08Feb2025 21:24:38.528] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a watched physics entities: [134]
+[08Feb2025 21:24:38.528] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 watched physics entities: [134]
+[08Feb2025 21:24:38.627] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 watched physics entities: [135]
+[08Feb2025 21:24:38.627] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a watched physics entities: [135]
+[08Feb2025 21:24:38.627] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a watched physics entities: [135]
+[08Feb2025 21:24:38.627] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 watched physics entities: [135]
+[08Feb2025 21:24:38.780] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 watched physics entities: [136]
+[08Feb2025 21:24:38.780] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a watched physics entities: [136]
+[08Feb2025 21:24:38.780] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a watched physics entities: [136]
+[08Feb2025 21:24:38.781] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 watched physics entities: [136]
+[08Feb2025 21:24:39.126] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 124, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:39.126] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 124, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:39.126] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 124, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:39.127] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 unwatched physics entities [124]
+[08Feb2025 21:24:39.127] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a unwatched physics entities [124]
+[08Feb2025 21:24:39.127] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a unwatched physics entities [124]
+[08Feb2025 21:24:39.127] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 unwatched physics entities [124]
+[08Feb2025 21:24:40.079] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 126, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:40.079] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 125, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:40.079] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 126, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:40.079] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 125, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:40.079] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 126, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:40.080] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 125, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:40.080] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 unwatched physics entities [125, 126]
+[08Feb2025 21:24:40.080] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a unwatched physics entities [125, 126]
+[08Feb2025 21:24:40.080] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a unwatched physics entities [125, 126]
+[08Feb2025 21:24:40.080] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 unwatched physics entities [125, 126]
+[08Feb2025 21:24:40.428] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 127, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:40.428] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 127, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:40.428] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 127, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:40.428] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 unwatched physics entities [127]
+[08Feb2025 21:24:40.428] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a unwatched physics entities [127]
+[08Feb2025 21:24:40.428] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a unwatched physics entities [127]
+[08Feb2025 21:24:40.429] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 unwatched physics entities [127]
+[08Feb2025 21:24:40.627] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 128, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:40.627] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 128, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:40.627] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 128, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:40.627] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 unwatched physics entities [128]
+[08Feb2025 21:24:40.628] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a unwatched physics entities [128]
+[08Feb2025 21:24:40.628] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a unwatched physics entities [128]
+[08Feb2025 21:24:40.628] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 unwatched physics entities [128]
+[08Feb2025 21:24:40.777] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 129, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:40.777] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 129, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:40.777] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 129, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:40.777] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 unwatched physics entities [129]
+[08Feb2025 21:24:40.777] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a unwatched physics entities [129]
+[08Feb2025 21:24:40.777] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a unwatched physics entities [129]
+[08Feb2025 21:24:40.778] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 unwatched physics entities [129]
+[08Feb2025 21:24:41.431] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 130, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:41.431] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 130, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:41.431] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 130, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:41.431] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 unwatched physics entities [130]
+[08Feb2025 21:24:41.431] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a unwatched physics entities [130]
+[08Feb2025 21:24:41.431] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a unwatched physics entities [130]
+[08Feb2025 21:24:41.431] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 unwatched physics entities [130]
+[08Feb2025 21:24:41.626] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 131, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:41.627] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 131, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:41.627] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 131, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:41.627] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 unwatched physics entities [131]
+[08Feb2025 21:24:41.627] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a unwatched physics entities [131]
+[08Feb2025 21:24:41.627] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a unwatched physics entities [131]
+[08Feb2025 21:24:41.627] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 unwatched physics entities [131]
+[08Feb2025 21:24:41.927] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 132, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:41.928] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 132, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:41.928] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 132, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:41.928] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 unwatched physics entities [132]
+[08Feb2025 21:24:41.928] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a unwatched physics entities [132]
+[08Feb2025 21:24:41.928] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a unwatched physics entities [132]
+[08Feb2025 21:24:41.928] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 unwatched physics entities [132]
+[08Feb2025 21:24:42.077] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 133, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:42.077] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 133, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:42.077] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 133, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:42.078] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 unwatched physics entities [133]
+[08Feb2025 21:24:42.078] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a unwatched physics entities [133]
+[08Feb2025 21:24:42.078] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a unwatched physics entities [133]
+[08Feb2025 21:24:42.078] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 unwatched physics entities [133]
+[08Feb2025 21:24:42.330] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 134, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:42.331] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 134, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:42.331] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 134, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:42.331] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 unwatched physics entities [134]
+[08Feb2025 21:24:42.331] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a unwatched physics entities [134]
+[08Feb2025 21:24:42.331] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a unwatched physics entities [134]
+[08Feb2025 21:24:42.331] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 unwatched physics entities [134]
+[08Feb2025 21:24:42.379] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 136, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:42.379] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 135, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:42.379] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 136, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:42.380] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 135, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:42.380] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 136, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:42.380] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 135, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:42.380] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 unwatched physics entities [135, 136]
+[08Feb2025 21:24:42.380] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a unwatched physics entities [135, 136]
+[08Feb2025 21:24:42.380] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a unwatched physics entities [135, 136]
+[08Feb2025 21:24:42.380] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 unwatched physics entities [135, 136]
+[08Feb2025 21:24:45.127] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 watched physics entities: [137]
+[08Feb2025 21:24:45.127] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a watched physics entities: [137]
+[08Feb2025 21:24:45.127] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a watched physics entities: [137]
+[08Feb2025 21:24:45.127] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 watched physics entities: [137]
+[08Feb2025 21:24:45.976] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 watched physics entities: [138]
+[08Feb2025 21:24:45.977] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a watched physics entities: [138]
+[08Feb2025 21:24:45.977] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a watched physics entities: [138]
+[08Feb2025 21:24:45.977] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 watched physics entities: [138]
+[08Feb2025 21:24:46.177] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 watched physics entities: [139]
+[08Feb2025 21:24:46.177] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a watched physics entities: [139]
+[08Feb2025 21:24:46.178] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a watched physics entities: [139]
+[08Feb2025 21:24:46.178] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 watched physics entities: [139]
+[08Feb2025 21:24:46.277] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 watched physics entities: [140]
+[08Feb2025 21:24:46.277] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a watched physics entities: [140]
+[08Feb2025 21:24:46.277] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a watched physics entities: [140]
+[08Feb2025 21:24:46.277] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 watched physics entities: [140]
+[08Feb2025 21:24:46.428] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 watched physics entities: [141]
+[08Feb2025 21:24:46.429] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a watched physics entities: [141]
+[08Feb2025 21:24:46.429] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a watched physics entities: [141]
+[08Feb2025 21:24:46.429] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 watched physics entities: [141]
+[08Feb2025 21:24:46.577] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 watched physics entities: [142]
+[08Feb2025 21:24:46.577] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a watched physics entities: [142]
+[08Feb2025 21:24:46.577] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a watched physics entities: [142]
+[08Feb2025 21:24:46.578] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 watched physics entities: [142]
+[08Feb2025 21:24:46.829] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 watched physics entities: [143]
+[08Feb2025 21:24:46.829] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a watched physics entities: [143]
+[08Feb2025 21:24:46.829] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a watched physics entities: [143]
+[08Feb2025 21:24:46.829] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 watched physics entities: [143]
+[08Feb2025 21:24:47.028] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 watched physics entities: [144]
+[08Feb2025 21:24:47.028] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a watched physics entities: [144]
+[08Feb2025 21:24:47.029] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a watched physics entities: [144]
+[08Feb2025 21:24:47.029] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 watched physics entities: [144]
+[08Feb2025 21:24:47.234] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 watched physics entities: [145]
+[08Feb2025 21:24:47.234] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a watched physics entities: [145]
+[08Feb2025 21:24:47.234] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a watched physics entities: [145]
+[08Feb2025 21:24:47.234] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 watched physics entities: [145]
+[08Feb2025 21:24:47.327] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 watched physics entities: [146]
+[08Feb2025 21:24:47.327] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a watched physics entities: [146]
+[08Feb2025 21:24:47.327] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a watched physics entities: [146]
+[08Feb2025 21:24:47.327] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 watched physics entities: [146]
+[08Feb2025 21:24:47.527] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 watched physics entities: [147]
+[08Feb2025 21:24:47.527] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a watched physics entities: [147]
+[08Feb2025 21:24:47.528] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a watched physics entities: [147]
+[08Feb2025 21:24:47.528] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 watched physics entities: [147]
+[08Feb2025 21:24:47.677] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 watched physics entities: [148]
+[08Feb2025 21:24:47.677] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a watched physics entities: [148]
+[08Feb2025 21:24:47.677] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a watched physics entities: [148]
+[08Feb2025 21:24:47.677] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 watched physics entities: [148]
+[08Feb2025 21:24:47.833] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 watched physics entities: [149]
+[08Feb2025 21:24:47.833] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a watched physics entities: [149]
+[08Feb2025 21:24:47.833] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a watched physics entities: [149]
+[08Feb2025 21:24:47.834] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 watched physics entities: [149]
+[08Feb2025 21:24:47.927] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 watched physics entities: [150]
+[08Feb2025 21:24:47.927] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a watched physics entities: [150]
+[08Feb2025 21:24:47.927] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a watched physics entities: [150]
+[08Feb2025 21:24:47.927] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 watched physics entities: [150]
+[08Feb2025 21:24:48.080] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 watched physics entities: [151]
+[08Feb2025 21:24:48.081] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a watched physics entities: [151]
+[08Feb2025 21:24:48.081] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a watched physics entities: [151]
+[08Feb2025 21:24:48.081] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 watched physics entities: [151]
+[08Feb2025 21:24:48.326] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 watched physics entities: [152]
+[08Feb2025 21:24:48.326] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a watched physics entities: [152]
+[08Feb2025 21:24:48.327] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a watched physics entities: [152]
+[08Feb2025 21:24:48.327] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 watched physics entities: [152]
+[08Feb2025 21:24:48.577] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 watched physics entities: [153]
+[08Feb2025 21:24:48.577] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a watched physics entities: [153]
+[08Feb2025 21:24:48.577] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a watched physics entities: [153]
+[08Feb2025 21:24:48.577] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 watched physics entities: [153]
+[08Feb2025 21:24:48.727] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 watched physics entities: [154]
+[08Feb2025 21:24:48.727] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a watched physics entities: [154]
+[08Feb2025 21:24:48.727] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a watched physics entities: [154]
+[08Feb2025 21:24:48.727] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 watched physics entities: [154]
+[08Feb2025 21:24:48.882] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 watched physics entities: [155]
+[08Feb2025 21:24:48.883] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a watched physics entities: [155]
+[08Feb2025 21:24:48.883] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a watched physics entities: [155]
+[08Feb2025 21:24:48.883] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 watched physics entities: [155]
+[08Feb2025 21:24:48.931] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 watched physics entities: [156]
+[08Feb2025 21:24:48.931] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a watched physics entities: [156]
+[08Feb2025 21:24:48.932] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a watched physics entities: [156]
+[08Feb2025 21:24:48.932] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 watched physics entities: [156]
+[08Feb2025 21:24:49.526] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 137, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:49.526] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 137, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:49.526] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 unwatched physics entities [137]
+[08Feb2025 21:24:49.526] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a unwatched physics entities [137]
+[08Feb2025 21:24:49.526] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a unwatched physics entities [137]
+[08Feb2025 21:24:49.527] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 unwatched physics entities [137]
+[08Feb2025 21:24:50.284] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 138, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:50.285] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 138, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:50.285] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 138, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:50.285] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 138, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:50.285] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 unwatched physics entities [138]
+[08Feb2025 21:24:50.285] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a unwatched physics entities [138]
+[08Feb2025 21:24:50.285] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a unwatched physics entities [138]
+[08Feb2025 21:24:50.285] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 unwatched physics entities [138]
+[08Feb2025 21:24:50.330] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 139, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:50.330] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 139, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:50.331] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 unwatched physics entities [139]
+[08Feb2025 21:24:50.331] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a unwatched physics entities [139]
+[08Feb2025 21:24:50.331] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a unwatched physics entities [139]
+[08Feb2025 21:24:50.331] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 unwatched physics entities [139]
+[08Feb2025 21:24:50.777] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 140, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:50.778] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 140, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:50.778] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 140, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:50.778] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 unwatched physics entities [140]
+[08Feb2025 21:24:50.778] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a unwatched physics entities [140]
+[08Feb2025 21:24:50.778] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a unwatched physics entities [140]
+[08Feb2025 21:24:50.778] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 unwatched physics entities [140]
+[08Feb2025 21:24:50.927] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 141, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:50.928] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 141, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:50.928] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 141, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:50.928] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 unwatched physics entities [141]
+[08Feb2025 21:24:50.928] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a unwatched physics entities [141]
+[08Feb2025 21:24:50.928] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a unwatched physics entities [141]
+[08Feb2025 21:24:50.928] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 unwatched physics entities [141]
+[08Feb2025 21:24:51.026] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 142, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:51.027] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 142, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:51.027] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 142, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:51.027] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 unwatched physics entities [142]
+[08Feb2025 21:24:51.027] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a unwatched physics entities [142]
+[08Feb2025 21:24:51.027] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a unwatched physics entities [142]
+[08Feb2025 21:24:51.027] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 unwatched physics entities [142]
+[08Feb2025 21:24:51.127] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 143, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:51.127] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 143, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:51.127] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 143, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:51.128] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 unwatched physics entities [143]
+[08Feb2025 21:24:51.128] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a unwatched physics entities [143]
+[08Feb2025 21:24:51.128] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a unwatched physics entities [143]
+[08Feb2025 21:24:51.128] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 unwatched physics entities [143]
+[08Feb2025 21:24:51.379] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 144, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:51.379] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 144, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:51.380] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 144, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:51.380] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 unwatched physics entities [144]
+[08Feb2025 21:24:51.380] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a unwatched physics entities [144]
+[08Feb2025 21:24:51.380] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a unwatched physics entities [144]
+[08Feb2025 21:24:51.380] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 unwatched physics entities [144]
+[08Feb2025 21:24:51.678] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 145, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:51.678] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 145, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:51.678] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 unwatched physics entities [145]
+[08Feb2025 21:24:51.679] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a unwatched physics entities [145]
+[08Feb2025 21:24:51.679] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a unwatched physics entities [145]
+[08Feb2025 21:24:51.679] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 unwatched physics entities [145]
+[08Feb2025 21:24:51.927] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 147, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:51.927] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 147, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:51.927] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 147, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:51.927] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 unwatched physics entities [147]
+[08Feb2025 21:24:51.928] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a unwatched physics entities [147]
+[08Feb2025 21:24:51.928] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a unwatched physics entities [147]
+[08Feb2025 21:24:51.928] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 unwatched physics entities [147]
+[08Feb2025 21:24:52.086] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 148, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:52.086] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 148, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:52.086] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 148, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:52.086] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 148, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:52.087] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 unwatched physics entities [148]
+[08Feb2025 21:24:52.087] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a unwatched physics entities [148]
+[08Feb2025 21:24:52.087] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a unwatched physics entities [148]
+[08Feb2025 21:24:52.087] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 unwatched physics entities [148]
+[08Feb2025 21:24:52.178] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 146, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:52.178] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 146, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:52.178] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 146, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:52.178] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 unwatched physics entities [146]
+[08Feb2025 21:24:52.179] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a unwatched physics entities [146]
+[08Feb2025 21:24:52.179] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a unwatched physics entities [146]
+[08Feb2025 21:24:52.179] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 unwatched physics entities [146]
+[08Feb2025 21:24:52.276] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 149, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:52.276] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 150, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:52.276] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 149, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:52.276] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 150, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:52.277] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 149, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:52.277] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 150, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:52.277] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 unwatched physics entities [149, 150]
+[08Feb2025 21:24:52.277] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a unwatched physics entities [149, 150]
+[08Feb2025 21:24:52.277] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a unwatched physics entities [149, 150]
+[08Feb2025 21:24:52.277] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 unwatched physics entities [149, 150]
+[08Feb2025 21:24:52.426] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 151, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:52.427] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 151, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:52.427] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 151, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:52.427] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 unwatched physics entities [151]
+[08Feb2025 21:24:52.427] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a unwatched physics entities [151]
+[08Feb2025 21:24:52.427] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a unwatched physics entities [151]
+[08Feb2025 21:24:52.427] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 unwatched physics entities [151]
+[08Feb2025 21:24:52.827] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 152, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:52.827] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 152, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:52.827] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 152, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:52.827] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 unwatched physics entities [152]
+[08Feb2025 21:24:52.828] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a unwatched physics entities [152]
+[08Feb2025 21:24:52.828] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a unwatched physics entities [152]
+[08Feb2025 21:24:52.828] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 unwatched physics entities [152]
+[08Feb2025 21:24:53.030] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 153, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:53.030] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 153, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:53.030] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 153, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:53.030] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 unwatched physics entities [153]
+[08Feb2025 21:24:53.031] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a unwatched physics entities [153]
+[08Feb2025 21:24:53.031] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a unwatched physics entities [153]
+[08Feb2025 21:24:53.031] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 unwatched physics entities [153]
+[08Feb2025 21:24:53.077] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 154, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:53.077] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 154, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:53.077] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 154, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:53.078] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 unwatched physics entities [154]
+[08Feb2025 21:24:53.078] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a unwatched physics entities [154]
+[08Feb2025 21:24:53.078] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a unwatched physics entities [154]
+[08Feb2025 21:24:53.078] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 unwatched physics entities [154]
+[08Feb2025 21:24:53.131] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 156, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:53.132] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 156, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:53.132] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 156, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:53.132] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 unwatched physics entities [156]
+[08Feb2025 21:24:53.132] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a unwatched physics entities [156]
+[08Feb2025 21:24:53.132] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a unwatched physics entities [156]
+[08Feb2025 21:24:53.132] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 unwatched physics entities [156]
+[08Feb2025 21:24:53.182] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 155, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:53.182] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 155, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:53.183] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 155, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:53.183] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 unwatched physics entities [155]
+[08Feb2025 21:24:53.183] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a unwatched physics entities [155]
+[08Feb2025 21:24:53.183] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a unwatched physics entities [155]
+[08Feb2025 21:24:53.183] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 unwatched physics entities [155]
+[08Feb2025 21:25:15.132] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 watched physics entities: [157]
+[08Feb2025 21:25:15.133] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a watched physics entities: [157]
+[08Feb2025 21:25:15.133] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a watched physics entities: [157]
+[08Feb2025 21:25:15.133] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 watched physics entities: [157]
+[08Feb2025 21:25:19.576] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 157, but a ship with this ShipId does not exist!
+[08Feb2025 21:25:19.577] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 157, but a ship with this ShipId does not exist!
+[08Feb2025 21:25:19.577] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 157, but a ship with this ShipId does not exist!
+[08Feb2025 21:25:19.577] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 8c8caf43-2f47-4294-97eb-1c108d7efb78 unwatched physics entities [157]
+[08Feb2025 21:25:19.577] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 43832bab-ca64-48ab-b22d-e126e9b44a6a unwatched physics entities [157]
+[08Feb2025 21:25:19.577] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6fd54a12-e9d1-480d-853c-4deb1033f56a unwatched physics entities [157]
+[08Feb2025 21:25:19.577] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b8eb245e-5397-41f3-867d-7384df93ac52 unwatched physics entities [157]
+[08Feb2025 21:25:26.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Banned Ly4Nx_: Banned by an operator.]
+[08Feb2025 21:25:26.929] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ly4Nx_ lost connection: You are banned from this server
+[08Feb2025 21:25:26.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ left the game
+[08Feb2025 21:25:31.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Unbanned Ly4Nx_]
+[08Feb2025 21:26:06.691] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 33 messages to dispatch.
+[08Feb2025 21:26:06.726] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[08Feb2025 21:26:06.778] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[08Feb2025 21:26:06.827] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[08Feb2025 21:26:06.879] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[08Feb2025 21:26:06.929] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[08Feb2025 21:26:06.976] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[08Feb2025 21:26:07.026] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[08Feb2025 21:26:07.056] [Netty Epoll Server IO #4/DEBUG] [ServerLoginNetworkAddon for /127.221.157.209:56975/]: Handling inbound login query with id 1
+[08Feb2025 21:26:07.056] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[08Feb2025 21:26:07.056] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[08Feb2025 21:26:07.056] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [fabric_renderer_api_v1, fabric_item_api_v1, fabric_rendering_fluids_v1, fabric_models_v0, immersive_aircraft, fabric_convention_tags_v1, ritchiesprojectilelib, xaeroworldmap, fabric_command_api_v1, fabric_block_view_api_v2, fabric_command_api_v2, fabric_data_attachment_api_v1, mixinextras, fabric_screen_api_v1, cloth_config, fabric_api, fabric_content_registries_v0, embeddium, rubidium, cbcmodernwarfare, create_connected, fabric_game_rule_api_v1, fabric_api_lookup_api_v1, oculus, replaymod, connectormod, fabric_entity_events_v1, worldedit, fabric_loot_api_v2, fabric_rendering_data_attachment_v1, fabric_networking_api_v1, fabric_lifecycle_events_v1, fabric_key_binding_api_v1, fabric_client_tags_api_v1, fabric_transfer_api_v1, fabric_dimensions_v1, create_tweaked_controllers, fabric_model_loading_api_v1, jei, tacz, fabric_screen_handler_api_v1, fabric_resource_loader_v0, fabric_rendering_v1, fabric_renderer_indigo, fabric_mining_level_api_v1, fabric_particles_v1, forge, fabric_transitive_access_wideners_v1, minecraft, fabric_api_base, fabric_blockrenderlayer_v1, fabric_block_api_v1, fabric_resource_conditions_api_v1, kotlinforforge, flywheel, xaerominimap, fabric_item_group_api_v1, create_radar, createbigcannons, create, fabric_biome_api_v1, fabric_registry_sync_v0, fabric_recipe_api_v1, fabric_object_builder_api_v1, fabric_sound_api_v1, valkyrienskies, vs_eureka, vs_clockwork, fabric_message_api_v1, fabric_data_generation_api_v1, fabric_events_interaction_v0]
+[08Feb2025 21:26:07.056] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:cui' : Version test of '1' from client : ACCEPTED
+[08Feb2025 21:26:07.056] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[08Feb2025 21:26:07.056] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[08Feb2025 21:26:07.056] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[08Feb2025 21:26:07.056] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create_radar:messages' : Version test of '1.0' from client : ACCEPTED
+[08Feb2025 21:26:07.056] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create_connected:config_common' : Version test of '1.0.0' from client : ACCEPTED
+[08Feb2025 21:26:07.056] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[08Feb2025 21:26:07.056] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[08Feb2025 21:26:07.056] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Version test of '1.0' from client : ACCEPTED
+[08Feb2025 21:26:07.056] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ic_air:main' : Version test of '1' from client : ACCEPTED
+[08Feb2025 21:26:07.056] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'createbigcannons:network' : Version test of '2.0.0' from client : ACCEPTED
+[08Feb2025 21:26:07.056] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'vs_clockwork:main' : Version test of '1' from client : ACCEPTED
+[08Feb2025 21:26:07.056] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create_tweaked_controllers:main' : Version test of '2' from client : ACCEPTED
+[08Feb2025 21:26:07.056] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[08Feb2025 21:26:07.056] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'valkyrienskies:vs_packet' : Version test of '1' from client : ACCEPTED
+[08Feb2025 21:26:07.056] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tacz:handshake' : Version test of '1.0.4' from client : ACCEPTED
+[08Feb2025 21:26:07.056] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ritchiesprojectilelib:network' : Version test of '3.0.0' from client : ACCEPTED
+[08Feb2025 21:26:07.056] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:internal' : Version test of '1' from client : ACCEPTED
+[08Feb2025 21:26:07.056] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create_connected:main' : Version test of '1' from client : ACCEPTED
+[08Feb2025 21:26:07.057] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaeroworldmap:main' : Version test of '1.0' from client : ACCEPTED
+[08Feb2025 21:26:07.057] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[08Feb2025 21:26:07.057] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[08Feb2025 21:26:07.057] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tacz:network' : Version test of '1.0.4' from client : ACCEPTED
+[08Feb2025 21:26:07.057] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create:main' : Version test of '3' from client : ACCEPTED
+[08Feb2025 21:26:07.057] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[08Feb2025 21:26:07.057] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[08Feb2025 21:26:07.076] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[08Feb2025 21:26:07.083] [Netty Epoll Server IO #4/DEBUG] [ServerLoginNetworkAddon for /127.221.157.209:56975/]: Handling inbound login query with id 2
+[08Feb2025 21:26:07.083] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[08Feb2025 21:26:07.083] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 21:26:07.083] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 21:26:07.127] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[08Feb2025 21:26:07.130] [Netty Epoll Server IO #4/DEBUG] [ServerLoginNetworkAddon for /127.221.157.209:56975/]: Handling inbound login query with id 3
+[08Feb2025 21:26:07.130] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[08Feb2025 21:26:07.130] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 21:26:07.130] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 21:26:07.177] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry createbigcannons:block_recipe_serializers' to 'fml:handshake' sequence 9
+[08Feb2025 21:26:07.225] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 10
+[08Feb2025 21:26:07.278] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 11
+[08Feb2025 21:26:07.328] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 12
+[08Feb2025 21:26:07.376] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 13
+[08Feb2025 21:26:07.427] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 14
+[08Feb2025 21:26:07.478] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 15
+[08Feb2025 21:26:07.527] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 16
+[08Feb2025 21:26:07.562] [Netty Epoll Server IO #4/DEBUG] [ServerLoginNetworkAddon for /127.221.157.209:56975/]: Handling inbound login query with id 4
+[08Feb2025 21:26:07.562] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[08Feb2025 21:26:07.562] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 21:26:07.562] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 21:26:07.562] [Netty Epoll Server IO #4/DEBUG] [ServerLoginNetworkAddon for /127.221.157.209:56975/]: Handling inbound login query with id 5
+[08Feb2025 21:26:07.562] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[08Feb2025 21:26:07.562] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 21:26:07.562] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 21:26:07.562] [Netty Epoll Server IO #4/DEBUG] [ServerLoginNetworkAddon for /127.221.157.209:56975/]: Handling inbound login query with id 6
+[08Feb2025 21:26:07.562] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[08Feb2025 21:26:07.562] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 21:26:07.562] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 21:26:07.578] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 17
+[08Feb2025 21:26:07.626] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry createbigcannons:cannon_cast_shapes' to 'fml:handshake' sequence 18
+[08Feb2025 21:26:07.675] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 19
+[08Feb2025 21:26:07.726] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry createbigcannons:block_recipe_types' to 'fml:handshake' sequence 20
+[08Feb2025 21:26:07.776] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 21
+[08Feb2025 21:26:07.827] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 22
+[08Feb2025 21:26:07.876] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 23
+[08Feb2025 21:26:07.932] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ritchiesprojectilelib-server.toml' to 'fml:handshake' sequence 24
+[08Feb2025 21:26:07.978] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config vs_clockwork-server.toml' to 'fml:handshake' sequence 25
+[08Feb2025 21:26:08.002] [Netty Epoll Server IO #4/DEBUG] [ServerLoginNetworkAddon for /127.221.157.209:56975/]: Handling inbound login query with id 7
+[08Feb2025 21:26:08.002] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[08Feb2025 21:26:08.002] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 21:26:08.002] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 21:26:08.002] [Netty Epoll Server IO #4/DEBUG] [ServerLoginNetworkAddon for /127.221.157.209:56975/]: Handling inbound login query with id 8
+[08Feb2025 21:26:08.002] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[08Feb2025 21:26:08.002] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 21:26:08.002] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 21:26:08.002] [Netty Epoll Server IO #4/DEBUG] [ServerLoginNetworkAddon for /127.221.157.209:56975/]: Handling inbound login query with id 9
+[08Feb2025 21:26:08.002] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[08Feb2025 21:26:08.002] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 21:26:08.002] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 21:26:08.002] [Netty Epoll Server IO #4/DEBUG] [ServerLoginNetworkAddon for /127.221.157.209:56975/]: Handling inbound login query with id 10
+[08Feb2025 21:26:08.002] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[08Feb2025 21:26:08.002] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 21:26:08.002] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 21:26:08.002] [Netty Epoll Server IO #4/DEBUG] [ServerLoginNetworkAddon for /127.221.157.209:56975/]: Handling inbound login query with id 11
+[08Feb2025 21:26:08.002] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[08Feb2025 21:26:08.002] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 21:26:08.002] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 21:26:08.027] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config create-server.toml' to 'fml:handshake' sequence 26
+[08Feb2025 21:26:08.081] [Netty Epoll Server IO #4/DEBUG] [ServerLoginNetworkAddon for /127.221.157.209:56975/]: Handling inbound login query with id 12
+[08Feb2025 21:26:08.081] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[08Feb2025 21:26:08.081] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 21:26:08.081] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 21:26:08.081] [Netty Epoll Server IO #4/DEBUG] [ServerLoginNetworkAddon for /127.221.157.209:56975/]: Handling inbound login query with id 13
+[08Feb2025 21:26:08.081] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[08Feb2025 21:26:08.081] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 21:26:08.081] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 21:26:08.083] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config createbigcannons-server.toml' to 'fml:handshake' sequence 27
+[08Feb2025 21:26:08.126] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config create_connected-server.toml' to 'fml:handshake' sequence 28
+[08Feb2025 21:26:08.177] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 29
+[08Feb2025 21:26:08.226] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tacz-server.toml' to 'fml:handshake' sequence 30
+[08Feb2025 21:26:08.276] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 31
+[08Feb2025 21:26:08.326] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'com.tacz.guns.network.message.handshake.ServerMessageSyncedEntityDataMapping' to 'tacz:handshake' sequence 32
+[08Feb2025 21:26:08.403] [Netty Epoll Server IO #4/DEBUG] [ServerLoginNetworkAddon for /127.221.157.209:56975/]: Handling inbound login query with id 14
+[08Feb2025 21:26:08.403] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[08Feb2025 21:26:08.403] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 21:26:08.403] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 21:26:08.403] [Netty Epoll Server IO #4/DEBUG] [ServerLoginNetworkAddon for /127.221.157.209:56975/]: Handling inbound login query with id 15
+[08Feb2025 21:26:08.403] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[08Feb2025 21:26:08.403] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 21:26:08.403] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 21:26:08.444] [Netty Epoll Server IO #4/DEBUG] [ServerLoginNetworkAddon for /127.221.157.209:56975/]: Handling inbound login query with id 16
+[08Feb2025 21:26:08.444] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[08Feb2025 21:26:08.444] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 21:26:08.444] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 21:26:08.444] [Netty Epoll Server IO #4/DEBUG] [ServerLoginNetworkAddon for /127.221.157.209:56975/]: Handling inbound login query with id 17
+[08Feb2025 21:26:08.444] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[08Feb2025 21:26:08.444] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 21:26:08.444] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 21:26:08.444] [Netty Epoll Server IO #4/DEBUG] [ServerLoginNetworkAddon for /127.221.157.209:56975/]: Handling inbound login query with id 18
+[08Feb2025 21:26:08.444] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[08Feb2025 21:26:08.444] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 21:26:08.444] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 21:26:08.444] [Netty Epoll Server IO #4/DEBUG] [ServerLoginNetworkAddon for /127.221.157.209:56975/]: Handling inbound login query with id 19
+[08Feb2025 21:26:08.444] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[08Feb2025 21:26:08.444] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 21:26:08.445] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 21:26:08.445] [Netty Epoll Server IO #4/DEBUG] [ServerLoginNetworkAddon for /127.221.157.209:56975/]: Handling inbound login query with id 20
+[08Feb2025 21:26:08.445] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[08Feb2025 21:26:08.445] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 21:26:08.445] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 21:26:08.445] [Netty Epoll Server IO #4/DEBUG] [ServerLoginNetworkAddon for /127.221.157.209:56975/]: Handling inbound login query with id 21
+[08Feb2025 21:26:08.445] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[08Feb2025 21:26:08.445] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 21:26:08.445] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 21:26:08.445] [Netty Epoll Server IO #4/DEBUG] [ServerLoginNetworkAddon for /127.221.157.209:56975/]: Handling inbound login query with id 22
+[08Feb2025 21:26:08.445] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[08Feb2025 21:26:08.445] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 21:26:08.445] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 21:26:09.594] [Netty Epoll Server IO #4/DEBUG] [ServerLoginNetworkAddon for /127.221.157.209:56975/]: Handling inbound login query with id 23
+[08Feb2025 21:26:09.594] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[08Feb2025 21:26:09.594] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 21:26:09.594] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 21:26:09.595] [Netty Epoll Server IO #4/DEBUG] [ServerLoginNetworkAddon for /127.221.157.209:56975/]: Handling inbound login query with id 24
+[08Feb2025 21:26:09.595] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[08Feb2025 21:26:09.595] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 21:26:09.595] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 21:26:09.596] [Netty Epoll Server IO #4/DEBUG] [ServerLoginNetworkAddon for /127.221.157.209:56975/]: Handling inbound login query with id 25
+[08Feb2025 21:26:09.596] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[08Feb2025 21:26:09.596] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 21:26:09.596] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 21:26:09.597] [Netty Epoll Server IO #4/DEBUG] [ServerLoginNetworkAddon for /127.221.157.209:56975/]: Handling inbound login query with id 26
+[08Feb2025 21:26:09.597] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[08Feb2025 21:26:09.597] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 21:26:09.597] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 21:26:09.597] [Netty Epoll Server IO #4/DEBUG] [ServerLoginNetworkAddon for /127.221.157.209:56975/]: Handling inbound login query with id 27
+[08Feb2025 21:26:09.597] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[08Feb2025 21:26:09.597] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 21:26:09.597] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 21:26:09.598] [Netty Epoll Server IO #4/DEBUG] [ServerLoginNetworkAddon for /127.221.157.209:56975/]: Handling inbound login query with id 28
+[08Feb2025 21:26:09.598] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[08Feb2025 21:26:09.598] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 21:26:09.598] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 21:26:09.604] [Netty Epoll Server IO #4/DEBUG] [ServerLoginNetworkAddon for /127.221.157.209:56975/]: Handling inbound login query with id 29
+[08Feb2025 21:26:09.604] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[08Feb2025 21:26:09.604] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 21:26:09.604] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 21:26:09.605] [Netty Epoll Server IO #4/DEBUG] [ServerLoginNetworkAddon for /127.221.157.209:56975/]: Handling inbound login query with id 30
+[08Feb2025 21:26:09.605] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[08Feb2025 21:26:09.605] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 21:26:09.605] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 21:26:09.605] [Netty Epoll Server IO #4/DEBUG] [ServerLoginNetworkAddon for /127.221.157.209:56975/]: Handling inbound login query with id 31
+[08Feb2025 21:26:09.605] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[08Feb2025 21:26:09.605] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 21:26:09.605] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 21:26:09.605] [Netty Epoll Server IO #4/DEBUG] [ServerLoginNetworkAddon for /127.221.157.209:56975/]: Handling inbound login query with id 32
+[08Feb2025 21:26:09.605] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel tacz:handshake with index 32
+[08Feb2025 21:26:09.605] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type com.tacz.guns.network.message.handshake.Acknowledge
+[08Feb2025 21:26:09.605] [Netty Epoll Server IO #4/DEBUG] [tacz/HANDSHAKE_ACKNOWLEDGE]: Received acknowledgement from client
+[08Feb2025 21:26:09.627] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[08Feb2025 21:26:09.678] [Server thread/DEBUG] [fabric_networking_api_v1/]: Sent accepted channels to the client for "com.mojang.authlib.GameProfile@4c9fb2ec[id=<null>,name=Ly4Nx_,properties={},legacy=false] (/127.221.157.209:56975)"
+[08Feb2025 21:26:10.120] [Netty Epoll Server IO #4/DEBUG] [ServerLoginNetworkAddon for /127.221.157.209:56975/]: Handling inbound login query with id 999
+[08Feb2025 21:26:10.120] [Netty Epoll Server IO #4/DEBUG] [fabric_networking_api_v1/]: Received accepted channels from the client for "com.mojang.authlib.GameProfile@4c9fb2ec[id=<null>,name=Ly4Nx_,properties={},legacy=false] (/127.221.157.209:56975)"
+[08Feb2025 21:26:10.135] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ly4Nx_[/127.221.157.209:56975] logged in with entity id 2644 at (-1118.2112872461414, -30.0, 72.76074780123318)
+[08Feb2025 21:26:10.135] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@5ecd4f4b into net.minecraft.network.Connection@65f0ae0a
+[08Feb2025 21:26:10.135] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:command_argument_type
+[08Feb2025 21:26:10.135] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:item
+[08Feb2025 21:26:10.135] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:block_entity_type
+[08Feb2025 21:26:10.135] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:custom_stat
+[08Feb2025 21:26:10.135] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/foliage_placer_type
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:stat_type
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/material_rule
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_type
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:attribute
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:position_source_type
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:height_provider_type
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:rule_block_entity_modifier
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/density_function_type
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:fluid
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: forge:global_loot_modifier_serializers
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_condition_type
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_pool_element
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:activity
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:recipe_serializer
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:frog_variant
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:banner_pattern
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:instrument
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:decorated_pot_patterns
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/feature_size_type
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:point_of_interest_type
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:mob_effect
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: createbigcannons:cannon_cast_shapes
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_pool_entry_type
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/block_state_provider_type
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/chunk_generator
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:float_provider_type
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:chunk_status
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:enchantment
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_function_type
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_processor
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_score_provider_type
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/tree_decorator_type
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:schedule
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/material_condition
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:entity_type
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:villager_profession
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:potion
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: createbigcannons:block_recipe_serializers
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:recipe_type
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:int_provider_type
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/feature
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:cat_variant
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:pos_rule_test
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_placement
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_nbt_provider_type
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:menu
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/trunk_placer_type
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:creative_mode_tab
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: createbigcannons:block_recipe_types
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/placement_modifier_type
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/carver
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_number_provider_type
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_piece
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:sound_event
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:particle_type
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:game_event
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/biome_source
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/root_placer_type
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:villager_type
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:painting_variant
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: forge:fluid_type
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:block_predicate_type
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:block
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: forge:entity_data_serializers
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:sensor_type
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:rule_test
+[08Feb2025 21:26:10.136] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:memory_module_type
+[08Feb2025 21:26:10.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ joined the game
+[08Feb2025 21:26:10.166] [Server thread/DEBUG] [com.hlysine.create_connected.CreateConnected/]: Sync Config: Sending server config to Ly4Nx_
+[08Feb2025 21:26:10.191] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1779840 : 768127
+[08Feb2025 21:26:10.191] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1779840 : 768128
+[08Feb2025 21:26:10.191] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1779841 : 768127
+[08Feb2025 21:26:10.191] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1779839 : 768127
+[08Feb2025 21:26:10.191] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1779840 : 768126
+[08Feb2025 21:26:10.192] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: cddebb7d-d983-4575-a0cc-4d5b6de2e2cf watched ships: [120]
+[08Feb2025 21:26:11.156] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1739049971156
+[08Feb2025 21:26:16.672] [Netty Epoll Server IO #4/DEBUG] [org.valkyrienskies.core.impl.networking.NetworkChannel/]: Server received packet of type: PacketType(channel=org.valkyrienskies.core.impl.networking.NetworkChannel@4c8b906e, id=1, name=SimplePacket - class org.valkyrienskies.core.impl.networking.impl.PacketRequestUdp)

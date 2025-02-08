@@ -411,3 +411,136 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Feb2025 21:18:08.435] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [vs_clockwork:main,create_tweaked_controllers:main,valkyrienskies:vs_packet,tacz:handshake,ritchiesprojectilelib:network,create_connected:config_common,create_connected:main,tacz:network,create:main,ic_air:main,createbigcannons:network] rejected their client side version number
 [08Feb2025 21:18:08.435] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [08Feb2025 21:18:08.478] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@17d2cf12[id=<null>,name=fabrix_YT,properties={},legacy=false] (/127.213.65.231:53739) lost connection: Connection closed - mismatched mod channel list
+[08Feb2025 21:19:13.372] [WorldEdit Task Executor - 4/INFO] [com.sk89q.worldedit.command.SchematicCommands/]: Bascap loaded /workspaces/pokemons/servidor_minecraft/config/worldedit/schematics/canonautomatico.schem
+[08Feb2025 21:20:28.335] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [vs_clockwork:main,create_tweaked_controllers:main,valkyrienskies:vs_packet,tacz:handshake,ritchiesprojectilelib:network,create_connected:config_common,create_connected:main,tacz:network,create:main,ic_air:main,createbigcannons:network] rejected their client side version number
+[08Feb2025 21:20:28.336] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[08Feb2025 21:20:28.382] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@681e6826[id=<null>,name=fabrix_YT,properties={},legacy=false] (/127.213.65.231:40731) lost connection: Connection closed - mismatched mod channel list
+[08Feb2025 21:22:10.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend fell out of the world
+[08Feb2025 21:22:28.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Teleported Warrior_Legend to -3811.065838, -43.967399, 119.702340]
+[08Feb2025 21:22:49.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Teleported 4 entities to LIGS_458]
+[08Feb2025 21:22:49.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> que exagerado
+[08Feb2025 21:23:23.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> ponlo tu
+[08Feb2025 21:23:51.450] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [vs_clockwork:main,create_tweaked_controllers:main,valkyrienskies:vs_packet,tacz:handshake,ritchiesprojectilelib:network,create_connected:config_common,create_connected:main,tacz:network,create:main,ic_air:main,createbigcannons:network] rejected their client side version number
+[08Feb2025 21:23:51.450] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[08Feb2025 21:23:51.477] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1af85ab5[id=<null>,name=fabrix_YT,properties={},legacy=false] (/127.213.65.231:38305) lost connection: Connection closed - mismatched mod channel list
+[08Feb2025 21:23:56.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> no
+[08Feb2025 21:24:11.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> no sabia
+[08Feb2025 21:24:21.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> se transforma
+[08Feb2025 21:24:22.779] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 121, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:22.779] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 121, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:22.779] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 121, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:22.828] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 121, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:29.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> mira
+[08Feb2025 21:24:35.977] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 122, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:35.977] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 122, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:35.977] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 122, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:37.981] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 123, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:37.981] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 123, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:37.981] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 123, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:39.126] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 124, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:39.126] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 124, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:39.126] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 124, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:40.079] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 126, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:40.079] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 125, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:40.079] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 126, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:40.079] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 125, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:40.079] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 126, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:40.080] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 125, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:40.428] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 127, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:40.428] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 127, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:40.428] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 127, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:40.627] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 128, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:40.627] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 128, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:40.627] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 128, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:40.777] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 129, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:40.777] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 129, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:40.777] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 129, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:41.431] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 130, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:41.431] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 130, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:41.431] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 130, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:41.626] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 131, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:41.627] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 131, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:41.627] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 131, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:41.927] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 132, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:41.928] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 132, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:41.928] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 132, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:42.077] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 133, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:42.077] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 133, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:42.077] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 133, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:42.330] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 134, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:42.331] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 134, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:42.331] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 134, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:42.379] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 136, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:42.379] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 135, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:42.379] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 136, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:42.380] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 135, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:42.380] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 136, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:42.380] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 135, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:49.526] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 137, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:49.526] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 137, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:50.284] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 138, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:50.285] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 138, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:50.285] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 138, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:50.285] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 138, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:50.330] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 139, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:50.330] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 139, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:50.777] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 140, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:50.778] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 140, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:50.778] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 140, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:50.927] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 141, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:50.928] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 141, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:50.928] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 141, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:51.026] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 142, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:51.027] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 142, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:51.027] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 142, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:51.127] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 143, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:51.127] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 143, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:51.127] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 143, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:51.379] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 144, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:51.379] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 144, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:51.380] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 144, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:51.678] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 145, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:51.678] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 145, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:51.927] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 147, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:51.927] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 147, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:51.927] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 147, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:52.086] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 148, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:52.086] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 148, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:52.086] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 148, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:52.086] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 148, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:52.178] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 146, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:52.178] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 146, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:52.178] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 146, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:52.276] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 149, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:52.276] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 150, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:52.276] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 149, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:52.276] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 150, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:52.277] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 149, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:52.277] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 150, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:52.426] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 151, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:52.427] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 151, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:52.427] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 151, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:52.827] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 152, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:52.827] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 152, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:52.827] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 152, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:53.030] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 153, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:53.030] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 153, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:53.030] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 153, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:53.077] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 154, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:53.077] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 154, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:53.077] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 154, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:53.131] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 156, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:53.132] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 156, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:53.132] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 156, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:53.182] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 155, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:53.182] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 155, but a ship with this ShipId does not exist!
+[08Feb2025 21:24:53.183] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 155, but a ship with this ShipId does not exist!
+[08Feb2025 21:25:19.576] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 157, but a ship with this ShipId does not exist!
+[08Feb2025 21:25:19.577] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 157, but a ship with this ShipId does not exist!
+[08Feb2025 21:25:19.577] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 157, but a ship with this ShipId does not exist!
+[08Feb2025 21:25:26.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Banned Ly4Nx_: Banned by an operator.]
+[08Feb2025 21:25:26.929] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ly4Nx_ lost connection: You are banned from this server
+[08Feb2025 21:25:26.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ left the game
+[08Feb2025 21:25:31.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Unbanned Ly4Nx_]
+[08Feb2025 21:26:10.135] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ly4Nx_[/127.221.157.209:56975] logged in with entity id 2644 at (-1118.2112872461414, -30.0, 72.76074780123318)
+[08Feb2025 21:26:10.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ joined the game

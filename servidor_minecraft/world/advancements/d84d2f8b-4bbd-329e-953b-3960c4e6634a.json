@@ -573,5 +573,11 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/filter_clear": {
+    "criteria": {
+      "has_item": "2025-02-08 21:19:58 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
