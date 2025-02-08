@@ -1704,3 +1704,117 @@ Reason: puedes ver este mensaje?
 [08Feb2025 23:29:08.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Bascap
 [08Feb2025 23:29:14.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fabrix_YT was shot by Warrior_Legend
 [08Feb2025 23:29:19.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Bascap
+[08Feb2025 23:29:31.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
+[08Feb2025 23:29:33.955] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2735, y=-29, z=-1316}
+[08Feb2025 23:29:39.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported Bascap to Ly4Nx_]
+[08Feb2025 23:29:43.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Creative Mode]
+[08Feb2025 23:29:48.788] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2735, y=-29, z=-1316} BlockPos{x=-2733, y=-31, z=-1318}
+[08Feb2025 23:29:53.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fabrix_YT: Set own game mode to Creative Mode]
+[08Feb2025 23:29:55.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Spectator Mode]
+[08Feb2025 23:29:56.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fabrix_YT: Teleported Fabrix_YT to LIGS_458]
+[08Feb2025 23:30:02.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Spectator Mode]
+[08Feb2025 23:30:38.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Survival Mode]
+[08Feb2025 23:30:58.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Spectator Mode]
+[08Feb2025 23:31:09.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to Bascap]
+[08Feb2025 23:31:43.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set own game mode to Creative Mode]
+[08Feb2025 23:31:45.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported 76 entities to Warrior_Legend]
+[08Feb2025 23:31:47.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported 66 entities to LIGS_458]
+[08Feb2025 23:31:48.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> OE
+[08Feb2025 23:31:48.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fabrix_YT: Teleported 66 entities to LIGS_458]
+[08Feb2025 23:31:48.480] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/14846, l='ServerLevel[Mundo nuevo]', x=-2705.51, y=-31.00, z=-1367.28] died, message: 'Villager hit the ground too hard'
+[08Feb2025 23:31:50.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported 65 entities to LIGS_458]
+[08Feb2025 23:31:51.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported 63 entities to LIGS_458]
+[08Feb2025 23:31:53.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported 66 entities to LIGS_458]
+[08Feb2025 23:31:55.230] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warrior_Legend lost connection: Disconnected
+[08Feb2025 23:31:55.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend left the game
+[08Feb2025 23:31:55.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported 58 entities to LIGS_458]
+[08Feb2025 23:31:56.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported 54 entities to LIGS_458]
+[08Feb2025 23:31:58.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported 47 entities to LIGS_458]
+[08Feb2025 23:32:00.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported 38 entities to LIGS_458]
+[08Feb2025 23:32:01.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> bascap webon XD
+[08Feb2025 23:32:02.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported 31 entities to LIGS_458]
+[08Feb2025 23:32:04.272] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/14650, l='ServerLevel[Mundo nuevo]', x=-2708.99, y=-38.00, z=-1367.93] died, message: 'Villager hit the ground too hard'
+[08Feb2025 23:32:04.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported 15 entities to LIGS_458]
+[08Feb2025 23:32:04.423] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/14642, l='ServerLevel[Mundo nuevo]', x=-2705.62, y=-31.00, z=-1368.13] died, message: 'Nitwit hit the ground too hard'
+[08Feb2025 23:32:04.423] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/14635, l='ServerLevel[Mundo nuevo]', x=-2705.61, y=-31.00, z=-1368.38] died, message: 'Farmer hit the ground too hard'
+[08Feb2025 23:32:04.424] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/14646, l='ServerLevel[Mundo nuevo]', x=-2705.59, y=-31.00, z=-1368.29] died, message: 'Farmer hit the ground too hard'
+[08Feb2025 23:32:04.522] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/14651, l='ServerLevel[Mundo nuevo]', x=-2704.82, y=-31.00, z=-1368.67] died, message: 'Villager hit the ground too hard'
+[08Feb2025 23:32:04.525] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/14843, l='ServerLevel[Mundo nuevo]', x=-2705.20, y=-31.00, z=-1367.51] died, message: 'Villager hit the ground too hard'
+[08Feb2025 23:32:05.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported 10 entities to LIGS_458]
+[08Feb2025 23:32:06.376] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/14649, l='ServerLevel[Mundo nuevo]', x=-2708.85, y=-38.00, z=-1373.86] died, message: 'Farmer hit the ground too hard'
+[08Feb2025 23:32:06.424] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/14844, l='ServerLevel[Mundo nuevo]', x=-2703.10, y=-30.00, z=-1364.88] died, message: 'Cleric hit the ground too hard'
+[08Feb2025 23:32:07.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported 8 entities to LIGS_458]
+[08Feb2025 23:32:09.128] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/14842, l='ServerLevel[Mundo nuevo]', x=-2702.17, y=-60.00, z=-1374.38] died, message: 'Villager hit the ground too hard'
+[08Feb2025 23:32:09.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported 9 entities to LIGS_458]
+[08Feb2025 23:32:10.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported 6 entities to LIGS_458]
+[08Feb2025 23:32:11.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported 6 entities to LIGS_458]
+[08Feb2025 23:32:22.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fabrix_YT: Summoned new Ender Dragon]
+[08Feb2025 23:32:25.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> ya chao
+[08Feb2025 23:32:28.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Creative Mode]
+[08Feb2025 23:32:32.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap has made the advancement [Free the End]
+[08Feb2025 23:32:33.224] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ly4Nx_ lost connection: Disconnected
+[08Feb2025 23:32:33.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ left the game
+[08Feb2025 23:32:49.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabrix_YT> .
+[08Feb2025 23:33:11.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported 5 entities to LIGS_458]
+[08Feb2025 23:33:12.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported 5 entities to LIGS_458]
+[08Feb2025 23:33:12.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported 5 entities to LIGS_458]
+[08Feb2025 23:33:12.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported 5 entities to LIGS_458]
+[08Feb2025 23:33:14.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported 5 entities to LIGS_458]
+[08Feb2025 23:33:15.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported 5 entities to LIGS_458]
+[08Feb2025 23:33:15.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported 5 entities to LIGS_458]
+[08Feb2025 23:33:16.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported 5 entities to LIGS_458]
+[08Feb2025 23:33:16.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported 5 entities to LIGS_458]
+[08Feb2025 23:33:16.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported 5 entities to LIGS_458]
+[08Feb2025 23:33:17.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported 5 entities to LIGS_458]
+[08Feb2025 23:33:17.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported 5 entities to LIGS_458]
+[08Feb2025 23:33:17.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported 5 entities to LIGS_458]
+[08Feb2025 23:33:18.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported 5 entities to LIGS_458]
+[08Feb2025 23:33:18.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported 5 entities to LIGS_458]
+[08Feb2025 23:33:18.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported 5 entities to LIGS_458]
+[08Feb2025 23:33:19.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported 5 entities to LIGS_458]
+[08Feb2025 23:33:20.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fabrix_YT: Summoned new Ender Dragon]
+[08Feb2025 23:33:20.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported 6 entities to LIGS_458]
+[08Feb2025 23:33:21.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fabrix_YT: Summoned new Ender Dragon]
+[08Feb2025 23:33:21.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported 7 entities to LIGS_458]
+[08Feb2025 23:33:21.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fabrix_YT: Summoned new Ender Dragon]
+[08Feb2025 23:33:22.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported 14 entities to LIGS_458]
+[08Feb2025 23:33:22.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fabrix_YT: Summoned new Ender Dragon]
+[08Feb2025 23:33:22.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported 11 entities to LIGS_458]
+[08Feb2025 23:33:22.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fabrix_YT: Summoned new Ender Dragon]
+[08Feb2025 23:33:23.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fabrix_YT: Summoned new Ender Dragon]
+[08Feb2025 23:33:23.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported 13 entities to LIGS_458]
+[08Feb2025 23:33:23.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fabrix_YT: Summoned new Ender Dragon]
+[08Feb2025 23:33:23.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported 13 entities to LIGS_458]
+[08Feb2025 23:33:23.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fabrix_YT: Summoned new Ender Dragon]
+[08Feb2025 23:33:23.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported 14 entities to LIGS_458]
+[08Feb2025 23:33:24.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fabrix_YT: Summoned new Ender Dragon]
+[08Feb2025 23:33:24.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported 15 entities to LIGS_458]
+[08Feb2025 23:33:24.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fabrix_YT: Summoned new Ender Dragon]
+[08Feb2025 23:33:24.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported 17 entities to LIGS_458]
+[08Feb2025 23:33:24.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fabrix_YT: Summoned new Ender Dragon]
+[08Feb2025 23:33:25.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fabrix_YT: Summoned new Ender Dragon]
+[08Feb2025 23:33:25.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fabrix_YT: Summoned new Ender Dragon]
+[08Feb2025 23:33:25.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fabrix_YT: Summoned new Ender Dragon]
+[08Feb2025 23:33:30.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was killed
+[08Feb2025 23:33:30.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was killed
+[08Feb2025 23:33:30.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fabrix_YT was killed
+[08Feb2025 23:33:30.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Killed 25 entities]
+[08Feb2025 23:33:33.276] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LIGS_458 lost connection: Disconnected
+[08Feb2025 23:33:33.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 left the game
+[08Feb2025 23:33:36.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fabrix_YT was killed
+[08Feb2025 23:33:36.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was killed
+[08Feb2025 23:33:36.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Killed 8 entities]
+[08Feb2025 23:33:37.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[08Feb2025 23:33:37.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08Feb2025 23:33:37.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08Feb2025 23:33:37.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08Feb2025 23:33:37.096] [Physics thread/INFO] [Burger Factory/]: Deleting VSPhysicsPipelineStage resources!
+[08Feb2025 23:33:37.097] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ap/]: Physics pipeline ending
+[08Feb2025 23:33:37.121] [DefaultDispatcher-worker-4/INFO] [Burger Factory/]: VSPhysicsPipelineStage is fully deleted!
+[08Feb2025 23:33:38.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/minecraft:overworld
+[08Feb2025 23:33:45.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/minecraft:the_end
+[08Feb2025 23:33:45.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/minecraft:the_nether
+[08Feb2025 23:33:45.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08Feb2025 23:33:45.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08Feb2025 23:33:45.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Feb2025 23:33:45.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

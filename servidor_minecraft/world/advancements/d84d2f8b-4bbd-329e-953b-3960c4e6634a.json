@@ -645,9 +645,16 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-02-08 23:32:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:zombified_piglin": "2025-02-08 23:14:33 +0000"
+      "minecraft:zombified_piglin": "2025-02-08 23:14:33 +0000",
+      "minecraft:ender_dragon": "2025-02-08 23:32:32 +0000"
     },
     "done": false
   },
