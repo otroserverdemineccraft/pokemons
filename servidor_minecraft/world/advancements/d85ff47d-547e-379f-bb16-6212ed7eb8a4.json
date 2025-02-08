@@ -1144,15 +1144,39 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-02-08 22:17:39 +0000"
+    },
+    "done": true
+  },
   "create:display_link": {
     "criteria": {
       "0": "2025-02-08 21:42:50 +0000"
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/fluid_vessel": {
+    "criteria": {
+      "has_item": "2025-02-08 22:17:39 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/item_silo": {
+    "criteria": {
+      "has_item": "2025-02-08 22:17:39 +0000"
+    },
+    "done": true
+  },
   "createbigcannons:recipes/misc/ram_rod": {
     "criteria": {
       "has_ram_head": "2025-02-08 21:10:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-02-08 22:17:39 +0000"
     },
     "done": true
   },

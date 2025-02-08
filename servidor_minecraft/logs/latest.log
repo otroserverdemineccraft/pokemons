@@ -682,3 +682,56 @@ Reason: puedes ver este mensaje?
 [08Feb2025 22:08:10.698] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3667, l='ServerLevel[Mundo nuevo]', x=-1107.50, y=-60.00, z=140.50] died, message: 'Villager hit the ground too hard'
 [08Feb2025 22:08:10.903] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3668, l='ServerLevel[Mundo nuevo]', x=-1105.50, y=-60.00, z=140.50] died, message: 'Villager hit the ground too hard'
 [08Feb2025 22:08:11.055] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3669, l='ServerLevel[Mundo nuevo]', x=-1105.50, y=-60.00, z=140.50] died, message: 'Villager hit the ground too hard'
+[08Feb2025 22:09:08.298] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[08Feb2025 22:09:30.656] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[08Feb2025 22:09:48.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2877ms or 57 ticks behind
+[08Feb2025 22:10:10.816] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7345ms or 146 ticks behind
+[08Feb2025 22:10:25.329] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Warrior_Legend[/127.119.191.31:58767] logged in with entity id 4059 at (-1113.7013922728822, -60.0, 135.80415494089854)
+[08Feb2025 22:10:25.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend joined the game
+[08Feb2025 22:10:35.215] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9445ms or 188 ticks behind
+[08Feb2025 22:10:59.674] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9504ms or 190 ticks behind
+[08Feb2025 22:11:26.014] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11343ms or 226 ticks behind
+[08Feb2025 22:11:53.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12492ms or 249 ticks behind
+[08Feb2025 22:12:19.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -1095.500000, -30.500000, 110.500000]
+[08Feb2025 22:12:21.321] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12901ms or 258 ticks behind
+[08Feb2025 22:12:32.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -1102.500000, -50.500000, 33.500000]
+[08Feb2025 22:12:49.503] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13182ms or 263 ticks behind
+[08Feb2025 22:12:52.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend has made the advancement [Ice Bucket Challenge]
+[08Feb2025 22:13:18.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend has made the advancement [We Need to Go Deeper]
+[08Feb2025 22:13:22.350] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17880ms or 357 ticks behind
+[08Feb2025 22:13:48.619] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3676, l='ServerLevel[Mundo nuevo]', x=-1117.63, y=-59.79, z=104.59] died, message: 'Villager tried to swim in lava'
+[08Feb2025 22:13:48.625] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3689, l='ServerLevel[Mundo nuevo]', x=-1123.63, y=-59.85, z=104.51] died, message: 'Villager tried to swim in lava'
+[08Feb2025 22:13:48.634] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3726, l='ServerLevel[Mundo nuevo]', x=-1092.14, y=-59.84, z=104.70] died, message: 'Villager tried to swim in lava'
+[08Feb2025 22:13:49.554] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3708, l='ServerLevel[Mundo nuevo]', x=-1082.89, y=-60.00, z=104.30] died, message: 'Villager tried to swim in lava'
+[08Feb2025 22:13:49.555] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3710, l='ServerLevel[Mundo nuevo]', x=-1091.46, y=-59.91, z=104.36] died, message: 'Villager tried to swim in lava'
+[08Feb2025 22:13:49.570] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3819, l='ServerLevel[Mundo nuevo]', x=-1113.95, y=-59.61, z=104.70] died, message: 'Villager tried to swim in lava'
+[08Feb2025 22:13:49.571] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3831, l='ServerLevel[Mundo nuevo]', x=-1097.57, y=-59.96, z=104.50] died, message: 'Villager tried to swim in lava'
+[08Feb2025 22:13:49.572] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3835, l='ServerLevel[Mundo nuevo]', x=-1110.30, y=-59.99, z=104.53] died, message: 'Villager tried to swim in lava'
+[08Feb2025 22:13:49.573] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3848, l='ServerLevel[Mundo nuevo]', x=-1092.76, y=-59.73, z=104.33] died, message: 'Villager tried to swim in lava'
+[08Feb2025 22:13:49.590] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3915, l='ServerLevel[Mundo nuevo]', x=-1113.26, y=-59.70, z=104.32] died, message: 'Villager tried to swim in lava'
+[08Feb2025 22:13:49.607] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4040, l='ServerLevel[Mundo nuevo]', x=-1083.54, y=-59.81, z=104.37] died, message: 'Villager tried to swim in lava'
+[08Feb2025 22:13:49.608] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4049, l='ServerLevel[Mundo nuevo]', x=-1081.98, y=-59.86, z=104.70] died, message: 'Villager tried to swim in lava'
+[08Feb2025 22:13:52.276] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3840, l='ServerLevel[Mundo nuevo]', x=-1093.85, y=-59.74, z=104.77] died, message: 'Villager tried to swim in lava'
+[08Feb2025 22:13:52.278] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3856, l='ServerLevel[Mundo nuevo]', x=-1108.92, y=-59.98, z=104.55] died, message: 'Villager tried to swim in lava'
+[08Feb2025 22:13:52.292] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3956, l='ServerLevel[Mundo nuevo]', x=-1082.82, y=-59.81, z=104.85] died, message: 'Villager tried to swim in lava'
+[08Feb2025 22:13:52.298] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4023, l='ServerLevel[Mundo nuevo]', x=-1114.09, y=-59.88, z=104.16] died, message: 'Villager tried to swim in lava'
+[08Feb2025 22:13:52.302] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4055, l='ServerLevel[Mundo nuevo]', x=-1093.63, y=-59.93, z=104.35] died, message: 'Villager tried to swim in lava'
+[08Feb2025 22:13:52.698] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15377ms or 307 ticks behind
+[08Feb2025 22:13:54.912] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warrior_Legend lost connection: Disconnected
+[08Feb2025 22:13:54.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend left the game
+[08Feb2025 22:13:55.035] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3719, l='ServerLevel[Mundo nuevo]', x=-1081.30, y=-59.78, z=104.38] died, message: 'Villager tried to swim in lava'
+[08Feb2025 22:13:55.077] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4053, l='ServerLevel[Mundo nuevo]', x=-1081.86, y=-59.95, z=104.15] died, message: 'Villager tried to swim in lava'
+[08Feb2025 22:14:19.690] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12020ms or 240 ticks behind
+[08Feb2025 22:14:46.592] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11922ms or 238 ticks behind
+[08Feb2025 22:15:14.174] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12604ms or 252 ticks behind
+[08Feb2025 22:15:41.523] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12353ms or 247 ticks behind
+[08Feb2025 22:16:07.488] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Warrior_Legend[/127.119.191.31:58201] logged in with entity id 4170 at (-1061.883147389842, -57.642713367365225, 108.76779487703286)
+[08Feb2025 22:16:07.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend joined the game
+[08Feb2025 22:16:10.790] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14270ms or 285 ticks behind
+[08Feb2025 22:16:38.828] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13057ms or 261 ticks behind
+[08Feb2025 22:17:00.758] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3649, l='ServerLevel[Mundo nuevo]', x=-1109.68, y=-59.00, z=136.82] died, message: 'Villager suffocated in a wall'
+[08Feb2025 22:17:09.042] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15222ms or 304 ticks behind
+[08Feb2025 22:17:35.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Teleported Warrior_Legend to Fabrix_YT]
+[08Feb2025 22:17:38.984] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14963ms or 299 ticks behind
+[08Feb2025 22:18:06.925] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12954ms or 259 ticks behind
+[08Feb2025 22:18:35.944] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14023ms or 280 ticks behind

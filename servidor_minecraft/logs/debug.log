@@ -18925,3 +18925,1141 @@ Reason: puedes ver este mensaje?
 [08Feb2025 22:08:46.961] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18hkh1fzy5l6t]: started parsing
 [08Feb2025 22:08:46.961] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18hkh1fzy5l6t]: Consuming argument `90`
 [08Feb2025 22:08:46.962] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18hkh1fzy5l6t]: Finished looking at arguments. Finalizing command.
+[08Feb2025 22:08:53.502] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0r45pwa0zc465]: started parsing
+[08Feb2025 22:08:53.502] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0r45pwa0zc465]: Finished looking at arguments. Finalizing command.
+[08Feb2025 22:08:58.951] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1swzh0jaj3yt2]: started parsing
+[08Feb2025 22:08:58.951] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1swzh0jaj3yt2]: Finished looking at arguments. Finalizing command.
+[08Feb2025 22:09:03.451] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jbp5b50iv7ce]: started parsing
+[08Feb2025 22:09:03.451] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jbp5b50iv7ce]: Finished looking at arguments. Finalizing command.
+[08Feb2025 22:09:08.298] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[08Feb2025 22:09:30.656] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[08Feb2025 22:09:41.023] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[08Feb2025 22:09:41.023] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[08Feb2025 22:09:41.023] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[08Feb2025 22:09:41.023] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[08Feb2025 22:09:41.023] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[08Feb2025 22:09:41.023] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[08Feb2025 22:09:41.023] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[08Feb2025 22:09:41.023] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[08Feb2025 22:09:41.023] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[08Feb2025 22:09:41.023] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[08Feb2025 22:09:41.023] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[08Feb2025 22:09:41.023] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[08Feb2025 22:09:41.023] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[08Feb2025 22:09:41.023] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[08Feb2025 22:09:41.023] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[08Feb2025 22:09:41.023] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[08Feb2025 22:09:41.023] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[08Feb2025 22:09:41.023] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[08Feb2025 22:09:41.023] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[08Feb2025 22:09:41.023] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[08Feb2025 22:09:41.023] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[08Feb2025 22:09:41.023] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[08Feb2025 22:09:41.023] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[08Feb2025 22:09:41.023] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[08Feb2025 22:09:41.023] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[08Feb2025 22:09:41.023] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[08Feb2025 22:09:41.023] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[08Feb2025 22:09:41.023] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: createbigcannons:cannon_cast_shapes
+[08Feb2025 22:09:41.023] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[08Feb2025 22:09:41.023] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[08Feb2025 22:09:41.023] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[08Feb2025 22:09:41.024] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[08Feb2025 22:09:41.024] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[08Feb2025 22:09:41.024] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[08Feb2025 22:09:41.024] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[08Feb2025 22:09:41.024] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[08Feb2025 22:09:41.024] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[08Feb2025 22:09:41.024] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[08Feb2025 22:09:41.024] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[08Feb2025 22:09:41.024] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[08Feb2025 22:09:41.024] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[08Feb2025 22:09:41.024] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[08Feb2025 22:09:41.024] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[08Feb2025 22:09:41.024] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: createbigcannons:block_recipe_serializers
+[08Feb2025 22:09:41.024] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[08Feb2025 22:09:41.024] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[08Feb2025 22:09:41.024] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[08Feb2025 22:09:41.024] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[08Feb2025 22:09:41.024] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[08Feb2025 22:09:41.024] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[08Feb2025 22:09:41.024] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[08Feb2025 22:09:41.024] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[08Feb2025 22:09:41.024] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[08Feb2025 22:09:41.024] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[08Feb2025 22:09:41.024] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: createbigcannons:block_recipe_types
+[08Feb2025 22:09:41.024] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[08Feb2025 22:09:41.024] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[08Feb2025 22:09:41.024] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[08Feb2025 22:09:41.024] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[08Feb2025 22:09:41.024] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[08Feb2025 22:09:41.024] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[08Feb2025 22:09:41.024] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[08Feb2025 22:09:41.024] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[08Feb2025 22:09:41.024] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[08Feb2025 22:09:41.024] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[08Feb2025 22:09:41.024] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[08Feb2025 22:09:41.024] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[08Feb2025 22:09:41.024] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[08Feb2025 22:09:41.024] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[08Feb2025 22:09:41.024] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[08Feb2025 22:09:41.024] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[08Feb2025 22:09:41.024] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[08Feb2025 22:09:41.024] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[08Feb2025 22:09:41.024] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[08Feb2025 22:09:41.025] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[08Feb2025 22:09:41.032] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[08Feb2025 22:09:48.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2877ms or 57 ticks behind
+[08Feb2025 22:10:10.816] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7345ms or 146 ticks behind
+[08Feb2025 22:10:21.425] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 33 messages to dispatch.
+[08Feb2025 22:10:21.433] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[08Feb2025 22:10:21.516] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[08Feb2025 22:10:21.599] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[08Feb2025 22:10:21.689] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[08Feb2025 22:10:21.712] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58767/]: Handling inbound login query with id 1
+[08Feb2025 22:10:21.712] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[08Feb2025 22:10:21.712] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[08Feb2025 22:10:21.712] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [fabric_renderer_api_v1, fabric_item_api_v1, fabric_rendering_fluids_v1, fabric_models_v0, immersive_aircraft, fabric_convention_tags_v1, ritchiesprojectilelib, xaeroworldmap, fabric_command_api_v1, fabric_block_view_api_v2, fabric_command_api_v2, fabric_data_attachment_api_v1, mixinextras, fabric_screen_api_v1, cloth_config, fabric_api, fabric_content_registries_v0, embeddium, rubidium, cbcmodernwarfare, create_connected, fabric_game_rule_api_v1, fabric_api_lookup_api_v1, oculus, replaymod, connectormod, fabric_entity_events_v1, worldedit, fabric_loot_api_v2, fabric_rendering_data_attachment_v1, fabric_networking_api_v1, fabric_lifecycle_events_v1, fabric_key_binding_api_v1, fabric_client_tags_api_v1, fabric_transfer_api_v1, fabric_dimensions_v1, create_tweaked_controllers, fabric_model_loading_api_v1, jei, tacz, fabric_screen_handler_api_v1, fabric_resource_loader_v0, fabric_rendering_v1, fabric_renderer_indigo, fabric_mining_level_api_v1, fabric_particles_v1, forge, fabric_transitive_access_wideners_v1, minecraft, fabric_api_base, fabric_blockrenderlayer_v1, fabric_block_api_v1, fabric_resource_conditions_api_v1, kotlinforforge, flywheel, xaerominimap, fabric_item_group_api_v1, create_radar, createbigcannons, create, fabric_biome_api_v1, fabric_registry_sync_v0, fabric_recipe_api_v1, fabric_object_builder_api_v1, fabric_sound_api_v1, valkyrienskies, vs_eureka, vs_clockwork, fabric_message_api_v1, fabric_data_generation_api_v1, fabric_events_interaction_v0]
+[08Feb2025 22:10:21.712] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:cui' : Version test of '1' from client : ACCEPTED
+[08Feb2025 22:10:21.713] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[08Feb2025 22:10:21.713] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[08Feb2025 22:10:21.713] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[08Feb2025 22:10:21.713] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create_radar:messages' : Version test of '1.0' from client : ACCEPTED
+[08Feb2025 22:10:21.713] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create_connected:config_common' : Version test of '1.0.0' from client : ACCEPTED
+[08Feb2025 22:10:21.713] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[08Feb2025 22:10:21.713] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[08Feb2025 22:10:21.713] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Version test of '1.0' from client : ACCEPTED
+[08Feb2025 22:10:21.713] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ic_air:main' : Version test of '1' from client : ACCEPTED
+[08Feb2025 22:10:21.713] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'createbigcannons:network' : Version test of '2.0.0' from client : ACCEPTED
+[08Feb2025 22:10:21.713] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'vs_clockwork:main' : Version test of '1' from client : ACCEPTED
+[08Feb2025 22:10:21.713] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create_tweaked_controllers:main' : Version test of '2' from client : ACCEPTED
+[08Feb2025 22:10:21.713] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[08Feb2025 22:10:21.713] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'valkyrienskies:vs_packet' : Version test of '1' from client : ACCEPTED
+[08Feb2025 22:10:21.713] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tacz:handshake' : Version test of '1.0.4' from client : ACCEPTED
+[08Feb2025 22:10:21.713] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ritchiesprojectilelib:network' : Version test of '3.0.0' from client : ACCEPTED
+[08Feb2025 22:10:21.713] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:internal' : Version test of '1' from client : ACCEPTED
+[08Feb2025 22:10:21.713] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create_connected:main' : Version test of '1' from client : ACCEPTED
+[08Feb2025 22:10:21.713] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaeroworldmap:main' : Version test of '1.0' from client : ACCEPTED
+[08Feb2025 22:10:21.713] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[08Feb2025 22:10:21.713] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[08Feb2025 22:10:21.713] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tacz:network' : Version test of '1.0.4' from client : ACCEPTED
+[08Feb2025 22:10:21.713] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create:main' : Version test of '3' from client : ACCEPTED
+[08Feb2025 22:10:21.713] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[08Feb2025 22:10:21.713] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[08Feb2025 22:10:21.760] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58767/]: Handling inbound login query with id 2
+[08Feb2025 22:10:21.760] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[08Feb2025 22:10:21.760] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:10:21.760] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:10:21.783] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[08Feb2025 22:10:21.811] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58767/]: Handling inbound login query with id 3
+[08Feb2025 22:10:21.811] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[08Feb2025 22:10:21.811] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:10:21.811] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:10:21.863] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[08Feb2025 22:10:21.929] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[08Feb2025 22:10:22.002] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[08Feb2025 22:10:22.003] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08v73t769zj7e]: started parsing
+[08Feb2025 22:10:22.003] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08v73t769zj7e]: Consuming argument ``
+[08Feb2025 22:10:22.080] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[08Feb2025 22:10:22.097] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58767/]: Handling inbound login query with id 4
+[08Feb2025 22:10:22.097] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[08Feb2025 22:10:22.097] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:10:22.097] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:10:22.100] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58767/]: Handling inbound login query with id 5
+[08Feb2025 22:10:22.100] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[08Feb2025 22:10:22.100] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:10:22.100] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:10:22.101] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58767/]: Handling inbound login query with id 6
+[08Feb2025 22:10:22.101] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[08Feb2025 22:10:22.101] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:10:22.101] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:10:22.150] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry createbigcannons:block_recipe_serializers' to 'fml:handshake' sequence 9
+[08Feb2025 22:10:22.151] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1th3wlfp1faw0]: started parsing
+[08Feb2025 22:10:22.151] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1th3wlfp1faw0]: Consuming argument `a`
+[08Feb2025 22:10:22.199] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58767/]: Handling inbound login query with id 7
+[08Feb2025 22:10:22.199] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[08Feb2025 22:10:22.199] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:10:22.199] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:10:22.201] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58767/]: Handling inbound login query with id 8
+[08Feb2025 22:10:22.201] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[08Feb2025 22:10:22.201] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:10:22.201] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:10:22.237] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 10
+[08Feb2025 22:10:22.294] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58767/]: Handling inbound login query with id 9
+[08Feb2025 22:10:22.294] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[08Feb2025 22:10:22.294] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:10:22.294] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:10:22.316] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 11
+[08Feb2025 22:10:22.317] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ctr0gpceyzg2]: started parsing
+[08Feb2025 22:10:22.317] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ctr0gpceyzg2]: Consuming argument `ai`
+[08Feb2025 22:10:22.397] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58767/]: Handling inbound login query with id 10
+[08Feb2025 22:10:22.397] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[08Feb2025 22:10:22.397] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:10:22.398] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:10:22.408] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 12
+[08Feb2025 22:10:22.409] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14vlh6sow4o1w]: started parsing
+[08Feb2025 22:10:22.409] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14vlh6sow4o1w]: Consuming argument `air`
+[08Feb2025 22:10:22.409] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14vlh6sow4o1w]: Finished looking at arguments. Finalizing command.
+[08Feb2025 22:10:22.480] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 13
+[08Feb2025 22:10:22.502] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58767/]: Handling inbound login query with id 11
+[08Feb2025 22:10:22.502] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[08Feb2025 22:10:22.502] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:10:22.502] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:10:22.556] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 14
+[08Feb2025 22:10:22.604] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58767/]: Handling inbound login query with id 12
+[08Feb2025 22:10:22.604] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[08Feb2025 22:10:22.604] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:10:22.604] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:10:22.605] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58767/]: Handling inbound login query with id 13
+[08Feb2025 22:10:22.605] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[08Feb2025 22:10:22.605] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:10:22.605] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:10:22.612] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 15
+[08Feb2025 22:10:22.681] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 16
+[08Feb2025 22:10:22.712] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58767/]: Handling inbound login query with id 14
+[08Feb2025 22:10:22.712] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[08Feb2025 22:10:22.712] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:10:22.712] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:10:22.766] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 17
+[08Feb2025 22:10:22.815] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58767/]: Handling inbound login query with id 15
+[08Feb2025 22:10:22.815] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[08Feb2025 22:10:22.815] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:10:22.816] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:10:22.817] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58767/]: Handling inbound login query with id 16
+[08Feb2025 22:10:22.817] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[08Feb2025 22:10:22.817] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:10:22.817] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:10:22.829] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry createbigcannons:cannon_cast_shapes' to 'fml:handshake' sequence 18
+[08Feb2025 22:10:22.918] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58767/]: Handling inbound login query with id 17
+[08Feb2025 22:10:22.918] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[08Feb2025 22:10:22.919] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:10:22.919] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:10:22.927] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 19
+[08Feb2025 22:10:22.928] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01kfrx7k5phl8]: started parsing
+[08Feb2025 22:10:22.928] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01kfrx7k5phl8]: Consuming argument `air`
+[08Feb2025 22:10:22.928] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01kfrx7k5phl8]: Consuming argument ``
+[08Feb2025 22:10:23.009] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry createbigcannons:block_recipe_types' to 'fml:handshake' sequence 20
+[08Feb2025 22:10:23.020] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58767/]: Handling inbound login query with id 18
+[08Feb2025 22:10:23.020] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[08Feb2025 22:10:23.021] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:10:23.021] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:10:23.085] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 21
+[08Feb2025 22:10:23.121] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58767/]: Handling inbound login query with id 19
+[08Feb2025 22:10:23.121] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[08Feb2025 22:10:23.121] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:10:23.122] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:10:23.122] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58767/]: Handling inbound login query with id 20
+[08Feb2025 22:10:23.122] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[08Feb2025 22:10:23.122] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:10:23.122] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:10:23.174] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 22
+[08Feb2025 22:10:23.222] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58767/]: Handling inbound login query with id 21
+[08Feb2025 22:10:23.222] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[08Feb2025 22:10:23.222] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:10:23.223] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:10:23.245] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 23
+[08Feb2025 22:10:23.324] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ritchiesprojectilelib-server.toml' to 'fml:handshake' sequence 24
+[08Feb2025 22:10:23.326] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58767/]: Handling inbound login query with id 22
+[08Feb2025 22:10:23.326] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[08Feb2025 22:10:23.326] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:10:23.326] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:10:23.419] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config vs_clockwork-server.toml' to 'fml:handshake' sequence 25
+[08Feb2025 22:10:23.499] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config create-server.toml' to 'fml:handshake' sequence 26
+[08Feb2025 22:10:23.578] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config createbigcannons-server.toml' to 'fml:handshake' sequence 27
+[08Feb2025 22:10:23.646] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config create_connected-server.toml' to 'fml:handshake' sequence 28
+[08Feb2025 22:10:23.722] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 29
+[08Feb2025 22:10:23.807] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tacz-server.toml' to 'fml:handshake' sequence 30
+[08Feb2025 22:10:23.890] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 31
+[08Feb2025 22:10:23.967] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'com.tacz.guns.network.message.handshake.ServerMessageSyncedEntityDataMapping' to 'tacz:handshake' sequence 32
+[08Feb2025 22:10:23.968] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0w18x44a139yc]: started parsing
+[08Feb2025 22:10:23.968] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0w18x44a139yc]: Consuming argument `air`
+[08Feb2025 22:10:23.968] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0w18x44a139yc]: Consuming argument `i`
+[08Feb2025 22:10:24.058] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tgk855rnf5gn]: started parsing
+[08Feb2025 22:10:24.058] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tgk855rnf5gn]: Consuming argument `air`
+[08Feb2025 22:10:24.058] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tgk855rnf5gn]: Consuming argument `ir`
+[08Feb2025 22:10:24.148] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1s6edgm0jd0mc]: started parsing
+[08Feb2025 22:10:24.148] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1s6edgm0jd0mc]: Consuming argument `air`
+[08Feb2025 22:10:24.148] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1s6edgm0jd0mc]: Consuming argument `iro`
+[08Feb2025 22:10:24.330] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13i39rhkf0iz8]: started parsing
+[08Feb2025 22:10:24.330] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13i39rhkf0iz8]: Consuming argument `air`
+[08Feb2025 22:10:24.330] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13i39rhkf0iz8]: Consuming argument `iron`
+[08Feb2025 22:10:24.518] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m6fp5kh32o4f]: started parsing
+[08Feb2025 22:10:24.518] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m6fp5kh32o4f]: Consuming argument `air`
+[08Feb2025 22:10:24.518] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m6fp5kh32o4f]: Consuming argument `iron`
+[08Feb2025 22:10:24.924] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tl0o7n7pojw4]: started parsing
+[08Feb2025 22:10:24.924] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tl0o7n7pojw4]: Consuming argument `air`
+[08Feb2025 22:10:24.924] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tl0o7n7pojw4]: Consuming argument `iron`
+[08Feb2025 22:10:24.989] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58767/]: Handling inbound login query with id 23
+[08Feb2025 22:10:24.989] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[08Feb2025 22:10:24.989] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:10:24.989] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:10:24.991] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58767/]: Handling inbound login query with id 24
+[08Feb2025 22:10:24.991] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[08Feb2025 22:10:24.991] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:10:24.991] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:10:24.991] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58767/]: Handling inbound login query with id 25
+[08Feb2025 22:10:24.991] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[08Feb2025 22:10:24.991] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:10:24.991] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:10:24.991] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58767/]: Handling inbound login query with id 26
+[08Feb2025 22:10:24.991] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[08Feb2025 22:10:24.991] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:10:24.991] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:10:25.013] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58767/]: Handling inbound login query with id 27
+[08Feb2025 22:10:25.013] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[08Feb2025 22:10:25.013] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:10:25.013] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:10:25.013] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58767/]: Handling inbound login query with id 28
+[08Feb2025 22:10:25.013] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[08Feb2025 22:10:25.013] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:10:25.013] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:10:25.013] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58767/]: Handling inbound login query with id 29
+[08Feb2025 22:10:25.013] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[08Feb2025 22:10:25.013] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:10:25.013] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:10:25.013] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58767/]: Handling inbound login query with id 30
+[08Feb2025 22:10:25.013] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[08Feb2025 22:10:25.014] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:10:25.014] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:10:25.014] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58767/]: Handling inbound login query with id 31
+[08Feb2025 22:10:25.014] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[08Feb2025 22:10:25.014] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:10:25.014] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:10:25.026] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58767/]: Handling inbound login query with id 32
+[08Feb2025 22:10:25.026] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel tacz:handshake with index 32
+[08Feb2025 22:10:25.026] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type com.tacz.guns.network.message.handshake.Acknowledge
+[08Feb2025 22:10:25.026] [Netty Epoll Server IO #7/DEBUG] [tacz/HANDSHAKE_ACKNOWLEDGE]: Received acknowledgement from client
+[08Feb2025 22:10:25.086] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[08Feb2025 22:10:25.162] [Server thread/DEBUG] [fabric_networking_api_v1/]: Sent accepted channels to the client for "com.mojang.authlib.GameProfile@5a67b103[id=<null>,name=Warrior_Legend,properties={},legacy=false] (/127.119.191.31:58767)"
+[08Feb2025 22:10:25.281] [Netty Epoll Server IO #7/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58767/]: Handling inbound login query with id 999
+[08Feb2025 22:10:25.281] [Netty Epoll Server IO #7/DEBUG] [fabric_networking_api_v1/]: Received accepted channels from the client for "com.mojang.authlib.GameProfile@5a67b103[id=<null>,name=Warrior_Legend,properties={},legacy=false] (/127.119.191.31:58767)"
+[08Feb2025 22:10:25.329] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Warrior_Legend[/127.119.191.31:58767] logged in with entity id 4059 at (-1113.7013922728822, -60.0, 135.80415494089854)
+[08Feb2025 22:10:25.329] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@7dae680e into net.minecraft.network.Connection@23b565de
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:command_argument_type
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:item
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:block_entity_type
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:custom_stat
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/foliage_placer_type
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:stat_type
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/material_rule
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_type
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:attribute
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:position_source_type
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:height_provider_type
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:rule_block_entity_modifier
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/density_function_type
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:fluid
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: forge:global_loot_modifier_serializers
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_condition_type
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_pool_element
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:activity
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:recipe_serializer
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:frog_variant
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:banner_pattern
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:instrument
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:decorated_pot_patterns
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/feature_size_type
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:point_of_interest_type
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:mob_effect
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: createbigcannons:cannon_cast_shapes
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_pool_entry_type
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/block_state_provider_type
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/chunk_generator
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:float_provider_type
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:chunk_status
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:enchantment
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_function_type
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_processor
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_score_provider_type
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/tree_decorator_type
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:schedule
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/material_condition
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:entity_type
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:villager_profession
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:potion
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: createbigcannons:block_recipe_serializers
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:recipe_type
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:int_provider_type
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/feature
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:cat_variant
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:pos_rule_test
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_placement
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_nbt_provider_type
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:menu
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/trunk_placer_type
+[08Feb2025 22:10:25.330] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:creative_mode_tab
+[08Feb2025 22:10:25.331] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: createbigcannons:block_recipe_types
+[08Feb2025 22:10:25.331] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/placement_modifier_type
+[08Feb2025 22:10:25.331] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/carver
+[08Feb2025 22:10:25.331] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_number_provider_type
+[08Feb2025 22:10:25.331] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_piece
+[08Feb2025 22:10:25.331] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:sound_event
+[08Feb2025 22:10:25.331] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:particle_type
+[08Feb2025 22:10:25.331] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:game_event
+[08Feb2025 22:10:25.331] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/biome_source
+[08Feb2025 22:10:25.331] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/root_placer_type
+[08Feb2025 22:10:25.331] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:villager_type
+[08Feb2025 22:10:25.331] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:painting_variant
+[08Feb2025 22:10:25.331] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: forge:fluid_type
+[08Feb2025 22:10:25.331] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:block_predicate_type
+[08Feb2025 22:10:25.331] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:block
+[08Feb2025 22:10:25.331] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: forge:entity_data_serializers
+[08Feb2025 22:10:25.331] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:sensor_type
+[08Feb2025 22:10:25.331] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:rule_test
+[08Feb2025 22:10:25.331] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:memory_module_type
+[08Feb2025 22:10:25.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend joined the game
+[08Feb2025 22:10:25.371] [Server thread/DEBUG] [com.hlysine.create_connected.CreateConnected/]: Sync Config: Sending server config to Warrior_Legend
+[08Feb2025 22:10:25.472] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1779840 : 768128
+[08Feb2025 22:10:25.472] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1779840 : 768127
+[08Feb2025 22:10:25.472] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1779839 : 768127
+[08Feb2025 22:10:25.472] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1779841 : 768127
+[08Feb2025 22:10:25.472] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1779840 : 768126
+[08Feb2025 22:10:25.472] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 56f34d1d-cb85-4423-b72f-2002f32385e8 watched ships: [120]
+[08Feb2025 22:10:25.947] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1739052625878
+[08Feb2025 22:10:26.863] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ak5nsh2k1gad]: started parsing
+[08Feb2025 22:10:26.864] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ak5nsh2k1gad]: Consuming argument `air`
+[08Feb2025 22:10:26.864] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ak5nsh2k1gad]: Consuming argument `iron_block`
+[08Feb2025 22:10:26.864] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ak5nsh2k1gad]: Finished looking at arguments. Finalizing command.
+[08Feb2025 22:10:35.215] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9445ms or 188 ticks behind
+[08Feb2025 22:10:39.238] [Netty Epoll Server IO #7/DEBUG] [org.valkyrienskies.core.impl.networking.NetworkChannel/]: Server received packet of type: PacketType(channel=org.valkyrienskies.core.impl.networking.NetworkChannel@4c8b906e, id=1, name=SimplePacket - class org.valkyrienskies.core.impl.networking.impl.PacketRequestUdp)
+[08Feb2025 22:10:59.674] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9504ms or 190 ticks behind
+[08Feb2025 22:11:26.014] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11343ms or 226 ticks behind
+[08Feb2025 22:11:53.307] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1a4cg26vqdiw7]: started parsing
+[08Feb2025 22:11:53.307] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1a4cg26vqdiw7]: Consuming argument ``
+[08Feb2025 22:11:53.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12492ms or 249 ticks behind
+[08Feb2025 22:11:54.225] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1og7hovnt9r6k]: started parsing
+[08Feb2025 22:11:54.225] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1og7hovnt9r6k]: Consuming argument `9`
+[08Feb2025 22:11:54.225] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1og7hovnt9r6k]: Finished looking at arguments. Finalizing command.
+[08Feb2025 22:11:54.328] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xljs57tkcqhy]: started parsing
+[08Feb2025 22:11:54.328] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xljs57tkcqhy]: Consuming argument `90`
+[08Feb2025 22:11:54.328] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xljs57tkcqhy]: Finished looking at arguments. Finalizing command.
+[08Feb2025 22:11:54.590] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17r5o44lq7jmy]: started parsing
+[08Feb2025 22:11:54.590] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17r5o44lq7jmy]: Consuming argument `90`
+[08Feb2025 22:11:54.590] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17r5o44lq7jmy]: Finished looking at arguments. Finalizing command.
+[08Feb2025 22:11:58.002] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1d9xb7xl5u0yi]: started parsing
+[08Feb2025 22:11:58.002] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1d9xb7xl5u0yi]: Finished looking at arguments. Finalizing command.
+[08Feb2025 22:12:19.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -1095.500000, -30.500000, 110.500000]
+[08Feb2025 22:12:21.321] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12901ms or 258 ticks behind
+[08Feb2025 22:12:30.824] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sb05jlojc6dx]: started parsing
+[08Feb2025 22:12:30.825] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sb05jlojc6dx]: Consuming argument ``
+[08Feb2025 22:12:31.092] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1op16y5l02ay9]: started parsing
+[08Feb2025 22:12:31.092] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1op16y5l02ay9]: Consuming argument `a`
+[08Feb2025 22:12:31.274] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1i6ikox6bjig1]: started parsing
+[08Feb2025 22:12:31.274] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1i6ikox6bjig1]: Consuming argument `ai`
+[08Feb2025 22:12:31.598] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1u9ivfzr2nmjv]: started parsing
+[08Feb2025 22:12:31.598] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1u9ivfzr2nmjv]: Consuming argument `air`
+[08Feb2025 22:12:31.598] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1u9ivfzr2nmjv]: Finished looking at arguments. Finalizing command.
+[08Feb2025 22:12:31.804] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bdv24rtqrgbo]: started parsing
+[08Feb2025 22:12:31.804] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bdv24rtqrgbo]: Consuming argument `air`
+[08Feb2025 22:12:31.804] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bdv24rtqrgbo]: Consuming argument ``
+[08Feb2025 22:12:32.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -1102.500000, -50.500000, 33.500000]
+[08Feb2025 22:12:33.574] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0aaru0smvk4uj]: started parsing
+[08Feb2025 22:12:33.574] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0aaru0smvk4uj]: Consuming argument `air`
+[08Feb2025 22:12:33.574] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0aaru0smvk4uj]: Consuming argument `i`
+[08Feb2025 22:12:33.686] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nf3gpaozfnq3]: started parsing
+[08Feb2025 22:12:33.686] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nf3gpaozfnq3]: Consuming argument `air`
+[08Feb2025 22:12:33.686] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nf3gpaozfnq3]: Consuming argument `ir`
+[08Feb2025 22:12:33.772] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lmf069glj19u]: started parsing
+[08Feb2025 22:12:33.772] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lmf069glj19u]: Consuming argument `air`
+[08Feb2025 22:12:33.772] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lmf069glj19u]: Consuming argument `iro`
+[08Feb2025 22:12:33.960] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dihzqt41lfjm]: started parsing
+[08Feb2025 22:12:33.960] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dihzqt41lfjm]: Consuming argument `air`
+[08Feb2025 22:12:33.960] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dihzqt41lfjm]: Consuming argument `iron`
+[08Feb2025 22:12:36.402] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15ozlyjym05hi]: started parsing
+[08Feb2025 22:12:36.402] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15ozlyjym05hi]: Consuming argument `air`
+[08Feb2025 22:12:36.402] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15ozlyjym05hi]: Consuming argument `iron_block`
+[08Feb2025 22:12:36.402] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15ozlyjym05hi]: Finished looking at arguments. Finalizing command.
+[08Feb2025 22:12:49.503] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13182ms or 263 ticks behind
+[08Feb2025 22:12:52.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend has made the advancement [Ice Bucket Challenge]
+[08Feb2025 22:13:01.892] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02z3fa4n7dijb]: started parsing
+[08Feb2025 22:13:01.892] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02z3fa4n7dijb]: Consuming argument ``
+[08Feb2025 22:13:03.140] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vjbint2jgz28]: started parsing
+[08Feb2025 22:13:03.140] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vjbint2jgz28]: Consuming argument `a`
+[08Feb2025 22:13:03.337] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mu6o4n604bmr]: started parsing
+[08Feb2025 22:13:03.337] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mu6o4n604bmr]: Consuming argument `ai`
+[08Feb2025 22:13:03.441] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d00e8fe1yica]: started parsing
+[08Feb2025 22:13:03.441] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d00e8fe1yica]: Consuming argument `air`
+[08Feb2025 22:13:03.441] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d00e8fe1yica]: Finished looking at arguments. Finalizing command.
+[08Feb2025 22:13:03.609] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uaew1qt4teu6]: started parsing
+[08Feb2025 22:13:03.609] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uaew1qt4teu6]: Consuming argument `air`
+[08Feb2025 22:13:03.610] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uaew1qt4teu6]: Consuming argument ``
+[08Feb2025 22:13:04.052] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02mwdakhl0oyk]: started parsing
+[08Feb2025 22:13:04.052] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02mwdakhl0oyk]: Consuming argument `air`
+[08Feb2025 22:13:04.052] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02mwdakhl0oyk]: Consuming argument `l`
+[08Feb2025 22:13:04.130] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0oe7d6homlg43]: started parsing
+[08Feb2025 22:13:04.130] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0oe7d6homlg43]: Consuming argument `air`
+[08Feb2025 22:13:04.131] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0oe7d6homlg43]: Consuming argument `la`
+[08Feb2025 22:13:04.682] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kmgpfeebeudj]: started parsing
+[08Feb2025 22:13:04.682] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kmgpfeebeudj]: Consuming argument `air`
+[08Feb2025 22:13:04.682] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kmgpfeebeudj]: Consuming argument `lav`
+[08Feb2025 22:13:05.280] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [143smnoyoecie]: started parsing
+[08Feb2025 22:13:05.280] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [143smnoyoecie]: Consuming argument `air`
+[08Feb2025 22:13:05.280] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [143smnoyoecie]: Consuming argument `lava`
+[08Feb2025 22:13:05.281] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [143smnoyoecie]: Finished looking at arguments. Finalizing command.
+[08Feb2025 22:13:06.288] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14w6y3pqeigiq]: started parsing
+[08Feb2025 22:13:06.288] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14w6y3pqeigiq]: Consuming argument `air`
+[08Feb2025 22:13:06.289] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14w6y3pqeigiq]: Consuming argument `lav`
+[08Feb2025 22:13:06.773] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bkc6rnf5les5]: started parsing
+[08Feb2025 22:13:06.773] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bkc6rnf5les5]: Consuming argument `air`
+[08Feb2025 22:13:06.773] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bkc6rnf5les5]: Consuming argument `lava`
+[08Feb2025 22:13:06.773] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bkc6rnf5les5]: Finished looking at arguments. Finalizing command.
+[08Feb2025 22:13:07.148] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vyl2kvkqkfik]: started parsing
+[08Feb2025 22:13:07.148] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vyl2kvkqkfik]: Consuming argument `air`
+[08Feb2025 22:13:07.149] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vyl2kvkqkfik]: Consuming argument `lava`
+[08Feb2025 22:13:07.149] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vyl2kvkqkfik]: Finished looking at arguments. Finalizing command.
+[08Feb2025 22:13:14.086] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c18h95vnb1pb]: started parsing
+[08Feb2025 22:13:14.087] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c18h95vnb1pb]: Consuming argument ``
+[08Feb2025 22:13:15.031] [Worker-Main-3/DEBUG] [mixin/]: Mixing ChunkNoiseSamplerMixin from fabric-biome-api-v1.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[08Feb2025 22:13:15.031] [Worker-Main-3/DEBUG] [mixin/]: fabric-biome-api-v1.mixins.json:ChunkNoiseSamplerMixin from mod fabric_biome_api_v1: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[08Feb2025 22:13:15.035] [Worker-Main-3/DEBUG] [mixin/]: fabric-biome-api-v1.mixins.json:ChunkNoiseSamplerMixin from mod fabric_biome_api_v1->@Inject::init(ILnet/minecraft/world/level/levelgen/RandomState;IILnet/minecraft/world/level/levelgen/NoiseSettings;Lnet/minecraft/world/level/levelgen/DensityFunctions$BeardifierOrMarker;Lnet/minecraft/world/level/levelgen/NoiseGeneratorSettings;Lnet/minecraft/world/level/levelgen/Aquifer$FluidPicker;Lnet/minecraft/world/level/levelgen/blending/Blender;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[08Feb2025 22:13:15.036] [Worker-Main-3/DEBUG] [mixin/]: fabric-biome-api-v1.mixins.json:ChunkNoiseSamplerMixin from mod fabric_biome_api_v1->@Inject::init(ILnet/minecraft/world/level/levelgen/RandomState;IILnet/minecraft/world/level/levelgen/NoiseSettings;Lnet/minecraft/world/level/levelgen/DensityFunctions$BeardifierOrMarker;Lnet/minecraft/world/level/levelgen/NoiseGeneratorSettings;Lnet/minecraft/world/level/levelgen/Aquifer$FluidPicker;Lnet/minecraft/world/level/levelgen/blending/Blender;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[08Feb2025 22:13:15.036] [Worker-Main-3/DEBUG] [mixin/]: fabric-biome-api-v1.mixins.json:ChunkNoiseSamplerMixin from mod fabric_biome_api_v1->@Inject::init(ILnet/minecraft/world/level/levelgen/RandomState;IILnet/minecraft/world/level/levelgen/NoiseSettings;Lnet/minecraft/world/level/levelgen/DensityFunctions$BeardifierOrMarker;Lnet/minecraft/world/level/levelgen/NoiseGeneratorSettings;Lnet/minecraft/world/level/levelgen/Aquifer$FluidPicker;Lnet/minecraft/world/level/levelgen/blending/Blender;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[08Feb2025 22:13:15.036] [Worker-Main-3/DEBUG] [mixin/]: fabric-biome-api-v1.mixins.json:ChunkNoiseSamplerMixin from mod fabric_biome_api_v1->@Inject::createMultiNoiseSampler(Lnet/minecraft/world/level/levelgen/NoiseRouter;Ljava/util/List;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[08Feb2025 22:13:18.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend has made the advancement [We Need to Go Deeper]
+[08Feb2025 22:13:19.538] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01sq5reh39zav]: started parsing
+[08Feb2025 22:13:19.539] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01sq5reh39zav]: Consuming argument `i`
+[08Feb2025 22:13:19.540] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0f0oiz72w2i6y]: started parsing
+[08Feb2025 22:13:19.540] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0f0oiz72w2i6y]: Consuming argument `ir`
+[08Feb2025 22:13:19.541] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jzwtjaefcxjh]: started parsing
+[08Feb2025 22:13:19.542] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jzwtjaefcxjh]: Consuming argument `iro`
+[08Feb2025 22:13:19.544] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jmytu0v973eu]: started parsing
+[08Feb2025 22:13:19.544] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jmytu0v973eu]: Consuming argument `iron`
+[08Feb2025 22:13:19.576] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1739052798192
+[08Feb2025 22:13:19.828] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1779840 : 768126
+[08Feb2025 22:13:19.836] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bwxfwqdocc5p]: started parsing
+[08Feb2025 22:13:19.836] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bwxfwqdocc5p]: Consuming argument `iron_`
+[08Feb2025 22:13:19.982] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1779840 : 768128
+[08Feb2025 22:13:20.119] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1779841 : 768127
+[08Feb2025 22:13:20.247] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1779840 : 768127
+[08Feb2025 22:13:20.411] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1779839 : 768127
+[08Feb2025 22:13:20.412] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 56f34d1d-cb85-4423-b72f-2002f32385e8 unwatched ships [120]
+[08Feb2025 22:13:21.679] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zl10hs24yf4h]: started parsing
+[08Feb2025 22:13:21.679] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zl10hs24yf4h]: Consuming argument `iron_block`
+[08Feb2025 22:13:21.679] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zl10hs24yf4h]: Consuming argument ``
+[08Feb2025 22:13:22.266] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [079fen0gtcx6s]: started parsing
+[08Feb2025 22:13:22.266] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [079fen0gtcx6s]: Consuming argument `iron_block`
+[08Feb2025 22:13:22.266] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [079fen0gtcx6s]: Consuming argument `l`
+[08Feb2025 22:13:22.267] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15w4opqsz84ep]: started parsing
+[08Feb2025 22:13:22.267] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15w4opqsz84ep]: Consuming argument `iron_block`
+[08Feb2025 22:13:22.267] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15w4opqsz84ep]: Consuming argument `la`
+[08Feb2025 22:13:22.350] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17880ms or 357 ticks behind
+[08Feb2025 22:13:22.588] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0agshhutv3t0s]: started parsing
+[08Feb2025 22:13:22.588] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0agshhutv3t0s]: Consuming argument `iron_block`
+[08Feb2025 22:13:22.588] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0agshhutv3t0s]: Consuming argument `lav`
+[08Feb2025 22:13:22.909] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b9ctgncvzf1j]: started parsing
+[08Feb2025 22:13:22.909] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b9ctgncvzf1j]: Consuming argument `iron_block`
+[08Feb2025 22:13:22.909] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b9ctgncvzf1j]: Consuming argument `lava`
+[08Feb2025 22:13:22.909] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b9ctgncvzf1j]: Finished looking at arguments. Finalizing command.
+[08Feb2025 22:13:24.217] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jyv46oaa8hll]: started parsing
+[08Feb2025 22:13:24.218] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jyv46oaa8hll]: Consuming argument `iron_block`
+[08Feb2025 22:13:24.218] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jyv46oaa8hll]: Consuming argument `lava`
+[08Feb2025 22:13:24.218] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jyv46oaa8hll]: Finished looking at arguments. Finalizing command.
+[08Feb2025 22:13:44.434] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1739052824338
+[08Feb2025 22:13:44.540] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1779839 : 768127
+[08Feb2025 22:13:44.540] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1779840 : 768128
+[08Feb2025 22:13:44.540] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1779840 : 768127
+[08Feb2025 22:13:44.540] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1779840 : 768126
+[08Feb2025 22:13:44.540] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1779841 : 768127
+[08Feb2025 22:13:44.540] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 56f34d1d-cb85-4423-b72f-2002f32385e8 watched ships: [120]
+[08Feb2025 22:13:48.619] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3676, l='ServerLevel[Mundo nuevo]', x=-1117.63, y=-59.79, z=104.59] died, message: 'Villager tried to swim in lava'
+[08Feb2025 22:13:48.625] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3689, l='ServerLevel[Mundo nuevo]', x=-1123.63, y=-59.85, z=104.51] died, message: 'Villager tried to swim in lava'
+[08Feb2025 22:13:48.634] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3726, l='ServerLevel[Mundo nuevo]', x=-1092.14, y=-59.84, z=104.70] died, message: 'Villager tried to swim in lava'
+[08Feb2025 22:13:49.554] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3708, l='ServerLevel[Mundo nuevo]', x=-1082.89, y=-60.00, z=104.30] died, message: 'Villager tried to swim in lava'
+[08Feb2025 22:13:49.555] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3710, l='ServerLevel[Mundo nuevo]', x=-1091.46, y=-59.91, z=104.36] died, message: 'Villager tried to swim in lava'
+[08Feb2025 22:13:49.570] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3819, l='ServerLevel[Mundo nuevo]', x=-1113.95, y=-59.61, z=104.70] died, message: 'Villager tried to swim in lava'
+[08Feb2025 22:13:49.571] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3831, l='ServerLevel[Mundo nuevo]', x=-1097.57, y=-59.96, z=104.50] died, message: 'Villager tried to swim in lava'
+[08Feb2025 22:13:49.572] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3835, l='ServerLevel[Mundo nuevo]', x=-1110.30, y=-59.99, z=104.53] died, message: 'Villager tried to swim in lava'
+[08Feb2025 22:13:49.573] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3848, l='ServerLevel[Mundo nuevo]', x=-1092.76, y=-59.73, z=104.33] died, message: 'Villager tried to swim in lava'
+[08Feb2025 22:13:49.590] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3915, l='ServerLevel[Mundo nuevo]', x=-1113.26, y=-59.70, z=104.32] died, message: 'Villager tried to swim in lava'
+[08Feb2025 22:13:49.607] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4040, l='ServerLevel[Mundo nuevo]', x=-1083.54, y=-59.81, z=104.37] died, message: 'Villager tried to swim in lava'
+[08Feb2025 22:13:49.608] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4049, l='ServerLevel[Mundo nuevo]', x=-1081.98, y=-59.86, z=104.70] died, message: 'Villager tried to swim in lava'
+[08Feb2025 22:13:52.276] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3840, l='ServerLevel[Mundo nuevo]', x=-1093.85, y=-59.74, z=104.77] died, message: 'Villager tried to swim in lava'
+[08Feb2025 22:13:52.278] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3856, l='ServerLevel[Mundo nuevo]', x=-1108.92, y=-59.98, z=104.55] died, message: 'Villager tried to swim in lava'
+[08Feb2025 22:13:52.292] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3956, l='ServerLevel[Mundo nuevo]', x=-1082.82, y=-59.81, z=104.85] died, message: 'Villager tried to swim in lava'
+[08Feb2025 22:13:52.298] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4023, l='ServerLevel[Mundo nuevo]', x=-1114.09, y=-59.88, z=104.16] died, message: 'Villager tried to swim in lava'
+[08Feb2025 22:13:52.302] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4055, l='ServerLevel[Mundo nuevo]', x=-1093.63, y=-59.93, z=104.35] died, message: 'Villager tried to swim in lava'
+[08Feb2025 22:13:52.698] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15377ms or 307 ticks behind
+[08Feb2025 22:13:54.912] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warrior_Legend lost connection: Disconnected
+[08Feb2025 22:13:54.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend left the game
+[08Feb2025 22:13:55.035] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3719, l='ServerLevel[Mundo nuevo]', x=-1081.30, y=-59.78, z=104.38] died, message: 'Villager tried to swim in lava'
+[08Feb2025 22:13:55.077] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4053, l='ServerLevel[Mundo nuevo]', x=-1081.86, y=-59.95, z=104.15] died, message: 'Villager tried to swim in lava'
+[08Feb2025 22:14:19.690] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12020ms or 240 ticks behind
+[08Feb2025 22:14:29.308] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1elbtkakkeyla]: started parsing
+[08Feb2025 22:14:29.308] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1elbtkakkeyla]: Consuming argument ``
+[08Feb2025 22:14:29.497] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1212ajo89owk5]: started parsing
+[08Feb2025 22:14:29.498] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1212ajo89owk5]: Consuming argument `a`
+[08Feb2025 22:14:29.624] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uvnds5gifm6l]: started parsing
+[08Feb2025 22:14:29.624] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uvnds5gifm6l]: Consuming argument `ai`
+[08Feb2025 22:14:29.774] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dpg2sfnw38mc]: started parsing
+[08Feb2025 22:14:29.774] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dpg2sfnw38mc]: Consuming argument `air`
+[08Feb2025 22:14:29.774] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dpg2sfnw38mc]: Finished looking at arguments. Finalizing command.
+[08Feb2025 22:14:30.122] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1e5kbbd4w4s07]: started parsing
+[08Feb2025 22:14:30.122] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1e5kbbd4w4s07]: Consuming argument `air`
+[08Feb2025 22:14:30.122] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1e5kbbd4w4s07]: Consuming argument ``
+[08Feb2025 22:14:31.485] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10txkdoj1803w]: started parsing
+[08Feb2025 22:14:31.485] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10txkdoj1803w]: Consuming argument `air`
+[08Feb2025 22:14:31.485] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10txkdoj1803w]: Consuming argument `i`
+[08Feb2025 22:14:31.686] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gxd0eol98wxb]: started parsing
+[08Feb2025 22:14:31.686] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gxd0eol98wxb]: Consuming argument `air`
+[08Feb2025 22:14:31.687] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gxd0eol98wxb]: Consuming argument `ir`
+[08Feb2025 22:14:32.080] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0svzl0rq055fg]: started parsing
+[08Feb2025 22:14:32.080] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0svzl0rq055fg]: Consuming argument `air`
+[08Feb2025 22:14:32.080] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0svzl0rq055fg]: Consuming argument `i`
+[08Feb2025 22:14:32.838] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uwx5xltgg0ye]: started parsing
+[08Feb2025 22:14:32.838] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uwx5xltgg0ye]: Consuming argument `air`
+[08Feb2025 22:14:32.838] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uwx5xltgg0ye]: Consuming argument `ir`
+[08Feb2025 22:14:32.932] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ov85d6dmf90s]: started parsing
+[08Feb2025 22:14:32.932] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ov85d6dmf90s]: Consuming argument `air`
+[08Feb2025 22:14:32.933] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ov85d6dmf90s]: Consuming argument `iro`
+[08Feb2025 22:14:33.182] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pau38z4zge36]: started parsing
+[08Feb2025 22:14:33.182] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pau38z4zge36]: Consuming argument `air`
+[08Feb2025 22:14:33.183] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pau38z4zge36]: Consuming argument `iron`
+[08Feb2025 22:14:38.211] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gnignm1y3y0g]: started parsing
+[08Feb2025 22:14:38.211] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gnignm1y3y0g]: Consuming argument `air`
+[08Feb2025 22:14:38.211] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gnignm1y3y0g]: Consuming argument `iron_trapdoor`
+[08Feb2025 22:14:38.211] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gnignm1y3y0g]: Finished looking at arguments. Finalizing command.
+[08Feb2025 22:14:46.592] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11922ms or 238 ticks behind
+[08Feb2025 22:14:53.955] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1le6r6ply6onu]: started parsing
+[08Feb2025 22:14:53.956] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1le6r6ply6onu]: Consuming argument ``
+[08Feb2025 22:14:54.043] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15xpy6oro044h]: started parsing
+[08Feb2025 22:14:54.043] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15xpy6oro044h]: Consuming argument `a`
+[08Feb2025 22:14:54.233] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07es9xxr2u0q1]: started parsing
+[08Feb2025 22:14:54.233] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07es9xxr2u0q1]: Consuming argument `ai`
+[08Feb2025 22:14:54.315] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0r01yf2qbwhvd]: started parsing
+[08Feb2025 22:14:54.315] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0r01yf2qbwhvd]: Consuming argument `air`
+[08Feb2025 22:14:54.315] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0r01yf2qbwhvd]: Finished looking at arguments. Finalizing command.
+[08Feb2025 22:14:54.493] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0x61rqi4x22xl]: started parsing
+[08Feb2025 22:14:54.493] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0x61rqi4x22xl]: Consuming argument `air`
+[08Feb2025 22:14:54.493] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0x61rqi4x22xl]: Consuming argument ``
+[08Feb2025 22:14:56.712] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0x2rf8v3x26x7]: started parsing
+[08Feb2025 22:14:56.712] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0x2rf8v3x26x7]: Consuming argument `air`
+[08Feb2025 22:14:56.712] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0x2rf8v3x26x7]: Consuming argument `i`
+[08Feb2025 22:14:56.817] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0icbn6wv0budk]: started parsing
+[08Feb2025 22:14:56.817] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0icbn6wv0budk]: Consuming argument `air`
+[08Feb2025 22:14:56.817] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0icbn6wv0budk]: Consuming argument `ir`
+[08Feb2025 22:14:56.887] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0i4r02t4d1iso]: started parsing
+[08Feb2025 22:14:56.887] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0i4r02t4d1iso]: Consuming argument `air`
+[08Feb2025 22:14:56.888] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0i4r02t4d1iso]: Consuming argument `iro`
+[08Feb2025 22:14:57.067] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wvrkv9khop0q]: started parsing
+[08Feb2025 22:14:57.067] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wvrkv9khop0q]: Consuming argument `air`
+[08Feb2025 22:14:57.067] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wvrkv9khop0q]: Consuming argument `iron`
+[08Feb2025 22:14:58.776] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xcr3ovygprmf]: started parsing
+[08Feb2025 22:14:58.777] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xcr3ovygprmf]: Consuming argument `air`
+[08Feb2025 22:14:58.777] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xcr3ovygprmf]: Consuming argument `iron_trapdoor`
+[08Feb2025 22:14:58.777] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xcr3ovygprmf]: Finished looking at arguments. Finalizing command.
+[08Feb2025 22:15:14.174] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12604ms or 252 ticks behind
+[08Feb2025 22:15:26.104] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nqthk01eg4n3]: started parsing
+[08Feb2025 22:15:26.105] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nqthk01eg4n3]: Consuming argument ``
+[08Feb2025 22:15:26.216] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xsltwxwr0jor]: started parsing
+[08Feb2025 22:15:26.216] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xsltwxwr0jor]: Consuming argument `a`
+[08Feb2025 22:15:26.286] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c8a6j3hg2lo1]: started parsing
+[08Feb2025 22:15:26.286] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c8a6j3hg2lo1]: Consuming argument `ai`
+[08Feb2025 22:15:26.507] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0scgi77lbiwab]: started parsing
+[08Feb2025 22:15:26.507] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0scgi77lbiwab]: Consuming argument `air`
+[08Feb2025 22:15:26.507] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0scgi77lbiwab]: Finished looking at arguments. Finalizing command.
+[08Feb2025 22:15:26.725] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ei2kiv4vrs6y]: started parsing
+[08Feb2025 22:15:26.725] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ei2kiv4vrs6y]: Consuming argument `air`
+[08Feb2025 22:15:26.725] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ei2kiv4vrs6y]: Consuming argument ``
+[08Feb2025 22:15:27.875] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xskhf5f0p00e]: started parsing
+[08Feb2025 22:15:27.875] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xskhf5f0p00e]: Consuming argument `air`
+[08Feb2025 22:15:27.875] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xskhf5f0p00e]: Consuming argument `i`
+[08Feb2025 22:15:28.307] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fryc2ie6gyi3]: started parsing
+[08Feb2025 22:15:28.307] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fryc2ie6gyi3]: Consuming argument `air`
+[08Feb2025 22:15:28.307] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fryc2ie6gyi3]: Consuming argument `ir`
+[08Feb2025 22:15:30.445] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ftybxsk4my6x]: started parsing
+[08Feb2025 22:15:30.445] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ftybxsk4my6x]: Consuming argument `air`
+[08Feb2025 22:15:30.445] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ftybxsk4my6x]: Consuming argument `iron_trapdoor`
+[08Feb2025 22:15:30.445] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ftybxsk4my6x]: Finished looking at arguments. Finalizing command.
+[08Feb2025 22:15:41.523] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12353ms or 247 ticks behind
+[08Feb2025 22:16:02.761] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 33 messages to dispatch.
+[08Feb2025 22:16:02.854] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[08Feb2025 22:16:02.956] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[08Feb2025 22:16:03.065] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[08Feb2025 22:16:03.090] [Netty Epoll Server IO #0/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58201/]: Handling inbound login query with id 1
+[08Feb2025 22:16:03.090] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[08Feb2025 22:16:03.090] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[08Feb2025 22:16:03.090] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [fabric_renderer_api_v1, fabric_item_api_v1, fabric_rendering_fluids_v1, fabric_models_v0, immersive_aircraft, fabric_convention_tags_v1, ritchiesprojectilelib, xaeroworldmap, fabric_command_api_v1, fabric_block_view_api_v2, fabric_command_api_v2, fabric_data_attachment_api_v1, mixinextras, fabric_screen_api_v1, cloth_config, fabric_api, fabric_content_registries_v0, embeddium, rubidium, cbcmodernwarfare, create_connected, fabric_game_rule_api_v1, fabric_api_lookup_api_v1, oculus, replaymod, connectormod, fabric_entity_events_v1, worldedit, fabric_loot_api_v2, fabric_rendering_data_attachment_v1, fabric_networking_api_v1, fabric_lifecycle_events_v1, fabric_key_binding_api_v1, fabric_client_tags_api_v1, fabric_transfer_api_v1, fabric_dimensions_v1, create_tweaked_controllers, fabric_model_loading_api_v1, jei, tacz, fabric_screen_handler_api_v1, fabric_resource_loader_v0, fabric_rendering_v1, fabric_renderer_indigo, fabric_mining_level_api_v1, fabric_particles_v1, forge, fabric_transitive_access_wideners_v1, minecraft, fabric_api_base, fabric_blockrenderlayer_v1, fabric_block_api_v1, fabric_resource_conditions_api_v1, kotlinforforge, flywheel, xaerominimap, fabric_item_group_api_v1, create_radar, createbigcannons, create, fabric_biome_api_v1, fabric_registry_sync_v0, fabric_recipe_api_v1, fabric_object_builder_api_v1, fabric_sound_api_v1, valkyrienskies, vs_eureka, vs_clockwork, fabric_message_api_v1, fabric_data_generation_api_v1, fabric_events_interaction_v0]
+[08Feb2025 22:16:03.090] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:cui' : Version test of '1' from client : ACCEPTED
+[08Feb2025 22:16:03.090] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[08Feb2025 22:16:03.090] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[08Feb2025 22:16:03.090] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[08Feb2025 22:16:03.090] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create_radar:messages' : Version test of '1.0' from client : ACCEPTED
+[08Feb2025 22:16:03.090] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create_connected:config_common' : Version test of '1.0.0' from client : ACCEPTED
+[08Feb2025 22:16:03.090] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[08Feb2025 22:16:03.090] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[08Feb2025 22:16:03.090] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Version test of '1.0' from client : ACCEPTED
+[08Feb2025 22:16:03.091] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ic_air:main' : Version test of '1' from client : ACCEPTED
+[08Feb2025 22:16:03.091] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'createbigcannons:network' : Version test of '2.0.0' from client : ACCEPTED
+[08Feb2025 22:16:03.091] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'vs_clockwork:main' : Version test of '1' from client : ACCEPTED
+[08Feb2025 22:16:03.091] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create_tweaked_controllers:main' : Version test of '2' from client : ACCEPTED
+[08Feb2025 22:16:03.091] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[08Feb2025 22:16:03.091] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'valkyrienskies:vs_packet' : Version test of '1' from client : ACCEPTED
+[08Feb2025 22:16:03.091] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tacz:handshake' : Version test of '1.0.4' from client : ACCEPTED
+[08Feb2025 22:16:03.091] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ritchiesprojectilelib:network' : Version test of '3.0.0' from client : ACCEPTED
+[08Feb2025 22:16:03.091] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:internal' : Version test of '1' from client : ACCEPTED
+[08Feb2025 22:16:03.091] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create_connected:main' : Version test of '1' from client : ACCEPTED
+[08Feb2025 22:16:03.091] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaeroworldmap:main' : Version test of '1.0' from client : ACCEPTED
+[08Feb2025 22:16:03.091] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[08Feb2025 22:16:03.091] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[08Feb2025 22:16:03.091] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tacz:network' : Version test of '1.0.4' from client : ACCEPTED
+[08Feb2025 22:16:03.091] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create:main' : Version test of '3' from client : ACCEPTED
+[08Feb2025 22:16:03.091] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[08Feb2025 22:16:03.091] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[08Feb2025 22:16:03.187] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[08Feb2025 22:16:03.195] [Netty Epoll Server IO #0/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58201/]: Handling inbound login query with id 2
+[08Feb2025 22:16:03.195] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[08Feb2025 22:16:03.195] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:16:03.195] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:16:03.274] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[08Feb2025 22:16:03.294] [Netty Epoll Server IO #0/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58201/]: Handling inbound login query with id 3
+[08Feb2025 22:16:03.295] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[08Feb2025 22:16:03.295] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:16:03.295] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:16:03.371] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[08Feb2025 22:16:03.460] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[08Feb2025 22:16:03.570] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[08Feb2025 22:16:03.588] [Netty Epoll Server IO #0/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58201/]: Handling inbound login query with id 4
+[08Feb2025 22:16:03.588] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[08Feb2025 22:16:03.588] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:16:03.588] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:16:03.590] [Netty Epoll Server IO #0/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58201/]: Handling inbound login query with id 5
+[08Feb2025 22:16:03.590] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[08Feb2025 22:16:03.590] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:16:03.590] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:16:03.591] [Netty Epoll Server IO #0/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58201/]: Handling inbound login query with id 6
+[08Feb2025 22:16:03.591] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[08Feb2025 22:16:03.591] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:16:03.591] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:16:03.683] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[08Feb2025 22:16:03.789] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry createbigcannons:block_recipe_serializers' to 'fml:handshake' sequence 9
+[08Feb2025 22:16:03.789] [Netty Epoll Server IO #0/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58201/]: Handling inbound login query with id 7
+[08Feb2025 22:16:03.789] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[08Feb2025 22:16:03.789] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:16:03.790] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:16:03.881] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 10
+[08Feb2025 22:16:03.891] [Netty Epoll Server IO #0/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58201/]: Handling inbound login query with id 8
+[08Feb2025 22:16:03.892] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[08Feb2025 22:16:03.892] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:16:03.892] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:16:03.892] [Netty Epoll Server IO #0/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58201/]: Handling inbound login query with id 9
+[08Feb2025 22:16:03.892] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[08Feb2025 22:16:03.892] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:16:03.892] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:16:03.993] [Netty Epoll Server IO #0/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58201/]: Handling inbound login query with id 10
+[08Feb2025 22:16:03.993] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[08Feb2025 22:16:03.993] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:16:03.993] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:16:04.008] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 11
+[08Feb2025 22:16:04.109] [Netty Epoll Server IO #0/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58201/]: Handling inbound login query with id 11
+[08Feb2025 22:16:04.109] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[08Feb2025 22:16:04.110] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:16:04.110] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:16:04.118] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 12
+[08Feb2025 22:16:04.205] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 13
+[08Feb2025 22:16:04.309] [Netty Epoll Server IO #0/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58201/]: Handling inbound login query with id 12
+[08Feb2025 22:16:04.309] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[08Feb2025 22:16:04.309] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:16:04.309] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:16:04.309] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 14
+[08Feb2025 22:16:04.323] [Netty Epoll Server IO #0/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58201/]: Handling inbound login query with id 13
+[08Feb2025 22:16:04.323] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[08Feb2025 22:16:04.323] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:16:04.323] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:16:04.410] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 15
+[08Feb2025 22:16:04.443] [Netty Epoll Server IO #0/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58201/]: Handling inbound login query with id 14
+[08Feb2025 22:16:04.444] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[08Feb2025 22:16:04.444] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:16:04.444] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:16:04.527] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 16
+[08Feb2025 22:16:04.532] [Netty Epoll Server IO #0/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58201/]: Handling inbound login query with id 15
+[08Feb2025 22:16:04.533] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[08Feb2025 22:16:04.533] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:16:04.533] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:16:04.617] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 17
+[08Feb2025 22:16:04.631] [Netty Epoll Server IO #0/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58201/]: Handling inbound login query with id 16
+[08Feb2025 22:16:04.631] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[08Feb2025 22:16:04.632] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:16:04.632] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:16:04.709] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry createbigcannons:cannon_cast_shapes' to 'fml:handshake' sequence 18
+[08Feb2025 22:16:04.732] [Netty Epoll Server IO #0/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58201/]: Handling inbound login query with id 17
+[08Feb2025 22:16:04.732] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[08Feb2025 22:16:04.732] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:16:04.732] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:16:04.784] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 19
+[08Feb2025 22:16:04.833] [Netty Epoll Server IO #0/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58201/]: Handling inbound login query with id 18
+[08Feb2025 22:16:04.833] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[08Feb2025 22:16:04.833] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:16:04.833] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:16:04.875] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry createbigcannons:block_recipe_types' to 'fml:handshake' sequence 20
+[08Feb2025 22:16:04.934] [Netty Epoll Server IO #0/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58201/]: Handling inbound login query with id 19
+[08Feb2025 22:16:04.934] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[08Feb2025 22:16:04.934] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:16:04.934] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:16:04.964] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 21
+[08Feb2025 22:16:05.035] [Netty Epoll Server IO #0/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58201/]: Handling inbound login query with id 20
+[08Feb2025 22:16:05.035] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[08Feb2025 22:16:05.035] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:16:05.035] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:16:05.066] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 22
+[08Feb2025 22:16:05.136] [Netty Epoll Server IO #0/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58201/]: Handling inbound login query with id 21
+[08Feb2025 22:16:05.136] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[08Feb2025 22:16:05.136] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:16:05.136] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:16:05.169] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 23
+[08Feb2025 22:16:05.237] [Netty Epoll Server IO #0/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58201/]: Handling inbound login query with id 22
+[08Feb2025 22:16:05.237] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[08Feb2025 22:16:05.237] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:16:05.237] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:16:05.265] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ritchiesprojectilelib-server.toml' to 'fml:handshake' sequence 24
+[08Feb2025 22:16:05.372] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config vs_clockwork-server.toml' to 'fml:handshake' sequence 25
+[08Feb2025 22:16:05.456] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config create-server.toml' to 'fml:handshake' sequence 26
+[08Feb2025 22:16:05.553] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config createbigcannons-server.toml' to 'fml:handshake' sequence 27
+[08Feb2025 22:16:05.636] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config create_connected-server.toml' to 'fml:handshake' sequence 28
+[08Feb2025 22:16:05.716] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 29
+[08Feb2025 22:16:05.797] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tacz-server.toml' to 'fml:handshake' sequence 30
+[08Feb2025 22:16:05.884] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 31
+[08Feb2025 22:16:06.002] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'com.tacz.guns.network.message.handshake.ServerMessageSyncedEntityDataMapping' to 'tacz:handshake' sequence 32
+[08Feb2025 22:16:07.002] [Netty Epoll Server IO #0/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58201/]: Handling inbound login query with id 23
+[08Feb2025 22:16:07.002] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[08Feb2025 22:16:07.002] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:16:07.002] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:16:07.048] [Netty Epoll Server IO #0/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58201/]: Handling inbound login query with id 24
+[08Feb2025 22:16:07.048] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[08Feb2025 22:16:07.048] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:16:07.048] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:16:07.048] [Netty Epoll Server IO #0/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58201/]: Handling inbound login query with id 25
+[08Feb2025 22:16:07.048] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[08Feb2025 22:16:07.048] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:16:07.048] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:16:07.048] [Netty Epoll Server IO #0/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58201/]: Handling inbound login query with id 26
+[08Feb2025 22:16:07.048] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[08Feb2025 22:16:07.048] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:16:07.048] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:16:07.048] [Netty Epoll Server IO #0/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58201/]: Handling inbound login query with id 27
+[08Feb2025 22:16:07.048] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[08Feb2025 22:16:07.048] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:16:07.048] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:16:07.048] [Netty Epoll Server IO #0/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58201/]: Handling inbound login query with id 28
+[08Feb2025 22:16:07.048] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[08Feb2025 22:16:07.048] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:16:07.048] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:16:07.049] [Netty Epoll Server IO #0/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58201/]: Handling inbound login query with id 29
+[08Feb2025 22:16:07.049] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[08Feb2025 22:16:07.049] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:16:07.049] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:16:07.049] [Netty Epoll Server IO #0/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58201/]: Handling inbound login query with id 30
+[08Feb2025 22:16:07.049] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[08Feb2025 22:16:07.049] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:16:07.049] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:16:07.049] [Netty Epoll Server IO #0/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58201/]: Handling inbound login query with id 31
+[08Feb2025 22:16:07.049] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[08Feb2025 22:16:07.049] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:16:07.049] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:16:07.049] [Netty Epoll Server IO #0/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58201/]: Handling inbound login query with id 32
+[08Feb2025 22:16:07.049] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel tacz:handshake with index 32
+[08Feb2025 22:16:07.049] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type com.tacz.guns.network.message.handshake.Acknowledge
+[08Feb2025 22:16:07.049] [Netty Epoll Server IO #0/DEBUG] [tacz/HANDSHAKE_ACKNOWLEDGE]: Received acknowledgement from client
+[08Feb2025 22:16:07.074] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[08Feb2025 22:16:07.179] [Server thread/DEBUG] [fabric_networking_api_v1/]: Sent accepted channels to the client for "com.mojang.authlib.GameProfile@11ec57ef[id=<null>,name=Warrior_Legend,properties={},legacy=false] (/127.119.191.31:58201)"
+[08Feb2025 22:16:07.427] [Netty Epoll Server IO #0/DEBUG] [ServerLoginNetworkAddon for /127.119.191.31:58201/]: Handling inbound login query with id 999
+[08Feb2025 22:16:07.427] [Netty Epoll Server IO #0/DEBUG] [fabric_networking_api_v1/]: Received accepted channels from the client for "com.mojang.authlib.GameProfile@11ec57ef[id=<null>,name=Warrior_Legend,properties={},legacy=false] (/127.119.191.31:58201)"
+[08Feb2025 22:16:07.488] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Warrior_Legend[/127.119.191.31:58201] logged in with entity id 4170 at (-1061.883147389842, -57.642713367365225, 108.76779487703286)
+[08Feb2025 22:16:07.488] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@2b93afb4 into net.minecraft.network.Connection@224b1b72
+[08Feb2025 22:16:07.488] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:command_argument_type
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:item
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:block_entity_type
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:custom_stat
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/foliage_placer_type
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:stat_type
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/material_rule
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_type
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:attribute
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:position_source_type
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:height_provider_type
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:rule_block_entity_modifier
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/density_function_type
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:fluid
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: forge:global_loot_modifier_serializers
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_condition_type
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_pool_element
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:activity
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:recipe_serializer
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:frog_variant
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:banner_pattern
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:instrument
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:decorated_pot_patterns
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/feature_size_type
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:point_of_interest_type
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:mob_effect
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: createbigcannons:cannon_cast_shapes
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_pool_entry_type
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/block_state_provider_type
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/chunk_generator
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:float_provider_type
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:chunk_status
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:enchantment
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_function_type
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_processor
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_score_provider_type
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/tree_decorator_type
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:schedule
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/material_condition
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:entity_type
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:villager_profession
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:potion
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: createbigcannons:block_recipe_serializers
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:recipe_type
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:int_provider_type
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/feature
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:cat_variant
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:pos_rule_test
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_placement
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_nbt_provider_type
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:menu
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/trunk_placer_type
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:creative_mode_tab
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: createbigcannons:block_recipe_types
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/placement_modifier_type
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/carver
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_number_provider_type
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_piece
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:sound_event
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:particle_type
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:game_event
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/biome_source
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/root_placer_type
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:villager_type
+[08Feb2025 22:16:07.489] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:painting_variant
+[08Feb2025 22:16:07.490] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: forge:fluid_type
+[08Feb2025 22:16:07.490] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:block_predicate_type
+[08Feb2025 22:16:07.490] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:block
+[08Feb2025 22:16:07.490] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: forge:entity_data_serializers
+[08Feb2025 22:16:07.490] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:sensor_type
+[08Feb2025 22:16:07.490] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:rule_test
+[08Feb2025 22:16:07.490] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:memory_module_type
+[08Feb2025 22:16:07.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend joined the game
+[08Feb2025 22:16:07.522] [Server thread/DEBUG] [com.hlysine.create_connected.CreateConnected/]: Sync Config: Sending server config to Warrior_Legend
+[08Feb2025 22:16:07.631] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1779839 : 768127
+[08Feb2025 22:16:07.631] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1779840 : 768128
+[08Feb2025 22:16:07.631] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1779840 : 768127
+[08Feb2025 22:16:07.631] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1779840 : 768126
+[08Feb2025 22:16:07.631] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1779841 : 768127
+[08Feb2025 22:16:07.631] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: a2f498d1-99d9-405f-984b-3ea65fdf4a60 watched ships: [120]
+[08Feb2025 22:16:08.119] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1739052968036
+[08Feb2025 22:16:10.790] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14270ms or 285 ticks behind
+[08Feb2025 22:16:21.163] [Netty Epoll Server IO #0/DEBUG] [org.valkyrienskies.core.impl.networking.NetworkChannel/]: Server received packet of type: PacketType(channel=org.valkyrienskies.core.impl.networking.NetworkChannel@4c8b906e, id=1, name=SimplePacket - class org.valkyrienskies.core.impl.networking.impl.PacketRequestUdp)
+[08Feb2025 22:16:38.828] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13057ms or 261 ticks behind
+[08Feb2025 22:16:49.365] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1779840 : 768126
+[08Feb2025 22:16:49.366] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1739053009125
+[08Feb2025 22:16:49.549] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1779840 : 768128
+[08Feb2025 22:16:49.734] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1779841 : 768127
+[08Feb2025 22:16:49.874] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1779840 : 768127
+[08Feb2025 22:16:49.982] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1779839 : 768127
+[08Feb2025 22:16:49.983] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: a2f498d1-99d9-405f-984b-3ea65fdf4a60 unwatched ships [120]
+[08Feb2025 22:16:52.827] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tsiq46c3lfqk]: started parsing
+[08Feb2025 22:16:52.827] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tsiq46c3lfqk]: Consuming argument ``
+[08Feb2025 22:16:52.945] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rjwhicztb4ex]: started parsing
+[08Feb2025 22:16:52.945] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rjwhicztb4ex]: Consuming argument `a`
+[08Feb2025 22:16:53.039] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0szr1ukmsjn8w]: started parsing
+[08Feb2025 22:16:53.039] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0szr1ukmsjn8w]: Consuming argument `ai`
+[08Feb2025 22:16:53.126] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tq4g3814egyq]: started parsing
+[08Feb2025 22:16:53.126] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tq4g3814egyq]: Consuming argument `air`
+[08Feb2025 22:16:53.126] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tq4g3814egyq]: Finished looking at arguments. Finalizing command.
+[08Feb2025 22:16:53.301] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pd0eo8gsye31]: started parsing
+[08Feb2025 22:16:53.301] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pd0eo8gsye31]: Consuming argument `air`
+[08Feb2025 22:16:53.301] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pd0eo8gsye31]: Consuming argument ``
+[08Feb2025 22:16:53.984] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0as0vz4v3th2x]: started parsing
+[08Feb2025 22:16:53.984] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0as0vz4v3th2x]: Consuming argument `air`
+[08Feb2025 22:16:53.985] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0as0vz4v3th2x]: Consuming argument `i`
+[08Feb2025 22:16:54.105] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ndbum20g98m5]: started parsing
+[08Feb2025 22:16:54.105] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ndbum20g98m5]: Consuming argument `air`
+[08Feb2025 22:16:54.105] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ndbum20g98m5]: Consuming argument `ir`
+[08Feb2025 22:16:54.214] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03vis8blwmurg]: started parsing
+[08Feb2025 22:16:54.214] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03vis8blwmurg]: Consuming argument `air`
+[08Feb2025 22:16:54.214] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03vis8blwmurg]: Consuming argument `iro`
+[08Feb2025 22:16:54.420] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1udqpqeratfpx]: started parsing
+[08Feb2025 22:16:54.420] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1udqpqeratfpx]: Consuming argument `air`
+[08Feb2025 22:16:54.420] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1udqpqeratfpx]: Consuming argument `iron`
+[08Feb2025 22:16:54.592] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ngrskf9jamps]: started parsing
+[08Feb2025 22:16:54.592] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ngrskf9jamps]: Consuming argument `air`
+[08Feb2025 22:16:54.592] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ngrskf9jamps]: Consuming argument `iron`
+[08Feb2025 22:16:54.892] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03ndjrt83wd1z]: started parsing
+[08Feb2025 22:16:54.892] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03ndjrt83wd1z]: Consuming argument `air`
+[08Feb2025 22:16:54.893] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03ndjrt83wd1z]: Consuming argument `iron`
+[08Feb2025 22:16:55.337] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0omgluwhcixf7]: started parsing
+[08Feb2025 22:16:55.337] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0omgluwhcixf7]: Consuming argument `air`
+[08Feb2025 22:16:55.337] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0omgluwhcixf7]: Consuming argument `iron`
+[08Feb2025 22:16:55.447] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03qkn8v82sjqy]: started parsing
+[08Feb2025 22:16:55.447] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03qkn8v82sjqy]: Consuming argument `air`
+[08Feb2025 22:16:55.447] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03qkn8v82sjqy]: Consuming argument `iron`
+[08Feb2025 22:16:55.755] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05cntgps1kb7n]: started parsing
+[08Feb2025 22:16:55.755] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05cntgps1kb7n]: Consuming argument `air`
+[08Feb2025 22:16:55.756] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05cntgps1kb7n]: Consuming argument `iron`
+[08Feb2025 22:16:55.757] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jp0aa1tvkuoj]: started parsing
+[08Feb2025 22:16:55.758] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jp0aa1tvkuoj]: Consuming argument `air`
+[08Feb2025 22:16:55.758] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jp0aa1tvkuoj]: Consuming argument `iron`
+[08Feb2025 22:16:56.406] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13chr6goqdhd9]: started parsing
+[08Feb2025 22:16:56.406] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13chr6goqdhd9]: Consuming argument `air`
+[08Feb2025 22:16:56.406] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13chr6goqdhd9]: Consuming argument `iron`
+[08Feb2025 22:16:56.884] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1twtjf1g9isr2]: started parsing
+[08Feb2025 22:16:56.884] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1twtjf1g9isr2]: Consuming argument `air`
+[08Feb2025 22:16:56.884] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1twtjf1g9isr2]: Consuming argument `iron`
+[08Feb2025 22:16:56.987] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0r7pwvlnjb4ml]: started parsing
+[08Feb2025 22:16:56.987] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0r7pwvlnjb4ml]: Consuming argument `air`
+[08Feb2025 22:16:56.987] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0r7pwvlnjb4ml]: Consuming argument `iron`
+[08Feb2025 22:16:56.988] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1roq8dcvdl1aj]: started parsing
+[08Feb2025 22:16:56.988] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1roq8dcvdl1aj]: Consuming argument `air`
+[08Feb2025 22:16:56.988] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1roq8dcvdl1aj]: Consuming argument `iron`
+[08Feb2025 22:16:57.235] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17t6h14izia4c]: started parsing
+[08Feb2025 22:16:57.235] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17t6h14izia4c]: Consuming argument `air`
+[08Feb2025 22:16:57.235] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17t6h14izia4c]: Consuming argument `iron`
+[08Feb2025 22:16:57.421] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gr1tr1codcpc]: started parsing
+[08Feb2025 22:16:57.421] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gr1tr1codcpc]: Consuming argument `air`
+[08Feb2025 22:16:57.422] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gr1tr1codcpc]: Consuming argument `iron`
+[08Feb2025 22:16:59.320] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dmq8x2p71orj]: started parsing
+[08Feb2025 22:16:59.320] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dmq8x2p71orj]: Consuming argument `air`
+[08Feb2025 22:16:59.321] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dmq8x2p71orj]: Consuming argument `iron_block`
+[08Feb2025 22:16:59.321] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dmq8x2p71orj]: Finished looking at arguments. Finalizing command.
+[08Feb2025 22:17:00.758] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3649, l='ServerLevel[Mundo nuevo]', x=-1109.68, y=-59.00, z=136.82] died, message: 'Villager suffocated in a wall'
+[08Feb2025 22:17:09.042] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15222ms or 304 ticks behind
+[08Feb2025 22:17:14.706] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1739053034584
+[08Feb2025 22:17:35.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Teleported Warrior_Legend to Fabrix_YT]
+[08Feb2025 22:17:35.320] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1779840 : 768126
+[08Feb2025 22:17:35.320] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1779839 : 768127
+[08Feb2025 22:17:35.320] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1779840 : 768127
+[08Feb2025 22:17:35.320] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1779841 : 768127
+[08Feb2025 22:17:35.320] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1779840 : 768128
+[08Feb2025 22:17:35.320] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: a2f498d1-99d9-405f-984b-3ea65fdf4a60 watched ships: [120]
+[08Feb2025 22:17:38.984] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14963ms or 299 ticks behind
+[08Feb2025 22:17:48.322] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [152a77anq08z8]: started parsing
+[08Feb2025 22:17:48.322] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [152a77anq08z8]: Consuming argument ``
+[08Feb2025 22:17:48.414] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1swzszbd5e5cd]: started parsing
+[08Feb2025 22:17:48.414] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1swzszbd5e5cd]: Consuming argument `a`
+[08Feb2025 22:17:48.501] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0orxgfd7e8168]: started parsing
+[08Feb2025 22:17:48.501] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0orxgfd7e8168]: Consuming argument `ai`
+[08Feb2025 22:17:48.701] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jpjp8kkudov6]: started parsing
+[08Feb2025 22:17:48.701] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jpjp8kkudov6]: Consuming argument `air`
+[08Feb2025 22:17:48.701] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jpjp8kkudov6]: Finished looking at arguments. Finalizing command.
+[08Feb2025 22:17:48.807] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [091umo2hkyek1]: started parsing
+[08Feb2025 22:17:48.807] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [091umo2hkyek1]: Consuming argument `air`
+[08Feb2025 22:17:48.807] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [091umo2hkyek1]: Consuming argument ``
+[08Feb2025 22:17:50.149] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [152fed8evu4az]: started parsing
+[08Feb2025 22:17:50.149] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [152fed8evu4az]: Consuming argument `air`
+[08Feb2025 22:17:50.149] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [152fed8evu4az]: Consuming argument `i`
+[08Feb2025 22:17:50.245] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0072y04vunb07]: started parsing
+[08Feb2025 22:17:50.245] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0072y04vunb07]: Consuming argument `air`
+[08Feb2025 22:17:50.245] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0072y04vunb07]: Consuming argument `ir`
+[08Feb2025 22:17:50.328] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j4k3h6g1damb]: started parsing
+[08Feb2025 22:17:50.328] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j4k3h6g1damb]: Consuming argument `air`
+[08Feb2025 22:17:50.328] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j4k3h6g1damb]: Consuming argument `iro`
+[08Feb2025 22:17:50.597] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0szhad9z5x55s]: started parsing
+[08Feb2025 22:17:50.598] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0szhad9z5x55s]: Consuming argument `air`
+[08Feb2025 22:17:50.598] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0szhad9z5x55s]: Consuming argument `iron`
+[08Feb2025 22:17:52.392] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c0s7xyjuh03a]: started parsing
+[08Feb2025 22:17:52.392] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c0s7xyjuh03a]: Consuming argument `air`
+[08Feb2025 22:17:52.392] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c0s7xyjuh03a]: Consuming argument `iron_trapdoor`
+[08Feb2025 22:17:52.392] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c0s7xyjuh03a]: Finished looking at arguments. Finalizing command.
+[08Feb2025 22:17:59.021] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1779840 : 768128
+[08Feb2025 22:17:59.486] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1779841 : 768127
+[08Feb2025 22:17:59.781] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1779840 : 768127
+[08Feb2025 22:17:59.963] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1779839 : 768127
+[08Feb2025 22:18:00.468] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1779840 : 768126
+[08Feb2025 22:18:00.469] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: a2f498d1-99d9-405f-984b-3ea65fdf4a60 unwatched ships [120]
+[08Feb2025 22:18:06.925] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12954ms or 259 ticks behind
+[08Feb2025 22:18:13.095] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1779840 : 768126
+[08Feb2025 22:18:13.095] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: a2f498d1-99d9-405f-984b-3ea65fdf4a60 watched ships: [120]
+[08Feb2025 22:18:13.540] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1779839 : 768127
+[08Feb2025 22:18:13.827] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1779840 : 768127
+[08Feb2025 22:18:14.175] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1779841 : 768127
+[08Feb2025 22:18:14.454] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1779840 : 768128
+[08Feb2025 22:18:34.768] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1739053114278
+[08Feb2025 22:18:35.069] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1779840 : 768126
+[08Feb2025 22:18:35.166] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1779840 : 768128
+[08Feb2025 22:18:35.249] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1779841 : 768127
+[08Feb2025 22:18:35.326] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1779840 : 768127
+[08Feb2025 22:18:35.429] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1779839 : 768127
+[08Feb2025 22:18:35.429] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: a2f498d1-99d9-405f-984b-3ea65fdf4a60 unwatched ships [120]
+[08Feb2025 22:18:35.944] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14023ms or 280 ticks behind
+[08Feb2025 22:18:39.561] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1779839 : 768127
+[08Feb2025 22:18:39.561] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1779840 : 768126
+[08Feb2025 22:18:39.561] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1779840 : 768127
+[08Feb2025 22:18:39.561] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1779840 : 768128
+[08Feb2025 22:18:39.561] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1779841 : 768127
+[08Feb2025 22:18:39.562] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: a2f498d1-99d9-405f-984b-3ea65fdf4a60 watched ships: [120]
+[08Feb2025 22:18:39.562] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1739053119493
+[08Feb2025 22:18:53.513] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[08Feb2025 22:18:53.513] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: createbigcannons:cannon_cast_shapes
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: createbigcannons:block_recipe_serializers
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: createbigcannons:block_recipe_types
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[08Feb2025 22:18:53.514] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[08Feb2025 22:18:53.515] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[08Feb2025 22:18:53.523] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
