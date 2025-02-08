@@ -1126,6 +1126,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-02-08 22:38:41 +0000"
+    },
+    "done": true
+  },
   "immersive_aircraft:misc/aircraftery": {
     "criteria": {
       "has_item": "2025-02-08 21:41:06 +0000"
@@ -1207,6 +1213,12 @@
   "create:recipes/misc/crafting/appliances/filter_clear": {
     "criteria": {
       "has_item": "2025-02-08 21:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-02-08 22:38:41 +0000"
     },
     "done": true
   },
