@@ -352,3 +352,62 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Feb2025 21:08:14.828] [WorldEdit Task Executor - 3/INFO] [com.sk89q.worldedit.command.SchematicCommands/]: LIGS_458 loaded /workspaces/pokemons/servidor_minecraft/config/worldedit/schematics/canonautomatico.schem
 [08Feb2025 21:08:17.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported Bascap to LIGS_458]
 [08Feb2025 21:08:21.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Creative Mode]
+[08Feb2025 21:09:52.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Creative Mode]
+[08Feb2025 21:14:14.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -1109.500000, -59.500000, 124.500000]
+[08Feb2025 21:14:17.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> COMO VUELO
+[08Feb2025 21:14:51.685] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [vs_clockwork:main,create_tweaked_controllers:main,valkyrienskies:vs_packet,tacz:handshake,ritchiesprojectilelib:network,create_connected:config_common,create_connected:main,tacz:network,create:main,ic_air:main,createbigcannons:network] rejected their client side version number
+[08Feb2025 21:14:51.686] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[08Feb2025 21:14:51.729] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1f1996e[id=<null>,name=fabrix_YT,properties={},legacy=false] (/127.213.65.231:48253) lost connection: Connection closed - mismatched mod channel list
+[08Feb2025 21:14:52.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Teleported Ly4Nx_ to LIGS_458]
+[08Feb2025 21:14:59.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Teleported Warrior_Legend to LIGS_458]
+[08Feb2025 21:15:02.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported 4 entities to LIGS_458]
+[08Feb2025 21:15:04.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set own game mode to Spectator Mode]
+[08Feb2025 21:15:10.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> oe
+[08Feb2025 21:15:11.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set LIGS_458's game mode to Survival Mode]
+[08Feb2025 21:15:11.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set Warrior_Legend's game mode to Survival Mode]
+[08Feb2025 21:15:11.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set Ly4Nx_'s game mode to Survival Mode]
+[08Feb2025 21:15:11.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Survival Mode]
+[08Feb2025 21:15:15.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> me sacaste volando
+[08Feb2025 21:15:15.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
+[08Feb2025 21:15:16.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 fell out of the world
+[08Feb2025 21:15:22.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend fell out of the world
+[08Feb2025 21:15:27.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Creative Mode]
+[08Feb2025 21:15:29.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set own game mode to Creative Mode]
+[08Feb2025 21:15:37.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Teleported Ly4Nx_ to LIGS_458]
+[08Feb2025 21:15:47.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Teleported Ly4Nx_ to Warrior_Legend]
+[08Feb2025 21:15:51.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> LIGS
+[08Feb2025 21:15:55.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> QUE PASA
+[08Feb2025 21:16:01.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Teleported 4 entities to LIGS_458]
+[08Feb2025 21:16:02.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ fell out of the world
+[08Feb2025 21:16:04.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap fell out of the world
+[08Feb2025 21:16:04.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend fell out of the world
+[08Feb2025 21:16:10.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Creative Mode]
+[08Feb2025 21:16:23.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set Ly4Nx_'s game mode to Survival Mode]
+[08Feb2025 21:16:23.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> PORQUE SALGO VOLANDO
+[08Feb2025 21:16:26.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -1106.500000, -59.500000, 121.500000]
+[08Feb2025 21:16:40.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Kicked Bascap: Kicked by an operator]
+[08Feb2025 21:16:40.477] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bascap lost connection: Kicked by an operator
+[08Feb2025 21:16:40.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap left the game
+[08Feb2025 21:16:44.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was killed
+[08Feb2025 21:16:44.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Killed Ly4Nx_]
+[08Feb2025 21:16:48.132] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bascap[/127.143.177.98:34023] logged in with entity id 2440 at (-3808.6639763025496, -49.501486978595, 186.83511465188352)
+[08Feb2025 21:16:48.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap joined the game
+[08Feb2025 21:16:51.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set own game mode to Creative Mode]
+[08Feb2025 21:17:00.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Teleported Warrior_Legend to LIGS_458]
+[08Feb2025 21:17:09.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Teleported Ly4Nx_ to LIGS_458]
+[08Feb2025 21:17:12.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ fell out of the world
+[08Feb2025 21:17:14.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported Bascap to LIGS_458]
+[08Feb2025 21:17:19.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Teleported Ly4Nx_ to LIGS_458]
+[08Feb2025 21:17:21.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported Bascap to LIGS_458]
+[08Feb2025 21:17:31.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ fell out of the world
+[08Feb2025 21:17:39.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Kicked Bascap: Kicked by an operator]
+[08Feb2025 21:17:39.226] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bascap lost connection: Kicked by an operator
+[08Feb2025 21:17:39.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap left the game
+[08Feb2025 21:17:46.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> dile a bascap pe
+[08Feb2025 21:17:47.736] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bascap[/127.143.177.98:42909] logged in with entity id 2477 at (-1104.5172523560093, -60.0, 120.00326687041759)
+[08Feb2025 21:17:47.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap joined the game
+[08Feb2025 21:17:57.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> esta que jode
+[08Feb2025 21:18:03.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Teleported Ly4Nx_ to LIGS_458]
+[08Feb2025 21:18:08.435] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [vs_clockwork:main,create_tweaked_controllers:main,valkyrienskies:vs_packet,tacz:handshake,ritchiesprojectilelib:network,create_connected:config_common,create_connected:main,tacz:network,create:main,ic_air:main,createbigcannons:network] rejected their client side version number
+[08Feb2025 21:18:08.435] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[08Feb2025 21:18:08.478] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@17d2cf12[id=<null>,name=fabrix_YT,properties={},legacy=false] (/127.213.65.231:53739) lost connection: Connection closed - mismatched mod channel list
