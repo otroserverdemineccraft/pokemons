@@ -346,6 +346,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "golden_carrot": "2025-02-15 02:31:15 +0000",
       "enchanted_golden_apple": "2025-02-04 21:01:08 +0000"
     },
     "done": false
@@ -1131,6 +1132,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-02-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-02-15 02:34:30 +0000"
     },
     "done": true
   },

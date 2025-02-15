@@ -261,3 +261,52 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Feb2025 02:29:30.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to Bascap]
 [15Feb2025 02:29:37.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap fell out of the world
 [15Feb2025 02:29:40.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to 71.500000, -59.500000, -224.500000]
+[15Feb2025 02:30:47.816] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Warrior_Legend[/127.182.67.1:39513] logged in with entity id 4751 at (-2705.5363814056295, -28.975575911786322, -1368.0774154166904)
+[15Feb2025 02:30:47.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend joined the game
+[15Feb2025 02:31:15.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend fell out of the world
+[15Feb2025 02:31:27.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Creative Mode]
+[15Feb2025 02:31:35.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Teleported Warrior_Legend to LIGS_458]
+[15Feb2025 02:33:10.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -415.500000, -42.615130, -132.500000]
+[15Feb2025 02:33:16.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Removed 530 item(s) from 3 players]
+[15Feb2025 02:33:17.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap has made the advancement [Sneak 100]
+[15Feb2025 02:33:30.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported 3 entities to LIGS_458]
+[15Feb2025 02:34:19.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Survival Mode]
+[15Feb2025 02:34:23.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Made Bascap a server operator]
+[15Feb2025 02:34:30.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend has made the advancement [Sneak 100]
+[15Feb2025 02:34:57.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Creative Mode]
+[15Feb2025 02:35:27.507] [WorldEdit Task Executor - 0/INFO] [com.sk89q.worldedit.command.SchematicCommands/]: Bascap loaded /workspaces/pokemons/servidor_minecraft/config/worldedit/schematics/canonautomatico.schem
+[15Feb2025 02:36:19.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Survival Mode]
+[15Feb2025 02:36:35.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to -323.500000, -52.967399, 286.500000]
+[15Feb2025 02:36:41.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported 3 entities to LIGS_458]
+[15Feb2025 02:37:57.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend blew up
+[15Feb2025 02:38:13.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Creative Mode]
+[15Feb2025 02:38:20.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Teleported Warrior_Legend to LIGS_458]
+[15Feb2025 02:38:20.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Summoned new APHE Mediumcannon Shell]
+[15Feb2025 02:38:26.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Summoned new APHE Mediumcannon Shell]
+[15Feb2025 02:38:34.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Summoned new Canister Burst]
+[15Feb2025 02:38:41.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Summoned new Heat Jet]
+[15Feb2025 02:38:42.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Summoned new Heat Jet]
+[15Feb2025 02:38:53.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Summoned new Potato Projectile]
+[15Feb2025 02:38:55.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Summoned new Potato Projectile]
+[15Feb2025 02:39:15.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Summoned new entity.crusty_chunks.nuclear_bomb_projectile]
+[15Feb2025 02:39:19.263] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2161ms or 43 ticks behind
+[15Feb2025 02:39:41.141] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LIGS_458 lost connection: Disconnected
+[15Feb2025 02:39:41.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 left the game
+[15Feb2025 02:39:41.541] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Feb2025 02:39:43.333] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9082ms or 181 ticks behind
+[15Feb2025 02:40:18.971] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LIGS_458[/127.183.54.161:60259] logged in with entity id 11221 at (-383.66110763877685, -47.89923035835318, 318.6273962900613)
+[15Feb2025 02:40:18.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 joined the game
+[15Feb2025 02:40:24.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Summoned new entity.crusty_chunks.fire_bomb_projectile]
+[15Feb2025 02:40:29.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Summoned new entity.crusty_chunks.fire_bomb_projectile]
+[15Feb2025 02:40:30.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Summoned new entity.crusty_chunks.fire_bomb_projectile]
+[15Feb2025 02:40:31.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Summoned new entity.crusty_chunks.fire_bomb_projectile]
+[15Feb2025 02:40:32.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Summoned new entity.crusty_chunks.fire_bomb_projectile]
+[15Feb2025 02:40:33.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Summoned new entity.crusty_chunks.fire_bomb_projectile]
+[15Feb2025 02:40:33.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Summoned new entity.crusty_chunks.fire_bomb_projectile]
+[15Feb2025 02:40:34.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Summoned new entity.crusty_chunks.fire_bomb_projectile]
+[15Feb2025 02:40:35.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Summoned new entity.crusty_chunks.fire_bomb_projectile]
+[15Feb2025 02:40:36.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Summoned new entity.crusty_chunks.fire_bomb_projectile]
+[15Feb2025 02:40:36.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Summoned new entity.crusty_chunks.fire_bomb_projectile]
+[15Feb2025 02:40:37.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Summoned new entity.crusty_chunks.fire_bomb_projectile]
+[15Feb2025 02:40:38.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Summoned new entity.crusty_chunks.fire_bomb_projectile]
+[15Feb2025 02:40:38.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Summoned new entity.crusty_chunks.fire_bomb_projectile]
