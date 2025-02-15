@@ -1141,5 +1141,23 @@
     },
     "done": true
   },
+  "crusty_chunks:steel": {
+    "criteria": {
+      "steel_0": "2025-02-15 03:01:39 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/steel_sliding_breechblock": {
+    "criteria": {
+      "has_steel_ingot": "2025-02-15 03:01:39 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/steel_screw_lock": {
+    "criteria": {
+      "has_steel_ingot": "2025-02-15 03:01:39 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
