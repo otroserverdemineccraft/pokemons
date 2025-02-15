@@ -1998,3 +1998,133 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Feb2025 03:10:45.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Unbanned IP 127.143.177.98]
 [15Feb2025 03:10:52.867] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bascap[/127.143.177.98:32785] logged in with entity id 95345 at (-3313.5619972659524, -57.250390874240075, -1036.9927558384818)
 [15Feb2025 03:10:52.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap joined the game
+[15Feb2025 03:11:18.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Applied effect Impending Doom to Warrior_Legend]
+[15Feb2025 03:11:32.065] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ly4Nx_[/127.106.22.213:52371] logged in with entity id 95419 at (-2661.121564646451, -15.195194708221477, -1392.311658659095)
+[15Feb2025 03:11:32.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ joined the game
+[15Feb2025 03:11:38.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Summoned new Flak Autocannon Round]
+[15Feb2025 03:11:41.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Summoned new Flak Autocannon Round]
+[15Feb2025 03:11:50.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Summoned new Mortar Stone]
+[15Feb2025 03:11:55.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Banned Por: jugar con lyan]
+[15Feb2025 03:12:01.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Summoned new Traffic Cone]
+[15Feb2025 03:12:04.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Teleported Ly4Nx_ to LIGS_458]
+[15Feb2025 03:12:09.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Summoned new Cannon Carriage]
+[15Feb2025 03:12:26.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Summoned new Flak Burst]
+[15Feb2025 03:12:35.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Summoned new Shrapnel Burst]
+[15Feb2025 03:12:42.263] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Exception loading entity: 
+net.minecraft.ReportedException: Loading entity NBT
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1765) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.world.entity.EntityType.m_185988_(EntityType.java:532) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.Util.m_137521_(Util.java:419) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.world.entity.EntityType.m_20642_(EntityType.java:529) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.world.entity.EntityType.m_20669_(EntityType.java:607) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.world.entity.EntityType.m_20645_(EntityType.java:563) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.server.commands.SummonCommand.m_269066_(SummonCommand.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.server.commands.SummonCommand.m_245828_(SummonCommand.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.server.commands.SummonCommand.m_244863_(SummonCommand.java:44) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264) ~[brigadier-1.1.8.jar%2376!/:?]
+	at net.minecraft.commands.Commands.m_242674_(Commands.java:257) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_246958_(ServerGamePacketListenerImpl.java:1244) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_244885_(ServerGamePacketListenerImpl.java:1221) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "com.simibubi.create.content.contraptions.Contraption.readNBT(net.minecraft.world.level.Level, net.minecraft.nbt.CompoundTag, boolean)" because "contraption" is null
+	at com.simibubi.create.content.contraptions.Contraption.fromNBT(Contraption.java:220) ~[create-1.20.1-0.5.1.j.jar%23128!/:0.5.1.j]
+	at com.simibubi.create.content.contraptions.AbstractContraptionEntity.readAdditional(AbstractContraptionEntity.java:654) ~[create-1.20.1-0.5.1.j.jar%23128!/:0.5.1.j]
+	at com.simibubi.create.content.contraptions.OrientedContraptionEntity.readAdditional(OrientedContraptionEntity.java:156) ~[create-1.20.1-0.5.1.j.jar%23128!/:0.5.1.j]
+	at rbasamoyai.createbigcannons.cannon_control.contraption.PitchOrientedContraptionEntity.readAdditional(PitchOrientedContraptionEntity.java:56) ~[createbigcannons-5.6.0tt1-dev+mc.1.20.1-forge.jar%23132!/:?]
+	at com.simibubi.create.content.contraptions.AbstractContraptionEntity.m_7378_(AbstractContraptionEntity.java:646) ~[create-1.20.1-0.5.1.j.jar%23128!/:0.5.1.j]
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1750) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	... 27 more
+[15Feb2025 03:12:53.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set LIGS_458's game mode to Survival Mode]
+[15Feb2025 03:12:53.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Survival Mode]
+[15Feb2025 03:12:53.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set Bascap's game mode to Survival Mode]
+[15Feb2025 03:12:53.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set Ly4Nx_'s game mode to Survival Mode]
+[15Feb2025 03:12:54.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap died
+[15Feb2025 03:12:54.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> pq quise
+[15Feb2025 03:12:57.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
+[15Feb2025 03:12:58.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 fell out of the world
+[15Feb2025 03:12:59.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by Warrior_Legend
+[15Feb2025 03:13:04.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to Warrior_Legend]
+[15Feb2025 03:13:08.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was killed
+[15Feb2025 03:13:08.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Killed Warrior_Legend]
+[15Feb2025 03:13:13.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Summoned new Decimator]
+[15Feb2025 03:13:14.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set own game mode to Creative Mode]
+[15Feb2025 03:13:19.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap fell out of the world
+[15Feb2025 03:13:32.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported Bascap to LIGS_458]
+[15Feb2025 03:13:35.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported 4 entities to LIGS_458]
+[15Feb2025 03:13:39.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Creative Mode]
+[15Feb2025 03:13:44.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set LIGS_458's game mode to Survival Mode]
+[15Feb2025 03:13:44.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set Ly4Nx_'s game mode to Survival Mode]
+[15Feb2025 03:13:44.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set Bascap's game mode to Survival Mode]
+[15Feb2025 03:13:46.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
+[15Feb2025 03:13:49.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
+[15Feb2025 03:13:49.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 fell out of the world
+[15Feb2025 03:13:49.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ fell out of the world
+[15Feb2025 03:13:50.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set own game mode to Creative Mode]
+[15Feb2025 03:13:50.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported Bascap to LIGS_458]
+[15Feb2025 03:13:51.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported Bascap to LIGS_458]
+[15Feb2025 03:13:52.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported Bascap to LIGS_458]
+[15Feb2025 03:13:55.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to Warrior_Legend]
+[15Feb2025 03:13:57.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported Bascap to LIGS_458]
+[15Feb2025 03:14:00.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Teleported Ly4Nx_ to Warrior_Legend]
+[15Feb2025 03:14:02.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Warrior_Legend
+[15Feb2025 03:14:05.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported Bascap to LIGS_458]
+[15Feb2025 03:14:12.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Summoned new Decimator]
+[15Feb2025 03:14:14.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap was shot by Decimator
+[15Feb2025 03:14:16.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend died
+[15Feb2025 03:14:19.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Teleported Bascap to LIGS_458]
+[15Feb2025 03:14:21.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Banned Bascap: Banned by an operator.]
+[15Feb2025 03:14:21.808] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bascap lost connection: You are banned from this server
+[15Feb2025 03:14:21.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap left the game
+[15Feb2025 03:14:26.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Spectator Mode]
+[15Feb2025 03:14:31.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Teleported Warrior_Legend to LIGS_458]
+[15Feb2025 03:14:36.458] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@661bbbcb[id=d84d2f8b-4bbd-329e-953b-3960c4e6634a,name=Bascap,properties={},legacy=false] (/127.143.177.98:39587): You are banned from this server.
+Reason: Banned by an operator.
+[15Feb2025 03:14:36.459] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@661bbbcb[id=d84d2f8b-4bbd-329e-953b-3960c4e6634a,name=Bascap,properties={},legacy=false] (/127.143.177.98:39587) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[15Feb2025 03:14:36.507] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Feb2025 03:14:39.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Creative Mode]
+[15Feb2025 03:14:40.310] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@b76ac53[id=<null>,name=Bascap,properties={},legacy=false] (/127.143.177.98:60429) lost connection: Disconnected
+[15Feb2025 03:14:41.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: The difficulty has been set to Peaceful]
+[15Feb2025 03:14:47.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Unbanned Bascap]
+[15Feb2025 03:14:49.709] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bascap[/127.143.177.98:36043] logged in with entity id 97663 at (-5331.085473482824, -59.504799122994086, -1582.7452353798917)
+[15Feb2025 03:14:49.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bascap joined the game
+[15Feb2025 03:15:02.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bascap: Set own game mode to Creative Mode]
+[15Feb2025 03:15:08.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ fell out of the world
+[15Feb2025 03:15:17.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Teleported Ly4Nx_ to Warrior_Legend]
+[15Feb2025 03:15:51.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Survival Mode]
+[15Feb2025 03:16:00.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend fell out of the world
+[15Feb2025 03:16:07.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Teleported Warrior_Legend to LIGS_458]
+[15Feb2025 03:16:12.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Creative Mode]
+[15Feb2025 03:16:39.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Survival Mode]
+[15Feb2025 03:16:50.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Creative Mode]
+[15Feb2025 03:17:08.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Applied enchantment Protection IV to LIGS_458's item]
+[15Feb2025 03:17:10.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Applied enchantment Protection IV to LIGS_458's item]
+[15Feb2025 03:17:12.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Applied enchantment Protection IV to LIGS_458's item]
+[15Feb2025 03:17:13.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Applied enchantment Protection IV to LIGS_458's item]
+[15Feb2025 03:17:43.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Applied enchantment Unbreaking III to LIGS_458's item]
+[15Feb2025 03:17:47.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Applied enchantment Unbreaking III to LIGS_458's item]
+[15Feb2025 03:17:50.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Applied enchantment Unbreaking III to LIGS_458's item]
+[15Feb2025 03:17:52.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Applied enchantment Unbreaking III to LIGS_458's item]
+[15Feb2025 03:17:52.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ has made the advancement [Enchanter]
+[15Feb2025 03:17:58.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Applied enchantment Mending to LIGS_458's item]
+[15Feb2025 03:18:01.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Applied enchantment Mending to LIGS_458's item]
+[15Feb2025 03:18:03.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Applied enchantment Mending to LIGS_458's item]
+[15Feb2025 03:18:04.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Applied enchantment Mending to LIGS_458's item]
+[15Feb2025 03:18:42.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> bue
+[15Feb2025 03:18:56.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> llora
+[15Feb2025 03:20:01.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Survival Mode]
+[15Feb2025 03:20:16.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Warrior_Legend: Set own game mode to Creative Mode]

@@ -14,5 +14,13 @@
     "source": "Bascap",
     "expires": "forever",
     "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "7f364640-961c-49db-8901-a3db0d20fbe0",
+    "name": "Por",
+    "created": "2025-02-15 03:11:55 +0000",
+    "source": "Warrior_Legend",
+    "expires": "forever",
+    "reason": "jugar con lyan"
   }
 ]
