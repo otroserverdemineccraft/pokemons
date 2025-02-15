@@ -2150,3 +2150,43 @@ Reason: Banned by an operator.
 [15Feb2025 03:29:49.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Warrior_Legend> digo 4
 [15Feb2025 03:30:00.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Warrior_Legend> de la unica q me matas te
 [15Feb2025 03:31:03.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ fell out of the world
+[15Feb2025 03:31:33.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
+[15Feb2025 03:31:36.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Warrior_Legend> gg ez
+[15Feb2025 03:32:16.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Warrior_Legend> adios cama
+[15Feb2025 03:32:25.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Warrior_Legend> ya te ka destrui
+[15Feb2025 03:32:56.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Warrior_Legend> todas
+[15Feb2025 03:32:59.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Warrior_Legend> no murio
+[15Feb2025 03:33:02.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Warrior_Legend> novi
+[15Feb2025 03:34:00.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ has made the advancement [A Seedy Place]
+[15Feb2025 03:35:02.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend was shot by LIGS_458
+[15Feb2025 03:35:35.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ was shot by LIGS_458
+[15Feb2025 03:35:44.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ly4Nx_: Set own game mode to Creative Mode]
+[15Feb2025 03:35:59.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
+[15Feb2025 03:36:00.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> nah
+[15Feb2025 03:36:09.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Survival Mode]
+[15Feb2025 03:38:20.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 fell out of the world
+[15Feb2025 03:38:27.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to Warrior_Legend]
+[15Feb2025 03:38:30.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LIGS_458 was shot by Warrior_Legend
+[15Feb2025 03:38:36.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Teleported LIGS_458 to Warrior_Legend]
+[15Feb2025 03:38:40.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LIGS_458: Set own game mode to Creative Mode]
+[15Feb2025 03:39:04.008] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/95319, l='ServerLevel[Mundo nuevo]', x=-5372.45, y=-61.00, z=-1574.67] died, message: 'Farmer was blown up by Ly4Nx_'
+[15Feb2025 03:39:05.707] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/95321, l='ServerLevel[Mundo nuevo]', x=-5381.00, y=-59.46, z=-1577.28] died, message: 'Mason was blown up by Ly4Nx_'
+[15Feb2025 03:39:11.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ly4Nx_> CHAO
+[15Feb2025 03:39:15.306] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warrior_Legend lost connection: Disconnected
+[15Feb2025 03:39:15.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Warrior_Legend left the game
+[15Feb2025 03:39:16.555] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ly4Nx_ lost connection: Disconnected
+[15Feb2025 03:39:16.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ly4Nx_ left the game
+[15Feb2025 03:40:59.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[15Feb2025 03:40:59.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[15Feb2025 03:40:59.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[15Feb2025 03:40:59.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[15Feb2025 03:40:59.824] [Physics thread/INFO] [Burger Factory/]: Deleting VSPhysicsPipelineStage resources!
+[15Feb2025 03:40:59.825] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ap/]: Physics pipeline ending
+[15Feb2025 03:40:59.848] [DefaultDispatcher-worker-4/INFO] [Burger Factory/]: VSPhysicsPipelineStage is fully deleted!
+[15Feb2025 03:41:00.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/minecraft:overworld
+[15Feb2025 03:41:02.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/minecraft:the_nether
+[15Feb2025 03:41:02.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/minecraft:the_end
+[15Feb2025 03:41:02.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15Feb2025 03:41:02.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15Feb2025 03:41:02.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15Feb2025 03:41:02.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
